@@ -1,80 +1,39 @@
-import com.opencsv.CSVReader;
-import model.Categories;
-import model.SubCategory;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import model.Product;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Reader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
+public class ConvertJavaToJson {
+    public static void convert(List<Product> productList) {
+        ObjectMapper mapper = new ObjectMapper();
 
-public class DescToCodeConverter {
-    public static Map<String, Categories> catSubCatMap = new HashMap<String, Categories>() ;
-
-
-    private static final String CATEGORIES = "D:/projects/grocerspod-data-conversion/src/main/resources/categories.txt";
-    private static final String SUB_CATEGORIES = "D:/projects/grocerspod-data-conversion/src/main/resources/subcategories.txt";
-
-    private static final String PRODUCTS_JSON_FILE = "D:/projects/csv-to-json/src/main/resources/products.csv";
-
-    public static void main(String[] args) throws IOException {
-
-
-        buildCatSubCat(PRODUCTS_JSON_FILE);
-//        convert(SUB_CATEGORIES);
-
-
-
-    }
-
-    private static void buildCatSubCat(String fileName) throws IOException {
-        System.out.println("------------------------");
-        try (
-                Reader reader = Files.newBufferedReader(Paths.get(fileName));
-                CSVReader csvReader = new CSVReader(reader);
-             ) {
-            // Reading Records One by One in a String array
-            String[] row;
-            while ((row = csvReader.readNext()) != null) {
-
-                    if(catSubCatMap.containsKey(row[0])){
-                        Categories categories = catSubCatMap.get(row[0]);
-                        boolean foundSubCat=false;
-                      for(SubCategory subCategory : categories.getSubCategories()){
-
-                             if(subCategory.getCode().equalsIgnoreCase(row[1])){
-                                 categories.getSubCategories().add(new SubCategory(row[1],row[1]));
-                                 catSubCatMap.put(row[0],categories);
-                                 foundSubCat=true;
-                                 break;
-                             }
-                         }
-
-                }else{
-                        Categories categories = new Categories(row[0], row[0]);
-                        categories.getSubCategories().add(new SubCategory(row[1], row[1]));
-                        catSubCatMap.put(row[0], categories);
-
-                    }
-            }
-
-            System.out.println(" testing");
-            System.out.println("CAT - SUB CAT : "+ catSubCatMap.values().toString());
+        try {
+            mapper.writeValue(new File("D:/projects/csv-to-json/src/main/resources/products_1k_recs.json"), productList);
+            String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(productList);
+            System.out.println(jsonString);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 
-    private static String convertDescToCode(String line) {
-        String output = line.substring(0, 1).toLowerCase() + line.substring(1);
-         output = output.replaceAll(" ", "");//.replaceAll(",", "_").replaceAll("&", "_");
-        output = output.replaceAll(",", "_");
-        output = output.replaceAll("&", "_");
-        System.out.println(line +"=>"+output);
-        return  output;
-    }
+    public static void convertUsingGson(List<Product> productList) {
 
+        Gson gson =  new GsonBuilder().setPrettyPrinting().create();
+
+        String jsonString = gson.toJson(productList);
+
+        try (FileWriter writer = new FileWriter("D:/projects/csv-to-json/src/main/resources/products_1k.json")) {
+            gson.toJson(productList, writer);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+//        System.out.println(jsonString);
+    }
 
 }

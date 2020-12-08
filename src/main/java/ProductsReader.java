@@ -16,7 +16,7 @@ public class ProductsReader {
     List<Product> productList = new ArrayList<>();
 
 
-    private static final String SAMPLE_CSV_FILE_PATH = "D:/projects/csv-to-json/src/main/resources/products.csv";
+    private static final String SAMPLE_CSV_FILE_PATH = "D:/projects/csv-to-json/src/main/resources/products_1k-recs.csv";
 
     private static  Map<String, String> categoriesMap = new HashMap<String, String>();
     private static  Map<String, String> subCategoriesMap = new HashMap<String, String>();
@@ -88,7 +88,7 @@ public class ProductsReader {
                     }
 
                     // if 3 found then its duplicate
-                    if( (catFound && subCatFound && brandFound) && (!size.equalsIgnoreCase(p.getSize()))){
+                    if( (catFound && subCatFound && brandFound) && (!size.equalsIgnoreCase(p.getWeight()))){
                         System.out.println(productName + " -> "+ (productId+1));
                         productMap.put((productName+" : "+size + " "+weightType),getProductData(row,new Product(), PRODUCT_WEIGHT_NAME));
 
@@ -116,7 +116,6 @@ public class ProductsReader {
             System.out.println("---Unique : "+ productMap.size());
             System.out.println("---Duplicates : "+ duplicateProductMap.size());
         }
-
         // write to json file
           ConvertJavaToJson.convertUsingGson(new ArrayList(productMap.values()));
 
@@ -146,13 +145,12 @@ public class ProductsReader {
         p.setType(new Type(row[2],row[2]));
         p.getBrands().add(new Brand(brand,brand));
         p.setWeightType(weightType);
-
         p.setDesc(row[5]);
         p.setPrice(new Price(Double.parseDouble(row[6]),Double.parseDouble(row[6])));
         p.setTax(Double.parseDouble(row[7]));
         p.setImageName(row[8]);
         p.setStore(row[9]);
-        p.setSize(row[10]);
+        p.setWeight(row[10]);
         p.setSpiceLevel(row[12]);
         p.setAiselNo(row[13]);
         p.setActive(true);

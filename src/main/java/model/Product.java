@@ -12,7 +12,7 @@ public class Product {
     private List<Brand> brands = new ArrayList<Brand>();
     private Price price;
     private Type type;
-    private String size;
+    private String weight;
     private double tax;
     private String spiceLevel;
     private String aiselNo;
@@ -89,12 +89,12 @@ public class Product {
         this.type = type;
     }
 
-    public String getSize() {
-        return size;
+    public String getWeight() {
+        return weight;
     }
 
-    public void setSize(String size) {
-        this.size = size;
+    public void setWeight(String weight) {
+        this.weight = weight;
     }
 
     public double getTax() {
@@ -190,7 +190,7 @@ public class Product {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
-        return size == product.size &&
+        return weight == product.weight &&
                 Double.compare(product.tax, tax) == 0 &&
                 aiselNo == product.aiselNo &&
                 isActive == product.isActive &&
@@ -214,7 +214,7 @@ public class Product {
 
     @Override
     public int hashCode() {
-        int result = Objects.hash(id, code, desc, categories, subCategories, brands, price, type, size, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isActive);
+        int result = Objects.hash(id, code, desc, categories, subCategories, brands, price, type, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isActive);
         result = 31 * result + Arrays.hashCode(imageUris);
         return result;
     }
