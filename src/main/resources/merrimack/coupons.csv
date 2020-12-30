@@ -1,0 +1,259 @@
+"couponid","title","type","couponcode","user_id","is_couponcode_required","startdate","enddate","amounttype","amount","body","status","created_at","updated_at"
+"12","Memorial Day Specials","1","MD2020","0","1","2020-05-22","2020-05-25","p","10",NULL,"0","2020-05-22 11:33:31","2020-05-26 13:20:45"
+"13","REFUND","1","RAMYA15","74","1","2020-05-24","2020-12-24","f","3","This coupon is for particular customer. 
+Refund issued due to non-availability of the product.","1","2020-05-24 19:47:34","2020-05-24 19:47:34"
+"14","REFUND","1","KRISHNA19","70","1","2020-05-24","2020-12-24","f","8","This coupon is issued as refund due to non-availability of the product.","0","2020-05-24 19:49:59","2020-05-30 15:48:21"
+"15","REFUND","1","CHRIS24","82","1","2020-05-25","2020-12-31","f","8","Refund to the customer as products in their order # 24 were not found.","1","2020-05-25 21:15:47","2020-05-25 21:15:47"
+"16","REFUND","1","NAGA30","86","1","2020-05-28","2020-11-28","f","10","Due to unavailability of the product.","0","2020-05-28 21:19:44","2020-05-29 13:33:25"
+"17","VSinha","1","STAR","0","1","2020-06-03","2020-07-03","p","5",NULL,"1","2020-06-03 18:58:19","2020-06-03 18:58:19"
+"18","REFUND","1","ANMOL37","99","1","2020-06-04","2020-12-31","f","15","Refund for unfulfilled items.","1","2020-06-04 21:34:10","2020-06-04 21:34:10"
+"19","REFUND","1","AMITHA41","104","0","2020-06-04","2020-12-04","f","7","1) Refund due to unavailability of products.
+2) Refund due to spoilt Haldirams 4 Piece Aloo Parantha","1","2020-06-04 22:47:16","2020-06-06 23:43:46"
+"20","REFUND","1","VINAY67","136","1","2020-06-06","2020-12-06","f","14","Order 67	Desi Fresh Foods Desi Natural Dahi Whole Milk Yogurt	3.29	
+Order 67	Classico Light Creamy Alfredo Pasta Sauce (15 oz)	$3.09
+Order 67	Nescafe Nescafe Classic Pure Coffee                               $4.39
+Order 67	Vita Coco Pure Coconut Water	                                         $2.49
+	                                                                          Total	13.26	VINAY67","1","2020-06-06 21:51:43","2020-06-06 23:56:09"
+"21","REFUND","1","PURNA69","139","1","2020-06-06","2020-12-06","f","7","Due to non-availability of products.","1","2020-06-06 21:56:38","2020-06-06 21:56:38"
+"22","REFUND","1","ROHIT74","92","1","2020-06-06","2020-12-06","f","3","poha not available.","0","2020-06-06 21:59:07","2020-06-13 07:59:12"
+"23","REFUND","1","NIKHIL75","147","1","2020-06-06","2020-12-06","f","6",NULL,"1","2020-06-06 22:00:18","2020-06-06 22:00:18"
+"24","REFUND","1","SHAUN45","109","1","2020-06-06","2020-12-06","f","6",NULL,"0","2020-06-06 22:01:16","2020-06-21 15:33:35"
+"25","REFUND","1","PATRIC47","115","1","2020-06-06","2020-12-06","f","2","Deep Hot Green Chilli","1","2020-06-06 22:02:57","2020-06-06 22:02:57"
+"26","REFUND","1","AMIT54","122","1","2020-06-06","2020-12-06","f","3","Poha","0","2020-06-06 22:11:05","2020-06-09 19:06:12"
+"27","REFUND","1","SANDHIYA63","129","1","2020-06-06","2020-12-06","f","2","Everest Tikhalal Hot & Red Chili Powder","1","2020-06-06 22:12:32","2020-06-06 22:12:32"
+"28","REFUND","1","CAROLYN64","78","1","2020-06-06","2020-12-06","f","4","Dole Sliced Peaches","1","2020-06-06 22:13:34","2020-06-06 22:13:34"
+"29","REFUND","1","ABHISHEK70","138","1","2020-06-06","2020-12-06","f","3","Udupi Roasted Upma Rava (Adjustment)
+Rusk Adjustment
+Mint Chutney missing
+Maggi Masala Noodles missing","1","2020-06-06 22:31:59","2020-06-06 22:31:59"
+"30","REFUND","1","PARTH77","151","1","2020-06-07","2020-12-07","f","4","Laxmi Whole Moong (Mung Beans) (2 lbs)","1","2020-06-07 19:27:30","2020-06-07 19:27:30"
+"31","REFUND","1","ANKEETA79","120","1","2020-06-07","2020-12-07","f","8","Desi Fresh Foods Desi Natural Dahi Whole Milk Yogurt
+Swad Corn Flour Fine
+Swad Plain Boondi","0","2020-06-07 19:28:41","2020-07-10 12:38:47"
+"32","REFUND","1","JIGAR81","166","1","2020-06-07","2020-12-06","f","7","Swad Yellow Banana Chips","1","2020-06-07 19:29:49","2020-06-07 19:29:49"
+"33","REFUND","1","PRATIKSHA89","119","1","2020-06-09","2020-12-31","f","18","Unfulfilled Products:
+
+Britannia Milk Rusk Super Saver Pack	9.88
+Store Brand Methi	1.99
+Store Brand Green Mango	 3.99
+Swad Maida	 2.19","1","2020-06-09 01:12:44","2020-06-09 01:12:44"
+"34","REFUND","1","SWATHI93","182","1","2020-06-09","2020-12-31","f","17","Unfulfilled Products:
+
+Kissan Mixed Fruit	3.84
+Haldirams 30 Piece Multigrain Chapati	7.45
+Swad South Indian Mysore Murmura	5.48","1","2020-06-09 01:22:32","2020-06-09 01:22:32"
+"35","REFUND","1","DRISYA94","161","1","2020-06-09","2020-12-31","f","3","Unfulfilled Products:
+
+Anand Garlic Mixture	2.96","1","2020-06-09 01:26:27","2020-06-09 01:26:27"
+"36","REFUND","1","OMKAR97","181","1","2020-06-09","2020-12-31","f","5","Personal Watermelon 	4.51","0","2020-06-09 01:28:40","2020-07-05 12:57:39"
+"37","REFUND","1","ISHA101","113","1","2020-06-10","2020-12-31","f","6","Swad Kala Chana (Desi Chickpeas)	3.29
+Swad Poha Thin Medium 	2.52","1","2020-06-10 01:32:09","2020-06-10 01:32:09"
+"38","REFUND","1","CHRIS102","82","1","2020-06-10","2020-12-31","f","4","Turkey Hill Premium Ice Cream Chocolate Chip Cookie Dough	3.69","1","2020-06-10 01:33:29","2020-06-10 01:33:29"
+"39","REFUND","1","GURPREET103","186","1","2020-06-10","2020-12-31","f","2","Uttam Upahar Dhosa Instant Mix	1.53","1","2020-06-10 01:35:01","2020-06-10 01:35:01"
+"40","REFUND","1","NIKHIL166","88","1","2020-06-10","2020-12-31","f","12","Farmland Bacon	4.69
+Britannia Little Hearts	1.74
+Hormel Smoked Ham	1.59
+Deep Nankhatai Traditional Indian Cookies	3.62","1","2020-06-10 01:37:36","2020-06-10 01:37:36"
+"41","REFUND","1","JACK167","145","1","2020-06-10","2020-12-31","f","2","Deep Hot Green Chillies	1.86","0","2020-06-10 01:39:02","2020-06-25 21:49:27"
+"42","REFUND","1","SHRIKANT170","193","1","2020-06-10","2020-12-10","f","3","Mirch Masala Pani - Puri Chutney (7.7 oz)	2.19","1","2020-06-10 22:00:47","2020-06-10 23:37:51"
+"43","REFUND","1","VIDYA171","123","1","2020-06-10","2020-12-10","f","12","Serrano Peppers (1LBS)
+Jackfruit (2LBS)
+Satyavijay Garlic Paste ","0","2020-06-10 22:03:08","2020-06-26 22:17:43"
+"44","REFUND","1","AMBARIISH175","178","1","2020-06-10","2020-12-10","f","10","Deep Cabbage Chopped
+Deep Green Chillies
+Maggi Maggi Veg Atta Noodles (2)","0","2020-06-10 22:05:04","2020-07-02 08:57:14"
+"46","REFUND","1","JENISHA177","183","1","2020-06-10","2020-12-10","f","8","Satyavijay Garlic Paste
+Anand Boondi
+Anand Sev Thin","1","2020-06-10 22:08:16","2020-06-10 22:08:16"
+"47","REFUND","1","RAHI178","197","1","2020-06-10","2020-12-10","f","5","Goya Cocktail Passion Fruit
+Anand Sev Thin","1","2020-06-10 22:09:51","2020-06-10 22:09:51"
+"48","AKASH MARKETING","1","AKSH","0","1","2020-06-11","2020-07-11","f","2",NULL,"1","2020-06-11 12:52:15","2020-06-11 12:52:15"
+"49","REFUND","1","SNEHA59","124","1","2020-06-12","2020-12-31","f","17","Unfulfilled products worth $16.91","0","2020-06-12 02:05:36","2020-06-21 13:34:53"
+"50","REFUND","1","KARAN62","127","1","2020-06-12","2020-12-31","f","36","Unfulfilled products worth $36.45","0","2020-06-12 02:07:05","2020-06-21 12:09:30"
+"51","REFUND","1","ADITI179","200","1","2020-06-12","2020-12-31","f","4","Store Brand Okra	  1	3.29	3.29","1","2020-06-12 20:28:51","2020-06-12 20:28:51"
+"52","REFUND","1","APURV182","201","1","2020-06-12","2020-12-31","f","3","Haldirams 6 Piece Pudina Parantha	   1	 2.19	2.19","1","2020-06-12 20:29:48","2020-06-12 20:29:48"
+"53","REFUND","1","NISHANT183","189","1","2020-06-12","2020-12-31","f","5","Badshah Biryani Pulav Masala	  2	2.19	4.38","1","2020-06-12 20:31:05","2020-06-12 20:31:05"
+"54","REFUND","1","DEEPASHREE190","121","1","2020-06-13","2020-12-13","f","18","Anand Banana Chips
+Deep Jeera Khari Puffed Pastry
+Vijya Foods Chakali","0","2020-06-13 17:41:06","2020-07-02 21:38:53"
+"55","REFUND","1","KRISHNA193","70","1","2020-06-13","2020-12-13","f","5","Market Basket Everything Bagel Slims
+Store Brand Guvar ","0","2020-06-13 17:42:57","2020-06-20 14:32:25"
+"56","REFUND","1","NIKITA194","177","1","2020-06-13","2020-12-13","f","11","Jack Fruit
+Swad Bombay Bhel Puri Chutney
+Store Brand Guvar 
+Swad 5 Piece Plain Malaysian Parantha","0","2020-06-13 17:44:22","2020-06-26 18:50:56"
+"57","REFUND","1","PRATIK198","222","1","2020-06-13","2020-12-13","f","5","Surati Bhungra(3)","0","2020-06-13 17:48:32","2020-07-22 15:00:52"
+"58","Marketing","1","NIKI","0","1","2020-06-13","2020-07-13","p","5","NIKITA SAPLE","1","2020-06-13 20:51:17","2020-06-13 20:51:17"
+"59","REFUND","1","JANANI200","221","1","2020-06-14","2020-12-14","f","6","PRODUCT NAME	Quanitity
+Anand 12 Pieces Palappam	1
+Deep Hot Green Chillies	1
+Kurkure Kurkure Chili Chatka	2","1","2020-06-14 16:43:39","2020-06-14 16:43:39"
+"60","REFUND","1","RUTU201","225","1","2020-06-14","2020-12-14","f","5","PRODUCT NAME	Quanitity
+Haldirams 4 Piece Muli Parantha (4 Pieces)	1
+Haldirams 6 Piece Pudina Parantha	1","0","2020-06-14 16:48:38","2020-07-11 19:01:22"
+"61","REFUND","1","SHAR203","228","1","2020-06-14","2020-12-14","f","3","PRODUCT NAME	Quanitity
+Jumbo Red Globe Grapes	1","1","2020-06-14 16:54:04","2020-06-14 16:57:55"
+"62","DISCOUNT","1","SHRUTI5","218","1","2020-06-15","2020-07-15","p","5",NULL,"0","2020-06-15 09:26:31","2020-06-21 13:26:28"
+"63","REFUND","1","SAPT209","214","1","2020-06-15","2020-12-15","f","15","PRODUCT NAME	Quanitity
+Swad Cashew Pieces Packet 	1
+Parle Hide&Seek Fab Strawberry	1
+Deep Mustard Oil","0","2020-06-15 21:42:16","2020-06-19 16:52:06"
+"64","REFUND","1","POOJA211","180","1","2020-06-15","2020-12-15","f","49","PRODUCT NAME	Quanitity
+Kissan Mixed Fruit	1
+Swad Tamarind Concentrate	1
+Swad Sabudana	1
+Store Brand Okra	3
+Haldirams 6 Piece Pudina Parantha (6 Pieces)	1
+Maggi Maggi Veg Atta Noodles 	1
+Swad Masala Banana Chips (10 oz)	1
+Swad Masala Banana Chips (2 lbs)	1
+Swad Mini Bhakharvadi (10 oz)	1
+Swad Ajwain Powder (3.5 oz)	1
+Wagh Bakri Instant Masala Chai Unsweetened (4.94 oz)	1","1","2020-06-15 21:57:18","2020-06-15 21:57:18"
+"65","REFUND","1","SMRUTHI212","236","1","2020-06-15","2020-12-15","f","3","PRODUCT NAME	Quanitity
+Market Basket Organic Shredded Coconut (6 oz)	1","1","2020-06-15 22:14:10","2020-06-15 22:14:10"
+"66","REFUND","1","SWETHA215","238","1","2020-06-15","2020-06-15","f","21","PRODUCT NAME	Quanitity
+Kissan Mixed Fruit	1
+Swad Corn Flour Fine (2 lbs)	1
+Swad Sabudana	1
+Swad Poha Dagdi (2 lbs)	1
+Anand Sev Thin (14.08 oz)	1","1","2020-06-15 22:57:07","2020-06-15 22:57:07"
+"67","REFUND","1","PARAG217","242","1","2020-06-16","2020-12-16","f","7","Bansi Poha Thick	[2]	6.58","1","2020-06-16 21:09:40","2020-06-16 21:09:40"
+"68","REFUND","1","KINJAL223","240","1","2020-06-16","2020-12-16","f","9","Deep Green Chillies	[1]	$1.97
+Vijya Foods Chakali	[2]	$6.58","0","2020-06-16 21:11:34","2020-06-22 14:07:48"
+"69","REFUND","1","POOJA224","137","1","2020-06-16","2020-12-16","f","8","Haldirams 8 Piece Punjabi Samosa	[1]	$7.69","1","2020-06-16 21:13:00","2020-06-16 21:13:00"
+"70","REFUND","1","PRAJ229","140","1","2020-06-17","2020-12-17","f","7","Nirav Sona Masuri Rice	[1]	6.59","0","2020-06-17 19:54:38","2020-06-22 20:05:15"
+"71","REFUND","1","NIKHIL230","147","1","2020-06-17","2020-12-17","f","5","Udupi Mysore Murmura	[2] 5.48","1","2020-06-17 19:56:45","2020-06-17 19:56:45"
+"72","REFUND","1","CELESTE238","250","1","2020-06-17","2020-12-17","f","8","Goya Casero Refried Black Beans	[1]	1.89	
+Sahara Aromatic Kalijeera Rice	[1]	6.04","1","2020-06-17 20:04:06","2020-06-17 20:04:06"
+"73","REFUND","1","SANDHIYA239","251","1","2020-06-18","2020-12-18","f","3","Deep Kesar Mango Pulp  [1] 	2.99","1","2020-06-18 21:36:18","2020-06-18 21:36:18"
+"74","REFUND","1","MANOJ240","72","1","2020-06-18","2020-12-18","f","7","Satyavijay Tamarind Dates Chutney	[1]	1.64
+Deep Kesar Mango Pulp	[1]	2.99
+Deep Suran Dried Yams	[1]	2.29","1","2020-06-18 21:37:15","2020-06-19 19:03:28"
+"75","REFUND","1","KETAKI241","254","1","2020-06-18","2020-12-18","f","4","MDH  Pav Bhaji Masala	[1]	2.19","0","2020-06-18 21:37:58","2020-06-27 19:26:32"
+"76","Northeastern University Student Campaign June 2020","1","HUSKY5","0","1","2020-06-19","2020-06-30","p","5","This discount coupon is specially for Northeastern University students.","1","2020-06-19 10:56:15","2020-06-19 10:56:15"
+"77","REFUND","1","ABHI244","255","1","2020-06-19","2020-12-19","f","3","Deep Coriander Chutney	[1]	2.74","1","2020-06-19 19:51:48","2020-06-19 19:51:48"
+"78","REFUND","1","VIDYA250","123","1","2020-06-19","2020-12-19","f","8","Jackfruit	[1]	2.99
+Satyavijay Garlic Paste	[1]	2.19
+Udupi Mysore Murmura	[1]	2.74","1","2020-06-19 19:53:40","2020-06-19 19:53:40"
+"79","REFUND","1","SWAP256","263","1","2020-06-20","2020-12-20","f","5","Maggi Maggi Hong Kong	[1]	0.99
+Maggi Maggi Singaporean	[1]	0.99
+Maggi Maggi Veg Atta Noodles (4 cake pack)	[1] 3.39","1","2020-06-20 19:47:39","2020-06-20 19:47:39"
+"80","REFUND","1","Harsh261","267","1","2020-06-20","2020-12-20","f","7","Bombay Magic Vada-Pav Chutney (Dry Garlic) Masala	 [4] 	[6.56]","0","2020-06-20 20:01:01","2020-07-25 13:14:26"
+"81","REFUND","1","Krishna263","70","1","2020-06-20","2020-12-20","f","6","Hood Chocolate Lowfat Milk	[1]	1.69
+Maggi Maggi Masala Noodles	 [4]  3.96","0","2020-06-20 20:02:34","2020-06-27 13:39:41"
+"82","PROMOTION","1","RAGINI2020","0","1","2020-06-21","2020-07-20","f","6","Ragini appreciates its customers for support during COVID. Hence sending out a coupon for all Ragini's customers for 5.99 off on any/all orders placed between June 21 - July 20 , 2020.","1","2020-06-21 08:58:58","2020-06-21 13:46:29"
+"83","Bakery Week 1 Promotion","3","BAKERY10","0","1","2020-06-21","2020-06-28","p","10","New Catagory launch week 1 promotion.","0","2020-06-21 13:48:21","2020-06-23 15:41:58"
+"84","REFUND","1","VINAY26466","136","1","2020-06-21","2020-12-21","f","6","Pillsbury Softasilk Cake Flour	1	3.29	         3.29
+McCormick Ground Black Pepper	1	3.09	             3.09","1","2020-06-21 21:08:13","2020-06-21 21:08:13"
+"85","REFUND","1","ROHAN267","269","1","2020-06-21","2020-12-21","f","3","Haldirams 4 Piece Aloo Kulcha	1	3.29","1","2020-06-21 21:09:09","2020-06-21 21:09:09"
+"86","REFUND","1","KARAN274","127","1","2020-06-21","2020-12-21","f","1","Lays Lays Indian Magic Masala","1","2020-06-21 21:09:55","2020-06-21 21:09:55"
+"87","REFUND","1","HEMA277","274","1","2020-06-21","2020-12-21","f","3","Candy Clamshell Tomatoes","1","2020-06-21 21:10:38","2020-06-21 21:10:38"
+"88","REFUND","1","SHAUN282","109","1","2020-06-22","2020-12-22","f","4","Swad Green Cardamom 	1[]	4.39","0","2020-06-22 19:55:52","2020-06-29 12:22:30"
+"89","REFUND","1","KINJAL287","240","1","2020-06-22","2020-12-22","f","7","Swad Bombay Bhel Puri Chutney	[1]		2.74
+Barilla Sauces Traditional Basil Pesto	[1]	3.09","0","2020-06-22 19:58:57","2020-06-28 19:42:14"
+"90","REFUND","1","PRAJ289","140","1","2020-06-23","2020-12-23","f","3","Kurkure Kurkure Chili Chatka
+Pickling Cucumbers","0","2020-06-23 21:48:43","2020-06-27 19:02:46"
+"91","REFUND","1","SINJ290","286","1","2020-06-23","2020-06-23","f","3","Anand Spicy Mixture Hot","1","2020-06-23 21:49:30","2020-06-23 21:49:30"
+"92","REFUND","1","GURPREET295","186","1","2020-06-24","2020-12-24","f","4","Vadilal 6 Piece Veggie Burger Patty","0","2020-06-24 20:04:09","2020-06-30 17:44:35"
+"93","REFUND","1","ASTHA302","293","1","2020-06-24","2020-12-24","f","2","Wholly Guacamole Classic Guacamole Minis","0","2020-06-24 20:05:11","2020-07-16 14:39:26"
+"94","REFUND","1","RAJA309","111","1","2020-06-25","2020-12-25","f","8","Swad Phool Makhana Packet","1","2020-06-25 19:27:15","2020-06-25 19:27:15"
+"95","REFUND","1","SACHIN311","298","1","2020-06-25","2020-12-25","f","3","Maggi Maggi Hong Kong","1","2020-06-25 19:28:15","2020-06-25 19:28:15"
+"96","REFUND","1","JACK313","145","1","2020-06-26","2020-12-26","f","3","Market Basket Seedless Strawberry Jam","0","2020-06-26 20:44:11","2020-07-17 20:22:24"
+"97","REFUND","1","OSHIN314","194","1","2020-06-26","2020-12-26","f","3","Vadilal Kalachana Red Bengal Gram","1","2020-06-26 20:45:06","2020-06-26 20:45:06"
+"98","PROMOTION","1","GP01","0","1","2020-06-26","2020-08-01","f","5","Printed Flyers","1","2020-06-26 21:10:26","2020-06-26 21:10:26"
+"99","PROMOTION","1","GP02","0","1","2020-06-26","2020-08-01","f","5","Printed","0","2020-06-26 21:11:18","2020-06-29 12:18:00"
+"100","PROMOTION","1","GP03","0","1","2020-06-26","2020-08-01","f","5",NULL,"0","2020-06-26 21:12:01","2020-06-28 19:40:40"
+"101","PROMOTION","1","GP04","0","1","2020-06-26","2020-08-01","f","5",NULL,"0","2020-06-26 21:12:50","2020-06-27 19:20:36"
+"102","PROMOTION","1","GP05","0","1","2020-06-26","2020-08-01","f","5",NULL,"1","2020-06-26 21:13:27","2020-06-26 21:13:27"
+"103","EMPLOYEE DISCOUNT","1","GPFRIENDS","0","1","2020-06-26","2020-12-31","p","10","10 % EMPLOYEE DISCOUNT","1","2020-06-26 21:15:09","2020-06-26 21:15:09"
+"104","REFUND","1","ROHIT318","92","1","2020-06-27","2020-12-27","f","3","Serrano Peppers (Hot)","1","2020-06-27 19:09:41","2020-06-27 19:09:41"
+"105","REFUND","1","PRAJ328","140","1","2020-06-28","2020-12-28","f","2","Thai Egg Plant	[1]	1.99","0","2020-06-28 19:55:58","2020-07-07 20:12:43"
+"107","REFUND","1","AKSHAYNEELI176","112","1","2020-06-28","2020-12-31","f","40","Refund for unfulfilled and improperly fulfilled items","0","2020-06-29 20:14:03","2020-06-29 20:32:11"
+"108","REFUND","1","ANKIT332","311","1","2020-06-29","2020-12-29","f","4","Swad South Indian Mysore Murmura	1	2.74
+Britannia Good Day Chocolate Chunkies	1	1.64","0","2020-06-29 20:30:57","2020-07-11 02:00:46"
+"109","REFUND","1","NAINI333","76","1","2020-06-29","2020-12-29","f","7","Order 333:
+Udupi Mysore Murmura	1	2.74
+
+Order 550:
+Curry Leaves    1    3.99
+
+Total: $7","1","2020-06-29 20:32:49","2020-07-25 16:09:54"
+"110","REFUND","1","SHAUN336","109","1","2020-06-29","2020-12-29","f","9","Kumato Tomatoes	1	3.99
+Near East Toasted Almond Rice Pilaf	1	1.89
+Golden Beets 	1	3.49","0","2020-06-29 20:33:50","2020-07-13 20:59:29"
+"111","REFUND","1","AKHILA337","314","1","2020-06-29","2020-12-29","f","2","Bombay Magic Frankie Masala Kathi Roll Masala	1	1.64","1","2020-06-29 20:34:58","2020-06-29 20:36:11"
+"113","REFUND","1","SWETHA346","238","1","2020-06-30","2020-12-30","f","3","MTR Bisibile Bhath	1	2.52","1","2020-06-30 21:28:23","2020-06-30 21:28:23"
+"114","REFUND","1","SARA349","319","1","2020-07-01","2020-12-31","f","4","Vadilal Badam Milk Drink Butterscotch	1	1.97
+Maggi Maggi Bangkok	1	0.99
+Maggi Maggi Singaporean	1	0.99","0","2020-07-01 21:32:31","2020-07-16 02:03:45"
+"115","REFUND","1","ANU359","329","1","2020-07-02","2020-12-31","f","9","Aachi Bajji Bonda Flour Mix	[1]	1.64
+Swad Green Cardamom 	[1]	4.39
+Banana Flowers	[1]	2.99","1","2020-07-02 20:03:04","2020-07-02 20:03:04"
+"116","REFUND","1","DEEPA370","121","1","2020-07-03","2020-12-31","f","3","Garlic (1 bag contains 5 Garlic bulbs) (1 bag) 
+Brand: MB
+Laxmi Dabeli Masala (3.5 oz) 
+Brand: Laxmi","0","2020-07-03 19:04:44","2020-07-20 14:32:43"
+"117","REFUND","1","SURJIT371","316","1","2020-07-03","2020-12-31","f","3","Swad Sabudana 2lbs","1","2020-07-03 20:22:19","2020-07-03 20:22:19"
+"118","REFUND","1","KRISHNA374","70","1","2020-07-03","2020-12-31","f","7","HALDIRAM 30 PIECE PHULKA ROTI","0","2020-07-03 20:25:34","2020-07-11 22:44:35"
+"119","REFUND","1","NIDHI375","333","1","2020-07-04","2020-12-31","f","9","Swad Chaat Wala Pani Puri Kit	1	4.39
+Lays Lays Indian Magic Masala	1	1.49","1","2020-07-04 18:29:32","2020-07-04 19:47:05"
+"120","REFUND","1","SUKRUTHA377","325","1","2020-07-04","2020-12-31","f","3","Market Basket Heavy Cream	1	3.09","1","2020-07-04 18:30:40","2020-07-04 18:30:40"
+"121","REFUND","1","ANMOL378","99","1","2020-07-04","2020-12-31","f","4","Hood Heavy Cream	1	3.59","0","2020-07-04 18:32:13","2020-07-04 20:03:40"
+"122","REFUND","1","RAVEENA385","248","1","2020-07-05","2020-12-31","f","8","Swad Sabudana","1","2020-07-05 22:09:10","2020-07-05 22:09:10"
+"123","REFUND","1","ALISHA387","349","1","2020-07-05","2020-12-31","f","2","Ataulfo Mangoes","1","2020-07-05 22:10:35","2020-07-05 22:10:35"
+"124","REFUND","1","OMKAR388","181","1","2020-07-05","2020-12-31","f","5","Brownberry/Arnold/Oroweat Whole Grains Double Protein Bread","0","2020-07-05 22:11:31","2020-07-13 13:05:44"
+"125","REFUND","1","RANJINI389","351","1","2020-07-05","2020-12-31","f","7","Cadbury  Bourn Vita","1","2020-07-05 22:12:28","2020-07-05 22:12:28"
+"126","REFUND","1","SUNIL390","352","1","2020-07-05","2020-12-31","f","5","Gardein The Ultimate Beefless Ground","1","2020-07-05 22:13:25","2020-07-05 22:13:25"
+"127","REFUND","1","NIKITA402","177","1","2020-07-06","2020-12-31","f","7","Swad Mini Bhakharvadi
+Magnum Ice Cream Bars White","0","2020-07-06 22:10:38","2020-07-19 22:23:37"
+"128","REFUND","1","AKANKSHA405","358","1","2020-07-06","2020-12-31","f","5","Mirch Masala Pani - Puri Chutney","1","2020-07-06 22:11:30","2020-07-06 22:11:30"
+"129","REFUND","1","NAM355","324","1","2020-07-07","2020-12-31","f","7","Vadilal Badam Milk Drink Butterscotch	2	1.97    	3.94
+Udupi Roasted Upma Rava	1	2.74      	2.74","1","2020-07-07 15:55:18","2020-07-07 15:55:18"
+"130","REFUND","1","SHREYA410","359","1","2020-07-07","2020-12-31","f","4","Organic Broccoli Florets	1	4.49	4.49","0","2020-07-08 09:33:00","2020-07-23 20:02:29"
+"131","REFUND","1","KAVYA413","0","1","2020-07-08","2020-12-31","f","4","Anand 9 Pieces Idiyappam White	1	3.84","1","2020-07-08 09:33:42","2020-07-08 09:33:42"
+"132","REFUND","1","SHAR425","360","1","2020-07-08","2020-12-31","f","5","Vadilal 20 Piece Lilva Kachori	1	4.94","0","2020-07-08 20:51:48","2020-07-25 02:41:57"
+"133","REFUND","1","RAJA426","0","1","2020-07-08","2020-12-31","f","6","Japnese Eggplant 	2	2.99	    5.98","1","2020-07-08 20:52:32","2020-07-08 20:52:32"
+"134","REFUND","1","NIVE436","366","1","2020-07-09","2020-12-31","f","1","Lays Lays Indian Magic Masala	1	1.49","1","2020-07-09 21:19:42","2020-07-10 10:37:42"
+"135","REFUND","1","MEDHA442","369","1","2020-07-10","2020-12-31","f","7","Parliament Parliament Sanjeevani Organic Brown Basmati Rice	1	6.04","0","2020-07-10 22:11:10","2020-07-22 22:20:07"
+"136","REFUND","1","NIKITA444","177","1","2020-07-10","2020-12-31","f","8","Laxmi Ginger Garlic Paste	1	7.99","1","2020-07-10 22:12:27","2020-07-10 22:12:27"
+"137","REFUND","1","TEJAS438","336","1","2020-07-11","2020-12-31","f","4","Swad bana chips 2LB packet replced with Swad banana chips 10oz packet","1","2020-07-11 20:17:01","2020-07-11 20:17:01"
+"138","REFUND","1","ANKEETA446","120","1","2020-07-11","2020-12-31","f","3","Red Onions	1 LB	1.49	1.49
+Britannia Little Hearts	1	0.87	0.87","1","2020-07-11 20:19:36","2020-07-11 20:20:45"
+"139","REFUND","1","JANANI472","221","1","2020-07-13","2020-12-31","f","3","Market Basket Chicken Thighs Skin On	1	3.38","1","2020-07-13 22:18:04","2020-07-13 22:18:04"
+"140","REFUND","1","DHAIRYA478","382","1","2020-07-13","2020-12-31","f","5","Swad Bombay Mix	1	2.74
+Talod Farali Dhokla Mix Flour	1	2.19","1","2020-07-13 22:18:51","2020-07-13 22:18:51"
+"141","REFUND","1","OMKAR487","181","1","2020-07-13","2020-12-31","f","8","Anand Boondi Masala
+Brownberry/Arnold/Oroweat Whole Grains Double Protein Bread","0","2020-07-13 22:20:07","2020-07-23 12:58:16"
+"142","REFUND","1","KRISHNA457","70","1","2020-07-13","2020-12-31","f","3","Yellow Onion Bag","0","2020-07-13 22:21:10","2020-07-26 13:12:51"
+"143","REFUND","1","BHARGAVI491","387","1","2020-07-14","2020-12-31","f","2","Chayote	2	1.98","1","2020-07-14 21:42:29","2020-07-14 21:42:29"
+"144","REFUND","1","ROHIT497","92","1","2020-07-14","2020-12-31","f","2","Market Basket Leaf Spinach	2	1.98","1","2020-07-14 21:43:41","2020-07-14 21:43:41"
+"145","REFUND","1","SHAR499","228","1","2020-07-14","2020-12-31","f","5","Organic Wrapped Green Peppers	2 4.98","1","2020-07-14 21:44:59","2020-07-14 21:44:59"
+"146","REFUND","1","VINAY505","136","1","2020-07-15","2020-12-31","f","2","Lipton Green Tea Bags Purple Acai Blueberry	1	1.89","1","2020-07-16 21:28:27","2020-07-16 21:28:27"
+"147","REFUND","1","MANJU503","391","1","2020-07-17","2020-12-31","f","6","Sujata Sujata Chakki Atta	1	9.99	-9.99
+Sujata Sujata Chakki Atta	1	15.99	15.99","1","2020-07-17 09:11:34","2020-07-17 09:11:34"
+"148","REFUND","1","KUSHAL513","396","1","2020-07-16","2020-12-31","f","3","Deep 2 Pack Cheese And Stuffed Naan	1	2.74","1","2020-07-17 13:38:57","2020-07-17 13:38:57"
+"149","REFUND","1","OSH426","194","1","2020-07-16","2020-12-31","f","9","Everest Jaljira Masala
+Tide PODS Liquid Laundry Detergent Pacs, Spring Meadow","1","2020-07-17 13:39:39","2020-07-17 13:39:39"
+"150","REFUND","1","ASTHA530","293","1","2020-07-16","2020-12-31","f","3","Okra	1	2.99","1","2020-07-17 13:40:15","2020-07-17 13:40:15"
+"151","REFUND","1","AMRUTA537","338","1","2020-07-17","2020-12-31","f","8","Swad Samosa Chutney
+Anand Garlic Mixture
+Satyavijay Garlic Paste","1","2020-07-18 18:31:01","2020-07-18 18:31:01"
+"152","REFUND","1","JERICA539","402","1","2020-07-17","2020-12-31","f","3","Udupi Ragi Flour","1","2020-07-18 18:31:32","2020-07-18 18:31:32"
+"153","REFUND","1","JAG551","412","1","2020-07-19","2020-12-31","f","6","Green Plain Banana	1	0.99
+Brownberry/Arnold/Oroweat Whole Grains Sandwich Rolls 100% Whole Wheat   8 CT	1	5.19","1","2020-07-21 17:04:46","2020-07-21 17:04:46"
+"154","REFUND","1","SUKRUTHA552","325","1","2020-07-19","2020-12-31","f","9","Swad Green Cardamom 	1	4.39
+Swad Jumbo Peanuts Packet	1	4.39","1","2020-07-21 17:05:57","2020-07-21 17:05:57"
+"155","REFUND","1","SHIVANI567","187","1","2020-07-20","2020-12-31","f","2","Shan Chicken 65 Masala	1	2.19","0","2020-07-21 17:08:31","2020-07-27 13:08:58"
+"156","REFUND","1","NIKITA569","177","1","2020-07-20","2020-12-31","f","2","Shan Chicken 65 Masala	1	2.19","1","2020-07-21 17:10:26","2020-07-21 17:10:26"
+"157","REFUND","1","NAVNEETH577","424","1","2020-07-20","2020-12-31","f","1","Lays Lays Indian Magic Masala	1	1.49","1","2020-07-21 17:10:41","2020-07-21 17:10:41"
+"158","REFUND","1","NIDHI578","425","1","2020-07-20","2020-12-31","f","9","Swad Roasted Upma Sooji	2	4.39	8.78","1","2020-07-21 17:10:56","2020-07-21 17:10:56"
+"159","REFUND","1","Komal548","411","1","2020-06-18","2020-12-31","f","7","MDH Amchur Powder	1	2.19
+Carolina Basmati Rice	1	4.89","1","2020-07-21 17:13:10","2020-07-21 17:13:10"
+"160","REFUND","1","TEJAS585","353","1","2020-07-21","2020-12-31","f","3","Seedless European Cucumbers	2	2.98","1","2020-07-22 16:49:59","2020-07-22 16:49:59"
+"161","REFUND","1","SUNIL587","352","1","2020-07-21","2020-12-31","f","2","Organic Bunch Spinach","1","2020-07-22 16:51:32","2020-07-22 16:51:32"
+"162","REFUND","1","DIVYA589","427","1","2020-07-22","2020-12-31","f","3","MTR Kadhi Pakora","1","2020-07-23 12:54:13","2020-07-23 12:54:13"
+"163","Refund","1","PRAJAKTA417","140","1","2020-07-22","2020-12-23","f","5",NULL,"0","2020-07-23 14:28:53","2020-07-25 19:24:00"
+"164","test","1","TEST12345","0","1","2020-07-28","2020-08-16","f","1.12",NULL,"1","2020-07-28 01:48:14","2020-08-03 06:59:21"
+"165","Helloween","1","Helloween","0","1","2020-10-07","2020-10-08","p","5",NULL,"1","2020-10-07 10:35:55","2020-10-07 10:35:55"
+"166","Haloween","1","HALOWEEN","0","1","2020-10-29","2020-10-31","p","5",NULL,"1","2020-10-29 10:10:32","2020-10-29 10:11:32"

@@ -1,7 +1,37 @@
-Dorm Essentials
-Personal Care
-Fresh Produce
-Meat & Seafood
-Beverages, Chips & Snacks
-Cooking Needs
-Breakfast & Dairy
+[
+  {
+    "id": "1000",
+    "code": "Cooking Needs",
+    "desc": "cookingNeeds"
+  },
+  {
+    "id": "1001",
+    "code": "Breakfast & Dairy",
+    "desc": "breakfast_Dairy"
+  },
+  {
+    "id": "1002",
+    "code": "Personal Care",
+    "desc": "personalCare"
+  },
+  {
+    "id": "1003",
+    "code": "Meat & Seafood",
+    "desc": "meat_Seafood"
+  },
+  {
+    "id": "1004",
+    "code": "Beverages, Chips & Snacks",
+    "desc": "beverages_Chips_Snacks"
+  },
+  {
+    "id": "1005",
+    "code": "Dorm Essentials",
+    "desc": "dormEssentials"
+  },
+  {
+    "id": "1006",
+    "code": "Fresh Produce",
+    "desc": "freshProduce"
+  }
+]

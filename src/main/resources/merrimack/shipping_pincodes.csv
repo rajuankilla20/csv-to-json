@@ -1,0 +1,346 @@
+"sp_id","pincode","zone","city","state","delivery_in_message","delivery_date","rate_per_half_kg","guaranteed_delivery","guaranteed_delivery_timelines","gd_extra_chrg_per_half_kg","status","created_at","updated_at"
+"27184","01810","Essex","Andover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27185","01812","Essex","Andover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27186","01830","Essex","Haverhill","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27187","01831","Essex","Haverhill","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27188","01832","Essex","Haverhill","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27189","01833","Essex","Georgetown","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27190","01834","Essex","Groveland","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27191","01835","Essex","Haverhill","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27192","01840","Essex","Lawrence","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27193","01841","Essex","Lawrence","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27194","01842","Essex","Lawrence","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27195","01843","Essex","Lawrence","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27196","01844","Essex","Methuen","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27197","01845","Essex","North Andover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27198","01860","Essex","Merrimac","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27199","01885","Essex","West Boxford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27200","01899","Essex","Andover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27201","01901","Essex","Lynn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27202","01902","Essex","Lynn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27203","01903","Essex","Lynn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27204","01904","Essex","Lynn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27205","01905","Essex","Lynn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27206","01906","Essex","Saugus","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27207","01907","Essex","Swampscott","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27208","01908","Essex","Nahant","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27209","01910","Essex","Lynn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27210","01913","Essex","Amesbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27211","01915","Essex","Beverly","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27212","01921","Essex","Boxford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27213","01922","Essex","Byfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27214","01923","Essex","Danvers","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27215","01929","Essex","Essex","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27216","01930","Essex","Gloucester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27217","01931","Essex","Gloucester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27218","01936","Essex","Hamilton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27219","01937","Essex","Hathorne","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27220","01938","Essex","Ipswich","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27221","01940","Essex","Lynnfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27222","01944","Essex","Manchester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27223","01945","Essex","Marblehead","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27224","01949","Essex","Middleton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27225","01950","Essex","Newburyport","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27226","01951","Essex","Newbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27227","01952","Essex","Salisbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27228","01960","Essex","Peabody","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27229","01961","Essex","Peabody","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27230","01965","Essex","Prides Crossing","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27232","01969","Essex","Rowley","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27233","01970","Essex","Salem","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:50",NULL
+"27234","01971","Essex","Salem","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27235","01982","Essex","South Hamilton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27236","01983","Essex","Topsfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27237","01984","Essex","Wenham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27238","01985","Essex","West Newbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27239","05501","Essex","Andover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27240","05544","Essex","Andover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-02 14:42:51",NULL
+"27580","01432","Middlesex","Ayer","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27581","01434","Middlesex","Devens","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27582","01450","Middlesex","Groton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27583","01460","Middlesex","Littleton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27584","01464","Middlesex","Shirley","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27585","01470","Middlesex","Groton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27586","01471","Middlesex","Groton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27587","01472","Middlesex","West Groton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27588","01701","Middlesex","Framingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27589","01702","Middlesex","Framingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27590","01703","Middlesex","Framingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27591","01704","Middlesex","Framingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27592","01705","Middlesex","Framingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27593","01718","Middlesex","Acton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27594","01719","Middlesex","Boxborough","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27595","01720","Middlesex","Acton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27596","01721","Middlesex","Ashland","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27597","01730","Middlesex","Bedford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27598","01731","Middlesex","Hanscom Afb","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27599","01741","Middlesex","Carlisle","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27600","01742","Middlesex","Concord","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27601","01746","Middlesex","Holliston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27602","01748","Middlesex","Hopkinton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27603","01749","Middlesex","Hudson","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27604","01752","Middlesex","Marlborough","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27605","01754","Middlesex","Maynard","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27606","01760","Middlesex","Natick","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27607","01770","Middlesex","Sherborn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27608","01773","Middlesex","Lincoln","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27609","01775","Middlesex","Stow","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27610","01776","Middlesex","Sudbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27611","01778","Middlesex","Wayland","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27612","01784","Middlesex","Woodville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27613","01801","Middlesex","Woburn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27614","01803","Middlesex","Burlington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27615","01805","Middlesex","Burlington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27616","01813","Middlesex","Woburn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27617","01815","Middlesex","Woburn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27618","01821","Middlesex","Billerica","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27619","01822","Middlesex","Billerica","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27620","01824","Middlesex","Chelmsford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27621","01826","Middlesex","Dracut","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27622","01827","Middlesex","Dunstable","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27623","01850","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27624","01851","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27625","01852","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27626","01853","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27627","01854","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27628","01862","Middlesex","North Billerica","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27629","01863","Middlesex","North Chelmsford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27630","01864","Middlesex","North Reading","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27631","01865","Middlesex","Nutting Lake","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27632","01866","Middlesex","Pinehurst","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27633","01867","Middlesex","Reading","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27634","01876","Middlesex","Tewksbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27635","01879","Middlesex","Tyngsboro","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27636","01880","Middlesex","Wakefield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27637","01886","Middlesex","Westford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27638","01887","Middlesex","Wilmington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27639","01888","Middlesex","Woburn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27640","01889","Middlesex","North Reading","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27641","01890","Middlesex","Winchester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27642","02138","Middlesex","Cambridge","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27643","02139","Middlesex","Cambridge","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27644","02140","Middlesex","Cambridge","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27645","02141","Middlesex","Cambridge","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27646","02142","Middlesex","Cambridge","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27647","02143","Middlesex","Somerville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27648","02144","Middlesex","Somerville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27649","02145","Middlesex","Somerville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27650","02148","Middlesex","Malden","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27651","02149","Middlesex","Everett","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27652","02153","Middlesex","Medford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27653","02155","Middlesex","Medford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27654","02156","Middlesex","West Medford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27655","02176","Middlesex","Melrose","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27656","02180","Middlesex","Stoneham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27657","02238","Middlesex","Cambridge","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27658","02420","Middlesex","Lexington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27659","02421","Middlesex","Lexington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27660","02451","Middlesex","Waltham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27661","02452","Middlesex","Waltham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27662","02453","Middlesex","Waltham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27663","02454","Middlesex","Waltham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27664","02455","Middlesex","North Waltham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27665","02456","Middlesex","New Town","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27666","02458","Middlesex","Newton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27667","02459","Middlesex","Newton Center","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27668","02460","Middlesex","Newtonville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27669","02461","Middlesex","Newton Highlands","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27670","02462","Middlesex","Newton Lower Falls","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27671","02464","Middlesex","Newton Upper Falls","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27672","02465","Middlesex","West Newton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27673","02466","Middlesex","Auburndale","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27674","02467","Middlesex","Chestnut Hill","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27675","02468","Middlesex","Waban","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27676","02471","Middlesex","Watertown","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27677","02472","Middlesex","Watertown","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27678","02474","Middlesex","Arlington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27679","02475","Middlesex","Arlington Heights","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27680","02476","Middlesex","Arlington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27681","02477","Middlesex","Watertown","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27682","02478","Middlesex","Belmont","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27683","02479","Middlesex","Waverley","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27684","02493","Middlesex","Weston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27685","02495","Middlesex","Nonantum","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27686","03827","Middlesex","North Reading","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27687","03041","Middlesex","North Reading","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27688","03064","Middlesex","Tewksbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27689","03062","Middlesex","Wilmington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27690","03842","Middlesex","Reading","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27691","03862","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27692","03054","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27693","03077","Middlesex","Dracut","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27694","03885","Middlesex","Lowell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27695","03103","Middlesex","Wakefield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27696","03871","Middlesex","Billerica","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27697","03040","Middlesex","Pinehurst","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27698","03840","Middlesex","Billerica","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27699","03105","Middlesex","North Billerica","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27700","03111","Middlesex","Burlington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27701","03110","Middlesex","Burlington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27702","03104","Middlesex","Nutting Lake","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27703","03034","Middlesex","Woburn","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27704","02163","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27705","02134","Suffolk","Allston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27706","02135","Suffolk","Brighton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27707","02215","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27708","02133","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27709","02115","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27710","02199","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27711","02116","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27712","02129","Suffolk","Charlestown","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27713","02114","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27714","02222","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27715","02120","Suffolk","Roxbury Crossing","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27716","02108","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27717","02203","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27718","02112","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27719","02117","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27720","02123","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27721","02137","Suffolk","Readville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27722","02196","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27723","02201","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27724","02204","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27725","02206","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27726","02211","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27727","02217","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27728","02241","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27729","02266","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27730","02283","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27731","02284","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27732","02293","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27733","02297","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27734","02113","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27735","02109","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27736","02110","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27737","02118","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27738","02111","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27739","02205","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27740","02119","Suffolk","Roxbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27741","02130","Suffolk","Jamaica Plain","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27742","02298","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27743","02210","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27744","02150","Suffolk","Chelsea","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27745","02121","Suffolk","Dorchester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27746","02127","Suffolk","South Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27747","02125","Suffolk","Dorchester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27748","02128","Suffolk","East Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27749","02212","Suffolk","Boston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27750","02131","Suffolk","Roslindale","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27751","02122","Suffolk","Dorchester","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27752","02132","Suffolk","West Roxbury","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27753","02124","Suffolk","Dorchester Center","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27754","02151","Suffolk","Revere","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27755","02126","Suffolk","Mattapan","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27756","02152","Suffolk","Winthrop","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27757","02136","Suffolk","Hyde Park","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27758","02357","Bristol","North Easton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27759","02356","Bristol","North Easton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27760","02334","Bristol","Easton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27761","02375","Bristol","South Easton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27762","02048","Bristol","Mansfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:28",NULL
+"27763","02761","Bristol","North Attleboro","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27764","02766","Bristol","Norton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27765","02763","Bristol","Attleboro Falls","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27766","03076","Hillsborough","Pelham","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27767","03060","Hillsborough","Nashua","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27768","03051","Hillsborough","Hudson","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27769","03101","Hillsborough","Pelham","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27770","02446","Norfolk","Brookline","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27771","02447","Norfolk","Brookline Village","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27772","02445","Norfolk","Brookline","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27773","02494","Norfolk","Needham Heights","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27774","02187","Norfolk","Milton Village","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27775","02457","Norfolk","Babson Park","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27776","02481","Norfolk","Wellesley Hills","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27777","02171","Norfolk","Quincy","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27778","02492","Norfolk","Needham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27779","02027","Norfolk","Dedham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27780","02026","Norfolk","Dedham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27781","02170","Norfolk","Quincy","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27782","02186","Norfolk","Milton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27783","02482","Norfolk","Wellesley","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27784","02269","Norfolk","Quincy","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27785","02169","Norfolk","Quincy","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27786","02090","Norfolk","Westwood","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27787","02030","Norfolk","Dover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27788","02191","Norfolk","North Weymouth","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27789","02021","Norfolk","Canton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27790","02185","Norfolk","Braintree","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27791","02184","Norfolk","Braintree","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27792","02062","Norfolk","Norwood","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27793","02368","Norfolk","Randolph","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27794","02188","Norfolk","Weymouth","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27795","02189","Norfolk","East Weymouth","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27796","02032","Norfolk","East Walpole","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27797","02052","Norfolk","Medfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27798","02081","Norfolk","Walpole","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27799","02190","Norfolk","South Weymouth","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27800","02343","Norfolk","Holbrook","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27801","02322","Norfolk","Avon","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27802","02072","Norfolk","Stoughton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27803","02067","Norfolk","Sharon","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27804","02054","Norfolk","Millis","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27805","02025","Norfolk","Cohasset","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27806","02071","Norfolk","South Walpole","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27807","02056","Norfolk","Norfolk","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27808","02053","Norfolk","Medway","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27809","02035","Norfolk","Foxboro","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27810","02038","Norfolk","Franklin","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27811","02093","Norfolk","Wrentham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27812","02019","Norfolk","Bellingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27813","02762","Norfolk","Plainville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27814","02070","Norfolk","Sheldonville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27815","02045","Plymouth","Hull","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27816","02043","Plymouth","Hingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27817","02044","Plymouth","Hingham","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27818","02018","Plymouth","Accord","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27819","01745","Worcester","Fayville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27820","02351","Plymouth","Abington","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27821","02370","Plymouth","Rockland","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27822","02060","Plymouth","North Scituate","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27823","02055","Plymouth","Minot","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27824","02303","Plymouth","Brockton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27825","02304","Plymouth","Brockton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27826","02305","Plymouth","Brockton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27827","01772","Worcester","Southborough","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27828","02301","Plymouth","Brockton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27829","02302","Plymouth","Brockton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27830","02066","Plymouth","Scituate","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27831","02061","Plymouth","Norwell","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27832","02339","Plymouth","Hanover","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27833","02382","Plymouth","Whitman","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27834","02040","Plymouth","Greenbush","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27835","01451","Worcester","Harvard","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27836","01740","Worcester","Bolton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27837","02059","Plymouth","North Marshfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27838","01503","Worcester","Berlin","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27839","01757","Worcester","Milford","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27840","01581","Worcester","Westborough","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27841","02379","Plymouth","West Bridgewater","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27842","02051","Plymouth","Marshfield Hills","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27843","02333","Plymouth","East Bridgewater","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27844","01532","Worcester","Northborough","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27845","02341","Plymouth","Hanson","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27846","01467","Worcester","Still River","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27847","02358","Plymouth","North Pembroke","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27848","02337","Plymouth","Elmwood","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27849","01747","Worcester","Hopedale","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27850","02327","Plymouth","Bryantville","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27851","02359","Plymouth","Pembroke","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27852","01568","Worcester","Upton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27853","01523","Worcester","Lancaster","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27854","02047","Plymouth","Humarock","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27855","02325","Plymouth","Bridgewater","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27856","02050","Plymouth","Marshfield","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27857","01756","Worcester","Mendon","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27858","01510","Worcester","Clinton","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27859","01561","Worcester","South Lancaster","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27860","02350","Plymouth","Monponsett","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27861","03079","Rockingham","Salem","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27862","02324","Plymouth","Bridgewater","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27863","02065","Plymouth","Ocean Bluff","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27864","01505","Worcester","Boylston","MA",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27865","01966","Rockingham","Salem","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27866","03049","Rockingham","Plaistow","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27867","03109","Rockingham","Atkinson","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL
+"27868","03031","Rockingham","North Salem","NH",NULL,NULL,NULL,"yes",NULL,NULL,"1","2020-05-16 17:01:29",NULL

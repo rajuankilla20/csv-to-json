@@ -1,12 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="" />
+    <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/CategoryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/AttributeGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/AttributeOptionsGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/BrandGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/CategoryGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductAttributeOptionsGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductCategoryGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductImageGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/SubCategoryGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sqljdbc/MySqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/AttributeOptionsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/AttributesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/BrandsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductAttributeOptionsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1K-Rec-all-cat-sub-cat-csv-V1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv-to-json.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DescToCodeConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProductsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Brand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/SubCategoryModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/categories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/prod-products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/products12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/products_1k-recs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/products_1k_recs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/products_testing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/subcategories.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -17,10 +72,19 @@
   </component>
   <component name="ProjectId" id="1l65zaQsyNW789gXnrQSuK0sEJB" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model.gpod" />
+      <recent name="util" />
+      <recent name="" />
+      <recent name="model" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources" />
       <recent name="D:\projects\csv-to-json\src\main\resources" />
       <recent name="D:\projects\csv-to-json\src\main\java" />
     </key>
@@ -37,10 +101,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProductsReader">
+  <component name="RunManager" selected="Application.BuildMerrimackData">
+    <configuration name="BuildMerrimackData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuildMerrimackData" />
+      <module name="csv-to-json" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DescToCodeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DescToCodeConverter" />
       <module name="csv-to-json" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sqljdbc.MySqlConnection" />
+      <module name="csv-to-json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sqljdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -54,6 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuildMerrimackData" />
+        <item itemvalue="Application.MySqlConnection" />
         <item itemvalue="Application.ProductsReader" />
         <item itemvalue="Application.DescToCodeConverter" />
       </list>
@@ -71,5 +157,34 @@
       <updated>1606904963197</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

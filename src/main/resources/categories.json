@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1000",
+    "code": "Cooking Needs",
+    "desc": "Cooking Needs"
+  },
+  {
+    "id": "1001",
+    "code": "Breakfast & Dairy",
+    "desc": "Breakfast & Dairy"
+  },
+  {
+    "id": "1002",
+    "code": "Personal Care",
+    "desc": "Personal Care"
+  },
+  {
+    "id": "1003",
+    "code": "Meat & Seafood",
+    "desc": "Meat & Seafood"
+  },
+  {
+    "id": "1004",
+    "code": "Beverages, Chips & Snacks",
+    "desc": "Beverages, Chips & Snacks"
+  },
+  {
+    "id": "1005",
+    "code": "Dorm Essentials",
+    "desc": "Dorm Essentials"
+  },
+  {
+    "id": "1006",
+    "code": "Fresh Produce",
+    "desc": "Fresh Produce"
+  }
+]

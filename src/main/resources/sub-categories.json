@@ -1,0 +1,538 @@
+[
+  {
+    "id": "2000",
+    "code": "Rice, Grain, Pasta & Beans",
+    "desc": "Rice, Grain, Pasta & Beans",
+    "categories": [
+      {
+        "code": "Cooking Needs",
+        "desc": "Cooking Needs"
+      },
+      {
+        "code": "Rice, Grain, Pasta & Beans",
+        "desc": "Rice, Grain, Pasta & Beans"
+      }
+    ]
+  },
+  {
+    "id": "2001",
+    "code": "Air Fresheners & Candles",
+    "desc": "Air Fresheners & Candles",
+    "categories": [
+      {
+        "code": "Air Fresheners & Candles",
+        "desc": "Air Fresheners & Candles"
+      },
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      }
+    ]
+  },
+  {
+    "id": "2002",
+    "code": "Fresh Organic Fruits",
+    "desc": "Fresh Organic Fruits",
+    "categories": [
+      {
+        "code": "Fresh Organic Fruits",
+        "desc": "Fresh Organic Fruits"
+      },
+      {
+        "code": "Fresh Produce",
+        "desc": "Fresh Produce"
+      }
+    ]
+  },
+  {
+    "id": "2003",
+    "code": "Cleaning Products",
+    "desc": "Cleaning Products",
+    "categories": [
+      {
+        "code": "Cleaning Products",
+        "desc": "Cleaning Products"
+      },
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      }
+    ]
+  },
+  {
+    "id": "2004",
+    "code": "Personal Care",
+    "desc": "Personal Care",
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ]
+  },
+  {
+    "id": "2005",
+    "code": "Canned Meat & Seafood",
+    "desc": "Canned Meat & Seafood",
+    "categories": [
+      {
+        "code": "Canned Meat & Seafood",
+        "desc": "Canned Meat & Seafood"
+      },
+      {
+        "code": "Meat & Seafood",
+        "desc": "Meat & Seafood"
+      }
+    ]
+  },
+  {
+    "id": "2006",
+    "code": "Fresh Fruits",
+    "desc": "Fresh Fruits",
+    "categories": [
+      {
+        "code": "Fresh Fruits",
+        "desc": "Fresh Fruits"
+      },
+      {
+        "code": "Fresh Produce",
+        "desc": "Fresh Produce"
+      }
+    ]
+  },
+  {
+    "id": "2007",
+    "code": "Meat & Seafood Counter",
+    "desc": "Meat & Seafood Counter",
+    "categories": [
+      {
+        "code": "Meat & Seafood Counter",
+        "desc": "Meat & Seafood Counter"
+      },
+      {
+        "code": "Meat & Seafood",
+        "desc": "Meat & Seafood"
+      }
+    ]
+  },
+  {
+    "id": "2008",
+    "code": "Feminine Care",
+    "desc": "Feminine Care",
+    "categories": [
+      {
+        "code": "Feminine Care",
+        "desc": "Feminine Care"
+      },
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ]
+  },
+  {
+    "id": "2009",
+    "code": "Paper Goods",
+    "desc": "Paper Goods",
+    "categories": [
+      {
+        "code": "Paper Goods",
+        "desc": "Paper Goods"
+      },
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      }
+    ]
+  },
+  {
+    "id": "2010",
+    "code": "Beverages & Water",
+    "desc": "Beverages & Water",
+    "categories": [
+      {
+        "code": "Beverages & Water",
+        "desc": "Beverages & Water"
+      },
+      {
+        "code": "Beverages, Chips & Snacks",
+        "desc": "Beverages, Chips & Snacks"
+      }
+    ]
+  },
+  {
+    "id": "2011",
+    "code": "Canned Food",
+    "desc": "Canned Food",
+    "categories": [
+      {
+        "code": "Cooking Needs",
+        "desc": "Cooking Needs"
+      },
+      {
+        "code": "Canned Food",
+        "desc": "Canned Food"
+      }
+    ]
+  },
+  {
+    "id": "2012",
+    "code": "Dairy & Eggs",
+    "desc": "Dairy & Eggs",
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      },
+      {
+        "code": "Dairy & Eggs",
+        "desc": "Dairy & Eggs"
+      }
+    ]
+  },
+  {
+    "id": "2013",
+    "code": "Breakfast & Cereal",
+    "desc": "Breakfast & Cereal",
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      },
+      {
+        "code": "Breakfast & Cereal",
+        "desc": "Breakfast & Cereal"
+      }
+    ]
+  },
+  {
+    "id": "2014",
+    "code": "Trash Bags & Liners",
+    "desc": "Trash Bags & Liners",
+    "categories": [
+      {
+        "code": "Trash Bags & Liners",
+        "desc": "Trash Bags & Liners"
+      },
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      }
+    ]
+  },
+  {
+    "id": "2015",
+    "code": "Fresh Herbs",
+    "desc": "Fresh Herbs",
+    "categories": [
+      {
+        "code": "Fresh Herbs",
+        "desc": "Fresh Herbs"
+      },
+      {
+        "code": "Fresh Produce",
+        "desc": "Fresh Produce"
+      }
+    ]
+  },
+  {
+    "id": "2016",
+    "code": "Hot Dogs, Bacon & Sausage",
+    "desc": "Hot Dogs, Bacon & Sausage",
+    "categories": [
+      {
+        "code": "Meat & Seafood",
+        "desc": "Meat & Seafood"
+      },
+      {
+        "code": "Hot Dogs, Bacon & Sausage",
+        "desc": "Hot Dogs, Bacon & Sausage"
+      }
+    ]
+  },
+  {
+    "id": "2017",
+    "code": "Food Storage & Kitchen Supplies",
+    "desc": "Food Storage & Kitchen Supplies",
+    "categories": [
+      {
+        "code": "Food Storage & Kitchen Supplies",
+        "desc": "Food Storage & Kitchen Supplies"
+      },
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      }
+    ]
+  },
+  {
+    "id": "2018",
+    "code": "Fresh Vegetables",
+    "desc": "Fresh Vegetables",
+    "categories": [
+      {
+        "code": "Fresh Vegetables",
+        "desc": "Fresh Vegetables"
+      },
+      {
+        "code": "Fresh Produce",
+        "desc": "Fresh Produce"
+      }
+    ]
+  },
+  {
+    "id": "2019",
+    "code": "Condiments & Sauces",
+    "desc": "Condiments & Sauces",
+    "categories": [
+      {
+        "code": "Cooking Needs",
+        "desc": "Cooking Needs"
+      },
+      {
+        "code": "Condiments & Sauces",
+        "desc": "Condiments & Sauces"
+      }
+    ]
+  },
+  {
+    "id": "2020",
+    "code": "Baking & Cooking",
+    "desc": "Baking & Cooking",
+    "categories": [
+      {
+        "code": "Cooking Needs",
+        "desc": "Cooking Needs"
+      },
+      {
+        "code": "Baking & Cooking",
+        "desc": "Baking & Cooking"
+      }
+    ]
+  },
+  {
+    "id": "2021",
+    "code": "Body Wash, Soap & Hair Care",
+    "desc": "Body Wash, Soap & Hair Care",
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      },
+      {
+        "code": "Body Wash, Soap & Hair Care",
+        "desc": "Body Wash, Soap & Hair Care"
+      }
+    ]
+  },
+  {
+    "id": "2022",
+    "code": "First Aid & Healthcare",
+    "desc": "First Aid & Healthcare",
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      },
+      {
+        "code": "First Aid & Healthcare",
+        "desc": "First Aid & Healthcare"
+      }
+    ]
+  },
+  {
+    "id": "2023",
+    "code": "Breads & Rolls",
+    "desc": "Breads & Rolls",
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      },
+      {
+        "code": "Breads & Rolls",
+        "desc": "Breads & Rolls"
+      }
+    ]
+  },
+  {
+    "id": "2024",
+    "code": "Vitamins & Proteins",
+    "desc": "Vitamins & Proteins",
+    "categories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      },
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ]
+  },
+  {
+    "id": "2025",
+    "code": "Fresh Organic Vegetables",
+    "desc": "Fresh Organic Vegetables",
+    "categories": [
+      {
+        "code": "Fresh Organic Vegetables",
+        "desc": "Fresh Organic Vegetables"
+      },
+      {
+        "code": "Fresh Produce",
+        "desc": "Fresh Produce"
+      }
+    ]
+  },
+  {
+    "id": "2026",
+    "code": "Tea and Coffee",
+    "desc": "Tea and Coffee",
+    "categories": [
+      {
+        "code": "Tea and Coffee",
+        "desc": "Tea and Coffee"
+      },
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ]
+  },
+  {
+    "id": "2027",
+    "code": "Dish Detergents",
+    "desc": "Dish Detergents",
+    "categories": [
+      {
+        "code": "Dish Detergents",
+        "desc": "Dish Detergents"
+      },
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      }
+    ]
+  },
+  {
+    "id": "2028",
+    "code": "Chips & Snacks",
+    "desc": "Chips & Snacks",
+    "categories": [
+      {
+        "code": "Chips & Snacks",
+        "desc": "Chips & Snacks"
+      },
+      {
+        "code": "Beverages, Chips & Snacks",
+        "desc": "Beverages, Chips & Snacks"
+      }
+    ]
+  },
+  {
+    "id": "2029",
+    "code": "Breakfast Bars & Pastries",
+    "desc": "Breakfast Bars & Pastries",
+    "categories": [
+      {
+        "code": "Beverages, Chips & Snacks",
+        "desc": "Beverages, Chips & Snacks"
+      },
+      {
+        "code": "Breakfast Bars & Pastries",
+        "desc": "Breakfast Bars & Pastries"
+      }
+    ]
+  },
+  {
+    "id": "2030",
+    "code": "Frozen Food",
+    "desc": "Frozen Food",
+    "categories": [
+      {
+        "code": "Cooking Needs",
+        "desc": "Cooking Needs"
+      },
+      {
+        "code": "Frozen Food",
+        "desc": "Frozen Food"
+      }
+    ]
+  },
+  {
+    "id": "2031",
+    "code": "Fresh Organic Herbs",
+    "desc": "Fresh Organic Herbs",
+    "categories": [
+      {
+        "code": "Fresh Organic Herbs",
+        "desc": "Fresh Organic Herbs"
+      },
+      {
+        "code": "Fresh Produce",
+        "desc": "Fresh Produce"
+      }
+    ]
+  },
+  {
+    "id": "2032",
+    "code": "Lunch Meat",
+    "desc": "Lunch Meat",
+    "categories": [
+      {
+        "code": "Meat & Seafood",
+        "desc": "Meat & Seafood"
+      },
+      {
+        "code": "Lunch Meat",
+        "desc": "Lunch Meat"
+      }
+    ]
+  },
+  {
+    "id": "2033",
+    "code": "Frozen Meat & Seafood",
+    "desc": "Frozen Meat & Seafood",
+    "categories": [
+      {
+        "code": "Meat & Seafood",
+        "desc": "Meat & Seafood"
+      },
+      {
+        "code": "Frozen Meat & Seafood",
+        "desc": "Frozen Meat & Seafood"
+      }
+    ]
+  },
+  {
+    "id": "2034",
+    "code": "Laundry",
+    "desc": "Laundry",
+    "categories": [
+      {
+        "code": "Dorm Essentials",
+        "desc": "Dorm Essentials"
+      },
+      {
+        "code": "Laundry",
+        "desc": "Laundry"
+      }
+    ]
+  },
+  {
+    "id": "2035",
+    "code": "Packaged Meat & Seafood",
+    "desc": "Packaged Meat & Seafood",
+    "categories": [
+      {
+        "code": "Meat & Seafood",
+        "desc": "Meat & Seafood"
+      },
+      {
+        "code": "Packaged Meat & Seafood",
+        "desc": "Packaged Meat & Seafood"
+      }
+    ]
+  }
+]

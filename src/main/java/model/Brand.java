@@ -19,6 +19,14 @@ public class Brand {
         this.code = code;
     }
 
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

@@ -1,0 +1,272 @@
+"cid","title","slug","image","body","p_cid","status","created_at","updated_at"
+"1","Cooking Needs","cooking-needs","1598811335.jpg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 14:15:35"
+"2","Baking & Cooking","baking-and-cooking","1598814807.jpg","<ul>
+<li> Baking Ingredients <li>
+<li> Bake Mixes <li>
+<li> Doughs & Gelatins <li>
+<li> Oils & Vinegars <li>
+<li> Spices & Seasonings <li>
+<ul>","1","1","2020-08-30 14:06:42","2020-08-30 18:18:42"
+"3","Canned Food","canned-food","1598814971.jpg","<ul>
+<li> Canned & Jarred Vegetables  <li>
+<li>  Canned Fruit <li>
+<li> Canned Meals & Beans <li>
+<li>  Canned Meat & Seafood <li>
+<li> Soup, Broth & Bouillon <li>
+<ul>","1","1","2020-08-30 14:06:42","2020-08-30 18:16:29"
+"4","Condiments & Sauces","condiments-and-sauces","1598815110.jpg","<ul>
+<li>  Fresh Dips & Tapenades <li>
+<li>  Honeys, Syrups & Nectars <li>
+<li> Preserved Dips & Spreads <li>
+<li> Salad Dressing & Toppings <li>
+<ul>","1","1","2020-08-30 14:06:42","2020-08-30 18:16:55"
+"5","Frozen Food","frozen-food","1598815173.jpg","<ul>
+<li> Frozen Appetizers & Sides <li>
+<li> Frozen Breads & Doughs <li>
+<li> Frozen Dessert <li>
+<li> Frozen Pizza <li>
+<li> Ice Cream & Ice <li>
+<ul>","1","1","2020-08-30 14:06:42","2020-08-30 18:12:05"
+"6","Rice, Grain, Pasta & Beans","rice,-grain,-pasta-and-beans","1598815239.jpg","<ul>
+<li> Dry Pasta <li>
+<li> Fresh Pasta <li>
+<li>  Grains, Rice & Dried Goods <li>
+<li>  Instant Food <li>
+<li> Pasta Sauce <li>
+<ul>","1","1","2020-08-30 14:06:42","2020-08-30 23:38:43"
+"7","Beverages, Chips & Snacks","beverages,-chips-and-snacks","1598811015.jpg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 15:31:14"
+"8","Beverages & Water","beverages-and-water","1598815709.jpg","<ul>
+<li> Energy Drinks <li>
+<li> Drink Mixes <li>
+<li> Single To-Go Drinks <li>
+<li> Soda & Ginger Ale<li>
+<li>  Water & Seltzer <li>
+<ul>","7","1","2020-08-30 14:06:42","2020-08-30 18:03:16"
+"9","Chips & Snacks","chips-and-snacks","1598815759.jpg","<ul>
+<li> Candy & Chocolate <li>
+<li>  Chips & Pretzels <li>
+<li>  Crackers & Cookies <li>
+<li> Energy & Granola Bars <li>
+<li> Nuts, Seeds & Dried Fruit <li>
+<ul>","7","1","2020-08-30 14:06:42","2020-08-30 18:00:46"
+"10","Breakfast Bars & Pastries","breakfast-bars-and-pastires","1598815819.jpg","<ul>
+<li> Breakfast Biscuits <li>
+<li>  Bagged Donuts <li>
+<li> Cereal Bars  <li>
+<li> Chewy Bars  <li>
+<li>  Snack Bar <li>
+<ul>","7","1","2020-08-30 14:06:42","2020-08-30 17:58:02"
+"11","Breakfast & Dairy","breakfast-and-dairy","1598811626.svg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 15:41:18"
+"12","Breakfast & Cereal","breakfast-and-cereal","1598815393.jpg","<ul>
+<li> Cereal <li>
+<li>  Granola  <li>
+<li> Oatmeal <li>
+<li> Pancake Mixes <li>
+<li>  Waffle Mixes <li>
+<ul>","11","1","2020-08-30 14:06:42","2020-08-30 17:55:14"
+"13","Tea & Coffee","tea-and-coffee","1598815464.jpg","<ul>
+<li> Gourmet Coffee <li>
+<li> Ground Coffee <li>
+<li> Instant Coffee  <li>
+<li> K Cup Pods <li>
+<li> Tea <li>
+<ul>","11","1","2020-08-30 14:06:42","2020-08-30 17:52:40"
+"14","Breads & Rolls","breads-and-rolls","1598815529.jpg","<ul>
+<li> Bread <li>
+<li>  Breakfast Bakery <li>
+<li>  Buns <li>
+<li>  Rolls <li>
+<li> Tortillas & Flat Bread <li>
+<ul>","11","1","2020-08-30 14:06:42","2020-08-30 17:40:59"
+"15","Dairy & Eggs","dairy-and-eggs","1598815614.jpg","<ul>
+<li> Butter <li>
+<li>  Cream & Cheese <li>
+<li>  Eggs <li>
+<li> Milk <li>
+<li> Packaged Cheese <li>
+<ul>","11","1","2020-08-30 14:06:42","2020-08-30 17:38:17"
+"16","Fresh Produce","fresh-produce","1598812637.svg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 14:37:17"
+"17","Fresh Vegetables","fresh-vegetables","1598816768.jpg","<ul>
+<li> Aloe Vera <li>
+<li> Avacado <li>
+<li> Baby Carrot <li>
+<li> Beet <li>
+<li> Celery <li>
+<ul>","16","1","2020-08-30 14:06:42","2020-08-30 16:06:48"
+"18","Fresh Herbs","fresh-herbs","1599179226.jpg","<ul>
+<li> Basil  <li>
+<li> Mint <li>
+<li> Parsley  <li>
+<li> Garlic <li>
+<li> Thyme  <li>
+<ul>","16","1","2020-08-30 14:06:42","2020-09-03 20:27:06"
+"19","Fresh Fruits","fresh-fruits","1598816023.jpg","<ul>
+<li> Apple <li>
+<li>  Banana <li>
+<li> Blackberry <li>
+<li>  Kiwi <li>
+<li> Orange  <li>
+<ul>","16","1","2020-08-30 14:06:42","2020-08-30 16:28:17"
+"20","Fresh Organic Vegetables","fresh-organic-vegetables","1598817993.jpg","<ul>
+<li> Broccoli <li>
+<li> Cauliflower <li>
+<li> Mushroom <li>
+<li> Potato <li>
+<li> Celery <li>
+<ul>","16","1","2020-08-30 14:06:42","2020-08-30 16:29:40"
+"21","Fresh Organic Herbs","fresh-organic-herbs","1598817935.jpg","<ul>
+<li> Basil  <li>
+<li>  Dill <li>
+<li>  Garlic <li>
+<li> Ginger  <li>
+<li> Parsley  <li>
+<ul>","16","1","2020-08-30 14:06:42","2020-08-30 16:31:41"
+"22","Fresh Organic Fruits","fresh-organic-fruits","1598817975.jpg","<ul>
+<li> Apple <li>
+<li>  Strawberry <li>
+<li>  Blueberry <li>
+<li> Grapes <li>
+<li> Pear <li>
+<ul>","16","1","2020-08-30 14:06:42","2020-08-30 16:35:41"
+"23","Dorm Essentials","dorm-essentials","1598812533.svg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 14:35:33"
+"24","Air Fresheners & Candles","air-freshners-and-candles","1598818896.jpg","<ul>
+<li> Air Fresheners <li>
+<li>  Air Freshener Refills <li>
+<li>  Automatic Spray & Refills <li>
+<li> Candles <li>
+<li> Scented Oil Refills <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 16:40:43"
+"25","Cleaning Products","cleaning-products","1598818863.jpg","<ul>
+<li> All Purpose Cleaners <li>
+<li> Antibacterial Cleaners <li>
+<li> Bathroom Cleaners <li>
+<li> Disinfecting Wipes & Sprays <li>
+<li> Scrub Sponge <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 16:43:31"
+"26","Dish Detergents","dish-detergents","1598818834.jpg","<ul>
+<li> Ajax <li>
+<li> Dish Liquid <li>
+<li> Dishwasher Detergent <li>
+<li> Dishwasher Packs <li>
+<li> Rinse Aid <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 16:46:36"
+"27","Food Storage & Kitchen Supplies","food-storage-&-kitchen-supplies","1598818797.jpg","<ul>
+<li> Aluminium Foil <li>
+<li>  Multi Purpose Pans <li>
+<li> Plastic/Cling Wraps <li>
+<li>  Storage Containers <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 17:05:13"
+"28","Laundry","laundry","1598818731.jpg","<ul>
+<li> Fabric Conditioner <li>
+<li> Fabric Softener <li>
+<li> Laundry Detergent <li>
+<li> Stain Remover <li>
+<li> Scent Booster <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 16:54:38"
+"29","Paper Goods","paper-goods","1598818693.jpg","<ul>
+<li> Bathroom Tissues <li>
+<li> Facial Tissues <li>
+<li> Paper Napkins <li>
+<li> Paper Towels <li>
+<li> Wipes <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 16:56:44"
+"30","Trash Bags & Liners","trash-bags-and-liners","1598818655.jpg","<ul>
+<li> Cooker Liner <li>
+<li> Trash Bags <li>
+<li> Kitchen Bags <li>
+<li> Hefty <li>
+<li> Glad <li>
+<ul>","23","1","2020-08-30 14:06:42","2020-08-30 17:04:24"
+"31","Personal Care","personal-care","1598811783.jpg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 23:25:20"
+"32","Body Wash, Soap & Hair Care","body-wash,-soap-and-hair-care","1598819036.jpg","<ul>
+<li> Body Lotion <li>
+<li> Body Wash <li>
+<li> Hair Care <li>
+<li> Shower Gel <li>
+<ul>","31","1","2020-08-30 14:06:42","2020-08-30 17:07:47"
+"35","Feminine Care","feminine-care","1598819155.jpg","<ul>
+<li> Anti-Itch Care <li>
+<li> Menstrual Pads <li>
+<li> Pantiliner <li>
+<li> Tampons <li>
+<li> Other Feminine Care <li>
+<ul>","31","1","2020-08-30 14:06:42","2020-08-30 17:15:06"
+"36","Vitamins & Proteins","vitamins-and-protiens","1598819186.jpg","<ul>
+<li> Proteins <li>
+<li>  Meal Replacements <li>
+<li>  Vitamins <li>
+<li> Supplements  <li>
+<li> Health Tablets <li>
+<ul>","31","1","2020-08-30 14:06:42","2020-08-30 17:16:42"
+"37","First Aid & Healthcare","first-aid-and-healthcare","1598819122.jpg","<ul>
+<li> Cold, Flu & Allergy <li>
+<li>  Digestion <li>
+<li>  First Aid <li>
+<li> Menstrual Relief <li>
+<li> Muscles, Joints & Pain Relief <li>
+<ul>","31","1","2020-08-30 14:06:42","2020-08-30 17:17:43"
+"38","Meat & Seafood","meat-and-seafood","1598812572.svg",NULL,"0","1","2020-08-30 14:06:42","2020-08-30 15:32:31"
+"39","Meat & Seafood Counter","meat-and-seafood-counter","1598820072.jpg","<ul>
+<li> Beef <li>
+<li>  Chicken <li>
+<li>  Steak <li>
+<li> Sausage <li>
+<li> Seafood <li>
+<ul>","38","1","2020-08-30 14:06:42","2020-08-30 17:19:58"
+"40","Packaged Meat & Seafood","packaged-meat-and-seafood","1598826341.jpg","<ul>
+<li>Bacon <li>
+<li>Beef <li>
+<li>Chicken Breast <li>
+<li>Pork <li>
+<li>Seafood <li>
+<ul>","38","1","2020-08-30 14:06:42","2020-08-30 18:25:41"
+"41","Hot Dogs, Bacon & Sausage","hot-dogs,-bacon-and-sausage","1598820013.jpg","<ul>
+<li> Bacon <li>
+<li> Hot Dogs <li>
+<li> Sausage <li>
+<li> Steak Cuts <li>
+<ul>","38","1","2020-08-30 14:06:42","2020-08-30 17:30:48"
+"42","Lunch Meat","lunch-meat","1598819984.jpg","<ul>
+<li> Beef <li>
+<li>  Chicken <li>
+<li>  Ham <li>
+<li> Pepperoni <li>
+<li> Salami <li>
+<ul>","38","1","2020-08-30 14:06:42","2020-08-30 17:31:53"
+"44","Canned Meat & Seafood","canned-meat-and-seafood","1598819926.jpg","<ul>
+<li> Canned Beef <li>
+<li>  Canned Chicken <li>
+<li>  Canned Ham <li>
+<li> Canned Turkey <li>
+<li> Canned Seafood <li>
+<ul>","38","1","2020-08-30 14:06:42","2020-08-30 17:33:38"
+"45","Frozen Meat & Seafood","frozen-meat-and-seafood","1598819896.jpg","<ul>
+<li> Frozen Chicken <li>
+<li>  Frozen Beef & Bacon <li>
+<li>  Frozen Shrimp <li>
+<li> Frozen Seafood <li>
+<li> Veggie Alternatives <li>
+<ul>","38","1","2020-08-30 14:06:42","2020-08-30 17:35:31"
+"47","Personal Needs","personal-needs","1598844854.jpg","<ul>
+<li> Deodorants <li>
+<li> Eye & Ear Care <li>
+<li> Facial Care <li>
+<li> Oral Hygiene <li>
+<li> Skin care <li>
+<ul>","31","1","2020-08-30 23:31:08","2020-08-30 23:34:14"
+"48","Halloween Specials","halloween-specials","1602973804.svg",NULL,"0","1","2020-10-17 18:16:19","2020-10-17 18:30:04"
+"49","Candy & Chocolates","candy-&-chocolates","1602974000.jpg","<ul>
+<li> Assortment <li>
+<li> Carving Kit <li>
+<li> Individual <li>
+<ul>","48","1","2020-10-17 18:16:19","2020-10-17 19:13:58"
+"50","Halloween Decor","halloween-decor","1602973889.svg","<ul>
+<li> Bowl & Buckets <li>
+<li> Props <li>
+<li> Flower Pots <li>
+<ul>","48","1","2020-10-17 18:16:19","2020-10-17 19:12:11"
+"51","Halloween Cookies","halloween-cookies","1602973988.jpg","<ul>
+<li> Cookie Dough <li>
+<li> Cookies <li>
+<li> CupCakes <li>
+<ul>","48","1","2020-10-17 18:16:19","2020-10-17 19:11:02"

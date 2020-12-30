@@ -12,6 +12,7 @@ public class Product {
     private List<Brand> brands = new ArrayList<Brand>();
     private Price price;
     private Type type;
+    private Deal deal;
     private String weight;
     private double tax;
     private String spiceLevel;
@@ -23,7 +24,12 @@ public class Product {
     private String[] imageUris;
     private Date updatedTimestamp;
     private Date createdTimestamp;
+    private boolean isNewlyAdded;
     private boolean isActive;
+    private boolean isDealsEnabled=false;
+
+    public Product() {
+    }
 
     public String getId() {
         return id;
@@ -185,15 +191,38 @@ public class Product {
         isActive = active;
     }
 
+    public Deal getDeal() {
+        return deal;
+    }
+
+    public void setDeal(Deal deal) {
+        this.deal = deal;
+    }
+
+    public boolean isDealsEnabled() {
+        return isDealsEnabled;
+    }
+
+    public void setDealsEnabled(boolean dealsEnabled) {
+        isDealsEnabled = dealsEnabled;
+    }
+
+    public boolean isNewlyAdded() {
+        return isNewlyAdded;
+    }
+
+    public void setNewlyAdded(boolean newlyAdded) {
+        isNewlyAdded = newlyAdded;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
-        return weight == product.weight &&
-                Double.compare(product.tax, tax) == 0 &&
-                aiselNo == product.aiselNo &&
+        return Double.compare(product.tax, tax) == 0 &&
                 isActive == product.isActive &&
+                isDealsEnabled == product.isDealsEnabled &&
                 Objects.equals(id, product.id) &&
                 Objects.equals(code, product.code) &&
                 Objects.equals(desc, product.desc) &&
@@ -202,7 +231,10 @@ public class Product {
                 Objects.equals(brands, product.brands) &&
                 Objects.equals(price, product.price) &&
                 Objects.equals(type, product.type) &&
+                Objects.equals(deal, product.deal) &&
+                Objects.equals(weight, product.weight) &&
                 Objects.equals(spiceLevel, product.spiceLevel) &&
+                Objects.equals(aiselNo, product.aiselNo) &&
                 Objects.equals(store, product.store) &&
                 Objects.equals(weightType, product.weightType) &&
                 Objects.equals(imageName, product.imageName) &&
@@ -214,7 +246,7 @@ public class Product {
 
     @Override
     public int hashCode() {
-        int result = Objects.hash(id, code, desc, categories, subCategories, brands, price, type, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isActive);
+        int result = Objects.hash(id, code, desc, categories, subCategories, brands, price, type, deal, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isActive, isDealsEnabled);
         result = 31 * result + Arrays.hashCode(imageUris);
         return result;
     }

@@ -20,6 +20,14 @@ public class Category {
         this.code = code;
     }
 
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -32,5 +40,13 @@ public class Category {
     @Override
     public int hashCode() {
         return Objects.hash(code, desc);
+    }
+
+    @Override
+    public String toString() {
+        return "Category{" +
+                "code='" + code + '\'' +
+                ", desc='" + desc + '\'' +
+                '}';
     }
 }
