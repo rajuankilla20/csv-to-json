@@ -2,50 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/CategoryModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Deal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/AttributeGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/AttributeOptionsGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/BrandGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/CategoryGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductAttributeOptionsGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductCategoryGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductImageGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/SubCategoryGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sqljdbc/MySqlConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AttributeOptionsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AttributesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/BrandsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductAttributeOptionsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductImageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ProductUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1K-Rec-all-cat-sub-cat-csv-V1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/FavouritesGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/RoleUserGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/RolesGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/UserGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/WishlistGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/RolesUserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/RolesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/UsersUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv-to-json.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DescToCodeConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/model/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Brand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/SubCategoryModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/categories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/prod-products.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/products.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/products12.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/products_1k-recs.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/products_1k_recs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/products_testing.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/subcategories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/ProductAttributeOptionsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ProductAttributeOptionsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,11 +148,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java</url>
           <line>18</line>

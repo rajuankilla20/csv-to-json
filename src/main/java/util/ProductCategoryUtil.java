@@ -54,7 +54,6 @@ public class ProductCategoryUtil {
             }
 
         }
-        System.out.println("Test-");
     }
 
 

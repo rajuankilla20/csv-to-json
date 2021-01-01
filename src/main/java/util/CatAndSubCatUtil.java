@@ -43,7 +43,6 @@ public class CatAndSubCatUtil {
 
 
             buildSubcategory(categoryGpodMap,tempCategoryGpodList,subCategoryGpodSet);
-            System.out.println("Test");
         }
     }
 

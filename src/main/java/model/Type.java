@@ -32,4 +32,12 @@ public class Type {
     public int hashCode() {
         return Objects.hash(code, desc);
     }
+
+    @Override
+    public String toString() {
+        return "Type{" +
+                "code='" + code + '\'' +
+                ", desc='" + desc + '\'' +
+                '}';
+    }
 }

@@ -1,5 +1,4 @@
 import com.opencsv.CSVReader;
-import javafx.beans.binding.IntegerBinding;
 import model.*;
 import model.gpod.*;
 import util.*;
@@ -29,10 +28,15 @@ public class BuildMerrimackData {
     public static Map<Integer,BrandGpod> brandGpodMap = new HashMap<>();
     public static Map<Integer,AttributeGpod> attributeGpodMap = new HashMap<>(); // atid ,25-type,26-store,27-weight,28-spice level
     public static Map<Integer,AttributeOptionsGpod> attributeOptionsGpodMap = new HashMap<>(); //atid,title(type & value)
-    public static Map<Integer,ProductAttributeOptionsGpod> productAttributeOptionsGpoMap = new HashMap<>(); // key-> productId
+    public static Map<Integer,Set<ProductAttributeOptionsGpod>> productAttributeOptionsGpoMap = new HashMap<>(); // key-> productId
     public static Map<Integer,Set<Integer>> productCategoryGpodMap = new HashMap<>();
     public static Map<Integer,Set<Integer>> productSubCategoryGpodMap = new HashMap<>();
     public static Set<ProductImageGpod> productImageGpodSet = new HashSet<>();
+    public static Map<Integer,RolesGpod> rolesGpodMap = new HashMap<>();
+    public static Map<Integer,RoleUserGpod> roleUserGpodMap = new HashMap<>();
+    public static Map<Integer,UserGpod> userGpodMap = new HashMap<>();
+
+
 
 //    public static Map<Integer,ProductImageGpod> productImageGpodMap = new HashMap<>();
 //    public static Map<Integer,AttributeGpod> attributeGpodMap = new HashMap<>(); // atid ,25-type,26-store,27-weight,28-spice level
@@ -67,13 +71,24 @@ public class BuildMerrimackData {
            ProductCategoryUtil.buildProductCategory(productCategoryGpodMap,productSubCategoryGpodMap, categoryGpodMap.values().stream().map(CategoryGpod::getCid).collect(Collectors.toSet()));
 //          System.out.println("-----------ProductCategory  conversion done---------------");
           ProductImageUtil.buildProductImage(productImageGpodSet);
-//        System.out.println("-----------ProductCategory  conversion done---------------");
+//        System.out.println("-----------ProductImage  conversion done---------------");
 
            buildProductData();
             System.out.println("-----------Product  conversion done---------------"+productMap.size());
 //          productMap.forEach((k,v) -> {
 //            System.out.println(v);
 //        });
+
+        System.out.println("-----------User  conversion done---------------"+productMap.size());
+        RolesUtil.buildBrands(rolesGpodMap);
+        System.out.println("-----------Roles  conversion done---------------");
+        RolesUserUtil.buildRoleUser(roleUserGpodMap);
+        System.out.println("-----------Role-User  conversion done---------------");
+        UsersUtil.buildRoles(userGpodMap,roleUserGpodMap,rolesGpodMap);
+        System.out.println("-----------User  conversion done---------------");
+
+        userGpodMap.values().forEach(System.out::println);
+
 
 //        System.out.println("-----------Categories---------------");
 //        categoryGpodSet.forEach(System.out::println);
@@ -175,18 +190,21 @@ public class BuildMerrimackData {
                 // step.1) product_att_options -> i/p = pid, o/p=ao_id, atid =>
                 // step.2) att_option - i/p = ao_id, o/p= atid, value( types,weights)
                 // step.3) attr -> i/p = atid, o/p= title (25-type,26-store (N/A),27-weight,28-Spice level(N/A))
-                ProductAttributeOptionsGpod productAttributeOptionsGpod=productAttributeOptionsGpoMap.get(productId);
-                AttributeOptionsGpod attributeOptionsGpod = attributeOptionsGpodMap.get(productAttributeOptionsGpod.getAoId());
+                Set<ProductAttributeOptionsGpod> productAttributeOptionsGpod=productAttributeOptionsGpoMap.get(productId);
 
-                // 25 for type
-                if(attributeOptionsGpod.getAtid() == 25){
-                    p.setType(new Type(attributeOptionsGpod.getDesc(),attributeOptionsGpod.getDesc()));
-                }
-                // 27 for weight
-                if(attributeOptionsGpod.getAtid() == 28){
-                    p.setWeight(attributeOptionsGpod.getDesc());
-                    p.setWeightType(attributeOptionsGpod.getDesc());
-                }
+
+                productAttributeOptionsGpod.forEach(productAttributeOptionsGpod1 -> {
+                    AttributeOptionsGpod attributeOptionsGpod = attributeOptionsGpodMap.get(productAttributeOptionsGpod1.getAoId());
+                    // 25 for type
+                    if(attributeOptionsGpod.getAtid() == 25){
+                        p.setType(new Type(attributeOptionsGpod.getDesc(),attributeOptionsGpod.getDesc()));
+                    }
+                    // 27 for weight
+                    if(attributeOptionsGpod.getAtid() == 27){
+                        p.setWeight(attributeOptionsGpod.getDesc());
+                        p.setWeightType(attributeOptionsGpod.getDesc());
+                    }
+                });
 
                 productMap.put(productId,p);
             }
@@ -197,3 +215,4 @@ public class BuildMerrimackData {
 
 
 }
+

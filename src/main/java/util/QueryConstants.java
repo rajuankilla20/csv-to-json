@@ -16,4 +16,8 @@ public class QueryConstants {
     public static final String PRODUCT_CATEGORY_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/product_category.csv";
     public static final String PRODUCT_IMAGE_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/product_images.csv";
     public static final String PRODUCT_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/products.csv";
+    public static final String ROLES_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/roles.csv";
+    public static final String ROLE_USER_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/role_user.csv";
+    public static final String USERS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/users.csv";
+    public static final String WISHLIST_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/wishlists.csv";
 }

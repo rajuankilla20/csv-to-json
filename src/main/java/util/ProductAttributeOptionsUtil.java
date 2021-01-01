@@ -10,13 +10,14 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Date;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
 public class ProductAttributeOptionsUtil {
 
 
-    public static void buildProductAttributeOptions(Map<Integer,ProductAttributeOptionsGpod> productAttributeOptionsGpodMap) throws IOException {
+    public static void buildProductAttributeOptions(Map<Integer,Set<ProductAttributeOptionsGpod>> productAttributeOptionsGpodMap) throws IOException {
 
         try (
                 Reader reader = Files.newBufferedReader(Paths.get(QueryConstants.PRODUCT_ATTRIBUTES_OPTIONS_CSV_FILE), StandardCharsets.ISO_8859_1);
@@ -28,7 +29,17 @@ public class ProductAttributeOptionsUtil {
             String[] row;
             int count=1;
             while ((row = csvReader.readNext()) != null) {
-                productAttributeOptionsGpodMap.put(Integer.parseInt(row[1]),buildProductAttributeOptions(row));
+                // TODO  need to check if contains then maintain list
+                int productId =Integer.parseInt(row[1]);
+                if(productAttributeOptionsGpodMap.containsKey(productId)){
+                        Set<ProductAttributeOptionsGpod> set = productAttributeOptionsGpodMap.get(productId);
+                        set.add(buildProductAttributeOptions(row));
+                    productAttributeOptionsGpodMap.put(productId,set);
+                }else{
+                    Set<ProductAttributeOptionsGpod> set = new HashSet<>();
+                    set.add(buildProductAttributeOptions(row));
+                    productAttributeOptionsGpodMap.put(productId,set);
+                }
             }
 
         }

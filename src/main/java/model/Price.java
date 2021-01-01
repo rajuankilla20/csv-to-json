@@ -32,4 +32,12 @@ public class Price {
     public int hashCode() {
         return Objects.hash(basePrice, discountPrice);
     }
+
+    @Override
+    public String toString() {
+        return "Price{" +
+                "basePrice=" + basePrice +
+                ", discountPrice=" + discountPrice +
+                '}';
+    }
 }

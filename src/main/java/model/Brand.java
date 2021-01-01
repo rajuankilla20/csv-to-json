@@ -40,4 +40,12 @@ public class Brand {
     public int hashCode() {
         return Objects.hash(code, desc);
     }
+
+    @Override
+    public String toString() {
+        return "Brand{" +
+                "code='" + code + '\'' +
+                ", desc='" + desc + '\'' +
+                '}';
+    }
 }
