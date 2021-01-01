@@ -6,22 +6,24 @@ import java.util.Date;
 import java.util.Objects;
 
 public class FavouritesGpod {
-    private int id;
+    private String id;
     private String code;
     private String image;
     private boolean isActive;
     private Price price;
     private String weight;
     private String weightType;
+    private Date createdTimestamp;
+    private Date updatedTimestamp;
 
     public FavouritesGpod() {
     }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -73,6 +75,22 @@ public class FavouritesGpod {
         this.weightType = weightType;
     }
 
+    public Date getCreatedTimestamp() {
+        return createdTimestamp;
+    }
+
+    public void setCreatedTimestamp(Date createdTimestamp) {
+        this.createdTimestamp = createdTimestamp;
+    }
+
+    public Date getUpdatedTimestamp() {
+        return updatedTimestamp;
+    }
+
+    public void setUpdatedTimestamp(Date updatedTimestamp) {
+        this.updatedTimestamp = updatedTimestamp;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -95,13 +113,15 @@ public class FavouritesGpod {
     @Override
     public String toString() {
         return "FavouritesGpod{" +
-                "id=" + id +
+                "id='" + id + '\'' +
                 ", code='" + code + '\'' +
                 ", image='" + image + '\'' +
                 ", isActive=" + isActive +
                 ", price=" + price +
                 ", weight='" + weight + '\'' +
                 ", weightType='" + weightType + '\'' +
+                ", createdTimestamp=" + createdTimestamp +
+                ", updatedTimestamp=" + updatedTimestamp +
                 '}';
     }
 }

@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/FavouritesGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/RoleUserGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/RolesGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/UserGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/WishlistGpod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/RolesUserUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/RolesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/UsersUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Brand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Price.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ProductAttributeOptionsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ProductAttributeOptionsUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/FavouritesGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/FavouritesGpod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/WishlistGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/WishlistGpod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,9 +136,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/util/ProductCategoryUtil.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/main/java/util/WishlistUtil.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/WishlistUtil.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
