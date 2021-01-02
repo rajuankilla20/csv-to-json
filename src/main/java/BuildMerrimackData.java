@@ -36,6 +36,10 @@ public class BuildMerrimackData {
     public static Map<Integer,RoleUserGpod> roleUserGpodMap = new HashMap<>();
     public static Map<Integer,UserGpod> userGpodMap = new HashMap<>();
     public static Map<Integer,WishlistGpod> wishlistGpodMap = new HashMap<>();
+    public static Map<Integer,OrderStatusGpod> orderStatusGpodMap = new HashMap<>();
+    public static Map<Integer,Set<OrderItemsGpod>> orderItemsGpodMap = new HashMap<>();
+    public static Map<Integer,Set<OrderStatusChangeGpod>> orderStatusChangeGpodMap = new HashMap<>();
+
 
 
 
@@ -88,10 +92,18 @@ public class BuildMerrimackData {
         UsersUtil.buildRoles(userGpodMap,roleUserGpodMap,rolesGpodMap);
         System.out.println("-----------User  conversion done---------------");
         WishlistUtil.buildWishlist(wishlistGpodMap,productMap,userGpodMap);
-        System.out.println("-----------User  conversion done---------------");
+        System.out.println("-----------wishlist  conversion done---------------");
+        OrderStatusUtil.buildOrderStatus(orderStatusGpodMap);
+        System.out.println("-----------orderstatus  conversion done---------------");
+        OrderItemsUtil.buildOrderItems(orderItemsGpodMap);
+        System.out.println("-----------orderstatus  conversion done---------------");
+        OrderStatusChangeUtil.buildOrderStatusChange(orderStatusChangeGpodMap);
+        System.out.println("-----------orderstatus change  conversion done---------------");
 
-        wishlistGpodMap.values().forEach(System.out::println);
+
+//        wishlistGpodMap.values().forEach(System.out::println);
 //        userGpodMap.values().forEach(System.out::println);
+
 
 
 //        System.out.println("-----------Categories---------------");

@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/OrderItemsGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/OrderStatusChangeGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/OrderStatusGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/gpod/OrdersGpod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/OrderItemsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/OrderStatusChangeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/OrderStatusUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/OrdersUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/FavouritesGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/FavouritesGpod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/WishlistGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/WishlistGpod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +45,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="model.gpod" />
       <recent name="util" />
+      <recent name="model.gpod" />
       <recent name="" />
       <recent name="model" />
     </key>

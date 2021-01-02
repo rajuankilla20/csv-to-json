@@ -20,4 +20,10 @@ public class QueryConstants {
     public static final String ROLE_USER_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/role_user.csv";
     public static final String USERS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/users.csv";
     public static final String WISHLIST_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/wishlists.csv";
+    public static final String ORDER_STATUS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/order_status.csv";
+    public static final String ORDER_ITEMS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/order_items.csv";
+    public static final String ORDER_STATUS_CHANGE_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/order_status_changes.csv";
+    public static final String ORDER_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/orders.csv";
+
 }
+
