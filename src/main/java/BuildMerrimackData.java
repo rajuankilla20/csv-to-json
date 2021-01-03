@@ -9,6 +9,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
 
@@ -39,6 +40,9 @@ public class BuildMerrimackData {
     public static Map<Integer,OrderStatusGpod> orderStatusGpodMap = new HashMap<>();
     public static Map<Integer,Set<OrderItemsGpod>> orderItemsGpodMap = new HashMap<>();
     public static Map<Integer,Set<OrderStatusChangeGpod>> orderStatusChangeGpodMap = new HashMap<>();
+    public static Map<Integer,OrdersGpod> ordersGpodMap = new HashMap<>();
+    public static Map<Integer,Set<PosOrdersGpod>> posOrdersGpodMap = new HashMap<>();
+    public static List<FinalUserOrders>  finalUserOrders = new ArrayList<>();
 
 
 
@@ -78,33 +82,61 @@ public class BuildMerrimackData {
           ProductImageUtil.buildProductImage(productImageGpodSet);
 //        System.out.println("-----------ProductImage  conversion done---------------");
 
-           buildProductData();
-            System.out.println("-----------Product  conversion done---------------"+productMap.size());
-//          productMap.forEach((k,v) -> {
-//            System.out.println(v);
-//        });
+
 
         System.out.println("-----------User  conversion done---------------"+productMap.size());
         RolesUtil.buildBrands(rolesGpodMap);
         System.out.println("-----------Roles  conversion done---------------");
         RolesUserUtil.buildRoleUser(roleUserGpodMap);
         System.out.println("-----------Role-User  conversion done---------------");
-        UsersUtil.buildRoles(userGpodMap,roleUserGpodMap,rolesGpodMap);
+        UsersUtil.buildUsers(userGpodMap,roleUserGpodMap,rolesGpodMap);
         System.out.println("-----------User  conversion done---------------");
         WishlistUtil.buildWishlist(wishlistGpodMap,productMap,userGpodMap);
+
         System.out.println("-----------wishlist  conversion done---------------");
         OrderStatusUtil.buildOrderStatus(orderStatusGpodMap);
         System.out.println("-----------orderstatus  conversion done---------------");
         OrderItemsUtil.buildOrderItems(orderItemsGpodMap);
+
+        buildProductData();
+        System.out.println("-----------Product  conversion done---------------"+productMap.size());
+//          productMap.forEach((k,v) -> {
+//            System.out.println(v);
+//        });
+
         System.out.println("-----------orderstatus  conversion done---------------");
         OrderStatusChangeUtil.buildOrderStatusChange(orderStatusChangeGpodMap);
         System.out.println("-----------orderstatus change  conversion done---------------");
+        OrdersUtil.buildOrderStatus(ordersGpodMap);
+        System.out.println("-----------orderstatus change  conversion done---------------");
 
+
+
+        Set<Integer> invalidOrders = new HashSet<>();
+        AtomicInteger count= new AtomicInteger();
+        orderStatusChangeGpodMap.forEach((k,v) -> {
+            OrderStatusChangeGpod gpod = v.stream().filter(change -> change.getOsId() == 7).findAny().orElse(null);
+            if(gpod == null){
+//                System.out.println(" Order Id "+ k +" : Issue not Completed "+ count.getAndIncrement()) ;
+                invalidOrders.add(k);
+            }
+        });
+
+       // PosOrdersUtil.buildPosOrders(posOrdersGpodMap);
+        FinalOrdersUtil.buildUserOrders(finalUserOrders,orderStatusGpodMap,orderStatusChangeGpodMap,ordersGpodMap,orderItemsGpodMap,productMap,userGpodMap);
+
+        System.out.println("-----------final userOrders");
+        finalUserOrders.forEach(System.out::print);
+
+// NOTE:  Invalid records which are not having completed status
+//        invalidOrders.forEach(orderId -> {
+//            OrdersGpod ordersGpod= ordersGpodMap.get(orderId);
+//            UserGpod  userGpod = userGpodMap.get(ordersGpod.getId()); // id is userId
+//            System.out.println("Invoice : "+ ordersGpod.getInvoiceNo() + " , OrderId: "+orderId + " , Email: "+userGpod.getEmail() + ", Invoice Date : "+ ordersGpod.getInvoiceDate());
+//        });
 
 //        wishlistGpodMap.values().forEach(System.out::println);
 //        userGpodMap.values().forEach(System.out::println);
-
-
 
 //        System.out.println("-----------Categories---------------");
 //        categoryGpodSet.forEach(System.out::println);
@@ -143,6 +175,9 @@ public class BuildMerrimackData {
 
 
     private static void buildProductData( ) throws IOException {
+
+
+
         try (
                 Reader reader = Files.newBufferedReader(Paths.get(QueryConstants.PRODUCT_CSV_FILE), StandardCharsets.ISO_8859_1);
                 CSVReader csvReader = new CSVReader(reader);
@@ -184,6 +219,10 @@ public class BuildMerrimackData {
                 p.setActive((Integer.parseInt(row[16]) == 1) ? true :  false ); // 16-"status" -int
                 p.setCreatedTimestamp(DateUtil.getDate(row[17]));  //  17-"created_at" - timestamp
                 p.setUpdatedTimestamp(DateUtil.getDate(row[18])); // 18-"updated_at" - timestamp
+
+//                System.out.println("for orderid: "+ productId);
+//                // set quantity from order items
+//                p.setQuantity(productOrderItemMap.get(productId).getQuantity());
 
                 // for Home pages sections
                 p.setNewlyAdded(false); // default to all products

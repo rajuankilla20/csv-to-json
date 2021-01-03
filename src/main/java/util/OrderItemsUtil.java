@@ -57,10 +57,19 @@ public class OrderItemsUtil {
         orderItemsGpod.setCost(Double.parseDouble(row[7])); // 7-cost
         orderItemsGpod.setSubTotal(Double.parseDouble(row[10])); // 10-sub_total
         orderItemsGpod.setSubstituteProduct(row[12]); // 12-substitute_product
-        orderItemsGpod.setSubstituteQuantity(Integer.parseInt(row[13])); // 13-substitute_qty
+        if("NULL".equalsIgnoreCase(row[13])){
+            orderItemsGpod.setSubstituteQuantity(0);
+        }else{
+            orderItemsGpod.setSubstituteQuantity(Integer.parseInt(row[13])); // 13-substitute_qty        }
+        }
         orderItemsGpod.setSubstitute(row[14]); // 14-substitute
         orderItemsGpod.setCreatedTimestamp(DateUtil.getDate(row[15]));// 15-created_at
-        orderItemsGpod.setUpdatedTimestamp(DateUtil.getDate(row[16]));// 16-updated_at
+
+        if("NULL".equalsIgnoreCase(row[16])){
+            orderItemsGpod.setUpdatedTimestamp(DateUtil.getDate(row[15]));// 16-updated_at
+        }else{
+            orderItemsGpod.setUpdatedTimestamp(DateUtil.getDate(row[16]));// 16-updated_at
+        }
        return orderItemsGpod;
     }
 }

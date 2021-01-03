@@ -17,7 +17,7 @@ import java.util.Map;
 public class UsersUtil {
 
 
-    public static void buildRoles(Map<Integer, UserGpod> userGpodMap,Map<Integer, RoleUserGpod> roleUserGpodMap,Map<Integer,RolesGpod> rolesGpodMap) throws IOException {
+    public static void buildUsers(Map<Integer, UserGpod> userGpodMap, Map<Integer, RoleUserGpod> roleUserGpodMap, Map<Integer,RolesGpod> rolesGpodMap) throws IOException {
 
         try (
                 Reader reader = Files.newBufferedReader(Paths.get(QueryConstants.USERS_CSV_FILE), StandardCharsets.ISO_8859_1);
@@ -29,8 +29,8 @@ public class UsersUtil {
             String[] row;
             int count=1;
             while ((row = csvReader.readNext()) != null) {
-                int roleId = Integer.parseInt(row[0]);
-                userGpodMap.put(roleId, buildRoleGpod(row,roleUserGpodMap,rolesGpodMap));
+                int userId = Integer.parseInt(row[0]);
+                userGpodMap.put(userId, buildRoleGpod(row,roleUserGpodMap,rolesGpodMap));
             }
 
         }

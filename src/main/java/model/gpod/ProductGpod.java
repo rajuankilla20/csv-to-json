@@ -31,6 +31,7 @@ public class ProductGpod {
     private boolean isNewlyAdded;
     private boolean isActive;
     private boolean isDealsEnabled=false;
+    private int quantity;
 
     public ProductGpod() {
     }
@@ -235,38 +236,50 @@ public class ProductGpod {
         isNewlyAdded = newlyAdded;
     }
 
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        ProductGpod product = (ProductGpod) o;
-        return Double.compare(product.tax, tax) == 0 &&
-                isActive == product.isActive &&
-                isDealsEnabled == product.isDealsEnabled &&
-                Objects.equals(id, product.id) &&
-                Objects.equals(code, product.code) &&
-                Objects.equals(desc, product.desc) &&
-                Objects.equals(categories, product.categories) &&
-                Objects.equals(subCategories, product.subCategories) &&
-                Objects.equals(brands, product.brands) &&
-                Objects.equals(price, product.price) &&
-                Objects.equals(type, product.type) &&
-                Objects.equals(deal, product.deal) &&
-                Objects.equals(weight, product.weight) &&
-                Objects.equals(spiceLevel, product.spiceLevel) &&
-                Objects.equals(aiselNo, product.aiselNo) &&
-                Objects.equals(store, product.store) &&
-                Objects.equals(weightType, product.weightType) &&
-                Objects.equals(imageName, product.imageName) &&
-                Objects.equals(defaultImage, product.defaultImage) &&
-                Arrays.equals(imageUris, product.imageUris) &&
-                Objects.equals(updatedTimestamp, product.updatedTimestamp) &&
-                Objects.equals(createdTimestamp, product.createdTimestamp);
+        ProductGpod that = (ProductGpod) o;
+        return Double.compare(that.tax, tax) == 0 &&
+                isNewlyAdded == that.isNewlyAdded &&
+                isActive == that.isActive &&
+                isDealsEnabled == that.isDealsEnabled &&
+                quantity == that.quantity &&
+                Objects.equals(id, that.id) &&
+                Objects.equals(code, that.code) &&
+                Objects.equals(desc, that.desc) &&
+                Objects.equals(shortName, that.shortName) &&
+                Objects.equals(sku, that.sku) &&
+                Objects.equals(categories, that.categories) &&
+                Objects.equals(subCategories, that.subCategories) &&
+                Objects.equals(brands, that.brands) &&
+                Objects.equals(price, that.price) &&
+                Objects.equals(type, that.type) &&
+                Objects.equals(deal, that.deal) &&
+                Objects.equals(weight, that.weight) &&
+                Objects.equals(spiceLevel, that.spiceLevel) &&
+                Objects.equals(aiselNo, that.aiselNo) &&
+                Objects.equals(store, that.store) &&
+                Objects.equals(weightType, that.weightType) &&
+                Objects.equals(imageName, that.imageName) &&
+                Objects.equals(defaultImage, that.defaultImage) &&
+                Arrays.equals(imageUris, that.imageUris) &&
+                Objects.equals(updatedTimestamp, that.updatedTimestamp) &&
+                Objects.equals(createdTimestamp, that.createdTimestamp);
     }
 
     @Override
     public int hashCode() {
-        int result = Objects.hash(id, code, desc, categories, subCategories, brands, price, type, deal, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isActive, isDealsEnabled);
+        int result = Objects.hash(id, code, desc, shortName, sku, categories, subCategories, brands, price, type, deal, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isNewlyAdded, isActive, isDealsEnabled, quantity);
         result = 31 * result + Arrays.hashCode(imageUris);
         return result;
     }
@@ -299,6 +312,7 @@ public class ProductGpod {
                 ", isNewlyAdded=" + isNewlyAdded +
                 ", isActive=" + isActive +
                 ", isDealsEnabled=" + isDealsEnabled +
+                ", quantity=" + quantity +
                 '}';
     }
 }

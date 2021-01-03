@@ -14,6 +14,8 @@ import java.util.Map;
 public class OrdersUtil {
 
 
+    // percentage , none , custom, fixed, 5,7,10,12,15
+
     public static void buildOrderStatus(Map<Integer, OrdersGpod> ordersGpodMap) throws IOException {
 
         try (
@@ -24,6 +26,7 @@ public class OrdersUtil {
             // to avoid header
             csvReader.readNext();
             String[] row;
+
             int count=1;
             while ((row = csvReader.readNext()) != null) {
                 int orderId= Integer.parseInt(row[0]);
@@ -48,18 +51,23 @@ public class OrdersUtil {
         o.setInvoiceNo(row[2]);  // 2-"invoice_no"
         o.setBillingFullName(row[4]);  // 4-"billing_full_name"
         o.setPaymentGatewayTransactionStatus(row[9]);  // 9-"payment_gateway_transaction_status"
-        o.setInvoiceDate(DateUtil.getDate(row[10]));  // 10-"invoice_date"
+        o.setInvoiceDate(DateUtil.getYYYMMDDDate(row[10]));  // 10-"invoice_date"
         o.setCouponId(row[11]);  // 11-"couponid"
         o.setCouponDiscount(row[12]);  // 12-"coupon_discount"
         o.setFinalSubtotal(Double.parseDouble(row[13])); // 13-"final_subtotal"
-        o.setShippingChargeNet(Double.parseDouble(row[14])); // 14-"shipping_charge_net"
+        o.setShippingChargeNet(0); // 14-"shipping_charge_net" ,ignoring to 0
         o.setTax(Double.parseDouble(row[15])); // 15-"tax"
-        o.setTip(Double.parseDouble(row[16])); // 16-"tip"
+        if("NULL".equalsIgnoreCase(row[16])){
+            o.setTip(0); // 16-"tip"
+        }else{
+            o.setTip(Double.parseDouble(row[16])); // 16-"tip"
+        }
+
         o.setTipType(row[17]);  // 17-"tip_type"
         o.setGrandTotal(Double.parseDouble(row[18])); // 18-"grand_total"
         o.setIp(row[19]);  // 19-"ip"
         o.setPaymentMethod(row[20]);  // 20-"payment_method"
-        o.setPickupDate(DateUtil.getDate(row[21]));  // 21-"pickup_date"
+        o.setPickupDate(DateUtil.getYYYMMDDDate(row[21]));  // 21-"pickup_date"
         o.setPickupTime(row[22]);  // 22-"pickup_time"
         o.setPickupLocation(row[23]);  // 23-"pickup_location"
         o.setSubstituteOption(Integer.parseInt(row[24]));  // 24-"substitute_option"
