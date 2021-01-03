@@ -1,10 +1,7 @@
 package util;
 
 import com.opencsv.CSVReader;
-import model.Brand;
 import model.Category;
-import model.Product;
-import model.SubCategory;
 import model.gpod.CategoryGpod;
 import model.gpod.SubCategoryGpod;
 
@@ -39,11 +36,12 @@ public class CatAndSubCatUtil {
             categoryGpodsSet.addAll(tempCategoryGpodList.stream().filter( categoryGpod -> categoryGpod.getProductCateogryId() ==0).collect(Collectors.toSet()));
 
             // cat map
-            categoryGpodsSet.forEach(categoryGpod -> categoryGpodMap.put(categoryGpod.getCid(),categoryGpod));
+            categoryGpodsSet.forEach(categoryGpod -> categoryGpodMap.put(categoryGpod.getId(),categoryGpod));
 
 
             buildSubcategory(categoryGpodMap,tempCategoryGpodList,subCategoryGpodSet);
         }
+
     }
 
     private static void buildSubcategory(Map<Integer,CategoryGpod> onlycategoryGpodList,Set<CategoryGpod> tempCategoryGpodList, Map<Integer,SubCategoryGpod> subCategoryGpodList) {
@@ -51,10 +49,10 @@ public class CatAndSubCatUtil {
         tempCategoryGpodList.forEach(categoryGpod -> {
                     // p_cid = 0 is category, =1 is subcat
                    if(categoryGpod.getProductCateogryId() !=0){
-                       CategoryGpod category = onlycategoryGpodList.values().stream().filter(category1 -> (category1.getCid() == categoryGpod.getProductCateogryId())).findAny().orElse(null);
+                       CategoryGpod category = onlycategoryGpodList.values().stream().filter(category1 -> (category1.getId() == categoryGpod.getProductCateogryId())).findAny().orElse(null);
                        SubCategoryGpod subCategory = subCategoryGpodList.values().stream().filter(subCat -> subCat.getDesc().equalsIgnoreCase(categoryGpod.getDesc())).findAny().orElse(null);
                         if(null == subCategory){
-                            subCategoryGpodList.put(categoryGpod.getCid(), prepareSubCategoryObject(categoryGpod,category));
+                            subCategoryGpodList.put(categoryGpod.getId(), prepareSubCategoryObject(categoryGpod,category));
                         }else{
                             subCategory.getCategories().add(new Category(category.getCode(),category.getDesc()));
                             subCategoryGpodList.put(subCategory.getId(),subCategory);
@@ -67,7 +65,7 @@ public class CatAndSubCatUtil {
     private static SubCategoryGpod prepareSubCategoryObject(CategoryGpod subCat,CategoryGpod cat) {
         SubCategoryGpod subCategoryGpod = new SubCategoryGpod();
 
-        subCategoryGpod.setId(subCat.getCid());
+        subCategoryGpod.setId(subCat.getId());
         subCategoryGpod.setActive(subCat.isActive());
         subCategoryGpod.setUpdatedTimestamp(subCat.getUpdatedTimestamp());
         subCategoryGpod.setCreatedTimestamp(subCat.getCreatedTimestamp());

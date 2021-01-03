@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.Objects;
 
 public class CategoryGpod {
-    private int cid;
+    private int id;
     private String desc;
     private String code;
     private String imageName;
@@ -16,8 +16,8 @@ public class CategoryGpod {
     public CategoryGpod() {
     }
 
-    public CategoryGpod(int cid, String desc, String code, String imageName,int productCateogryId,boolean isActive, Date createdTimestamp, Date updatedTimestamp) {
-        this.cid = cid;
+    public CategoryGpod(int id, String desc, String code, String imageName, int productCateogryId, boolean isActive, Date createdTimestamp, Date updatedTimestamp) {
+        this.id = id;
         this.desc = desc;
         this.code = code;
         this.imageName = imageName;
@@ -27,12 +27,12 @@ public class CategoryGpod {
         this.updatedTimestamp = updatedTimestamp;
     }
 
-    public int getCid() {
-        return cid;
+    public int getId() {
+        return id;
     }
 
-    public void setCid(int cid) {
-        this.cid = cid;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getDesc() {
@@ -96,7 +96,7 @@ public class CategoryGpod {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         CategoryGpod that = (CategoryGpod) o;
-        return cid == that.cid &&
+        return id == that.id &&
                 productCateogryId == that.productCateogryId &&
                 isActive == that.isActive &&
                 Objects.equals(desc, that.desc) &&
@@ -108,13 +108,13 @@ public class CategoryGpod {
 
     @Override
     public int hashCode() {
-        return Objects.hash(cid, desc, code, imageName, productCateogryId, createdTimestamp, updatedTimestamp, isActive);
+        return Objects.hash(id, desc, code, imageName, productCateogryId, createdTimestamp, updatedTimestamp, isActive);
     }
 
     @Override
     public String toString() {
         return "CategoryGpod{" +
-                "cid=" + cid +
+                "cid=" + id +
                 ", desc='" + desc + '\'' +
                 ", code='" + code + '\'' +
                 ", imageName='" + imageName + '\'' +

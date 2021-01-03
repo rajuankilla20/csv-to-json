@@ -1,0 +1,82 @@
+[
+  {
+    "id": 16,
+    "desc": "Fresh Produce",
+    "code": "fresh-produce",
+    "imageName": "1598812637.svg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 48,
+    "desc": "Halloween Specials",
+    "code": "halloween-specials",
+    "imageName": "1602973804.svg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "updatedTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "isActive": true
+  },
+  {
+    "id": 1,
+    "desc": "Cooking Needs",
+    "code": "cooking-needs",
+    "imageName": "1598811335.jpg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 38,
+    "desc": "Meat \u0026 Seafood",
+    "code": "meat-and-seafood",
+    "imageName": "1598812572.svg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "desc": "Beverages, Chips \u0026 Snacks",
+    "code": "beverages,-chips-and-snacks",
+    "imageName": "1598811015.jpg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 23,
+    "desc": "Dorm Essentials",
+    "code": "dorm-essentials",
+    "imageName": "1598812533.svg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "desc": "Breakfast \u0026 Dairy",
+    "code": "breakfast-and-dairy",
+    "imageName": "1598811626.svg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 31,
+    "desc": "Personal Care",
+    "code": "personal-care",
+    "imageName": "1598811783.jpg",
+    "productCateogryId": 0,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  }
+]

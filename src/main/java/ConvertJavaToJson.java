@@ -34,12 +34,11 @@ public class ConvertJavaToJson {
         createJsonFile(subCategoryModelList,"sub-categories.json");
     }
 
-    private static void createJsonFile(Object printObject,String fileName) {
+    public static void createJsonFile(Object printObject,String fileName) {
         Gson gson =  new GsonBuilder().setPrettyPrinting().create();
 //        String jsonString = gson.toJson(printObject);
 //        System.out.println(" File : "+ fileName + " -->\n" + jsonString);
-
-        try (FileWriter writer = new FileWriter("D:/projects/csv-json-proj/csv-to-json/src/main/resources/"+fileName)) {
+        try (FileWriter writer = new FileWriter("D:/projects/csv-json-proj/csv-to-json/src/main/resources/merimmack-migrated-data/"+fileName+".json")) {
             gson.toJson(printObject, writer);
         } catch (IOException e) {
             e.printStackTrace();

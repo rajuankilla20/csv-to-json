@@ -53,6 +53,7 @@ public class ProductsReader {
         // write products  to json file
           ConvertJavaToJson.convertProductsToJson(new ArrayList(productMap.values()));
 
+
         // Write categories to Json file
         // ConvertJavaToJson.convertCatToSubCatToJson(buildCategories(categoriesMap), buildSubCat(subCategoriesMap));
 

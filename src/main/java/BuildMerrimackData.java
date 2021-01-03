@@ -67,7 +67,8 @@ public class BuildMerrimackData {
 
     public static void main(String[] args) throws IOException {
         // preparing categories with status==0 in categories.csv
-        CatAndSubCatUtil.buildCategoriesAndSubcategory(categoryGpodMap,subCategoryGpodMap);
+         CatAndSubCatUtil.buildCategoriesAndSubcategory(categoryGpodMap,subCategoryGpodMap);
+         ConvertJavaToJson.createJsonFile(categoryGpodMap.values(),"categories");
 //        System.out.println("-----------Cat & Sub-Cats conversion done---------------");
           BrandsUtil.buildBrands(brandGpodMap);
 //          System.out.println("-----------Brands conversion done---------------");
@@ -77,7 +78,7 @@ public class BuildMerrimackData {
 //          System.out.println("-----------AttributesOptions  conversion done---------------");
           ProductAttributeOptionsUtil.buildProductAttributeOptions(productAttributeOptionsGpoMap); //key-productId
 //          System.out.println("-----------AttributesOptions  conversion done---------------");
-           ProductCategoryUtil.buildProductCategory(productCategoryGpodMap,productSubCategoryGpodMap, categoryGpodMap.values().stream().map(CategoryGpod::getCid).collect(Collectors.toSet()));
+           ProductCategoryUtil.buildProductCategory(productCategoryGpodMap,productSubCategoryGpodMap, categoryGpodMap.values().stream().map(CategoryGpod::getId).collect(Collectors.toSet()));
 //          System.out.println("-----------ProductCategory  conversion done---------------");
           ProductImageUtil.buildProductImage(productImageGpodSet);
 //        System.out.println("-----------ProductImage  conversion done---------------");
