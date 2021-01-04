@@ -4,10 +4,8 @@
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProductsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductsReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/CategoryGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/CategoryGpod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CatAndSubCatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/RolesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/RolesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/categories.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,11 +138,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/util/FinalOrdersUtil.java</url>
           <line>59</line>
           <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/BuildMerrimackData.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

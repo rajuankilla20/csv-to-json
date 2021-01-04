@@ -1,0 +1,587 @@
+[
+  {
+    "id": 2,
+    "code": "baking-and-cooking",
+    "desc": "Baking & Cooking",
+    "imageName": "1598814807.jpg",
+    "categories": [
+      {
+        "code": "cooking-needs",
+        "desc": "Cooking Needs"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 3,
+    "code": "canned-food",
+    "desc": "Canned Food",
+    "imageName": "1598814971.jpg",
+    "categories": [
+      {
+        "code": "cooking-needs",
+        "desc": "Cooking Needs"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 4,
+    "code": "condiments-and-sauces",
+    "desc": "Condiments & Sauces",
+    "imageName": "1598815110.jpg",
+    "categories": [
+      {
+        "code": "cooking-needs",
+        "desc": "Cooking Needs"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 5,
+    "code": "frozen-food",
+    "desc": "Frozen Food",
+    "imageName": "1598815173.jpg",
+    "categories": [
+      {
+        "code": "cooking-needs",
+        "desc": "Cooking Needs"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 6,
+    "code": "rice,-grain,-pasta-and-beans",
+    "desc": "Rice, Grain, Pasta & Beans",
+    "imageName": "1598815239.jpg",
+    "categories": [
+      {
+        "code": "cooking-needs",
+        "desc": "Cooking Needs"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 8,
+    "code": "beverages-and-water",
+    "desc": "Beverages & Water",
+    "imageName": "1598815709.jpg",
+    "categories": [
+      {
+        "code": "beverages,-chips-and-snacks",
+        "desc": "Beverages, Chips & Snacks"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 9,
+    "code": "chips-and-snacks",
+    "desc": "Chips & Snacks",
+    "imageName": "1598815759.jpg",
+    "categories": [
+      {
+        "code": "beverages,-chips-and-snacks",
+        "desc": "Beverages, Chips & Snacks"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 10,
+    "code": "breakfast-bars-and-pastires",
+    "desc": "Breakfast Bars & Pastries",
+    "imageName": "1598815819.jpg",
+    "categories": [
+      {
+        "code": "beverages,-chips-and-snacks",
+        "desc": "Beverages, Chips & Snacks"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 12,
+    "code": "breakfast-and-cereal",
+    "desc": "Breakfast & Cereal",
+    "imageName": "1598815393.jpg",
+    "categories": [
+      {
+        "code": "breakfast-and-dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 13,
+    "code": "tea-and-coffee",
+    "desc": "Tea & Coffee",
+    "imageName": "1598815464.jpg",
+    "categories": [
+      {
+        "code": "breakfast-and-dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 14,
+    "code": "breads-and-rolls",
+    "desc": "Breads & Rolls",
+    "imageName": "1598815529.jpg",
+    "categories": [
+      {
+        "code": "breakfast-and-dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 15,
+    "code": "dairy-and-eggs",
+    "desc": "Dairy & Eggs",
+    "imageName": "1598815614.jpg",
+    "categories": [
+      {
+        "code": "breakfast-and-dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 17,
+    "code": "fresh-vegetables",
+    "desc": "Fresh Vegetables",
+    "imageName": "1598816768.jpg",
+    "categories": [
+      {
+        "code": "fresh-produce",
+        "desc": "Fresh Produce"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 18,
+    "code": "fresh-herbs",
+    "desc": "Fresh Herbs",
+    "imageName": "1599179226.jpg",
+    "categories": [
+      {
+        "code": "fresh-produce",
+        "desc": "Fresh Produce"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 19,
+    "code": "fresh-fruits",
+    "desc": "Fresh Fruits",
+    "imageName": "1598816023.jpg",
+    "categories": [
+      {
+        "code": "fresh-produce",
+        "desc": "Fresh Produce"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 20,
+    "code": "fresh-organic-vegetables",
+    "desc": "Fresh Organic Vegetables",
+    "imageName": "1598817993.jpg",
+    "categories": [
+      {
+        "code": "fresh-produce",
+        "desc": "Fresh Produce"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 21,
+    "code": "fresh-organic-herbs",
+    "desc": "Fresh Organic Herbs",
+    "imageName": "1598817935.jpg",
+    "categories": [
+      {
+        "code": "fresh-produce",
+        "desc": "Fresh Produce"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 22,
+    "code": "fresh-organic-fruits",
+    "desc": "Fresh Organic Fruits",
+    "imageName": "1598817975.jpg",
+    "categories": [
+      {
+        "code": "fresh-produce",
+        "desc": "Fresh Produce"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 24,
+    "code": "air-freshners-and-candles",
+    "desc": "Air Fresheners & Candles",
+    "imageName": "1598818896.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 25,
+    "code": "cleaning-products",
+    "desc": "Cleaning Products",
+    "imageName": "1598818863.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 26,
+    "code": "dish-detergents",
+    "desc": "Dish Detergents",
+    "imageName": "1598818834.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 27,
+    "code": "food-storage-&-kitchen-supplies",
+    "desc": "Food Storage & Kitchen Supplies",
+    "imageName": "1598818797.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 28,
+    "code": "laundry",
+    "desc": "Laundry",
+    "imageName": "1598818731.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 29,
+    "code": "paper-goods",
+    "desc": "Paper Goods",
+    "imageName": "1598818693.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 30,
+    "code": "trash-bags-and-liners",
+    "desc": "Trash Bags & Liners",
+    "imageName": "1598818655.jpg",
+    "categories": [
+      {
+        "code": "dorm-essentials",
+        "desc": "Dorm Essentials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 32,
+    "code": "body-wash,-soap-and-hair-care",
+    "desc": "Body Wash, Soap & Hair Care",
+    "imageName": "1598819036.jpg",
+    "categories": [
+      {
+        "code": "personal-care",
+        "desc": "Personal Care"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 35,
+    "code": "feminine-care",
+    "desc": "Feminine Care",
+    "imageName": "1598819155.jpg",
+    "categories": [
+      {
+        "code": "personal-care",
+        "desc": "Personal Care"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 36,
+    "code": "vitamins-and-protiens",
+    "desc": "Vitamins & Proteins",
+    "imageName": "1598819186.jpg",
+    "categories": [
+      {
+        "code": "personal-care",
+        "desc": "Personal Care"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 37,
+    "code": "first-aid-and-healthcare",
+    "desc": "First Aid & Healthcare",
+    "imageName": "1598819122.jpg",
+    "categories": [
+      {
+        "code": "personal-care",
+        "desc": "Personal Care"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 39,
+    "code": "meat-and-seafood-counter",
+    "desc": "Meat & Seafood Counter",
+    "imageName": "1598820072.jpg",
+    "categories": [
+      {
+        "code": "meat-and-seafood",
+        "desc": "Meat & Seafood"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 40,
+    "code": "packaged-meat-and-seafood",
+    "desc": "Packaged Meat & Seafood",
+    "imageName": "1598826341.jpg",
+    "categories": [
+      {
+        "code": "meat-and-seafood",
+        "desc": "Meat & Seafood"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 41,
+    "code": "hot-dogs,-bacon-and-sausage",
+    "desc": "Hot Dogs, Bacon & Sausage",
+    "imageName": "1598820013.jpg",
+    "categories": [
+      {
+        "code": "meat-and-seafood",
+        "desc": "Meat & Seafood"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 42,
+    "code": "lunch-meat",
+    "desc": "Lunch Meat",
+    "imageName": "1598819984.jpg",
+    "categories": [
+      {
+        "code": "meat-and-seafood",
+        "desc": "Meat & Seafood"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 44,
+    "code": "canned-meat-and-seafood",
+    "desc": "Canned Meat & Seafood",
+    "imageName": "1598819926.jpg",
+    "categories": [
+      {
+        "code": "meat-and-seafood",
+        "desc": "Meat & Seafood"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 45,
+    "code": "frozen-meat-and-seafood",
+    "desc": "Frozen Meat & Seafood",
+    "imageName": "1598819896.jpg",
+    "categories": [
+      {
+        "code": "meat-and-seafood",
+        "desc": "Meat & Seafood"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM"
+  },
+  {
+    "id": 47,
+    "code": "personal-needs",
+    "desc": "Personal Needs",
+    "imageName": "1598844854.jpg",
+    "categories": [
+      {
+        "code": "personal-care",
+        "desc": "Personal Care"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Aug 30, 2020 11:31:08 PM",
+    "updatedTimestamp": "Aug 30, 2020 11:31:08 PM"
+  },
+  {
+    "id": 49,
+    "code": "candy-&-chocolates",
+    "desc": "Candy & Chocolates",
+    "imageName": "1602974000.jpg",
+    "categories": [
+      {
+        "code": "halloween-specials",
+        "desc": "Halloween Specials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "updatedTimestamp": "Oct 17, 2020 6:16:19 PM"
+  },
+  {
+    "id": 50,
+    "code": "halloween-decor",
+    "desc": "Halloween Decor",
+    "imageName": "1602973889.svg",
+    "categories": [
+      {
+        "code": "halloween-specials",
+        "desc": "Halloween Specials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "updatedTimestamp": "Oct 17, 2020 6:16:19 PM"
+  },
+  {
+    "id": 51,
+    "code": "halloween-cookies",
+    "desc": "Halloween Cookies",
+    "imageName": "1602973988.jpg",
+    "categories": [
+      {
+        "code": "halloween-specials",
+        "desc": "Halloween Specials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "updatedTimestamp": "Oct 17, 2020 6:16:19 PM"
+  }
+]

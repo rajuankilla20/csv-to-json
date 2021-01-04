@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "customer",
+    "createdTimestamp": "Jul 7, 2020 7:39:59 AM",
+    "updatedTimestamp": "Jul 7, 2020 7:39:59 AM",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "shopper",
+    "createdTimestamp": "Jul 7, 2020 7:39:59 AM",
+    "updatedTimestamp": "Jul 7, 2020 7:39:59 AM",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "pos",
+    "createdTimestamp": "Jul 7, 2020 7:39:59 AM",
+    "updatedTimestamp": "Jul 7, 2020 7:39:59 AM",
+    "isActive": true
+  }
+]

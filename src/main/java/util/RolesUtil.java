@@ -15,7 +15,7 @@ import java.util.Map;
 public class RolesUtil {
 
 
-    public static void buildBrands(Map<Integer, RolesGpod> rolesGpodMap) throws IOException {
+    public static void buildRoles(Map<Integer, RolesGpod> rolesGpodMap) throws IOException {
 
         try (
                 Reader reader = Files.newBufferedReader(Paths.get(QueryConstants.ROLES_CSV_FILE), StandardCharsets.ISO_8859_1);

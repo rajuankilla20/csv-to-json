@@ -37,6 +37,7 @@ public class BuildMerrimackData {
     public static Map<Integer,RoleUserGpod> roleUserGpodMap = new HashMap<>();
     public static Map<Integer,UserGpod> userGpodMap = new HashMap<>();
     public static Map<Integer,WishlistGpod> wishlistGpodMap = new HashMap<>();
+    public static Set<WishlistGpod> userFavourites = new HashSet<>();
     public static Map<Integer,OrderStatusGpod> orderStatusGpodMap = new HashMap<>();
     public static Map<Integer,Set<OrderItemsGpod>> orderItemsGpodMap = new HashMap<>();
     public static Map<Integer,Set<OrderStatusChangeGpod>> orderStatusChangeGpodMap = new HashMap<>();
@@ -68,9 +69,11 @@ public class BuildMerrimackData {
     public static void main(String[] args) throws IOException {
         // preparing categories with status==0 in categories.csv
          CatAndSubCatUtil.buildCategoriesAndSubcategory(categoryGpodMap,subCategoryGpodMap);
-         ConvertJavaToJson.createJsonFile(categoryGpodMap.values(),"categories");
+//         ConvertJavaToJson.createJsonFile(categoryGpodMap.values(),"categories"); // Done
+//         ConvertJavaToJson.createJsonFile(subCategoryGpodMap.values(),"sub-categories"); // Done
 //        System.out.println("-----------Cat & Sub-Cats conversion done---------------");
-          BrandsUtil.buildBrands(brandGpodMap);
+          BrandsUtil.buildBrands(brandGpodMap); // done
+//          ConvertJavaToJson.createJsonFile(brandGpodMap.values(),"brands"); // Done
 //          System.out.println("-----------Brands conversion done---------------");
           AttributesUtil.buildAttributes(attributeGpodMap);
 //          System.out.println("-----------Attributes conversion done---------------");
@@ -83,29 +86,32 @@ public class BuildMerrimackData {
           ProductImageUtil.buildProductImage(productImageGpodSet);
 //        System.out.println("-----------ProductImage  conversion done---------------");
 
-
-
         System.out.println("-----------User  conversion done---------------"+productMap.size());
-        RolesUtil.buildBrands(rolesGpodMap);
+        RolesUtil.buildRoles(rolesGpodMap);
+//        ConvertJavaToJson.createJsonFile(rolesGpodMap.values(),"roles"); // Done
+
         System.out.println("-----------Roles  conversion done---------------");
         RolesUserUtil.buildRoleUser(roleUserGpodMap);
+
         System.out.println("-----------Role-User  conversion done---------------");
         UsersUtil.buildUsers(userGpodMap,roleUserGpodMap,rolesGpodMap);
-        System.out.println("-----------User  conversion done---------------");
-        WishlistUtil.buildWishlist(wishlistGpodMap,productMap,userGpodMap);
+//        ConvertJavaToJson.createJsonFile(userGpodMap.values(),"users"); // Done
+
 
         System.out.println("-----------wishlist  conversion done---------------");
         OrderStatusUtil.buildOrderStatus(orderStatusGpodMap);
+//        ConvertJavaToJson.createJsonFile(orderStatusGpodMap.values(),"order-status"); // Done
+
         System.out.println("-----------orderstatus  conversion done---------------");
         OrderItemsUtil.buildOrderItems(orderItemsGpodMap);
 
         buildProductData();
+
         System.out.println("-----------Product  conversion done---------------"+productMap.size());
 //          productMap.forEach((k,v) -> {
 //            System.out.println(v);
 //        });
-
-        System.out.println("-----------orderstatus  conversion done---------------");
+//        ConvertJavaToJson.createJsonFile(productMap.values(),"products"); // Done
         OrderStatusChangeUtil.buildOrderStatusChange(orderStatusChangeGpodMap);
         System.out.println("-----------orderstatus change  conversion done---------------");
         OrdersUtil.buildOrderStatus(ordersGpodMap);
@@ -126,51 +132,25 @@ public class BuildMerrimackData {
        // PosOrdersUtil.buildPosOrders(posOrdersGpodMap);
         FinalOrdersUtil.buildUserOrders(finalUserOrders,orderStatusGpodMap,orderStatusChangeGpodMap,ordersGpodMap,orderItemsGpodMap,productMap,userGpodMap);
 
+//        ConvertJavaToJson.createJsonFile(finalUserOrders,"user-orders"); // Done
         System.out.println("-----------final userOrders");
-        finalUserOrders.forEach(System.out::print);
+//        finalUserOrders.forEach(System.out::print);
 
-// NOTE:  Invalid records which are not having completed status
-//        invalidOrders.forEach(orderId -> {
-//            OrdersGpod ordersGpod= ordersGpodMap.get(orderId);
-//            UserGpod  userGpod = userGpodMap.get(ordersGpod.getId()); // id is userId
-//            System.out.println("Invoice : "+ ordersGpod.getInvoiceNo() + " , OrderId: "+orderId + " , Email: "+userGpod.getEmail() + ", Invoice Date : "+ ordersGpod.getInvoiceDate());
-//        });
+        System.out.println("-----------User  conversion done---------------");
+        WishlistUtil.buildWishlist(wishlistGpodMap,productMap,userGpodMap);
 
-//        wishlistGpodMap.values().forEach(System.out::println);
-//        userGpodMap.values().forEach(System.out::println);
-
-//        System.out.println("-----------Categories---------------");
-//        categoryGpodSet.forEach(System.out::println);
-//        System.out.println("-----------Sub - Categories---------------");
-//        subCategoryGpodSet.forEach(System.out::println);
-//        System.out.println("-----------Brands---------------");
-//        brandGpodSet.forEach(System.out::println);
-//        System.out.println("-----------Atributes---------------");
-//        attributeGpodSet.forEach(System.out::println);
-//        System.out.println("-----------Atribute Options---------------");
-//        attributeOptionsGpodSet.forEach(System.out::println);
-//        System.out.println("-----------Product Atribute Options---------------");
-//        productAttributeOptionsGpodSet.forEach(System.out::println);
-//        System.out.println("-----------Product-Category ---------------");
-//        productCategoryGpodMap.forEach((k,v) -> {
-//            System.out.println("cat Key : "+k+" : value [ " + v.stream().map(String::valueOf).collect(Collectors.joining(",")) + " ]");
-//        });
-//        System.out.println("-----------Product-sub-Category ---------------");
-//        productSubCategoryGpodMap.forEach((k,v) -> {
-//            System.out.println("sub Key : "+k+" : value [ " + v.stream().map(String::valueOf).collect(Collectors.joining(",")) + " ]");
-//        });
-
-
-
-//        System.out.println("-----------Product-Image ---------------");
-//        productImageGpodSet.forEach(System.out::println);
-
-//         write products  to json file
-        //  ConvertJavaToJson.convertProductsToJson(new ArrayList(productMap.values()));
-
-        // Write categories to Json file
-        // ConvertJavaToJson.convertCatToSubCatToJson(buildCategories(categoriesMap), buildSubCat(subCategoriesMap));
-
+        // NOTE : adding emailid instead of user id for user-favourites
+        wishlistGpodMap.values().forEach(wishlistGpod -> {
+//            wishlistGpod.setUserId(userGpodMap.get(Integer.parseInt(wishlistGpod.getUserId())).getEmail());
+            if(null != userGpodMap.get(Integer.parseInt(wishlistGpod.getUserId()))){
+                String email = userGpodMap.get(Integer.parseInt(wishlistGpod.getUserId())).getEmail();
+                wishlistGpod.setUserId(email);
+                userFavourites.add(wishlistGpod);
+            }else{
+                System.out.println("Userid not found : "+ wishlistGpod.getUserId());
+            }
+        });
+        //ConvertJavaToJson.createJsonFile(userFavourites,"user-favorites"); // Done
 
     }
 
