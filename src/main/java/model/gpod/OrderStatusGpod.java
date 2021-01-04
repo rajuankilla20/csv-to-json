@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.Objects;
 
 public class OrderStatusGpod {
-    private int osId;
+    private int id;
     private String name;
     private Date createdTimestamp;
     private Date updatedTimestamp;
@@ -14,19 +14,19 @@ public class OrderStatusGpod {
     }
 
     public OrderStatusGpod(int osId, String name, Date createdTimestamp, Date updatedTimestamp, boolean isActive) {
-        this.osId = osId;
+        this.id = osId;
         this.name = name;
         this.createdTimestamp = createdTimestamp;
         this.updatedTimestamp = updatedTimestamp;
         this.isActive = isActive;
     }
 
-    public int getOsId() {
-        return osId;
+    public int getId() {
+        return id;
     }
 
-    public void setOsId(int osId) {
-        this.osId = osId;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
@@ -66,7 +66,7 @@ public class OrderStatusGpod {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         OrderStatusGpod that = (OrderStatusGpod) o;
-        return osId == that.osId &&
+        return id == that.id &&
                 isActive == that.isActive &&
                 Objects.equals(name, that.name) &&
                 Objects.equals(createdTimestamp, that.createdTimestamp) &&
@@ -75,13 +75,13 @@ public class OrderStatusGpod {
 
     @Override
     public int hashCode() {
-        return Objects.hash(osId, name, createdTimestamp, updatedTimestamp, isActive);
+        return Objects.hash(id, name, createdTimestamp, updatedTimestamp, isActive);
     }
 
     @Override
     public String toString() {
         return "OrderStatusGpod{" +
-                "osId=" + osId +
+                "osId=" + id +
                 ", name='" + name + '\'' +
                 ", createdTimestamp=" + createdTimestamp +
                 ", updatedTimestamp=" + updatedTimestamp +

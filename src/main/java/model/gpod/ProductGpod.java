@@ -9,7 +9,7 @@ public class ProductGpod {
     private String id;
     private String code;
     private String desc;
-    private String shortName;
+    private List<String> tags = new ArrayList<>();
     private String sku;
     private List<Category> categories = new ArrayList<Category>();
     private List<SubCategory> subCategories = new ArrayList<SubCategory>();
@@ -60,12 +60,12 @@ public class ProductGpod {
         this.desc = desc;
     }
 
-    public String getShortName() {
-        return shortName;
+    public List<String> getTags() {
+        return tags;
     }
 
-    public void setShortName(String shortName) {
-        this.shortName = shortName;
+    public void setTags(List<String> tags) {
+        this.tags = tags;
     }
 
     public String getSku() {
@@ -257,7 +257,7 @@ public class ProductGpod {
                 Objects.equals(id, that.id) &&
                 Objects.equals(code, that.code) &&
                 Objects.equals(desc, that.desc) &&
-                Objects.equals(shortName, that.shortName) &&
+                Objects.equals(tags, that.tags) &&
                 Objects.equals(sku, that.sku) &&
                 Objects.equals(categories, that.categories) &&
                 Objects.equals(subCategories, that.subCategories) &&
@@ -279,7 +279,7 @@ public class ProductGpod {
 
     @Override
     public int hashCode() {
-        int result = Objects.hash(id, code, desc, shortName, sku, categories, subCategories, brands, price, type, deal, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isNewlyAdded, isActive, isDealsEnabled, quantity);
+        int result = Objects.hash(id, code, desc, tags, sku, categories, subCategories, brands, price, type, deal, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isNewlyAdded, isActive, isDealsEnabled, quantity);
         result = 31 * result + Arrays.hashCode(imageUris);
         return result;
     }
@@ -290,7 +290,7 @@ public class ProductGpod {
                 "id='" + id + '\'' +
                 ", code='" + code + '\'' +
                 ", desc='" + desc + '\'' +
-                ", shortName='" + shortName + '\'' +
+                ", tags=" + tags +
                 ", sku='" + sku + '\'' +
                 ", categories=" + categories +
                 ", subCategories=" + subCategories +

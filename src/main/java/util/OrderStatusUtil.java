@@ -1,7 +1,6 @@
 package util;
 
 import com.opencsv.CSVReader;
-import model.gpod.BrandGpod;
 import model.gpod.OrderStatusGpod;
 
 import java.io.IOException;
@@ -9,7 +8,6 @@ import java.io.Reader;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Date;
 import java.util.Map;
 
 public class OrderStatusUtil {
@@ -28,7 +26,7 @@ public class OrderStatusUtil {
             int count=1;
             while ((row = csvReader.readNext()) != null) {
                 OrderStatusGpod  orderStatusGpod = buildOrderStatusGpod(row);
-                orderStatusGpodMap.put(orderStatusGpod.getOsId(), orderStatusGpod);
+                orderStatusGpodMap.put(orderStatusGpod.getId(), orderStatusGpod);
             }
 
         }
@@ -37,7 +35,7 @@ public class OrderStatusUtil {
 
     public static OrderStatusGpod buildOrderStatusGpod(String[] row ){
         OrderStatusGpod orderStatusGpod = new OrderStatusGpod();
-        orderStatusGpod.setOsId(Integer.parseInt(row[0])); // 0-osid
+        orderStatusGpod.setId(Integer.parseInt(row[0])); // 0-osid
         orderStatusGpod.setName(row[1]); // 1-name
         orderStatusGpod.setActive(true); // no value so setting to true
         orderStatusGpod.setCreatedTimestamp(DateUtil.getDate(row[2]));// 2-created_at

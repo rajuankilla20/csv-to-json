@@ -4,8 +4,12 @@
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/RolesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/RolesUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/OrderStatusGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/OrderStatusGpod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/OrderStatusUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/OrderStatusUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/ProductUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ProductUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/order-status.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/products.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

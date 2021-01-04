@@ -1,17 +1,6 @@
 package util;
 
-import com.opencsv.CSVReader;
-import model.gpod.BrandGpod;
-import model.gpod.CategoryGpod;
 import model.gpod.ProductGpod;
-
-import java.io.IOException;
-import java.io.Reader;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.Date;
-import java.util.Set;
 
 public class ProductUtil {
 
@@ -43,7 +32,7 @@ public class ProductUtil {
         p.setDesc(row[2]); // 2-"title"
         p.setDefaultImage(row[3]); // 3-"main_image"
         p.setImageName(row[3]); // 3-"main_image"
-        p.setShortName(row[4]); // 4-"short_name"
+//        p.setTags(row[4]); // 4-"short_name"
         p.setCode(row[5]); // 5-"slug"
         p.setSku(row[6]); // 6-"sku"
 
