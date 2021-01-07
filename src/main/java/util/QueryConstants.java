@@ -26,5 +26,8 @@ public class QueryConstants {
     public static final String ORDER_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/orders.csv";
     public static final String POS_ORDERS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/merrimack/pos_orders.csv";
 
+    public static final String ALL_PRODUCTS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/excel/all_products.csv";
+    public static final String ORDERED_PRODUCTS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/excel/ordered_products.csv";
+
 }
 

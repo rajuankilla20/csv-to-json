@@ -122,8 +122,6 @@ public class BuildMerrimackData {
         OrdersUtil.buildOrderStatus(ordersGpodMap);
 //        System.out.println("-----------orderstatus change  conversion done---------------");
 
-
-
         Set<Integer> invalidOrders = new HashSet<>();
         AtomicInteger count= new AtomicInteger();
         orderStatusChangeGpodMap.forEach((k,v) -> {
@@ -156,6 +154,9 @@ public class BuildMerrimackData {
             }
         });
         //ConvertJavaToJson.createJsonFile(userFavourites,"user-favorites"); // Done
+            // Note: creating CSV for shantanu
+//        JavaToExcelCSVConverter.writeDataLineByLine(productMap,QueryConstants.ALL_PRODUCTS_CSV_FILE);
+          JavaToExcelCSVConverter.writeAllOrderedProducts(finalUserOrders,productMap,QueryConstants.ORDERED_PRODUCTS_CSV_FILE);
 
     }
 
