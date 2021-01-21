@@ -90,7 +90,7 @@ public class FinalOrdersUtil {
                 Set<OrderItemsGpod> orderItemsGpodsSet = orderItemsGpodMap.get(orderId);
 
                 // Step.4.1 build  Order and set
-                UserOrders userOrders = prepareUserOrder(userOrder,orderStatusChangeHistory.get(0).getOrderStatus(), orderItemsGpodsSet.size());
+                UserOrders userOrders = prepareUserOrder(userGpodMap.get(userId).getEmail(),userOrder,orderStatusChangeHistory.get(0).getOrderStatus(), orderItemsGpodsSet.size());
 
                 Map<Integer, OrderItemsGpod> productOrderItemMap = new HashMap<>();
 
@@ -143,12 +143,12 @@ public class FinalOrdersUtil {
         return itemsList;
     }
 
-    private static UserOrders prepareUserOrder(OrdersGpod ordersGpod, String orderStatus, int orderItemCount) {
+    private static UserOrders prepareUserOrder(String email,OrdersGpod ordersGpod, String orderStatus, int orderItemCount) {
         UserOrders userOrders = new UserOrders();
 
+        userOrders.setEmail(email);
         userOrders.setDeliveryTip(ordersGpod.getTipType());
         userOrders.setDeliveryTipAmount(ordersGpod.getTip());
-        userOrders.setOrderNumber(ordersGpod.getoId());
         userOrders.setOrderNumber(ordersGpod.getoId());
         userOrders.setOrderStatus(orderStatus);
         userOrders.setOrderTimestamp(ordersGpod.getInvoiceDate());

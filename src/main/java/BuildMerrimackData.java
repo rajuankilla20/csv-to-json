@@ -45,6 +45,8 @@ public class BuildMerrimackData {
     public static Map<Integer,Set<PosOrdersGpod>> posOrdersGpodMap = new HashMap<>();
     public static List<FinalUserOrders>  finalUserOrders = new ArrayList<>();
 
+    public static List<UserOrders>  finalOrders = new ArrayList<>();
+
 
 
 
@@ -116,11 +118,14 @@ public class BuildMerrimackData {
 //          productMap.forEach((k,v) -> {
 //            System.out.println(v);
 //        });
-//        ConvertJavaToJson.createJsonFile(productMap.values(),"products"); // Done
+
+        identifyDuplicateProductCodes(productMap);
+        /*
+        ConvertJavaToJson.createJsonFile(productMap.values(),"products"); // Done
         OrderStatusChangeUtil.buildOrderStatusChange(orderStatusChangeGpodMap);
 //        System.out.println("-----------orderstatus change  conversion done---------------");
-        OrdersUtil.buildOrderStatus(ordersGpodMap);
-//        System.out.println("-----------orderstatus change  conversion done---------------");
+        OrdersUtil.buildOrders(ordersGpodMap);
+        System.out.println("-----------Total orders : "+ordersGpodMap.size());
 
         Set<Integer> invalidOrders = new HashSet<>();
         AtomicInteger count= new AtomicInteger();
@@ -133,16 +138,25 @@ public class BuildMerrimackData {
         });
 
        // PosOrdersUtil.buildPosOrders(posOrdersGpodMap);
+        *//*
+            This is user-orders, where it will have order with respect to eah user.
+         *//*
         FinalOrdersUtil.buildUserOrders(finalUserOrders,orderStatusGpodMap,orderStatusChangeGpodMap,ordersGpodMap,orderItemsGpodMap,productMap,userGpodMap);
         System.out.println("-----------UserOrders :"+finalUserOrders.size());
+
+        *//*
+            This is orders, where it will have all orders for entire app
+         *//*
+        OrdersUtil.buildFinalOrders(finalUserOrders,finalOrders);
+        ConvertJavaToJson.createJsonFile(finalOrders,"orders");
+
 //        ConvertJavaToJson.createJsonFile(finalUserOrders,"user-orders"); // Done
 //        System.out.println("-----------final userOrders");
 //        finalUserOrders.forEach(System.out::print);
 
-//        System.out.println("-----------User  conversion done---------------");
         WishlistUtil.buildWishlist(wishlistGpodMap,productMap,userGpodMap);
-        System.out.println("-----------UserFavourites :"+wishlistGpodMap.values().size());
-        // NOTE : adding emailid instead of user id for user-favourites
+//        System.out.println("-----------UserFavourites :"+wishlistGpodMap.values().size());
+        // NOTE : adding email id instead of user id for user-favourites
         wishlistGpodMap.values().forEach(wishlistGpod -> {
 //            wishlistGpod.setUserId(userGpodMap.get(Integer.parseInt(wishlistGpod.getUserId())).getEmail());
             if(null != userGpodMap.get(Integer.parseInt(wishlistGpod.getUserId()))){
@@ -156,13 +170,48 @@ public class BuildMerrimackData {
         //ConvertJavaToJson.createJsonFile(userFavourites,"user-favorites"); // Done
             // Note: creating CSV for shantanu
 //        JavaToExcelCSVConverter.writeDataLineByLine(productMap,QueryConstants.ALL_PRODUCTS_CSV_FILE);
-          JavaToExcelCSVConverter.writeAllOrderedProducts(finalUserOrders,productMap,QueryConstants.ORDERED_PRODUCTS_CSV_FILE);
+//          JavaToExcelCSVConverter.writeAllOrderedProducts(finalUserOrders,productMap,QueryConstants.ORDERED_PRODUCTS_CSV_FILE);
 
+//    printFiles();
+*/
     }
 
+    private static void identifyDuplicateProductCodes(Map<Integer, ProductGpod> productMap) {
+
+        Map<String, ProductGpod> duplicateCodes = new HashMap<>();
+
+        productMap.values().forEach(productGpod -> {
+
+            if(duplicateCodes.containsKey(productGpod.getCode())){
+
+                System.out.println("Exist pid :" + duplicateCodes.get(productGpod.getCode()).getId() + "cur pid : "+productGpod.getId());
+            }else{
+                duplicateCodes.put(productGpod.getCode(),productGpod);
+            }
+        });
+    }
+
+    private static void printFiles() throws IOException {
+        Set<String> files = getExistingImages();
+
+        Set<String> found = new HashSet<>();
+        Set<String> notFound = new HashSet<>();
+        productMap.values().forEach(productGpod -> {
+            if(files.contains(productGpod.getDefaultImage())){
+                System.out.println("Found");
+                found.add(productGpod.getId()+ ", "+productGpod.getDesc() + ","+ productGpod.getDefaultImage());
+            }else{
+                notFound.add(productGpod.getId()+ ", "+productGpod.getDesc() + ","+ productGpod.getDefaultImage());
+            }
+        });
+        ConvertJavaToJson.createJsonFile(found,"found");
+        ConvertJavaToJson.createJsonFile(notFound,"not-found");
+    }
 
     private static void buildProductData( ) throws IOException {
 
+
+        Set<String> existingImages = getExistingImages();
 
 
         try (
@@ -178,16 +227,24 @@ public class BuildMerrimackData {
                 ProductGpod p  = new ProductGpod();
 
                 int productId =Integer.parseInt(row[0]);
-                p.setId(productId+""); //0-"pid"
+                p.setId(productId); //0-"pid"
                 if(row[1].equalsIgnoreCase("NULL")){
                     p.setAiselNo("N/A"); //1-"aisle_no"
                 }else{
                     p.setAiselNo(row[1]); //1-"aisle_no"
                 }
-
                 p.setDesc(row[2]); // 2-"title"
-                p.setDefaultImage(row[3]); // 3-"main_image"
-                p.setImageName(row[3]); // 3-"main_image"
+
+                // setting NO Image.jpg if no image found in existing product images
+                if(existingImages.contains(row[3])){
+                    p.setDefaultImage(row[3]); // 3-"main_image"
+                    p.setImageName(row[3]); // 3-"main_image"
+                }else{
+                    p.setDefaultImage("No Image.jpg"); // 3-"main_image"
+                    p.setImageName("No Image.jpg"); // 3-"main_image"
+                }
+
+
                 p.getTags().add(row[2]); // used for algolia search in future we can add more search key words for that product
                 p.setCode(row[5]); // 5-"slug"
                 p.setSku(row[6]); // 6-"sku"
@@ -254,6 +311,16 @@ public class BuildMerrimackData {
 
             System.out.println("-----------Unique : "+ productMap.size());
         }
+    }
+
+    private static Set<String> getExistingImages() throws IOException {
+        Set<String> existingImages = new HashSet<>();
+        Files.walk(Paths.get("D:/projects/bit-merrimack/merrimack-master/uploads/products"))
+                .filter(Files::isRegularFile)
+                .forEach(file -> {
+                    existingImages.add(file.getFileName().toString());
+                });
+        return existingImages;
     }
 
 

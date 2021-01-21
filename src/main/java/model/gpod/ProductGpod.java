@@ -6,9 +6,10 @@ import java.util.*;
 
 public class ProductGpod {
 
-    private String id;
+    private int id;
     private String code;
     private String desc;
+    private String shortDesc;
     private List<String> tags = new ArrayList<>();
     private String sku;
     private List<Category> categories = new ArrayList<Category>();
@@ -36,11 +37,19 @@ public class ProductGpod {
     public ProductGpod() {
     }
 
-    public String getId() {
+    public String getShortDesc() {
+        return shortDesc;
+    }
+
+    public void setShortDesc(String shortDesc) {
+        this.shortDesc = shortDesc;
+    }
+
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -287,9 +296,10 @@ public class ProductGpod {
     @Override
     public String toString() {
         return "ProductGpod{" +
-                "id='" + id + '\'' +
+                "id=" + id +
                 ", code='" + code + '\'' +
                 ", desc='" + desc + '\'' +
+                ", shortDesc='" + shortDesc + '\'' +
                 ", tags=" + tags +
                 ", sku='" + sku + '\'' +
                 ", categories=" + categories +

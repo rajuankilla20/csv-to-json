@@ -1,0 +1,5186 @@
+[
+  {
+    "id": 20048,
+    "code": "Richarson's Farm Chocolate Peanut Butter Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Chocolate Peanut Butter Ice Cream 16% Butterfat",
+    "shortDesc": "Chocolate ice cream with peanut butter twirl",
+    "tags": [
+      "Richarson's Farm Chocolate Peanut Butter Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20008,
+    "code": "Richarson's Farm Cookie Dough Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Cookie Dough Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with tons of raw cookie dough and chocolate chips",
+    "tags": [
+      "Richarson's Farm Cookie Dough Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Cookie Dough",
+      "desc": "Cookie Dough"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20035,
+    "code": "Richarson's Farm Cherry Vanilla Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Cherry Vanilla Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with maraschino cherries",
+    "tags": [
+      "Richarson's Farm Cherry Vanilla Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20027,
+    "code": "Richarson's Farm Bubble Gum Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Bubble Gum Ice Cream 16% Butterfat",
+    "shortDesc": "Bubble gum flavored ice cream with pieces of gum",
+    "tags": [
+      "Richarson's Farm Bubble Gum Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Bubble Gum",
+      "desc": "Bubble Gum"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20071,
+    "code": "Richarson's Farm Strawberry Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Strawberry Ice Cream 16% Butterfat",
+    "shortDesc": "Farm-fresh strawberry ice cream with diced strawberries",
+    "tags": [
+      "Richarson's Farm Strawberry Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Strawberry",
+      "desc": "Strawberry"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20092,
+    "code": "Richarson's Farm Crumble Berry Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Crumble Berry Frozen Yogurt 95% Fat Free",
+    "shortDesc": "",
+    "tags": [
+      "Richarson's Farm Crumble Berry Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Berry",
+      "desc": "Berry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20002,
+    "code": "Richarson's Farm Chocolate Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Chocolate Ice Cream 16% Butterfat",
+    "shortDesc": "Made with Bensdorp Cocoa imported all the way from Holland",
+    "tags": [
+      "Richarson's Farm Chocolate Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20047,
+    "code": "Richarson's Farm Green Mosnter Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Green Mosnter Ice Cream 16% Butterfat",
+    "shortDesc": "Mint ice cream with Oreos and a fudge swirl",
+    "tags": [
+      "Richarson's Farm Green Mosnter Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Mint",
+      "desc": "Mint"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20052,
+    "code": "Richarson's Farm Blueberry Pie Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Blueberry Pie Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with pie crust crumble and blueberry pie filling",
+    "tags": [
+      "Richarson's Farm Blueberry Pie Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Blueberry",
+      "desc": "Blueberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20068,
+    "code": "Richarson's Farm Peppermint Stick Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Peppermint Stick Ice Cream 16% Butterfat",
+    "shortDesc": "Mint ice cream with peppermint candies",
+    "tags": [
+      "Richarson's Farm Peppermint Stick Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Peppermint",
+      "desc": "Peppermint"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20037,
+    "code": "Richarson's Farm Orange Pineapple Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Orange Pineapple Ice Cream 16% Butterfat",
+    "shortDesc": "Creamy orange ice cream with pineapple fruit",
+    "tags": [
+      "Richarson's Farm Orange Pineapple Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Orange",
+      "desc": "Orange"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20032,
+    "code": "Richarson's Farm Black Raspberry Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Black Raspberry Ice Cream 16% Butterfat",
+    "shortDesc": "Black raspberry ice cream with berries",
+    "tags": [
+      "Richarson's Farm Black Raspberry Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20066,
+    "code": "Richarson's Farm Maple Walnut Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Maple Walnut Ice Cream 16% Butterfat",
+    "shortDesc": "Pure maple ice cream with walnuts",
+    "tags": [
+      "Richarson's Farm Maple Walnut Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Maple Walnut",
+      "desc": "Maple Walnut"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20014,
+    "code": "Richarson's Farm Coffee Almond Fudge Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coffee Almond Fudge Ice Cream 16% Butterfat",
+    "shortDesc": "Coffee ice cream with almonds and a fudge swirl",
+    "tags": [
+      "Richarson's Farm Coffee Almond Fudge Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20094,
+    "code": "Richarson's Farm Cocolate Chip Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Cocolate Chip Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with chocolate chips",
+    "tags": [
+      "Richarson's Farm Cocolate Chip Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Chocolate Chip",
+      "desc": "Chocolate Chip"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20083,
+    "code": "Richarson's Farm Mint Patty Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Mint Patty Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Mint yogurt with chocolate chips and peppermint patties",
+    "tags": [
+      "Richarson's Farm Mint Patty Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Mint",
+      "desc": "Mint"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20010,
+    "code": "Richarson's Farm Oreo Cookie Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Oreo Cookie Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with real Oreo Cookies",
+    "tags": [
+      "Richarson's Farm Oreo Cookie Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Oreo",
+      "desc": "Oreo"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20029,
+    "code": "Richarson's Farm Cotton Candy Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Cotton Candy Ice Cream 16% Butterfat",
+    "shortDesc": "Pink cotton candy ice cream with a blue candy swirl and cotton candy pieces",
+    "tags": [
+      "Richarson's Farm Cotton Candy Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Cotton Candy",
+      "desc": "Cotton Candy"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20049,
+    "code": "Richarson's Farm Cake Batter Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Cake Batter Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla cake batter base with chunks of cake",
+    "tags": [
+      "Richarson's Farm Cake Batter Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Cake Batter",
+      "desc": "Cake Batter"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20104,
+    "code": "Richarson's Farm Raspberry Sorbet",
+    "desc": "Richarson's Farm Raspberry Sorbet",
+    "shortDesc": "Dairy free and Fat free Sorbet, made with real fruit",
+    "tags": [
+      "Richarson's Farm Raspberry Sorbet"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sherbet & Sorbet",
+        "desc": "Sherbet & Sorbet"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 23.99,
+      "discountPrice": 23.99
+    },
+    "type": {
+      "code": "Raspberry",
+      "desc": "Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20074,
+    "code": "Richarson's Farm Rum Raisin Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Rum Raisin Ice Cream 16% Butterfat",
+    "shortDesc": "Rum based ice cream with rum soaked raisins",
+    "tags": [
+      "Richarson's Farm Rum Raisin Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Rum based",
+      "desc": "Rum based"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20007,
+    "code": "Richarson's Farm Mocha Chip Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Mocha Chip Ice Cream 16% Butterfat",
+    "shortDesc": "Rich coffee mixed with light chocolate ice cream with chocolate chips",
+    "tags": [
+      "Richarson's Farm Mocha Chip Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20082,
+    "code": "Richarson's Farm Cocolate Chip Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Cocolate Chip Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with chocolate chips",
+    "tags": [
+      "Richarson's Farm Cocolate Chip Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Chocolate Chip",
+      "desc": "Chocolate Chip"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20057,
+    "code": "Richarson's Farm Coffee Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coffee Ice Cream 16% Butterfat",
+    "shortDesc": "A deep robust coffee flavor",
+    "tags": [
+      "Richarson's Farm Coffee Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20040,
+    "code": "Richarson's Farm Rum Raisin Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Rum Raisin Ice Cream 16% Butterfat",
+    "shortDesc": "Rum based ice cream with rum soaked raisins",
+    "tags": [
+      "Richarson's Farm Rum Raisin Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Rum based",
+      "desc": "Rum based"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20058,
+    "code": "Richarson's Farm Chocolate Chip Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Chocolate Chip Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with dark chocolate chips",
+    "tags": [
+      "Richarson's Farm Chocolate Chip Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Chocolate Chip",
+      "desc": "Chocolate Chip"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20043,
+    "code": "Richarson's Farm Dealth by Chocolate Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Dealth by Chocolate Ice Cream 16% Butterfat",
+    "shortDesc": "Dark chocolate ice cream with a milk chocolate twirl, chocolate chips, and decadent fudge brownies",
+    "tags": [
+      "Richarson's Farm Dealth by Chocolate Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20053,
+    "code": "Richarson's Farm Campfire Smores Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Campfire Smores Ice Cream 16% Butterfat",
+    "shortDesc": "Smores Ice Cream",
+    "tags": [
+      "Richarson's Farm Campfire Smores Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Smores",
+      "desc": "Smores"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20022,
+    "code": "Richarson's Farm Peanut Butter Cup with ReesesÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Peanut Butter Cup with ReesesÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Peanut butter ice cream with chocolate chips and ReeseâsÂ® Peanut Butter Cups",
+    "tags": [
+      "Richarson's Farm Peanut Butter Cup with ReesesÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Peanut Butter",
+      "desc": "Peanut Butter"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20061,
+    "code": "Richarson's Farm Cookie Dough Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Cookie Dough Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with tons of raw cookie dough and chocolate chips",
+    "tags": [
+      "Richarson's Farm Cookie Dough Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Cookie Dough",
+      "desc": "Cookie Dough"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20088,
+    "code": "Richarson's Farm Moose Tracks Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Moose Tracks Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with a special hardening fudge ripple and peanut butter truffles",
+    "tags": [
+      "Richarson's Farm Moose Tracks Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20024,
+    "code": "Richarson's Farm Melts in your Mouth with M&MÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Melts in your Mouth with M&MÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with M&MÂ® candies",
+    "tags": [
+      "Richarson's Farm Melts in your Mouth with M&MÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "M&M",
+      "desc": "M&M"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20095,
+    "code": "Richarson's Farm Mint Patty Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Mint Patty Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Mint yogurt with chocolate chips and peppermint patties",
+    "tags": [
+      "Richarson's Farm Mint Patty Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Mint",
+      "desc": "Mint"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20060,
+    "code": "Richarson's Farm Mocha Chip Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Mocha Chip Ice Cream 16% Butterfat",
+    "shortDesc": "Rich coffee mixed with light chocolate ice cream with chocolate chips",
+    "tags": [
+      "Richarson's Farm Mocha Chip Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20091,
+    "code": "Richarson's Farm Chocolate Almond Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Chocolate Almond Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Chocolate yogurt with almonds",
+    "tags": [
+      "Richarson's Farm Chocolate Almond Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20015,
+    "code": "Richarson's Farm Maple Walnut Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Maple Walnut Ice Cream 16% Butterfat",
+    "shortDesc": "Pure maple ice cream with walnuts",
+    "tags": [
+      "Richarson's Farm Maple Walnut Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Maple Walnut",
+      "desc": "Maple Walnut"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20090,
+    "code": "Richarson's Farm Purple Berry Chip Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Purple Berry Chip Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Black raspberry yogurt with dark and white chocolate chips",
+    "tags": [
+      "Richarson's Farm Purple Berry Chip Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20046,
+    "code": "Richarson's Farm German Chocolate Cake Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm German Chocolate Cake Ice Cream 16% Butterfat",
+    "shortDesc": "Chocolate-coconut based ice cream with chunks of brownie fudge and a caramel ripple",
+    "tags": [
+      "Richarson's Farm German Chocolate Cake Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20033,
+    "code": "Richarson's Farm Maine Black Bear Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Maine Black Bear Ice Cream 16% Butterfat",
+    "shortDesc": "Red raspberry ice cream with chocolate chips and chocolate covered raspberry truffles",
+    "tags": [
+      "Richarson's Farm Maine Black Bear Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Red Raspberry",
+      "desc": "Red Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20020,
+    "code": "Richarson's Farm Totally Turtle Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Totally Turtle Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with cashews, pieces of fudge and a caramel twirl",
+    "tags": [
+      "Richarson's Farm Totally Turtle Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20004,
+    "code": "Richarson's Farm Coffee Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coffee Ice Cream 16% Butterfat",
+    "shortDesc": "A deep robust coffee flavor",
+    "tags": [
+      "Richarson's Farm Coffee Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20009,
+    "code": "Richarson's Farm Toll House Cookie Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Toll House Cookie Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with baked chocolate chip cookies",
+    "tags": [
+      "Richarson's Farm Toll House Cookie Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate Chip",
+      "desc": "Chocolate Chip"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20030,
+    "code": "Richarson's Farm Crunch-a-saurus Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Crunch-a-saurus Ice Cream 16% Butterfat",
+    "shortDesc": "Blue vanilla ice cream with chocolate covered krispies",
+    "tags": [
+      "Richarson's Farm Crunch-a-saurus Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20087,
+    "code": "Richarson's Farm Pistachio Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Pistachio Frozen Yogurt 95% Fat Free",
+    "shortDesc": "The real deal pistachio yogurt with pistacio nut pieces",
+    "tags": [
+      "Richarson's Farm Pistachio Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Pistachio",
+      "desc": "Pistachio"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20077,
+    "code": "Richarson's Farm Coffee Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "desc": "Richarson's Farm Coffee Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "shortDesc": "95% Fat Free Made with Coffee",
+    "tags": [
+      "Richarson's Farm Coffee Ice Cream Low Fat No Sugar Added 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 33.99,
+      "discountPrice": 33.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20003,
+    "code": "Richarson's Farm Double Chocolate Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Double Chocolate Ice Cream 16% Butterfat",
+    "shortDesc": "Double the chocolate richness",
+    "tags": [
+      "Richarson's Farm Double Chocolate Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20038,
+    "code": "Richarson's Farm Strawberry Cheesecake Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Strawberry Cheesecake Ice Cream 16% Butterfat",
+    "shortDesc": "New York style cheesecake ice cream with a strawberry swirl and chunks of cheese cake",
+    "tags": [
+      "Richarson's Farm Strawberry Cheesecake Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Strawberry",
+      "desc": "Strawberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20078,
+    "code": "Richarson's Farm Black Raspberry Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "desc": "Richarson's Farm Black Raspberry Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "shortDesc": "95% Fat Free Black raspberry ice cream with berries",
+    "tags": [
+      "Richarson's Farm Black Raspberry Ice Cream Low Fat No Sugar Added 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 33.99,
+      "discountPrice": 33.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20098,
+    "code": "Richarson's Farm French Vanilla Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm French Vanilla Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with real eggs for a richer flavor",
+    "tags": [
+      "Richarson's Farm French Vanilla Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20097,
+    "code": "Richarson's Farm Cookie Dough Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Cookie Dough Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with chocolate chips and raw cookie dough pieces",
+    "tags": [
+      "Richarson's Farm Cookie Dough Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Cookie Dough",
+      "desc": "Cookie Dough"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20012,
+    "code": "Richarson's Farm Peanut Butter Oreo Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Peanut Butter Oreo Ice Cream 16% Butterfat",
+    "shortDesc": "Peanut butter ice cream base with Oreo cookies pieces",
+    "tags": [
+      "Richarson's Farm Peanut Butter Oreo Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Peanut Butter",
+      "desc": "Peanut Butter"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20054,
+    "code": "Richarson's Farm Vanilla Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Vanilla Ice Cream 16% Butterfat",
+    "shortDesc": "Made with vanilla bean extract imported from Madagascar",
+    "tags": [
+      "Richarson's Farm Vanilla Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20013,
+    "code": "Richarson's Farm Kahlua Brownie Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Kahlua Brownie Ice Cream 16% Butterfat",
+    "shortDesc": "Kahlua ice cream with fudge brownies",
+    "tags": [
+      "Richarson's Farm Kahlua Brownie Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Brownie",
+      "desc": "Brownie"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20106,
+    "code": "Richarson's Farm Orange Sherbet",
+    "desc": "Richarson's Farm Orange Sherbet",
+    "shortDesc": "Delicious Sherbet for the lighter side",
+    "tags": [
+      "Richarson's Farm Orange Sherbet"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sherbet & Sorbet",
+        "desc": "Sherbet & Sorbet"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Orange",
+      "desc": "Orange"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20023,
+    "code": "Richarson's Farm Way Milk with Milky WayÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Way Milk with Milky WayÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Malted light chocolate ice cream with chocolate chips, Milky WayÂ® bars, and a caramel twirl",
+    "tags": [
+      "Richarson's Farm Way Milk with Milky WayÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Milky Way",
+      "desc": "Milky Way"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20096,
+    "code": "Richarson's Farm Oreo Cookie Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Oreo Cookie Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with Oreo cookies",
+    "tags": [
+      "Richarson's Farm Oreo Cookie Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Oreo",
+      "desc": "Oreo"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20006,
+    "code": "Richarson's Farm Mint Chocolate Chip Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Mint Chocolate Chip Ice Cream 16% Butterfat",
+    "shortDesc": "Cool mint ice cream with chocolate chips and mint patties",
+    "tags": [
+      "Richarson's Farm Mint Chocolate Chip Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Mint",
+      "desc": "Mint"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20075,
+    "code": "Richarson's Farm Coconut Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coconut Ice Cream 16% Butterfat",
+    "shortDesc": "Made with real coconut",
+    "tags": [
+      "Richarson's Farm Coconut Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Coconut",
+      "desc": "Coconut"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20028,
+    "code": "Richarson's Farm Moose Tracks Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Moose Tracks Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with a special hardening fudge ripple and peanut butter truffles",
+    "tags": [
+      "Richarson's Farm Moose Tracks Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20026,
+    "code": "Richarson's Farm Toffee Crunch with Heath BarÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Toffee Crunch with Heath BarÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Toffee flavored ice cream with chocolate chips and HeathÂ® Bar",
+    "tags": [
+      "Richarson's Farm Toffee Crunch with Heath BarÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Toffee",
+      "desc": "Toffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20067,
+    "code": "Richarson's Farm Pistachio Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Pistachio Ice Cream 16% Butterfat",
+    "shortDesc": "Pistachio ice cream with pistachios",
+    "tags": [
+      "Richarson's Farm Pistachio Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Pistachio",
+      "desc": "Pistachio"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20062,
+    "code": "Richarson's Farm Oreo Cookie Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Oreo Cookie Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with real Oreo Cookies",
+    "tags": [
+      "Richarson's Farm Oreo Cookie Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Oreo",
+      "desc": "Oreo"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20055,
+    "code": "Richarson's Farm French Vanilla Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm French Vanilla Ice Cream 16% Butterfat",
+    "shortDesc": "Traditional vanilla with egg yolks for a rich flavor",
+    "tags": [
+      "Richarson's Farm French Vanilla Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20019,
+    "code": "Richarson's Farm Butter Crunch Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Butter Crunch Ice Cream 16% Butterfat",
+    "shortDesc": "Butterscotch ice cream with crunchy butterscotch candy",
+    "tags": [
+      "Richarson's Farm Butter Crunch Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Butter Crunch",
+      "desc": "Butter Crunch"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20034,
+    "code": "Richarson's Farm Phantomberry Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Phantomberry Ice Cream 16% Butterfat",
+    "shortDesc": "Black raspberry ice cream with a cookie crunch swirl and fudge brownie pieces",
+    "tags": [
+      "Richarson's Farm Phantomberry Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20076,
+    "code": "Richarson's Farm Rocky Road Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Rocky Road Ice Cream 16% Butterfat",
+    "shortDesc": "Chocolate ice cream with mini marshmallows, chocolate chips, and chopped mixed nuts",
+    "tags": [
+      "Richarson's Farm Rocky Road Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20080,
+    "code": "Richarson's Farm Balck Raspberry Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "desc": "Richarson's Farm Balck Raspberry Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "shortDesc": "95% Fat Free Black raspberry ice cream with berries",
+    "tags": [
+      "Richarson's Farm Balck Raspberry Ice Cream Low Fat No Sugar Added 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20069,
+    "code": "Richarson's Farm Peanut Butter Cup with ReesesÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Peanut Butter Cup with ReesesÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Peanut butter ice cream with chocolate chips and ReeseâsÂ® Peanut Butter Cups",
+    "tags": [
+      "Richarson's Farm Peanut Butter Cup with ReesesÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Peanut Butter",
+      "desc": "Peanut Butter"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20105,
+    "code": "Richarson's Farm Lemon Sorbet",
+    "desc": "Richarson's Farm Lemon Sorbet",
+    "shortDesc": "Dairy free and Fat free Sorbet, made with real fruit",
+    "tags": [
+      "Richarson's Farm Lemon Sorbet"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sherbet & Sorbet",
+        "desc": "Sherbet & Sorbet"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 23.99,
+      "discountPrice": 23.99
+    },
+    "type": {
+      "code": "Lemon",
+      "desc": "Lemon"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20050,
+    "code": "Richarson's Farm Ginger Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Ginger Ice Cream 16% Butterfat",
+    "shortDesc": "Made with crushed ginger",
+    "tags": [
+      "Richarson's Farm Ginger Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Ginger",
+      "desc": "Ginger"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20041,
+    "code": "Richarson's Farm Coconut Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coconut Ice Cream 16% Butterfat",
+    "shortDesc": "Made with real coconut",
+    "tags": [
+      "Richarson's Farm Coconut Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Coconut",
+      "desc": "Coconut"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20064,
+    "code": "Richarson's Farm Peanut Butter Oreo Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Peanut Butter Oreo Ice Cream 16% Butterfat",
+    "shortDesc": "Peanut butter ice cream base with Oreo cookies pieces",
+    "tags": [
+      "Richarson's Farm Peanut Butter Oreo Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Peanut Butter",
+      "desc": "Peanut Butter"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20000,
+    "code": "Richarson's Farm Vanilla Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Vanilla Ice Cream 16% Butterfat",
+    "shortDesc": "Made with vanilla bean extract imported from Madagascar",
+    "tags": [
+      "Richarson's Farm Vanilla Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20021,
+    "code": "Richarson's Farm Snickas with SnickersÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Snickas with SnickersÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with SnickersÂ® bars, chocolate chips, peanuts, and a caramel swirl",
+    "tags": [
+      "Richarson's Farm Snickas with SnickersÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Snickers",
+      "desc": "Snickers"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20102,
+    "code": "Richarson's Farm Orange Sherbet",
+    "desc": "Richarson's Farm Orange Sherbet",
+    "shortDesc": "Delicious Sherbet for the lighter side",
+    "tags": [
+      "Richarson's Farm Orange Sherbet"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sherbet & Sorbet",
+        "desc": "Sherbet & Sorbet"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 22.99,
+      "discountPrice": 22.99
+    },
+    "type": {
+      "code": "Orange",
+      "desc": "Orange"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20101,
+    "code": "Richarson's Farm Chocolate Almond Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Chocolate Almond Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Chocolate yogurt with almonds",
+    "tags": [
+      "Richarson's Farm Chocolate Almond Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20031,
+    "code": "Richarson's Farm Strawberry Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Strawberry Ice Cream 16% Butterfat",
+    "shortDesc": "Farm-fresh strawberry ice cream with diced strawberries",
+    "tags": [
+      "Richarson's Farm Strawberry Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Strawberry",
+      "desc": "Strawberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20065,
+    "code": "Richarson's Farm Kahlua Brownie Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Kahlua Brownie Ice Cream 16% Butterfat",
+    "shortDesc": "Kahlua ice cream with fudge brownies",
+    "tags": [
+      "Richarson's Farm Kahlua Brownie Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Brownie",
+      "desc": "Brownie"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20059,
+    "code": "Richarson's Farm Mint Chocolate Chip Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Mint Chocolate Chip Ice Cream 16% Butterfat",
+    "shortDesc": "Cool mint ice cream with chocolate chips and mint patties",
+    "tags": [
+      "Richarson's Farm Mint Chocolate Chip Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Mint",
+      "desc": "Mint"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20085,
+    "code": "Richarson's Farm Cookie Dough Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Cookie Dough Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with chocolate chips and raw cookie dough pieces",
+    "tags": [
+      "Richarson's Farm Cookie Dough Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Cookie Dough",
+      "desc": "Cookie Dough"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20025,
+    "code": "Richarson's Farm Coconut Chip with Almond JoyÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coconut Chip with Almond JoyÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Coconut ice cream with Almond JoyÂ® bars, chocolate chips, and almonds",
+    "tags": [
+      "Richarson's Farm Coconut Chip with Almond JoyÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Coconut",
+      "desc": "Coconut"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20073,
+    "code": "Richarson's Farm Maine Black Bear Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Maine Black Bear Ice Cream 16% Butterfat",
+    "shortDesc": "Red raspberry ice cream with chocolate chips and chocolate covered raspberry truffles",
+    "tags": [
+      "Richarson's Farm Maine Black Bear Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Red Raspberry",
+      "desc": "Red Raspberry"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20018,
+    "code": "Richarson's Farm Peppermint Stick Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Peppermint Stick Ice Cream 16% Butterfat",
+    "shortDesc": "Mint ice cream with peppermint candies",
+    "tags": [
+      "Richarson's Farm Peppermint Stick Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Peppermint",
+      "desc": "Peppermint"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20016,
+    "code": "Richarson's Farm Pistachio Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Pistachio Ice Cream 16% Butterfat",
+    "shortDesc": "Pistachio ice cream with pistachios",
+    "tags": [
+      "Richarson's Farm Pistachio Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Pistachio",
+      "desc": "Pistachio"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20051,
+    "code": "Richarson's Farm Green Tean Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Green Tean Ice Cream 16% Butterfat",
+    "shortDesc": "Made with Real green tea",
+    "tags": [
+      "Richarson's Farm Green Tean Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Green Tea",
+      "desc": "Green Tea"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20063,
+    "code": "Richarson's Farm Coffee Oreo Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coffee Oreo Ice Cream 16% Butterfat",
+    "shortDesc": "Coffee ice cream with Oreo Cookies",
+    "tags": [
+      "Richarson's Farm Coffee Oreo Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20005,
+    "code": "Richarson's Farm Chocolate Chip Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Chocolate Chip Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with dark chocolate chips",
+    "tags": [
+      "Richarson's Farm Chocolate Chip Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20001,
+    "code": "Richarson's Farm French Vanilla Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm French Vanilla Ice Cream 16% Butterfat",
+    "shortDesc": "Traditional vanilla with egg yolks for a rich flavor",
+    "tags": [
+      "Richarson's Farm French Vanilla Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20072,
+    "code": "Richarson's Farm Black Raspberry Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Black Raspberry Ice Cream 16% Butterfat",
+    "shortDesc": "Black raspberry ice cream with berries",
+    "tags": [
+      "Richarson's Farm Black Raspberry Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20084,
+    "code": "Richarson's Farm Oreo Cookie Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Oreo Cookie Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with Oreo cookies",
+    "tags": [
+      "Richarson's Farm Oreo Cookie Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Oreo",
+      "desc": "Oreo"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20011,
+    "code": "Richarson's Farm Coffee Oreo Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Coffee Oreo Ice Cream 16% Butterfat",
+    "shortDesc": "Coffee ice cream with Oreo Cookies",
+    "tags": [
+      "Richarson's Farm Coffee Oreo Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20036,
+    "code": "Richarson's Farm Banana Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Banana Ice Cream 16% Butterfat",
+    "shortDesc": "Made with real bananas",
+    "tags": [
+      "Richarson's Farm Banana Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Banana",
+      "desc": "Banana"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20081,
+    "code": "Richarson's Farm Coffee Toffee with Health BarÂ® Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Coffee Toffee with Health BarÂ® Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Coffee yogurt with HeathÂ® Bar pices, chocolate chips and toffee",
+    "tags": [
+      "Richarson's Farm Coffee Toffee with Health BarÂ® Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20056,
+    "code": "Richarson's Farm Chocolate Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Chocolate Ice Cream 16% Butterfat",
+    "shortDesc": "Made with Bensdorp Cocoa imported all the way from Holland",
+    "tags": [
+      "Richarson's Farm Chocolate Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20093,
+    "code": "Richarson's Farm Coffee Toffee with Health BarÂ® Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Coffee Toffee with Health BarÂ® Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Coffee yogurt with HeathÂ® Bar pices, chocolate chips and toffee",
+    "tags": [
+      "Richarson's Farm Coffee Toffee with Health BarÂ® Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20045,
+    "code": "Richarson's Farm Chocolate Walnut Fudge Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Chocolate Walnut Fudge Ice Cream 16% Butterfat",
+    "shortDesc": "Chocolate ice cream with a fudge twirl and walnuts",
+    "tags": [
+      "Richarson's Farm Chocolate Walnut Fudge Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20086,
+    "code": "Richarson's Farm French Vanilla Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm French Vanilla Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Vanilla yogurt with real eggs for a richer flavor",
+    "tags": [
+      "Richarson's Farm French Vanilla Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Vanilla",
+      "desc": "Vanilla"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20070,
+    "code": "Richarson's Farm Melts in your Mouth with M&MÂ® Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Melts in your Mouth with M&MÂ® Ice Cream 16% Butterfat",
+    "shortDesc": "Vanilla ice cream with M&MÂ® candies",
+    "tags": [
+      "Richarson's Farm Melts in your Mouth with M&MÂ® Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "M&M",
+      "desc": "M&M"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20039,
+    "code": "Richarson's Farm Frozen Pudding Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Frozen Pudding Ice Cream 16% Butterfat",
+    "shortDesc": "Rum based ice cream with raisins, pineapples, maraschino cherries, apples, and peaches (an old-fashioned favorite)",
+    "tags": [
+      "Richarson's Farm Frozen Pudding Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Rum based",
+      "desc": "Rum based"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20079,
+    "code": "Richarson's Farm Coffee Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "desc": "Richarson's Farm Coffee Ice Cream Low Fat No Sugar Added 95% Fat Free",
+    "shortDesc": "95% Fat Free Made with Coffee",
+    "tags": [
+      "Richarson's Farm Coffee Ice Cream Low Fat No Sugar Added 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Coffee",
+      "desc": "Coffee"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20044,
+    "code": "Richarson's Farm Rocky Road Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Rocky Road Ice Cream 16% Butterfat",
+    "shortDesc": "Chocolate ice cream with mini marshmallows, chocolate chips, and chopped mixed nuts",
+    "tags": [
+      "Richarson's Farm Rocky Road Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Chocolate",
+      "desc": "Chocolate"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20089,
+    "code": "Richarson's Farm Black Raspberry Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Black Raspberry Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Made with real black raspberries",
+    "tags": [
+      "Richarson's Farm Black Raspberry Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 29.99,
+      "discountPrice": 29.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20107,
+    "code": "Richarson's Farm Watermelon Sherbet",
+    "desc": "Richarson's Farm Watermelon Sherbet",
+    "shortDesc": "Delicious Sherbet for the lighter side",
+    "tags": [
+      "Richarson's Farm Watermelon Sherbet"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sherbet & Sorbet",
+        "desc": "Sherbet & Sorbet"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.29,
+      "discountPrice": 7.29
+    },
+    "type": {
+      "code": "Watermelon",
+      "desc": "Watermelon"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20103,
+    "code": "Richarson's Farm Watermelon Sherbet",
+    "desc": "Richarson's Farm Watermelon Sherbet",
+    "shortDesc": "Delicious Sherbet for the lighter side",
+    "tags": [
+      "Richarson's Farm Watermelon Sherbet"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sherbet & Sorbet",
+        "desc": "Sherbet & Sorbet"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 22.99,
+      "discountPrice": 22.99
+    },
+    "type": {
+      "code": "Watermelon",
+      "desc": "Watermelon"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20100,
+    "code": "Richarson's Farm Purple Berry Chip Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Purple Berry Chip Frozen Yogurt 95% Fat Free",
+    "shortDesc": "Black raspberry yogurt with dark and white chocolate chips",
+    "tags": [
+      "Richarson's Farm Purple Berry Chip Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Black Raspberry",
+      "desc": "Black Raspberry"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20017,
+    "code": "Richarson's Farm Butter Pecan Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Butter Pecan Ice Cream 16% Butterfat",
+    "shortDesc": "Rich buttery flavored ice cream with roasted pecans",
+    "tags": [
+      "Richarson's Farm Butter Pecan Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Butter Pecan",
+      "desc": "Butter Pecan"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20042,
+    "code": "Richarson's Farm Grapenut Custard Ice Cream 16% Butterfat",
+    "desc": "Richarson's Farm Grapenut Custard Ice Cream 16% Butterfat",
+    "shortDesc": "Custard based ice cream with grapenuts",
+    "tags": [
+      "Richarson's Farm Grapenut Custard Ice Cream 16% Butterfat"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Ice Cream",
+        "desc": "Ice Cream"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 32.99,
+      "discountPrice": 32.99
+    },
+    "type": {
+      "code": "Custard",
+      "desc": "Custard"
+    },
+    "weight": "3 Gal. Tub",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "3 Gal. Tub",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 20099,
+    "code": "Richarson's Farm Pistachio Frozen Yogurt 95% Fat Free",
+    "desc": "Richarson's Farm Pistachio Frozen Yogurt 95% Fat Free",
+    "shortDesc": "The real deal pistachio yogurt with pistacio nut pieces",
+    "tags": [
+      "Richarson's Farm Pistachio Frozen Yogurt 95% Fat Free"
+    ],
+    "categories": [
+      {
+        "code": "Richardson's Farm Ice Cream",
+        "desc": "Richardson's Farm Ice Cream"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Frozen Yogurt",
+        "desc": "Frozen Yogurt"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Richarson's Farm",
+        "desc": "Richarson's Farm"
+      }
+    ],
+    "price": {
+      "basePrice": 7.99,
+      "discountPrice": 7.99
+    },
+    "type": {
+      "code": "Pistachio",
+      "desc": "Pistachio"
+    },
+    "weight": "1/2 Gal. Container",
+    "tax": 0.0,
+    "aiselNo": "",
+    "store": "Richardson's Farm",
+    "weightType": "1/2 Gal. Container",
+    "imageName": "RichardsonsFarm.jpg",
+    "defaultImage": "RichardsonsFarm.jpg",
+    "updatedTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "createdTimestamp": "Jan 21, 2021 7:21:14 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  }
+]

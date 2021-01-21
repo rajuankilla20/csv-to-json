@@ -27,7 +27,7 @@ public class ProductUtil {
 //        17-"created_at" - timestamp
 //        18-"updated_at" - timestamp
 //
-        p.setId(Integer.parseInt(row[0])+""); //0-"pid"
+        p.setId(Integer.parseInt(row[0])); //0-"pid"
         p.setAiselNo(Integer.parseInt(row[1])+""); //1-"aisle_no"
         p.setDesc(row[2]); // 2-"title"
         p.setDefaultImage(row[3]); // 3-"main_image"

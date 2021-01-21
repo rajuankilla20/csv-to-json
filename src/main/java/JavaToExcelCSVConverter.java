@@ -101,7 +101,7 @@ public class JavaToExcelCSVConverter {
     }
 
     private static void buildCSVRow(ProductGpod p, String[] row) {
-        row[0]= p.getId() ;
+        row[0]= p.getId()+"";
         row[1]= p.getCategories().get(0).getDesc();
         row[2]= p.getSubCategories().get(0).getDesc();
         row[3]= p.getType().getDesc();

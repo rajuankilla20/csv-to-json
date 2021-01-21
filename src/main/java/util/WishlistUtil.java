@@ -55,7 +55,7 @@ public class WishlistUtil {
     private static FavouritesGpod buildFavourites(String[] row,ProductGpod p) {
         FavouritesGpod f = new FavouritesGpod();
         f.setCode(p.getDesc());
-        f.setId(p.getId());
+        f.setId(p.getId()+"");
         f.setImage(p.getImageName());
         f.setPrice(p.getPrice());
         f.setWeight(p.getWeight());

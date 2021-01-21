@@ -29,5 +29,9 @@ public class QueryConstants {
     public static final String ALL_PRODUCTS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/excel/all_products.csv";
     public static final String ORDERED_PRODUCTS_CSV_FILE = "D:/projects/csv-json-proj/csv-to-json/src/main/resources/excel/ordered_products.csv";
 
+    // Custome products uploaded directly from Gp temam
+    public static final String RICHARTSON_PRODUCTS_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/section-products-input/richardsons-farm.csv";;
+
+
 }
 

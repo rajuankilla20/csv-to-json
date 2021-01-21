@@ -8,6 +8,7 @@ import java.util.Objects;
 public class UserOrders {
     private String deliveryTip;
     private double deliveryTipAmount;
+    private String email;
     private int orderNumber;
     private List<Items> items = new ArrayList<>();
     private String orderStatus;
@@ -155,11 +156,20 @@ public class UserOrders {
         this.orderStatusChange = orderStatusChange;
     }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
     @Override
     public String toString() {
         return "UserOrders{" +
                 "deliveryTip='" + deliveryTip + '\'' +
                 ", deliveryTipAmount=" + deliveryTipAmount +
+                ", email='" + email + '\'' +
                 ", orderNumber=" + orderNumber +
                 ", items=" + items +
                 ", orderStatus='" + orderStatus + '\'' +

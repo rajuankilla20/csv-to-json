@@ -1,14 +1,18 @@
 package util;
 
 import com.opencsv.CSVReader;
+import model.gpod.FinalUserOrders;
 import model.gpod.OrderStatusGpod;
 import model.gpod.OrdersGpod;
+import model.gpod.UserOrders;
 
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 public class OrdersUtil {
@@ -16,7 +20,7 @@ public class OrdersUtil {
 
     // percentage , none , custom, fixed, 5,7,10,12,15
 
-    public static void buildOrderStatus(Map<Integer, OrdersGpod> ordersGpodMap) throws IOException {
+    public static void buildOrders(Map<Integer, OrdersGpod> ordersGpodMap) throws IOException {
 
         try (
                 Reader reader = Files.newBufferedReader(Paths.get(QueryConstants.ORDER_CSV_FILE), StandardCharsets.ISO_8859_1);
@@ -74,6 +78,17 @@ public class OrdersUtil {
         o.setCreatedTimestamp(DateUtil.getDate(row[25]));// 25-created_at
         o.setUpdatedTimestamp(DateUtil.getDate(row[26]));// 26-updated_at
        return o;
+    }
+
+    public static void buildFinalOrders(List<FinalUserOrders>  finalUserOrders,List<UserOrders>  finalOrders ){
+
+        finalUserOrders.forEach( finalUserOrders1 -> {
+            finalUserOrders1.getUserOrders().forEach(userOrders -> {
+                finalOrders.add(userOrders);
+            });
+        });
+
+//        return finalOrders;
     }
 }
 
