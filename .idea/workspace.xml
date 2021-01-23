@@ -2,15 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJsonShatanu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/CatSubCatShantanuListUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Catagory-Sub-Catagory.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/sub-categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/SectionProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Prod_upload_with_id_same_size_uow_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Prod_upload_without_id_same_size_uow_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Products_Retain_Csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/breakfast-essentials_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/candies-jerkies_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/chips_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/dorm-needs_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/freezing-favourites_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/game-night-movie-nights_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/meat-of-your-choice_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/produce-your-choice_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/protein-bars-drinks_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/richardsons-form_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/soda-drinks_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_retain-products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_upload-products-with-ids.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_upload-products-without-ids.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/brands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/breakfast-essentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/candies-jerkies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/chips.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/dorm-needs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/freezing-favourites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/game-night-movie-nights.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/meat-of-your-choice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/new-brands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/produce-your-choice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/protein-bars-drinks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/soda-drinks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BuildProductsFromShoppers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
     </list>
@@ -182,11 +209,22 @@
           <line>186</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="row[4]" />
+        <watch expression="sectionProductNamesSet.toArray()[1]" />
       </configuration>
     </watches-manager>
   </component>

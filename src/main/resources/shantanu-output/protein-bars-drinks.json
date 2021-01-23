@@ -1,0 +1,4957 @@
+[
+  {
+    "id": 5756,
+    "code": "Larabar Original Fruit & Nut Food Bar Lemon Bar",
+    "desc": "Larabar Original Fruit & Nut Food Bar Lemon Bar",
+    "shortDesc": "Larabar Original Fruit & Nut Food Bar Lemon Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.8 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.8 oz",
+    "imageName": "1316.jpg",
+    "defaultImage": "1316.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5832,
+    "code": "Think! High Protein Bar Chunky Peanut Butter",
+    "desc": "Think! High Protein Bar Chunky Peanut Butter",
+    "shortDesc": "Think! High Protein Bar Chunky Peanut Butter",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Think!",
+        "desc": "Think!"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1 ct",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1 ct",
+    "imageName": "15227.jpg",
+    "defaultImage": "15227.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5702,
+    "code": "Atkins Endulge Chocolate Coconut Treat Bars",
+    "desc": "Atkins Endulge Chocolate Coconut Treat Bars",
+    "shortDesc": "Atkins Endulge Chocolate Coconut Treat Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 6.09,
+      "discountPrice": 6.09
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 ct",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "5 ct",
+    "imageName": "15213.jpg",
+    "defaultImage": "15213.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5757,
+    "code": "Luna Blueberry Bliss Whole Nutrition Bar",
+    "desc": "Luna Blueberry Bliss Whole Nutrition Bar",
+    "shortDesc": "Luna Blueberry Bliss Whole Nutrition Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.69 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.69 oz",
+    "imageName": "1289.jpg",
+    "defaultImage": "1289.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5760,
+    "code": "Luna Chocolate Dipped Coconut Whole Nutrition Bar",
+    "desc": "Luna Chocolate Dipped Coconut Whole Nutrition Bar",
+    "shortDesc": "Luna Chocolate Dipped Coconut Whole Nutrition Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1293.jpg",
+    "defaultImage": "1293.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15275,
+    "code": "Amrita Sun Butter & Jelly Protein Bar",
+    "desc": "Amrita Sun Butter & Jelly Protein Bar",
+    "shortDesc": "Amrita Sun Butter & Jelly Protein Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Amrita Protein",
+        "desc": "Amrita Protein"
+      }
+    ],
+    "price": {
+      "basePrice": 2.17,
+      "discountPrice": 2.17
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.12 oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "2.12 oz",
+    "imageName": "6750.jpg",
+    "defaultImage": "6750.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5842,
+    "code": "Zone Perfect Nutrition Bar Chocolate Peanut Butter",
+    "desc": "Zone Perfect Nutrition Bar Chocolate Peanut Butter",
+    "shortDesc": "Zone Perfect Nutrition Bar Chocolate Peanut Butter",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Zone Perfect",
+        "desc": "Zone Perfect"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "1324.jpg",
+    "defaultImage": "1324.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15279,
+    "code": "Atkins Shake Milk Chocolate Delight",
+    "desc": "Atkins Shake Milk Chocolate Delight",
+    "shortDesc": "Atkins Shake Milk Chocolate Delight",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 4.93,
+      "discountPrice": 4.93
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "4 x 11 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "4 x 11 fl oz",
+    "imageName": "6728.jpg",
+    "defaultImage": "6728.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5840,
+    "code": "thinkThin Protein & Fiber Bar Pumpkin Spice",
+    "desc": "thinkThin Protein & Fiber Bar Pumpkin Spice",
+    "shortDesc": "thinkThin Protein & Fiber Bar Pumpkin Spice",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.41 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.41 oz",
+    "imageName": "15263.jpg",
+    "defaultImage": "15263.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 32220,
+    "code": "Kellogg's Special K Protien Shake French Vanilla",
+    "desc": "Kellogg's Special K Protien Shake French Vanilla",
+    "shortDesc": "Kellogg's Special K Protien Shake French Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "4 x 10 fl oz ",
+    "UpcCode": "038000432576",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "4 x 10 fl oz ",
+    "imageName": "X3480.jpg",
+    "defaultImage": "X3480.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15288,
+    "code": "Ensure Nutrition Shake",
+    "desc": "Ensure Nutrition Shake",
+    "shortDesc": "Ensure Nutrition Shake",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 14.02,
+      "discountPrice": 14.02
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6720.jpg",
+    "defaultImage": "6720.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5841,
+    "code": "Zone Perfect Chocolate Caramel Cluster ZonePerfect Nutrition Bar Chocolate Caramel Cluster Bar Bars",
+    "desc": "Zone Perfect Chocolate Caramel Cluster ZonePerfect Nutrition Bar Chocolate Caramel Cluster Bar Bars",
+    "shortDesc": "Zone Perfect Chocolate Caramel Cluster ZonePerfect Nutrition Bar Chocolate Caramel Cluster Bar Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Zone Perfect",
+        "desc": "Zone Perfect"
+      }
+    ],
+    "price": {
+      "basePrice": 1.59,
+      "discountPrice": 1.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "1326.jpg",
+    "defaultImage": "1326.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5838,
+    "code": "thinkThin Protein & Fiber Bar Chunky Chocolate Peanut",
+    "desc": "thinkThin Protein & Fiber Bar Chunky Chocolate Peanut",
+    "shortDesc": "thinkThin Protein & Fiber Bar Chunky Chocolate Peanut",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.59,
+      "discountPrice": 1.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.41 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.41 oz",
+    "imageName": "15237.jpg",
+    "defaultImage": "15237.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5763,
+    "code": "Luna S'mores Whole Nutrition Bar",
+    "desc": "Luna S'mores Whole Nutrition Bar",
+    "shortDesc": "Luna S'mores Whole Nutrition Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1297.jpg",
+    "defaultImage": "1297.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5761,
+    "code": "Luna Chocolate Peppermint Stick Whole Nutrition Bar",
+    "desc": "Luna Chocolate Peppermint Stick Whole Nutrition Bar",
+    "shortDesc": "Luna Chocolate Peppermint Stick Whole Nutrition Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.69 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.69 oz",
+    "imageName": "1291.jpg",
+    "defaultImage": "1291.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15292,
+    "code": "Ensure Plus Milk Chocolate",
+    "desc": "Ensure Plus Milk Chocolate",
+    "shortDesc": "Ensure Plus Milk Chocolate",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 14.02,
+      "discountPrice": 14.02
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 count",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 count",
+    "imageName": "No Image.jpg",
+    "defaultImage": "No Image.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 31314,
+    "code": "Fiber One Protein Bars Strawberries & Cream",
+    "desc": "Fiber One Protein Bars Strawberries & Cream",
+    "shortDesc": "Fiber One Protein Bars Strawberries & Cream",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Fiber One",
+        "desc": "Fiber One"
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 0.96 oz",
+    "UpcCode": "016000140899",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "5 x 0.96 oz",
+    "imageName": "X3846.jpg",
+    "defaultImage": "X3846.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5836,
+    "code": "Think Thin Protein & Fiber Bar Honey Drizzle Peanut",
+    "desc": "Think Thin Protein & Fiber Bar Honey Drizzle Peanut",
+    "shortDesc": "Think Thin Protein & Fiber Bar Honey Drizzle Peanut",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15214.jpg",
+    "defaultImage": "15214.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5707,
+    "code": "Balance Bar Nutrition Bar Mocha Chip",
+    "desc": "Balance Bar Nutrition Bar Mocha Chip",
+    "shortDesc": "Balance Bar Nutrition Bar Mocha Chip",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Balance Bar",
+        "desc": "Balance Bar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15251.jpg",
+    "defaultImage": "15251.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15305,
+    "code": "Muscle Milk Chocolate Dairy Drinks - Chilled",
+    "desc": "Muscle Milk Chocolate Dairy Drinks - Chilled",
+    "shortDesc": "Muscle Milk Chocolate Dairy Drinks - Chilled",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Muscle Milk",
+        "desc": "Muscle Milk"
+      }
+    ],
+    "price": {
+      "basePrice": 4.24,
+      "discountPrice": 4.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "14 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "14 fl oz",
+    "imageName": "6733.jpg",
+    "defaultImage": "6733.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5798,
+    "code": "Odwalla Blueberry Swirl Superfood Bar",
+    "desc": "Odwalla Blueberry Swirl Superfood Bar",
+    "shortDesc": "Odwalla Blueberry Swirl Superfood Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Odwalla",
+        "desc": "Odwalla"
+      }
+    ],
+    "price": {
+      "basePrice": 2.49,
+      "discountPrice": 2.49
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2 oz",
+    "imageName": "15265.jpg",
+    "defaultImage": "15265.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5805,
+    "code": "PowerBar Chocolate Crisp Protein Bar",
+    "desc": "PowerBar Chocolate Crisp Protein Bar",
+    "shortDesc": "PowerBar Chocolate Crisp Protein Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "PowerBar",
+        "desc": "PowerBar"
+      }
+    ],
+    "price": {
+      "basePrice": 2.49,
+      "discountPrice": 2.49
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.15 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.15 oz",
+    "imageName": "1320.jpg",
+    "defaultImage": "1320.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5752,
+    "code": "Larabar Gluten Free Peanut Butter Chocolate Chip Fruit & Nut Bars",
+    "desc": "Larabar Gluten Free Peanut Butter Chocolate Chip Fruit & Nut Bars",
+    "shortDesc": "Larabar Gluten Free Peanut Butter Chocolate Chip Fruit & Nut Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.59,
+      "discountPrice": 1.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.6 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.6 oz",
+    "imageName": "1311.jpg",
+    "defaultImage": "1311.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5765,
+    "code": "Luna Whole Nutrition Bar Lemonzest",
+    "desc": "Luna Whole Nutrition Bar Lemonzest",
+    "shortDesc": "Luna Whole Nutrition Bar Lemonzest",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1290.jpg",
+    "defaultImage": "1290.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30829,
+    "code": "Carnation Breakfast Essentials Light Start Rich Milk Chocolate ",
+    "desc": "Carnation Breakfast Essentials Light Start Rich Milk Chocolate ",
+    "shortDesc": "Carnation Breakfast Essentials Light Start Rich Milk Chocolate ",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 6.24,
+      "discountPrice": 6.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 10  fl oz ",
+    "UpcCode": "050000540426",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "6 x 10  fl oz ",
+    "imageName": "X3487.jpg",
+    "defaultImage": "X3487.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5808,
+    "code": "Pure Protein Bar Dark Chocolate Coconut",
+    "desc": "Pure Protein Bar Dark Chocolate Coconut",
+    "shortDesc": "Pure Protein Bar Dark Chocolate Coconut",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Pure Protein",
+        "desc": "Pure Protein"
+      }
+    ],
+    "price": {
+      "basePrice": 1.69,
+      "discountPrice": 1.69
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15205.jpg",
+    "defaultImage": "15205.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30827,
+    "code": "Carnation Breakfast Essentials Classic French Vanilla High Protien",
+    "desc": "Carnation Breakfast Essentials Classic French Vanilla High Protien",
+    "shortDesc": "Carnation Breakfast Essentials Classic French Vanilla High Protien",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 8.74,
+      "discountPrice": 8.74
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 10  fl oz ",
+    "UpcCode": "050000407378",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "6 x 10  fl oz ",
+    "imageName": "X3485.jpg",
+    "defaultImage": "X3485.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 32222,
+    "code": "Kellog's Special K Shake Rich Chocolate Cereal ",
+    "desc": "Kellog's Special K Shake Rich Chocolate Cereal ",
+    "shortDesc": "Kellog's Special K Shake Rich Chocolate Cereal ",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "4 x 10  fl oz ",
+    "UpcCode": "038000528910",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "4 x 10  fl oz ",
+    "imageName": "X3482.jpg",
+    "defaultImage": "X3482.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5799,
+    "code": "Perfect Bar Almond Butter",
+    "desc": "Perfect Bar Almond Butter",
+    "shortDesc": "Perfect Bar Almond Butter",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Perfect Bar",
+        "desc": "Perfect Bar"
+      }
+    ],
+    "price": {
+      "basePrice": 2.79,
+      "discountPrice": 2.79
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.3 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.3 oz",
+    "imageName": "15229.jpg",
+    "defaultImage": "15229.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15291,
+    "code": "Ensure Original Nutrition Shake Vanilla Ready-to-Drink Bottles",
+    "desc": "Ensure Original Nutrition Shake Vanilla Ready-to-Drink Bottles",
+    "shortDesc": "Ensure Original Nutrition Shake Vanilla Ready-to-Drink Bottles",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 12.64,
+      "discountPrice": 12.64
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6718.jpg",
+    "defaultImage": "6718.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5800,
+    "code": "Perfect Foods Peanut Butter Bar",
+    "desc": "Perfect Foods Peanut Butter Bar",
+    "shortDesc": "Perfect Foods Peanut Butter Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Perfect Foods",
+        "desc": "Perfect Foods"
+      }
+    ],
+    "price": {
+      "basePrice": 2.99,
+      "discountPrice": 2.99
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.5 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.5 oz",
+    "imageName": "15253.jpg",
+    "defaultImage": "15253.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5810,
+    "code": "Pure Protein Protein Bar, Chocolate Peanut Butter",
+    "desc": "Pure Protein Protein Bar, Chocolate Peanut Butter",
+    "shortDesc": "Pure Protein Protein Bar, Chocolate Peanut Butter",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Pure Protein",
+        "desc": "Pure Protein"
+      }
+    ],
+    "price": {
+      "basePrice": 6.69,
+      "discountPrice": 6.69
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "6 each",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "6 each",
+    "imageName": "15250.jpg",
+    "defaultImage": "15250.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15294,
+    "code": "Ensure Plus Nutrition Shake Strawberry Ready-to-Drink Bottles",
+    "desc": "Ensure Plus Nutrition Shake Strawberry Ready-to-Drink Bottles",
+    "shortDesc": "Ensure Plus Nutrition Shake Strawberry Ready-to-Drink Bottles",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 12.64,
+      "discountPrice": 12.64
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6721.jpg",
+    "defaultImage": "6721.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 6694,
+    "code": "Atkins Protein Rich Meal Bar Chocolate Chip Cookie Dough",
+    "desc": "Atkins Protein Rich Meal Bar Chocolate Chip Cookie Dough",
+    "shortDesc": "Atkins Protein Rich Meal Bar Chocolate Chip Cookie Dough",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 7.39,
+      "discountPrice": 7.39
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 2.12 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "5 x 2.12 oz",
+    "imageName": "17653.jpg",
+    "defaultImage": "17653.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5703,
+    "code": "Atkins Endulge Treat Caramel Nut Chew Bar",
+    "desc": "Atkins Endulge Treat Caramel Nut Chew Bar",
+    "shortDesc": "Atkins Endulge Treat Caramel Nut Chew Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 6.09,
+      "discountPrice": 6.09
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 ct",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "5 ct",
+    "imageName": "15212.jpg",
+    "defaultImage": "15212.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15307,
+    "code": "Muscle Milk Vanilla Cream Dairy Substitute - Shelf Stable",
+    "desc": "Muscle Milk Vanilla Cream Dairy Substitute - Shelf Stable",
+    "shortDesc": "Muscle Milk Vanilla Cream Dairy Substitute - Shelf Stable",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Muscle Milk",
+        "desc": "Muscle Milk"
+      }
+    ],
+    "price": {
+      "basePrice": 4.24,
+      "discountPrice": 4.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "14 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "14 fl oz",
+    "imageName": "6732.jpg",
+    "defaultImage": "6732.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15285,
+    "code": "Boost Original Very Vanilla",
+    "desc": "Boost Original Very Vanilla",
+    "shortDesc": "Boost Original Very Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Boost",
+        "desc": "Boost"
+      }
+    ],
+    "price": {
+      "basePrice": 11.26,
+      "discountPrice": 11.26
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6741.jpg",
+    "defaultImage": "6741.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5697,
+    "code": "Amrita Health Foods Bar Cranberry Raisin",
+    "desc": "Amrita Health Foods Bar Cranberry Raisin",
+    "shortDesc": "Amrita Health Foods Bar Cranberry Raisin",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Amrita",
+        "desc": "Amrita"
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2 oz",
+    "imageName": "15268.jpg",
+    "defaultImage": "15268.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 32221,
+    "code": "Kellogg's Special K Protion Shakes Strawberry Cereal ",
+    "desc": "Kellogg's Special K Protion Shakes Strawberry Cereal ",
+    "shortDesc": "Kellogg's Special K Protion Shakes Strawberry Cereal ",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "4 x 10  fl oz ",
+    "UpcCode": "038000431982",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "4 x 10  fl oz ",
+    "imageName": "X3481.jpg",
+    "defaultImage": "X3481.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15293,
+    "code": "Ensure Plus Nutrition Shake Milk Chocolate Ready-to-Drink Bottles",
+    "desc": "Ensure Plus Nutrition Shake Milk Chocolate Ready-to-Drink Bottles",
+    "shortDesc": "Ensure Plus Nutrition Shake Milk Chocolate Ready-to-Drink Bottles",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 14.02,
+      "discountPrice": 14.02
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "48 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "48 fl oz",
+    "imageName": "6722.jpg",
+    "defaultImage": "6722.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5801,
+    "code": "Power Crunch Protein Energy Bar Original Cookies & Creme",
+    "desc": "Power Crunch Protein Energy Bar Original Cookies & Creme",
+    "shortDesc": "Power Crunch Protein Energy Bar Original Cookies & Creme",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Power Crunch",
+        "desc": "Power Crunch"
+      }
+    ],
+    "price": {
+      "basePrice": 1.87,
+      "discountPrice": 1.87
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.4 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.4 oz",
+    "imageName": "15235.jpg",
+    "defaultImage": "15235.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5824,
+    "code": "Quest Protein Bar Chocolate Chip Cookie Dough Flavor",
+    "desc": "Quest Protein Bar Chocolate Chip Cookie Dough Flavor",
+    "shortDesc": "Quest Protein Bar Chocolate Chip Cookie Dough Flavor",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Quest",
+        "desc": "Quest"
+      }
+    ],
+    "price": {
+      "basePrice": 2.5,
+      "discountPrice": 2.5
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.12 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.12 oz",
+    "imageName": "15261.jpg",
+    "defaultImage": "15261.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15284,
+    "code": "Boost Original Complete Nutritional Drink, Rich Chocolate",
+    "desc": "Boost Original Complete Nutritional Drink, Rich Chocolate",
+    "shortDesc": "Boost Original Complete Nutritional Drink, Rich Chocolate",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Boost",
+        "desc": "Boost"
+      }
+    ],
+    "price": {
+      "basePrice": 11.26,
+      "discountPrice": 11.26
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6740.jpg",
+    "defaultImage": "6740.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15278,
+    "code": "Atkins Shake French Vanilla",
+    "desc": "Atkins Shake French Vanilla",
+    "shortDesc": "Atkins Shake French Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 9.19,
+      "discountPrice": 9.19
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "4 x 11 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "4 x 11 fl oz",
+    "imageName": "6731.jpg",
+    "defaultImage": "6731.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5753,
+    "code": "Larabar Fruit & Nut Food Bar Apple Pie Bar",
+    "desc": "Larabar Fruit & Nut Food Bar Apple Pie Bar",
+    "shortDesc": "Larabar Fruit & Nut Food Bar Apple Pie Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.6 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.6 oz",
+    "imageName": "1310.jpg",
+    "defaultImage": "1310.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15283,
+    "code": "Boost HIGH PROTEIN Very Vanilla",
+    "desc": "Boost HIGH PROTEIN Very Vanilla",
+    "shortDesc": "Boost HIGH PROTEIN Very Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Boost",
+        "desc": "Boost"
+      }
+    ],
+    "price": {
+      "basePrice": 11.26,
+      "discountPrice": 11.26
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6739.jpg",
+    "defaultImage": "6739.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5701,
+    "code": "Atkins Advantage Protein Rich Meal Bar Chocolate Peanut Butter Bar",
+    "desc": "Atkins Advantage Protein Rich Meal Bar Chocolate Peanut Butter Bar",
+    "shortDesc": "Atkins Advantage Protein Rich Meal Bar Chocolate Peanut Butter Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 8.59,
+      "discountPrice": 8.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 2.1 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "5 x 2.1 oz",
+    "imageName": "15200.jpg",
+    "defaultImage": "15200.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5831,
+    "code": "Thats It Fruit Bar, Apple + Pear",
+    "desc": "Thats It Fruit Bar, Apple + Pear",
+    "shortDesc": "Thats It Fruit Bar, Apple + Pear",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Thats It",
+        "desc": "Thats It"
+      }
+    ],
+    "price": {
+      "basePrice": 1.59,
+      "discountPrice": 1.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.2 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.2 oz",
+    "imageName": "15240.jpg",
+    "defaultImage": "15240.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 31315,
+    "code": "Fiber One Protein Bars Peanut Butter & Chocolate",
+    "desc": "Fiber One Protein Bars Peanut Butter & Chocolate",
+    "shortDesc": "Fiber One Protein Bars Peanut Butter & Chocolate",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Fiber One",
+        "desc": "Fiber One"
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 0.96 oz",
+    "UpcCode": "016000140912",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "5 x 0.96 oz",
+    "imageName": "X3847.jpg",
+    "defaultImage": "X3847.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5806,
+    "code": "Pure Protein Bar Chocolate Deluxe",
+    "desc": "Pure Protein Bar Chocolate Deluxe",
+    "shortDesc": "Pure Protein Bar Chocolate Deluxe",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Pure Protein",
+        "desc": "Pure Protein"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15246.jpg",
+    "defaultImage": "15246.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5750,
+    "code": "Larabar Fruit & Nut Food Bar Peanut Butter Cookie Bar",
+    "desc": "Larabar Fruit & Nut Food Bar Peanut Butter Cookie Bar",
+    "shortDesc": "Larabar Fruit & Nut Food Bar Peanut Butter Cookie Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1309.jpg",
+    "defaultImage": "1309.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30828,
+    "code": "Carnation Breakfast Essentials High Protien Rich Milk Chocolate",
+    "desc": "Carnation Breakfast Essentials High Protien Rich Milk Chocolate",
+    "shortDesc": "Carnation Breakfast Essentials High Protien Rich Milk Chocolate",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 8.74,
+      "discountPrice": 8.74
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 10 fl oz ",
+    "UpcCode": "050000406951",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "6 x 10 fl oz ",
+    "imageName": "X3486.jpg",
+    "defaultImage": "X3486.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5696,
+    "code": "Amrita Dark Chocolate Crunch Protein Bars",
+    "desc": "Amrita Dark Chocolate Crunch Protein Bars",
+    "shortDesc": "Amrita Dark Chocolate Crunch Protein Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Amrita",
+        "desc": "Amrita"
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.12 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.12 oz",
+    "imageName": "No Image.jpg",
+    "defaultImage": "No Image.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5764,
+    "code": "Luna White Chocolate Macadamia Whole Nutrition Bar",
+    "desc": "Luna White Chocolate Macadamia Whole Nutrition Bar",
+    "shortDesc": "Luna White Chocolate Macadamia Whole Nutrition Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.69 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.69 oz",
+    "imageName": "1296.jpg",
+    "defaultImage": "1296.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15304,
+    "code": "Muscle Milk Banana Dairy Substitute - Shelf Stable",
+    "desc": "Muscle Milk Banana Dairy Substitute - Shelf Stable",
+    "shortDesc": "Muscle Milk Banana Dairy Substitute - Shelf Stable",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Muscle Milk",
+        "desc": "Muscle Milk"
+      }
+    ],
+    "price": {
+      "basePrice": 4.24,
+      "discountPrice": 4.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "14 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "14 fl oz",
+    "imageName": "6735.jpg",
+    "defaultImage": "6735.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30826,
+    "code": "Carnation Breakfast Essentials Rich Milk Chocolate Nutritional Drink",
+    "desc": "Carnation Breakfast Essentials Rich Milk Chocolate Nutritional Drink",
+    "shortDesc": "Carnation Breakfast Essentials Rich Milk Chocolate Nutritional Drink",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 8.11,
+      "discountPrice": 8.11
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 10  fl oz ",
+    "UpcCode": "050000415175",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "6 x 10  fl oz ",
+    "imageName": "X3484.jpg",
+    "defaultImage": "X3484.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15287,
+    "code": "Boost Plus Very Vanilla",
+    "desc": "Boost Plus Very Vanilla",
+    "shortDesc": "Boost Plus Very Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Boost",
+        "desc": "Boost"
+      }
+    ],
+    "price": {
+      "basePrice": 13.33,
+      "discountPrice": 13.33
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6749.jpg",
+    "defaultImage": "6749.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5766,
+    "code": "Luna Whole Nutrition Bar Nut Over Chocolate",
+    "desc": "Luna Whole Nutrition Bar Nut Over Chocolate",
+    "shortDesc": "Luna Whole Nutrition Bar Nut Over Chocolate",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1294.jpg",
+    "defaultImage": "1294.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5708,
+    "code": "Balance Bar Nutrition Bar Yogurt Honey Peanut",
+    "desc": "Balance Bar Nutrition Bar Yogurt Honey Peanut",
+    "shortDesc": "Balance Bar Nutrition Bar Yogurt Honey Peanut",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Balance Bar",
+        "desc": "Balance Bar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15216.jpg",
+    "defaultImage": "15216.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5807,
+    "code": "Pure Protein Bar Chocolate Peanut Butter",
+    "desc": "Pure Protein Bar Chocolate Peanut Butter",
+    "shortDesc": "Pure Protein Bar Chocolate Peanut Butter",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Pure Protein",
+        "desc": "Pure Protein"
+      }
+    ],
+    "price": {
+      "basePrice": 8.59,
+      "discountPrice": 8.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "6 x 1.7oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "6 x 1.7oz",
+    "imageName": "15242.jpg",
+    "defaultImage": "15242.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15295,
+    "code": "Glucerna Diabetes Nutritional Shake",
+    "desc": "Glucerna Diabetes Nutritional Shake",
+    "shortDesc": "Glucerna Diabetes Nutritional Shake",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Glucerna",
+        "desc": "Glucerna"
+      }
+    ],
+    "price": {
+      "basePrice": 14.02,
+      "discountPrice": 14.02
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6743.jpg",
+    "defaultImage": "6743.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5843,
+    "code": "Zone Perfect Nutrition Bar Fudge Graham",
+    "desc": "Zone Perfect Nutrition Bar Fudge Graham",
+    "shortDesc": "Zone Perfect Nutrition Bar Fudge Graham",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Zone Perfect",
+        "desc": "Zone Perfect"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "1325.jpg",
+    "defaultImage": "1325.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5754,
+    "code": "Larabar Fruit & Nut Food Bar Chocolate Coconut Chew",
+    "desc": "Larabar Fruit & Nut Food Bar Chocolate Coconut Chew",
+    "shortDesc": "Larabar Fruit & Nut Food Bar Chocolate Coconut Chew",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.8 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.8 oz",
+    "imageName": "1314.jpg",
+    "defaultImage": "1314.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30831,
+    "code": "Carnation Breakfast Essential Strawberry Sensation ",
+    "desc": "Carnation Breakfast Essential Strawberry Sensation ",
+    "shortDesc": "Carnation Breakfast Essential Strawberry Sensation ",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Carnation ",
+        "desc": "Carnation "
+      }
+    ],
+    "price": {
+      "basePrice": 6.24,
+      "discountPrice": 6.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "10 x 1.26 oz",
+    "UpcCode": "050000504909",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "10 x 1.26 oz",
+    "imageName": "X3489.jpg",
+    "defaultImage": "X3489.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 6696,
+    "code": "Atkins Snack Bar Cranberry Almond",
+    "desc": "Atkins Snack Bar Cranberry Almond",
+    "shortDesc": "Atkins Snack Bar Cranberry Almond",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 7.39,
+      "discountPrice": 7.39
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 1.23 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "5 x 1.23 oz",
+    "imageName": "17672.jpg",
+    "defaultImage": "17672.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5837,
+    "code": "Think Thin Salted Caramel Chocolate Dipped Bars",
+    "desc": "Think Thin Salted Caramel Chocolate Dipped Bars",
+    "shortDesc": "Think Thin Salted Caramel Chocolate Dipped Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.41 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.41 oz",
+    "imageName": "15218.jpg",
+    "defaultImage": "15218.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5833,
+    "code": "Think Thin High Protein Bar, Gluten Free, Chocolate Fudge",
+    "desc": "Think Thin High Protein Bar, Gluten Free, Chocolate Fudge",
+    "shortDesc": "Think Thin High Protein Bar, Gluten Free, Chocolate Fudge",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.1 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.1 oz",
+    "imageName": "15232.jpg",
+    "defaultImage": "15232.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5705,
+    "code": "Atkins Snack Bar Peanut Butter Fudge Crisp 5 CT",
+    "desc": "Atkins Snack Bar Peanut Butter Fudge Crisp 5 CT",
+    "shortDesc": "Atkins Snack Bar Peanut Butter Fudge Crisp 5 CT",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 7.39,
+      "discountPrice": 7.39
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 ct",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "5 ct",
+    "imageName": "15206.jpg",
+    "defaultImage": "15206.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5774,
+    "code": "MET Rx Protein Plus Protein Bar Chocolate Roasted Peanut with Caramel",
+    "desc": "MET Rx Protein Plus Protein Bar Chocolate Roasted Peanut with Caramel",
+    "shortDesc": "MET Rx Protein Plus Protein Bar Chocolate Roasted Peanut with Caramel",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "MET-Rx",
+        "desc": "MET-Rx"
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "3 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "3 oz",
+    "imageName": "15244.jpg",
+    "defaultImage": "15244.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15289,
+    "code": "Ensure Original Nutrition Shake Milk Chocolate Ready-to-Drink Bottles",
+    "desc": "Ensure Original Nutrition Shake Milk Chocolate Ready-to-Drink Bottles",
+    "shortDesc": "Ensure Original Nutrition Shake Milk Chocolate Ready-to-Drink Bottles",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 14.02,
+      "discountPrice": 14.02
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6719.jpg",
+    "defaultImage": "6719.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15303,
+    "code": "MET-Rx Protein Plus RTD 51 Creamy Vanilla",
+    "desc": "MET-Rx Protein Plus RTD 51 Creamy Vanilla",
+    "shortDesc": "MET-Rx Protein Plus RTD 51 Creamy Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "MET-Rx",
+        "desc": "MET-Rx"
+      }
+    ],
+    "price": {
+      "basePrice": 4.24,
+      "discountPrice": 4.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "15 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "15 fl oz",
+    "imageName": "17857.jpg",
+    "defaultImage": "17857.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30830,
+    "code": "Carnation Breakfast Essentials Classic French Vanilla",
+    "desc": "Carnation Breakfast Essentials Classic French Vanilla",
+    "shortDesc": "Carnation Breakfast Essentials Classic French Vanilla",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 6.24,
+      "discountPrice": 6.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "10 x 1.26  oz",
+    "UpcCode": "050000530625",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "10 x 1.26  oz",
+    "imageName": "X3488.jpg",
+    "defaultImage": "X3488.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5802,
+    "code": "Power Crunch Protein Energy Bar Original French Vanilla Creme",
+    "desc": "Power Crunch Protein Energy Bar Original French Vanilla Creme",
+    "shortDesc": "Power Crunch Protein Energy Bar Original French Vanilla Creme",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Power Crunch",
+        "desc": "Power Crunch"
+      }
+    ],
+    "price": {
+      "basePrice": 1.87,
+      "discountPrice": 1.87
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.4 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.4 oz",
+    "imageName": "15223.jpg",
+    "defaultImage": "15223.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 6695,
+    "code": "Atkins Protein Rich Meal Bar Peanut Butter Granola",
+    "desc": "Atkins Protein Rich Meal Bar Peanut Butter Granola",
+    "shortDesc": "Atkins Protein Rich Meal Bar Peanut Butter Granola",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 9.19,
+      "discountPrice": 9.19
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "8.5 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "8.5 oz",
+    "imageName": "17654.jpg",
+    "defaultImage": "17654.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5755,
+    "code": "Larabar Gluten Free Bar, Carrot Cake",
+    "desc": "Larabar Gluten Free Bar, Carrot Cake",
+    "shortDesc": "Larabar Gluten Free Bar, Carrot Cake",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.6 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.6 oz",
+    "imageName": "1312.jpg",
+    "defaultImage": "1312.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15286,
+    "code": "Boost Plus Rich Chocolate",
+    "desc": "Boost Plus Rich Chocolate",
+    "shortDesc": "Boost Plus Rich Chocolate",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Boost",
+        "desc": "Boost"
+      }
+    ],
+    "price": {
+      "basePrice": 13.33,
+      "discountPrice": 13.33
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "48 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "48 fl oz",
+    "imageName": "6748.jpg",
+    "defaultImage": "6748.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5844,
+    "code": "Zone Perfect ZonePerfect Nutrition Bar Strawberry Yogurt Bar Bars",
+    "desc": "Zone Perfect ZonePerfect Nutrition Bar Strawberry Yogurt Bar Bars",
+    "shortDesc": "Zone Perfect ZonePerfect Nutrition Bar Strawberry Yogurt Bar Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Zone Perfect",
+        "desc": "Zone Perfect"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "1323.jpg",
+    "defaultImage": "1323.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15306,
+    "code": "Muscle Milk Protein Shake, Non Dairy, Knockout Chocolate",
+    "desc": "Muscle Milk Protein Shake, Non Dairy, Knockout Chocolate",
+    "shortDesc": "Muscle Milk Protein Shake, Non Dairy, Knockout Chocolate",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Muscle Milk",
+        "desc": "Muscle Milk"
+      }
+    ],
+    "price": {
+      "basePrice": 4.24,
+      "discountPrice": 4.24
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "14 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "14 fl oz",
+    "imageName": "6734.jpg",
+    "defaultImage": "6734.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5751,
+    "code": "Larabar Gluten Free Cashew Cookie Fruit & Nut Bars",
+    "desc": "Larabar Gluten Free Cashew Cookie Fruit & Nut Bars",
+    "shortDesc": "Larabar Gluten Free Cashew Cookie Fruit & Nut Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 24.39,
+      "discountPrice": 24.39
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1315.jpg",
+    "defaultImage": "1315.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5758,
+    "code": "Luna Caramel Walnut Brownie Whole Nutrition Bar",
+    "desc": "Luna Caramel Walnut Brownie Whole Nutrition Bar",
+    "shortDesc": "Luna Caramel Walnut Brownie Whole Nutrition Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.6 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.6 oz",
+    "imageName": "1295.jpg",
+    "defaultImage": "1295.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5762,
+    "code": "Luna Fiber Soft Baked Fruit Filled Bar Peanut Butter Strawberry",
+    "desc": "Luna Fiber Soft Baked Fruit Filled Bar Peanut Butter Strawberry",
+    "shortDesc": "Luna Fiber Soft Baked Fruit Filled Bar Peanut Butter Strawberry",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.41 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.41 oz",
+    "imageName": "1292.jpg",
+    "defaultImage": "1292.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5835,
+    "code": "Think Thin Lean Protein & Fiber Bars Chocolate Almond Brownie",
+    "desc": "Think Thin Lean Protein & Fiber Bars Chocolate Almond Brownie",
+    "shortDesc": "Think Thin Lean Protein & Fiber Bars Chocolate Almond Brownie",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.59,
+      "discountPrice": 1.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.41 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.41 oz",
+    "imageName": "15228.jpg",
+    "defaultImage": "15228.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5809,
+    "code": "Pure Protein Chocolate Deluxe Bars",
+    "desc": "Pure Protein Chocolate Deluxe Bars",
+    "shortDesc": "Pure Protein Chocolate Deluxe Bars",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Pure Protein",
+        "desc": "Pure Protein"
+      }
+    ],
+    "price": {
+      "basePrice": 8.59,
+      "discountPrice": 8.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "6 x 1.7oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "6 x 1.7oz",
+    "imageName": "15254.jpg",
+    "defaultImage": "15254.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5834,
+    "code": "Think Thin High Protein Bars Brownie Crunch",
+    "desc": "Think Thin High Protein Bars Brownie Crunch",
+    "shortDesc": "Think Thin High Protein Bars Brownie Crunch",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.1 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.1 oz",
+    "imageName": "15221.jpg",
+    "defaultImage": "15221.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15290,
+    "code": "Ensure Original Nutrition Shake Strawberry Ready-to-Drink Bottles",
+    "desc": "Ensure Original Nutrition Shake Strawberry Ready-to-Drink Bottles",
+    "shortDesc": "Ensure Original Nutrition Shake Strawberry Ready-to-Drink Bottles",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ensure",
+        "desc": "Ensure"
+      }
+    ],
+    "price": {
+      "basePrice": 12.64,
+      "discountPrice": 12.64
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6723.jpg",
+    "defaultImage": "6723.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5709,
+    "code": "Balance Bar Original Nutrition Bar Cookie Dough",
+    "desc": "Balance Bar Original Nutrition Bar Cookie Dough",
+    "shortDesc": "Balance Bar Original Nutrition Bar Cookie Dough",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Balance Bar",
+        "desc": "Balance Bar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15209.jpg",
+    "defaultImage": "15209.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15276,
+    "code": "Atkins Caramel Chocolate Peanut Nougat Bar",
+    "desc": "Atkins Caramel Chocolate Peanut Nougat Bar",
+    "shortDesc": "Atkins Caramel Chocolate Peanut Nougat Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 8.5,
+      "discountPrice": 8.5
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 1.5 oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "5 x 1.5 oz",
+    "imageName": "6730.jpg",
+    "defaultImage": "6730.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 30825,
+    "code": "Carnation Breakfast Essentials  Classic French Vanilla Nutritional Drink",
+    "desc": "Carnation Breakfast Essentials  Classic French Vanilla Nutritional Drink",
+    "shortDesc": "Carnation Breakfast Essentials  Classic French Vanilla Nutritional Drink",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [],
+    "price": {
+      "basePrice": 8.11,
+      "discountPrice": 8.11
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 10 fl oz ",
+    "UpcCode": "050000415694",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "6 x 10 fl oz ",
+    "imageName": "X3483.jpg",
+    "defaultImage": "X3483.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5845,
+    "code": "Zone Perfect Nutrition Bar Chocolate Chip Cookie Dough",
+    "desc": "Zone Perfect Nutrition Bar Chocolate Chip Cookie Dough",
+    "shortDesc": "Zone Perfect Nutrition Bar Chocolate Chip Cookie Dough",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Zone Perfect",
+        "desc": "Zone Perfect"
+      }
+    ],
+    "price": {
+      "basePrice": 1.56,
+      "discountPrice": 1.56
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.58 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.58 oz",
+    "imageName": "15226.jpg",
+    "defaultImage": "15226.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5803,
+    "code": "Power Crunch Protein Energy Bar Original Peanut Butter Creme",
+    "desc": "Power Crunch Protein Energy Bar Original Peanut Butter Creme",
+    "shortDesc": "Power Crunch Protein Energy Bar Original Peanut Butter Creme",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Power Crunch",
+        "desc": "Power Crunch"
+      }
+    ],
+    "price": {
+      "basePrice": 1.87,
+      "discountPrice": 1.87
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.4 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.4 oz",
+    "imageName": "15252.jpg",
+    "defaultImage": "15252.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15277,
+    "code": "Atkins Protein-Rich Shake Strawberry",
+    "desc": "Atkins Protein-Rich Shake Strawberry",
+    "shortDesc": "Atkins Protein-Rich Shake Strawberry",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 9.19,
+      "discountPrice": 9.19
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "4 x 11 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "4 x 11 fl oz",
+    "imageName": "6729.jpg",
+    "defaultImage": "6729.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5825,
+    "code": "Quest Protein Bar Cookies & Cream Flavor",
+    "desc": "Quest Protein Bar Cookies & Cream Flavor",
+    "shortDesc": "Quest Protein Bar Cookies & Cream Flavor",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Quest",
+        "desc": "Quest"
+      }
+    ],
+    "price": {
+      "basePrice": 2.5,
+      "discountPrice": 2.5
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "2.12 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "2.12 oz",
+    "imageName": "15267.jpg",
+    "defaultImage": "15267.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5839,
+    "code": "thinkThin Protein & Fiber Bar Dark Chocolate Peppermint",
+    "desc": "thinkThin Protein & Fiber Bar Dark Chocolate Peppermint",
+    "shortDesc": "thinkThin Protein & Fiber Bar Dark Chocolate Peppermint",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "thinkThin",
+        "desc": "thinkThin"
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.41 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.41 oz",
+    "imageName": "15264.jpg",
+    "defaultImage": "15264.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5704,
+    "code": "Atkins Granola Bar Chocolate Chip",
+    "desc": "Atkins Granola Bar Chocolate Chip",
+    "shortDesc": "Atkins Granola Bar Chocolate Chip",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Atkins",
+        "desc": "Atkins"
+      }
+    ],
+    "price": {
+      "basePrice": 8.59,
+      "discountPrice": 8.59
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 ct",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "5 ct",
+    "imageName": "15207.jpg",
+    "defaultImage": "15207.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 15297,
+    "code": "Glucerna Diabetes Nutritional Shake Rich Chocolate Ready-To-Drink Bottles",
+    "desc": "Glucerna Diabetes Nutritional Shake Rich Chocolate Ready-To-Drink Bottles",
+    "shortDesc": "Glucerna Diabetes Nutritional Shake Rich Chocolate Ready-To-Drink Bottles",
+    "tags": [
+      "Protien Drinks"
+    ],
+    "categories": [
+      {
+        "code": "Personal Care",
+        "desc": "Personal Care"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Vitamins & Proteins",
+        "desc": "Vitamins & Proteins"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Glucerna",
+        "desc": "Glucerna"
+      }
+    ],
+    "price": {
+      "basePrice": 14.02,
+      "discountPrice": 14.02
+    },
+    "type": {
+      "code": "Protien Drinks",
+      "desc": "Protien Drinks"
+    },
+    "weight": "6 x 8 fl oz",
+    "UpcCode": "",
+    "tax": 1.0,
+    "spiceLevel": "",
+    "aiselNo": "13",
+    "store": "Market Basket",
+    "weightType": "6 x 8 fl oz",
+    "imageName": "6742.jpg",
+    "defaultImage": "6742.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5759,
+    "code": "Luna Chocolate Chip Cookie Dough Protein Bar",
+    "desc": "Luna Chocolate Chip Cookie Dough Protein Bar",
+    "shortDesc": "Luna Chocolate Chip Cookie Dough Protein Bar",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Luna",
+        "desc": "Luna"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.6 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.6 oz",
+    "imageName": "1299.jpg",
+    "defaultImage": "1299.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5804,
+    "code": "Power Crunch Protein Energy Bar Original Peanut Butter Fudge",
+    "desc": "Power Crunch Protein Energy Bar Original Peanut Butter Fudge",
+    "shortDesc": "Power Crunch Protein Energy Bar Original Peanut Butter Fudge",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Power Crunch",
+        "desc": "Power Crunch"
+      }
+    ],
+    "price": {
+      "basePrice": 1.87,
+      "discountPrice": 1.87
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.4 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.4 oz",
+    "imageName": "15238.jpg",
+    "defaultImage": "15238.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5749,
+    "code": "Larabar Cherry Pie",
+    "desc": "Larabar Cherry Pie",
+    "shortDesc": "Larabar Cherry Pie",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Larabar",
+        "desc": "Larabar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.25,
+      "discountPrice": 1.25
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "1313.jpg",
+    "defaultImage": "1313.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 31313,
+    "code": "Fiber One Protein Bars Chocolate Fudge",
+    "desc": "Fiber One Protein Bars Chocolate Fudge",
+    "shortDesc": "Fiber One Protein Bars Chocolate Fudge",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Fiber One",
+        "desc": "Fiber One"
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "5 x 0.96 oz",
+    "UpcCode": "016000140868",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "5",
+    "store": "Market Basket",
+    "weightType": "5 x 0.96 oz",
+    "imageName": "X3845.jpg",
+    "defaultImage": "X3845.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:34 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 5706,
+    "code": "Balance Bar Nutrition Bar Caramel Nut Blast",
+    "desc": "Balance Bar Nutrition Bar Caramel Nut Blast",
+    "shortDesc": "Balance Bar Nutrition Bar Caramel Nut Blast",
+    "tags": [
+      "Protien Bars"
+    ],
+    "categories": [
+      {
+        "code": "Breakfast & Dairy",
+        "desc": "Breakfast & Dairy"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Bars & Pastries",
+        "desc": "Bars & Pastries"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Balance Bar",
+        "desc": "Balance Bar"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Protien Bars",
+      "desc": "Protien Bars"
+    },
+    "weight": "1.76 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "3",
+    "store": "Market Basket",
+    "weightType": "1.76 oz",
+    "imageName": "15220.jpg",
+    "defaultImage": "15220.jpg",
+    "updatedTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "createdTimestamp": "Jan 24, 2021 12:49:33 AM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  }
+]
