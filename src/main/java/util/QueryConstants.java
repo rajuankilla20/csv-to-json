@@ -31,6 +31,7 @@ public class QueryConstants {
 
     // Custome products uploaded directly from Gp temam
     public static final String RICHARTSON_PRODUCTS_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/section-products-input/richardsons-farm.csv";;
+    public static final String CAT_SUBCAT_SHANTANU_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/shantanu-input/Catagory-Sub-Catagory.csv";;
 
 
 }

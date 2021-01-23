@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "desc": "Chips, Cookies & Snacks",
+    "code": "Chips, Cookies & Snacks",
+    "imageName": "1598811015.jpg",
+    
+    "createdTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "updatedTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "desc": "Beverages & Juices",
+    "code": "Beverages & Juices",
+    "imageName": "1598811015.jpg",
+    
+    "createdTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "updatedTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "desc": "Pasta & Sauces",
+    "code": "Pasta & Sauces",
+    "imageName": "1598811015.jpg",
+    
+    "createdTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "updatedTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "isActive": true
+  },
+ {
+    "id": 4,
+    "desc": "Condiments & Dressings",
+    "code": "Condiments & Dressings",
+    "imageName": "1598811015.jpg",
+    
+    "createdTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "updatedTimestamp": "Jan 21, 2021 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "desc": "Cooking Needs",
+    "code": "cooking-needs",
+    "imageName": "1598811335.jpg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "desc": "Frozen Food",
+    "code": "Frozen Food",
+    "imageName": "1598811335.jpg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  }, 
+  {
+    "id": 7,
+    "desc": "Fresh Produce",
+    "code": "Fresh Produce",
+    "imageName": "1598812637.svg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true	
+  },
+  {
+    "id": 8,
+    "desc": "Breakfast & Dairy",
+    "code": "Breakfast & Dairy",
+    "imageName": "1598811626.svg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "desc": "Laundry & Paper Goods",
+    "code": "Laundry & Paper Goods",
+    "imageName": "1598811626.svg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "desc": "Kitchen & Cleaning",
+    "code": "Kitchen & Cleaning",
+    "imageName": "1598811626.svg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "desc": "Meat & Seafood",
+    "code": "Meat & Seafood",
+    "imageName": "1598812572.svg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "desc": "Personal Care",
+    "code": "Personal Care",
+    "imageName": "1598811783.jpg",
+    
+    "createdTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "updatedTimestamp": "Aug 30, 2020 2:06:42 PM",
+    "isActive": true
+  }, 
+  {
+    "id": 13,
+    "desc": "Richardson's Farm Ice Cream",
+    "code": "Richardson's Farm Ice Cream",
+    "imageName": "1602973804.svg",
+    
+    "createdTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "updatedTimestamp": "Oct 17, 2020 6:16:19 PM",
+    "isActive": true
+  }
+]

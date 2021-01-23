@@ -19,6 +19,7 @@ public class ProductGpod {
     private Type type;
     private Deal deal;
     private String weight;
+    private String UpcCode;
     private double tax;
     private String spiceLevel;
     private String aiselNo;
@@ -131,6 +132,14 @@ public class ProductGpod {
 
     public void setWeight(String weight) {
         this.weight = weight;
+    }
+
+    public String getUpcCode() {
+        return UpcCode;
+    }
+
+    public void setUpcCode(String upcCode) {
+        UpcCode = upcCode;
     }
 
     public double getTax() {
@@ -258,14 +267,15 @@ public class ProductGpod {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         ProductGpod that = (ProductGpod) o;
-        return Double.compare(that.tax, tax) == 0 &&
+        return id == that.id &&
+                Double.compare(that.tax, tax) == 0 &&
                 isNewlyAdded == that.isNewlyAdded &&
                 isActive == that.isActive &&
                 isDealsEnabled == that.isDealsEnabled &&
                 quantity == that.quantity &&
-                Objects.equals(id, that.id) &&
                 Objects.equals(code, that.code) &&
                 Objects.equals(desc, that.desc) &&
+                Objects.equals(shortDesc, that.shortDesc) &&
                 Objects.equals(tags, that.tags) &&
                 Objects.equals(sku, that.sku) &&
                 Objects.equals(categories, that.categories) &&
@@ -275,6 +285,7 @@ public class ProductGpod {
                 Objects.equals(type, that.type) &&
                 Objects.equals(deal, that.deal) &&
                 Objects.equals(weight, that.weight) &&
+                Objects.equals(UpcCode, that.UpcCode) &&
                 Objects.equals(spiceLevel, that.spiceLevel) &&
                 Objects.equals(aiselNo, that.aiselNo) &&
                 Objects.equals(store, that.store) &&
@@ -288,7 +299,7 @@ public class ProductGpod {
 
     @Override
     public int hashCode() {
-        int result = Objects.hash(id, code, desc, tags, sku, categories, subCategories, brands, price, type, deal, weight, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isNewlyAdded, isActive, isDealsEnabled, quantity);
+        int result = Objects.hash(id, code, desc, shortDesc, tags, sku, categories, subCategories, brands, price, type, deal, weight, UpcCode, tax, spiceLevel, aiselNo, store, weightType, imageName, defaultImage, updatedTimestamp, createdTimestamp, isNewlyAdded, isActive, isDealsEnabled, quantity);
         result = 31 * result + Arrays.hashCode(imageUris);
         return result;
     }
@@ -309,6 +320,7 @@ public class ProductGpod {
                 ", type=" + type +
                 ", deal=" + deal +
                 ", weight='" + weight + '\'' +
+                ", UpcCode='" + UpcCode + '\'' +
                 ", tax=" + tax +
                 ", spiceLevel='" + spiceLevel + '\'' +
                 ", aiselNo='" + aiselNo + '\'' +

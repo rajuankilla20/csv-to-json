@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BuildProductsFromShoppers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FilesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/section-products-input/richardsons-farm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJsonShatanu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/CatSubCatShantanuListUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Catagory-Sub-Catagory.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/sub-categories.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuildProductsFromShoppers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/ProductGpod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/gpod/UserOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/gpod/UserOrders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/FinalOrdersUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/FinalOrdersUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/OrdersUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/OrdersUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ProductUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ProductUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/WishlistUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/products.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,24 +38,28 @@
     </option>
   </component>
   <component name="ProjectId" id="1l65zaQsyNW789gXnrQSuK0sEJB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/section-products-input" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="util" />
       <recent name="" />
+      <recent name="util" />
       <recent name="model.gpod" />
       <recent name="model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources\section-products-input" />
       <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources" />
+      <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources\section-products-input" />
       <recent name="D:\projects\csv-to-json\src\main\resources" />
       <recent name="D:\projects\csv-to-json\src\main\java" />
     </key>
@@ -76,16 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuildProductsFromShoppers">
-    <configuration name="BuildMerrimackData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuildMerrimackData" />
-      <module name="csv-to-json" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BuildProductsFromShoppers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuildProductsFromShoppers" />
+  <component name="RunManager">
+    <configuration name="BuildFinalMigratedData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuildFinalMigratedData" />
       <module name="csv-to-json" />
       <extension name="coverage">
         <pattern>
@@ -93,6 +86,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildMerrimackData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuildMerrimackData" />
+      <module name="csv-to-json" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductsReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProductsReader" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="csv-to-json" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BuildProductsFromShoppers" />
+        <item itemvalue="Application.BuildFinalMigratedData" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.BuildMerrimackData" />
         <item itemvalue="Application.FilesUtil" />
         <item itemvalue="Application.MySqlConnection" />
-        <item itemvalue="Application.ProductsReader" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +166,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -181,5 +184,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="row[4]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
