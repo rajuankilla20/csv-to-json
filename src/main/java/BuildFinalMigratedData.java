@@ -86,93 +86,95 @@ public class BuildFinalMigratedData {
         });
 
         // Richardsons farm
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductNames(QueryConstants.RICHARDSONSFARM_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------Richardsons name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, richardsonsFarmProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(richardsonsFarmProdsList,"richardsons-form"); // Done
-//        System.out.println("---------Richardsons Size : "+ richardsonsFarmProdsList.size());
+        sectionProductNamesSet.clear();
+        System.out.println("--------------richardson start preper");
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.RICHARDSONSFARM_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------Richardsons name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, richardsonsFarmProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(richardsonsFarmProdsList,"richardsons-form"); // Done
+        System.out.println("---------Richardsons Size : "+ richardsonsFarmProdsList.size());
+
 
         // Protein bar and drinks
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductNames(QueryConstants.PROTEIN_BARS_DRINKS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------protein-bars-drinks name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, proteinBarAndDrinksProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(proteinBarAndDrinksProdsList,"protein-bars-drinks"); // Done
-//        System.out.println("---------protein-bars-drinks Size : "+ proteinBarAndDrinksProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.PROTEIN_BARS_DRINKS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------protein-bars-drinks name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, proteinBarAndDrinksProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(proteinBarAndDrinksProdsList,"protein-bars-drinks"); // Done
+        System.out.println("---------protein-bars-drinks Size : "+ proteinBarAndDrinksProdsList.size());
 
         // Games and nights
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductNames(QueryConstants.GAME_MOVIE_NIGHTS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------game-night-movie-nights name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, gamesAndNightMoviesProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(gamesAndNightMoviesProdsList,"game-night-movie-nights"); // Done
-//        System.out.println("---------game-night-movie-nights Size : "+ gamesAndNightMoviesProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.GAME_MOVIE_NIGHTS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------game-night-movie-nights name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, gamesAndNightMoviesProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(gamesAndNightMoviesProdsList,"game-night-movie-nights"); // Done
+        System.out.println("---------game-night-movie-nights Size : "+ gamesAndNightMoviesProdsList.size());
 
         // Candies and Jerkis
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.CANDIES_JERKIES_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------candies-jerkies_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, candiesAndJerkisProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(candiesAndJerkisProdsList,"candies-jerkies"); // Done
-//        System.out.println("---------candies-jerkies_csv Size : "+ candiesAndJerkisProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.CANDIES_JERKIES_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------candies-jerkies_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, candiesAndJerkisProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(candiesAndJerkisProdsList,"candies-jerkies"); // Done
+        System.out.println("---------candies-jerkies_csv Size : "+ candiesAndJerkisProdsList.size());
 
         // Chips
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.CHIPS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------chips_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, chipsProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(chipsProdsList,"chips"); // Done
-//        System.out.println("---------chips_csv Size : "+ chipsProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.CHIPS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------chips_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, chipsProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(chipsProdsList,"chips"); // Done
+        System.out.println("---------chips_csv Size : "+ chipsProdsList.size());
 
         // soda and drinks
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.SODA_AND_DRINKS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------soda-drinks_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, sodaAndDrinksProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(sodaAndDrinksProdsList,"soda-drinks"); // Done
-//        System.out.println("---------soda-drinks_csv Size : "+ sodaAndDrinksProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.SODA_AND_DRINKS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------soda-drinks_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, sodaAndDrinksProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(sodaAndDrinksProdsList,"soda-drinks"); // Done
+        System.out.println("---------soda-drinks_csv Size : "+ sodaAndDrinksProdsList.size());
 
         // produce of your choice
 
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.PRODUCE_YOUR_CHOICE_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------produce-your-choice_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, produceOfYourChoiceProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(produceOfYourChoiceProdsList,"produce-your-choice"); // Done
-//        System.out.println("---------produce-your-choice_csv Size : "+ produceOfYourChoiceProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.PRODUCE_YOUR_CHOICE_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------produce-your-choice_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, produceOfYourChoiceProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(produceOfYourChoiceProdsList,"produce-your-choice"); // Done
+        System.out.println("---------produce-your-choice_csv Size : "+ produceOfYourChoiceProdsList.size());
 
         // Freezing and favourites
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.FREEZING_FAV_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------freezing-favourites_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, freezingAndFavProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(freezingAndFavProdsList,"freezing-favourites"); // Done
-//        System.out.println("---------freezing-favourites_csv Size : "+ freezingAndFavProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.FREEZING_FAV_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------freezing-favourites_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, freezingAndFavProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(freezingAndFavProdsList,"freezing-favourites"); // Done
+        System.out.println("---------freezing-favourites_csv Size : "+ freezingAndFavProdsList.size());
 
         // Meet of your choice
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.MEAT_YOUR_CHOICE_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------meat-of-your-choice_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, meatOfYourChoiceProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(meatOfYourChoiceProdsList,"meat-of-your-choice"); // Done
-//        System.out.println("---------meat-of-your-choice_csv Size : "+ meatOfYourChoiceProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.MEAT_YOUR_CHOICE_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------meat-of-your-choice_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, meatOfYourChoiceProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(meatOfYourChoiceProdsList,"meat-of-your-choice"); // Done
+        System.out.println("---------meat-of-your-choice_csv Size : "+ meatOfYourChoiceProdsList.size());
 
         // dorm needs
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.DORM_NEEDS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------dorm-needs_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, dormNeedsProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(dormNeedsProdsList,"dorm-needs"); // Done
-//        System.out.println("---------dorm-needs_csv Size : "+ dormNeedsProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.DORM_NEEDS_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------dorm-needs_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, dormNeedsProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(dormNeedsProdsList,"dorm-needs"); // Done
+        System.out.println("---------dorm-needs_csv Size : "+ dormNeedsProdsList.size());
 
         // Breakfast essentials
-//        sectionProductNamesSet.clear();
-//        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.BREAKFAST_ESSEN_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
-//        System.out.println("---------breakfast-essentials_csv name Size : "+ sectionProductNamesSet.size());
-//        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, breakfastEssentialsProdsList);
-//        ConvertJavaToJsonShatanu.createJsonFile(breakfastEssentialsProdsList,"breakfast-essentials"); // Done
-//        System.out.println("---------breakfast-essentials_csv Size : "+ breakfastEssentialsProdsList.size());
+        sectionProductNamesSet.clear();
+        CustomProductsUtil.buildSecitonProductSectionDto(QueryConstants.BREAKFAST_ESSEN_PROD_SHANTANU_CSV_FILE, sectionProductNamesSet);
+        System.out.println("---------breakfast-essentials_csv name Size : "+ sectionProductNamesSet.size());
+        CustomProductsUtil.buildSecitonProducts(directProductsMap, sectionProductNamesSet, breakfastEssentialsProdsList);
+        ConvertJavaToJsonShatanu.createJsonFile(breakfastEssentialsProdsList,"breakfast-essentials"); // Done
+        System.out.println("---------breakfast-essentials_csv Size : "+ breakfastEssentialsProdsList.size());
 
 
 //
