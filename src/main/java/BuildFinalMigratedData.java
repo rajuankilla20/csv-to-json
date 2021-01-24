@@ -196,6 +196,7 @@ public class BuildFinalMigratedData {
         System.out.println("--missing fav products :");
              missProdIds.forEach(System.out::println);
         System.out.println("--missing fav products size :" + missProdIds.size());*/
+
     }
 
     public static void buildMissingBrands(){

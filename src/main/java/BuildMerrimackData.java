@@ -46,7 +46,8 @@ public class BuildMerrimackData {
     public static List<FinalUserOrders>  finalUserOrders = new ArrayList<>();
 
     public static List<UserOrders>  finalOrders = new ArrayList<>();
-
+    public static Set<String> favMissingProductList = new HashSet<>(Arrays.asList("8651","13240","9065","10657","10535","10658","13004","13125","13005","6900","13003","13008","13006","9631","9752","13253","9754","7577","5829","13136","4731","8416","4613","14109","10544","9641","9646","13100","5718","12812","10516","5719","10518","10517","12816","9638","13222","14317","10510","12811","5714","5715","12930","7472","12949","13597","5726","7486","10295","10294","5739","6707","10297","5611","4402","9538","5614","6706","13452","5630","10503","10625","10507","10509","10508","5624","6714","9202","8237","4552","6731","7148","6729","5632","5633","6727","13546","6741","6733","5523","10285","10287","13085","14295","5781","13089","8378","5784","7721","4454","9460","5775","5776","10376","5778","10375","4569","12676","9232","5791","5794","9115","4465","5786","4577","4457","7725","6758","14502","15480","4230","5563","9368","13186","8271","6766","12773","4107","8707","4109","10358","14282","8964","14288","10361","14286","7074","9130","5566","10362","15461","6790","13162","6793","14012","13165","13166","15463","9269","14010","13043","9022","10339","12872","10451","6788","5698","12873","6787","12870","14014","12750","10331","14015","12876","10455","10576","10457","12753","14018","4381","13171","13056","4388","14022","9390","10349","10348","12762","4379","10464","9702","13058","10584","14268","10466","10587","10468","12765","13265","8631","13141","14110","7544","8632","13142","8194","5480","12738","13026","8509","13029","6581","9299","5496","9733","14002","14241","13153","10328","12741","14006","4710","12860","14004","10564","10322","10567","10325","4714","10566"));
+    private static Set<ProductGpod> missFavProductsShantanuList = new HashSet<>();
 
 
 
@@ -107,7 +108,7 @@ public class BuildMerrimackData {
 
         System.out.println("-----------wishlist  conversion done---------------");
         OrderStatusUtil.buildOrderStatus(orderStatusGpodMap);
-        ConvertJavaToJson.createJsonFile(orderStatusGpodMap.values(),"order-status"); // Done
+        //ConvertJavaToJson.createJsonFile(orderStatusGpodMap.values(),"order-status"); // Done
 
         System.out.println("-----------orderstatus  conversion done---------------");
         OrderItemsUtil.buildOrderItems(orderItemsGpodMap);
@@ -119,7 +120,26 @@ public class BuildMerrimackData {
 //            System.out.println(v);
 //        });
 
-        identifyDuplicateProductCodes(productMap);
+        /* Getting missing favourite products from existing users as we are retaining only ordered items and we might miss
+        * user favourite orders, so after filtering data from retain orders below orders are missing and getting those products
+        * from here
+        * */
+        System.out.println("Missing prodcuts size : "+ favMissingProductList.size());
+        favMissingProductList.forEach(pid -> {
+            if(productMap.containsKey(Integer.parseInt(pid))){
+                missFavProductsShantanuList.add(productMap.get(Integer.parseInt(pid)));
+            }else{
+                System.out.println("---pid not found "+pid);
+            }
+
+        });
+
+        System.out.println("Missing prodcuts after getting size : "+ missFavProductsShantanuList.size());
+        ConvertJavaToJson.createJsonFile(missFavProductsShantanuList,"missing-favourites-shantanu-products");
+
+
+        // NOTE For ajay confirmation validated below
+//        identifyDuplicateProductCodes(productMap);
         /*
         ConvertJavaToJson.createJsonFile(productMap.values(),"products"); // Done
         OrderStatusChangeUtil.buildOrderStatusChange(orderStatusChangeGpodMap);

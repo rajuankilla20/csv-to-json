@@ -2,44 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/SectionProductDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Prod_upload_with_id_same_size_uow_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Prod_upload_without_id_same_size_uow_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/Products_Retain_Csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/breakfast-essentials_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/candies-jerkies_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/chips_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/dorm-needs_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/freezing-favourites_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/game-night-movie-nights_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/meat-of-your-choice_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/produce-your-choice_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/protein-bars-drinks_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/richardsons-form_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-input/soda-drinks_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_retain-products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_upload-products-with-ids.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_upload-products-without-ids.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/brands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/breakfast-essentials.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/candies-jerkies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/chips.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/dorm-needs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/freezing-favourites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/game-night-movie-nights.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/meat-of-your-choice.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/new-brands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/produce-your-choice.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/protein-bars-drinks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/soda-drinks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/merimmack-migrated-data/missing-favourites-shantanu-products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/1_missing-favourites-shantanu-products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/breakfast-essentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/candies-jerkies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/cat-subcat-prod-brands/brands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/cat-subcat-prod-brands/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/cat-subcat-prod-brands/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/cat-subcat-prod-brands/sub-categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/chips.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/dorm-needs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/freezing-favourites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/game-night-movie-nights.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/meat-of-your-choice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/mostsold-produce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/protein-bars-drinks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/richardsons-form.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/final-data/soda-drinks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/brands.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/brands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/products.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BuildMerrimackData">
     <configuration name="BuildFinalMigratedData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuildFinalMigratedData" />
       <module name="csv-to-json" />
@@ -159,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuildMerrimackData" />
         <item itemvalue="Application.BuildFinalMigratedData" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BuildMerrimackData" />
         <item itemvalue="Application.FilesUtil" />
         <item itemvalue="Application.MySqlConnection" />
       </list>
@@ -205,11 +189,6 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/BuildMerrimackData.java</url>
-          <line>186</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java</url>
           <line>63</line>
           <option name="timeStamp" value="61" />
@@ -218,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java</url>
           <line>43</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BuildMerrimackData.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
