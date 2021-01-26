@@ -2,26 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/direct-products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/mostsold-produce.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/products-1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/products-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UsersJavaToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UsersPwdMigrated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/UsersPwdResetDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/UserPwdResetUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/AllPoducts_shantanu.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/NoImagePoducts_shantanu.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/users-output/already-customer-reset-pwd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/users-output/new-customer-reset-pwd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/users-output/valid-customer-reset-pwd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/users/lname-null.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/users/ph-null.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/users/valid-customers.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/CustomProductsUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/breakfast-essentials.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/breakfast-essentials.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/candies-jerkies.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/candies-jerkies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/chips.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/chips.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/dorm-needs.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/dorm-needs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/freezing-favourites.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/freezing-favourites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/game-night-movie-nights.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/game-night-movie-nights.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/meat-of-your-choice.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/meat-of-your-choice.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/produce-your-choice.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/products.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/protein-bars-drinks.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/protein-bars-drinks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/soda-drinks.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/soda-drinks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +59,10 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
       <recent name="util" />
-      <recent name="model.gpod" />
       <recent name="model" />
+      <recent name="" />
+      <recent name="model.gpod" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources" />
@@ -119,21 +117,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySqlConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sqljdbc.MySqlConnection" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="csv-to-json" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sqljdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="UsersPwdMigrated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsersPwdMigrated" />
       <module name="csv-to-json" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,10 +134,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BuildFinalMigratedData" />
+        <item itemvalue="Application.UsersPwdMigrated" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BuildMerrimackData" />
         <item itemvalue="Application.FilesUtil" />
-        <item itemvalue="Application.MySqlConnection" />
       </list>
     </recent_temporary>
   </component>
@@ -194,5 +186,8 @@
         <watch expression="sectionProductNamesSet.toArray()[1]" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/csv_to_json$UsersPwdMigrated.ic" NAME="UsersPwdMigrated Coverage Results" MODIFIED="1611599905896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

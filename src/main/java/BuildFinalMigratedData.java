@@ -68,12 +68,33 @@ public class BuildFinalMigratedData {
         CustomProductsUtil.buildProducts(QueryConstants.UPLOAD_PROD_WITHOUT_IDS_SAME_SIZE_UOW_SHANTANU_CSV_FILE, directProducts, false, 30000, false);
         //ConvertJavaToJsonShatanu.createJsonFile(uploadProdsWithOutIdsProductList,"upload-products-without-ids"); // Done
 
-        ConvertJavaToJsonShatanu.createJsonFile(directProducts,"direct-products"); // Done
+//        ConvertJavaToJsonShatanu.createJsonFile(directProducts,"direct-products"); // Done
 
         System.out.println("---------All Products Size : "+ directProducts.size());
 
-        // Building map to get section data
 
+        // filtering no image products
+
+        Set<ProductGpod> noImageProducts = new HashSet<>();
+
+        directProducts.forEach(p -> {
+            if(p.getImageName().equalsIgnoreCase("No Image.jpg")){
+                noImageProducts.add(p);
+            }
+        } );
+
+        JavaToExcelCSVConverter.writeAllNoImageProducts(noImageProducts,"D:\\projects\\csv-json-proj\\csv-to-json\\src\\main\\resources\\shantanu-output\\NoImagePoducts_shantanu.csv");
+        JavaToExcelCSVConverter.writeAllNoImageProducts(directProducts,"D:\\projects\\csv-json-proj\\csv-to-json\\src\\main\\resources\\shantanu-output\\AllPoducts_shantanu.csv");
+
+//
+
+        /*
+           Building map to get section data these are subset of
+            retained ,
+            newly uploaded,
+            favourites (Need to get from BuildMerrimackData, as its direct source of merrimack db and it contains this data
+         */
+/*
 
         // names & weight with map
         directProducts.forEach(p -> {
@@ -176,6 +197,7 @@ public class BuildFinalMigratedData {
         ConvertJavaToJsonShatanu.createJsonFile(breakfastEssentialsProdsList,"breakfast-essentials"); // Done
         System.out.println("---------breakfast-essentials_csv Size : "+ breakfastEssentialsProdsList.size());
 
+*/
 
 //
 //        buildMissingBrands();

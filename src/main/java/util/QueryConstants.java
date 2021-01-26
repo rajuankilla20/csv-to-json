@@ -47,6 +47,9 @@ public class QueryConstants {
     public static final String DORM_NEEDS_PROD_SHANTANU_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/shantanu-input/dorm-needs_csv.csv";
     public static final String BREAKFAST_ESSEN_PROD_SHANTANU_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/shantanu-input/breakfast-essentials_csv.csv";
 
+    // Users pwd reset data
+    public static final String USERS_PWD_RESET_VALID_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/users/valid-customers.csv";
+
 
 
 

@@ -1,0 +1,4850 @@
+[
+  {
+    "id": "487",
+    "name": "Hannah",
+    "lname": "Leopold-Brandt",
+    "email": "leopoldbranh@merrimack.edu",
+    "phone": "4013658777",
+    "pwd": "Leopold-Brandt8777"
+  },
+  {
+    "id": "767",
+    "name": "Alexis",
+    "lname": "Moscoffian",
+    "email": "moscoffiana@merrimack.edu",
+    "phone": "7745455892",
+    "pwd": "Moscoffian5892"
+  },
+  {
+    "id": "543",
+    "name": "Emily",
+    "lname": "Hawley",
+    "email": "hawleye@merrimack.edu",
+    "phone": "5086546530",
+    "pwd": "Hawley6530"
+  },
+  {
+    "id": "974",
+    "name": "Emma",
+    "lname": "O\u0027Leary",
+    "email": "olearye@merrimack.edu",
+    "phone": "9784085140",
+    "pwd": "O\u0027Leary5140"
+  },
+  {
+    "id": "872",
+    "name": "lindsay",
+    "lname": "phelan",
+    "email": "phelanl@merrimack.edu",
+    "phone": "5084040380",
+    "pwd": "phelan0380"
+  },
+  {
+    "id": "916",
+    "name": "Andre",
+    "lname": "Singer",
+    "email": "singera@merrimack.edu",
+    "phone": "6023348456",
+    "pwd": "Singer8456"
+  },
+  {
+    "id": "598",
+    "name": "Troy",
+    "lname": "Kobryn",
+    "email": "kobrynt@merrimack.edu",
+    "phone": "9084582187",
+    "pwd": "Kobryn2187"
+  },
+  {
+    "id": "781",
+    "name": "Francis",
+    "lname": "Petratos",
+    "email": "petratosf@merrimack.edu",
+    "phone": "5163076685",
+    "pwd": "Petratos6685"
+  },
+  {
+    "id": "1096",
+    "name": "Lindsey",
+    "lname": "Griffin",
+    "email": "griffinlt@merrimack.edu",
+    "phone": "3392365227",
+    "pwd": "Griffin5227"
+  },
+  {
+    "id": "550",
+    "name": "Logan",
+    "lname": "Salvi",
+    "email": "salvil@merrimack.edu",
+    "phone": "6174551185",
+    "pwd": "Salvi1185"
+  },
+  {
+    "id": "683",
+    "name": "Mary",
+    "lname": "Faletra",
+    "email": "faletram@merrimack.edu",
+    "phone": "5087699288",
+    "pwd": "Faletra9288"
+  },
+  {
+    "id": "914",
+    "name": "Kathryn",
+    "lname": "Mallon",
+    "email": "mallonk@merrimack.edu",
+    "phone": "6317076293",
+    "pwd": "Mallon6293"
+  },
+  {
+    "id": "595",
+    "name": "allison",
+    "lname": "rylander",
+    "email": "rylandera@merrimack.edu",
+    "phone": "6037486028",
+    "pwd": "rylander6028"
+  },
+  {
+    "id": "763",
+    "name": "Alyssa",
+    "lname": "Aldorasi",
+    "email": "aldorasia@merrimack.edu",
+    "phone": "6176801206",
+    "pwd": "Aldorasi1206"
+  },
+  {
+    "id": "808",
+    "name": "Stephen",
+    "lname": "Santarpia",
+    "email": "santarpias@merrimack.edu",
+    "phone": "9148604111",
+    "pwd": "Santarpia4111"
+  },
+  {
+    "id": "741",
+    "name": "Catherine",
+    "lname": "Mahanna",
+    "email": "mahannaca@merrimack.edu",
+    "phone": "9788460667",
+    "pwd": "Mahanna0667"
+  },
+  {
+    "id": "855",
+    "name": "Daley",
+    "lname": "Tegan",
+    "email": "tegand@merrimack.edu",
+    "phone": "6178988489",
+    "pwd": "Tegan8489"
+  },
+  {
+    "id": "1158",
+    "name": "Sophia",
+    "lname": "Mansella",
+    "email": "mansellas@merrimack.edu",
+    "phone": "8604669684",
+    "pwd": "Mansella9684"
+  },
+  {
+    "id": "794",
+    "name": "Jake",
+    "lname": "Aleksa",
+    "email": "aleksaj@merrimack.edu",
+    "phone": "6034757325",
+    "pwd": "Aleksa7325"
+  },
+  {
+    "id": "889",
+    "name": "Alyssa",
+    "lname": "Casey",
+    "email": "caseya@merrimack.edu",
+    "phone": "9784217983",
+    "pwd": "Casey7983"
+  },
+  {
+    "id": "1038",
+    "name": "Victoria",
+    "lname": "Fazio",
+    "email": "faziov@merrimack.edu",
+    "phone": "7819753196",
+    "pwd": "Fazio3196"
+  },
+  {
+    "id": "643",
+    "name": "Nathan",
+    "lname": "Bertucci-Bissonnette",
+    "email": "bertuccibisn@merrimack.edu",
+    "phone": "5089443993",
+    "pwd": "Bertucci-Bissonnette3993"
+  },
+  {
+    "id": "663",
+    "name": "Max",
+    "lname": "Hayden",
+    "email": "haydenm@merrimack.edu",
+    "phone": "6037021680",
+    "pwd": "Hayden1680"
+  },
+  {
+    "id": "685",
+    "name": "Maya",
+    "lname": "Schwack",
+    "email": "schwackm@merrimack.edu",
+    "phone": "2036177097",
+    "pwd": "Schwack7097"
+  },
+  {
+    "id": "600",
+    "name": "Mackenzie",
+    "lname": "Duffy",
+    "email": "duffymac@merrimack.edu",
+    "phone": "3399276303",
+    "pwd": "Duffy6303"
+  },
+  {
+    "id": "1064",
+    "name": "Peter",
+    "lname": "Conner",
+    "email": "connerp@merrimack.edu",
+    "phone": "4104907022",
+    "pwd": "Conner7022"
+  },
+  {
+    "id": "1144",
+    "name": "Mary",
+    "lname": "Seltzer",
+    "email": "seltzerm@merrimack.edu",
+    "phone": "7814010325",
+    "pwd": "Seltzer0325"
+  },
+  {
+    "id": "1012",
+    "name": "carlirys",
+    "lname": "luciano",
+    "email": "lucianoc@merrimack.edu",
+    "phone": "9783901907",
+    "pwd": "luciano1907"
+  },
+  {
+    "id": "716",
+    "name": "Michael",
+    "lname": "DelloStritto",
+    "email": "dellostrittm@merrimack.edu",
+    "phone": "5086145005",
+    "pwd": "DelloStritto5005"
+  },
+  {
+    "id": "1034",
+    "name": "Christopher",
+    "lname": "OâNeil",
+    "email": "oneilc@merrimack.edu",
+    "phone": "9785510717",
+    "pwd": "OâNeil0717"
+  },
+  {
+    "id": "648",
+    "name": "Frederick",
+    "lname": "Monroy",
+    "email": "monroyf@merrimack.edu",
+    "phone": "9787649994",
+    "pwd": "Monroy9994"
+  },
+  {
+    "id": "1124",
+    "name": "Sarah",
+    "lname": "Kiggen",
+    "email": "kiggens@merrimack.edu",
+    "phone": "6172334802",
+    "pwd": "Kiggen4802"
+  },
+  {
+    "id": "631",
+    "name": "nora",
+    "lname": "fleming",
+    "email": "flemingn@merrimack.edu",
+    "phone": "7743647053",
+    "pwd": "fleming7053"
+  },
+  {
+    "id": "770",
+    "name": "Lance",
+    "lname": "Crate",
+    "email": "cratel@merrimack.edu",
+    "phone": "8023592287",
+    "pwd": "Crate2287"
+  },
+  {
+    "id": "584",
+    "name": "Gabriela",
+    "lname": "Jones",
+    "email": "jonesg@merrimack.edu",
+    "phone": "3154910431",
+    "pwd": "Jones0431"
+  },
+  {
+    "id": "838",
+    "name": "Gabrielle",
+    "lname": "Heroux",
+    "email": "herouxg@merrimack.edu",
+    "phone": "9787514529",
+    "pwd": "Heroux4529"
+  },
+  {
+    "id": "481",
+    "name": "Test",
+    "lname": "Test",
+    "email": "testtest@merrimack.edu",
+    "phone": "7848575717",
+    "pwd": "Test5717"
+  },
+  {
+    "id": "655",
+    "name": "Rachael",
+    "lname": "Aldrich",
+    "email": "aldrichr@merrimack.edu",
+    "phone": "9788375175",
+    "pwd": "Aldrich5175"
+  },
+  {
+    "id": "699",
+    "name": "Rachel",
+    "lname": "Needham",
+    "email": "needhamr@merrimack.edu",
+    "phone": "7814137957",
+    "pwd": "Needham7957"
+  },
+  {
+    "id": "724",
+    "name": "Kira",
+    "lname": "Cameron",
+    "email": "cameronkg@merrimack.edu",
+    "phone": "6037176864",
+    "pwd": "Cameron6864"
+  },
+  {
+    "id": "953",
+    "name": "Sophia",
+    "lname": "Beland",
+    "email": "belands@merrimack.edu",
+    "phone": "6035089420",
+    "pwd": "Beland9420"
+  },
+  {
+    "id": "717",
+    "name": "Cameron",
+    "lname": "Carpenter",
+    "email": "carpenterc@merrimack.edu",
+    "phone": "7817332728",
+    "pwd": "Carpenter2728"
+  },
+  {
+    "id": "981",
+    "name": "Ashley",
+    "lname": "Godzyk",
+    "email": "godzyka@merrimack.edu",
+    "phone": "6036616475",
+    "pwd": "Godzyk6475"
+  },
+  {
+    "id": "1071",
+    "name": "Gunnar",
+    "lname": "Hasselquist",
+    "email": "hasselquistg@merrimack.edu",
+    "phone": "5083407795",
+    "pwd": "Hasselquist7795"
+  },
+  {
+    "id": "1088",
+    "name": "nolan",
+    "lname": "carragher",
+    "email": "carraghern@merrimack.edu",
+    "phone": "781-917-4156",
+    "pwd": "carragher4156"
+  },
+  {
+    "id": "515",
+    "name": "Felipe",
+    "lname": "Schwarz",
+    "email": "schwarzf@merrimack.edu",
+    "phone": "9788571845",
+    "pwd": "Schwarz1845"
+  },
+  {
+    "id": "1157",
+    "name": "russ",
+    "lname": "olwell",
+    "email": "olwellr@merrimack.edu",
+    "phone": "9787012535",
+    "pwd": "olwell2535"
+  },
+  {
+    "id": "1129",
+    "name": "Olivia",
+    "lname": "Griffin",
+    "email": "griffino@merrimack.edu",
+    "phone": "9729745019",
+    "pwd": "Griffin5019"
+  },
+  {
+    "id": "731",
+    "name": "meghan",
+    "lname": "hurley",
+    "email": "hurleymr@merrimack.edu",
+    "phone": "8579190298",
+    "pwd": "hurley0298"
+  },
+  {
+    "id": "811",
+    "name": "Brady",
+    "lname": "Freeman",
+    "email": "freemanb@merrimack.edu",
+    "phone": "2076506940",
+    "pwd": "Freeman6940"
+  },
+  {
+    "id": "1069",
+    "name": "Shannon",
+    "lname": "Tremblay",
+    "email": "tremblaysm@merrimack.edu",
+    "phone": "4133357291",
+    "pwd": "Tremblay7291"
+  },
+  {
+    "id": "1146",
+    "name": "Daniel",
+    "lname": "Worthy",
+    "email": "worthyd@merrimack.edu",
+    "phone": "7173605929",
+    "pwd": "Worthy5929"
+  },
+  {
+    "id": "579",
+    "name": "sarah",
+    "lname": "gormally",
+    "email": "gormallys@merrimack.edu",
+    "phone": "5082410007",
+    "pwd": "gormally0007"
+  },
+  {
+    "id": "593",
+    "name": "Kerin",
+    "lname": "Coleman",
+    "email": "colemanks@merrimack.edu",
+    "phone": "8573839031",
+    "pwd": "Coleman9031"
+  },
+  {
+    "id": "602",
+    "name": "Jordan",
+    "lname": "Seyfert",
+    "email": "seyfertj@merrimack.edu",
+    "phone": "7176448091",
+    "pwd": "Seyfert8091"
+  },
+  {
+    "id": "667",
+    "name": "Jordan",
+    "lname": "Minor",
+    "email": "minorj@merrimack.edu",
+    "phone": "3398328705",
+    "pwd": "Minor8705"
+  },
+  {
+    "id": "701",
+    "name": "Catherine",
+    "lname": "Holland",
+    "email": "hollandcm@merrimack.edu",
+    "phone": "7742757402",
+    "pwd": "Holland7402"
+  },
+  {
+    "id": "512",
+    "name": "Megan",
+    "lname": "Krokosky",
+    "email": "krokoskym@merrimack.edu",
+    "phone": "203-217-6576",
+    "pwd": "Krokosky6576"
+  },
+  {
+    "id": "1015",
+    "name": "John",
+    "lname": "DiFilippo",
+    "email": "difilippo6@merrimack.edu",
+    "phone": "6172912989",
+    "pwd": "DiFilippo2989"
+  },
+  {
+    "id": "1118",
+    "name": "Emma",
+    "lname": "Bouvier",
+    "email": "Bouviere@merrimack.edu",
+    "phone": "5089814213",
+    "pwd": "Bouvier4213"
+  },
+  {
+    "id": "542",
+    "name": "logan",
+    "lname": "Drevitch",
+    "email": "drevitchl@merrimack.edu",
+    "phone": "7746345837",
+    "pwd": "Drevitch5837"
+  },
+  {
+    "id": "694",
+    "name": "Danielle",
+    "lname": "Hersey",
+    "email": "herseyd@merrimack.edu",
+    "phone": "5086494074",
+    "pwd": "Hersey4074"
+  },
+  {
+    "id": "814",
+    "name": "Lucas",
+    "lname": "Slane",
+    "email": "slanel@merrimack.edu",
+    "phone": "6179849422",
+    "pwd": "Slane9422"
+  },
+  {
+    "id": "1081",
+    "name": "Abigail",
+    "lname": "Federici",
+    "email": "federicia@merrimack.edu",
+    "phone": "7816067207",
+    "pwd": "Federici7207"
+  },
+  {
+    "id": "824",
+    "name": "Jehan",
+    "lname": "Bodden",
+    "email": "boddenj@merrimack.edu",
+    "phone": "8572499682",
+    "pwd": "Bodden9682"
+  },
+  {
+    "id": "971",
+    "name": "Naajaa",
+    "lname": "Barnor",
+    "email": "barnorn@merrimack.edu",
+    "phone": "6177753684",
+    "pwd": "Barnor3684"
+  },
+  {
+    "id": "922",
+    "name": "Peter",
+    "lname": "Salib",
+    "email": "salibp@merrimack.edu",
+    "phone": "2033907409",
+    "pwd": "Salib7409"
+  },
+  {
+    "id": "1019",
+    "name": "Scott",
+    "lname": "Bussell",
+    "email": "bussells@merrimack.edu",
+    "phone": "4136935766",
+    "pwd": "Bussell5766"
+  },
+  {
+    "id": "1098",
+    "name": "Jacquelyn",
+    "lname": "Stiles",
+    "email": "stilesj@merrimack.edu",
+    "phone": "9785015879",
+    "pwd": "Stiles5879"
+  },
+  {
+    "id": "703",
+    "name": "Westin",
+    "lname": "Ferrera",
+    "email": "ferreraw@merrimack.edu",
+    "phone": "7813926527",
+    "pwd": "Ferrera6527"
+  },
+  {
+    "id": "581",
+    "name": "Joe",
+    "lname": "Rogers",
+    "email": "rogersjo@merrimack.edu",
+    "phone": "7819279578",
+    "pwd": "Rogers9578"
+  },
+  {
+    "id": "949",
+    "name": "Julianna",
+    "lname": "Banda",
+    "email": "bandaj@merrimack.edu",
+    "phone": "7742171345",
+    "pwd": "Banda1345"
+  },
+  {
+    "id": "1094",
+    "name": "Mark",
+    "lname": "Swymer",
+    "email": "swymerm@merrimack.edu",
+    "phone": "7818506751",
+    "pwd": "Swymer6751"
+  },
+  {
+    "id": "1046",
+    "name": "James",
+    "lname": "Corccoran",
+    "email": "corcoranjo@merrimack.edu",
+    "phone": "5084541320",
+    "pwd": "Corccoran1320"
+  },
+  {
+    "id": "935",
+    "name": "Laney",
+    "lname": "Tillman",
+    "email": "tillmanl@merrimack.edu",
+    "phone": "7818797640",
+    "pwd": "Tillman7640"
+  },
+  {
+    "id": "885",
+    "name": "Donald",
+    "lname": "Anastasi",
+    "email": "anastasid@merrimack.edu",
+    "phone": "6176781593",
+    "pwd": "Anastasi1593"
+  },
+  {
+    "id": "837",
+    "name": "Shannon",
+    "lname": "Tanguay",
+    "email": "tanguays@merrimack.edu",
+    "phone": "7813644990",
+    "pwd": "Tanguay4990"
+  },
+  {
+    "id": "861",
+    "name": "Maggie",
+    "lname": "Martin",
+    "email": "martinma@merrimack.edu",
+    "phone": "6179810276",
+    "pwd": "Martin0276"
+  },
+  {
+    "id": "656",
+    "name": "Courtney",
+    "lname": "Dolan",
+    "email": "dolance@merrimack.edu",
+    "phone": "9784070509",
+    "pwd": "Dolan0509"
+  },
+  {
+    "id": "670",
+    "name": "Grace",
+    "lname": "Buchholz",
+    "email": "buchholzg@merrimack.edu",
+    "phone": "3155675096",
+    "pwd": "Buchholz5096"
+  },
+  {
+    "id": "1016",
+    "name": "Ryan",
+    "lname": "Sauer",
+    "email": "sauerr@merrimack.edu",
+    "phone": "5082698977",
+    "pwd": "Sauer8977"
+  },
+  {
+    "id": "742",
+    "name": "Annick",
+    "lname": "Guerin",
+    "email": "guerina@merrimack.edu",
+    "phone": "9787276261",
+    "pwd": "Guerin6261"
+  },
+  {
+    "id": "1131",
+    "name": "Gianna",
+    "lname": "Costa",
+    "email": "costagr@merrimack.edu",
+    "phone": "9786842035",
+    "pwd": "Costa2035"
+  },
+  {
+    "id": "511",
+    "name": "Kyle",
+    "lname": "Sweeney",
+    "email": "sweeneyk@merrimack.edu",
+    "phone": "6179433529",
+    "pwd": "Sweeney3529"
+  },
+  {
+    "id": "946",
+    "name": "Jere",
+    "lname": "Huhtamaa",
+    "email": "huhtamaaj@merrimack.edu",
+    "phone": "9782890441",
+    "pwd": "Huhtamaa0441"
+  },
+  {
+    "id": "1021",
+    "name": "victoria",
+    "lname": "mantia",
+    "email": "mantiav@merrimack.edu",
+    "phone": "4012866686",
+    "pwd": "mantia6686"
+  },
+  {
+    "id": "702",
+    "name": "Colleen",
+    "lname": "Fahey",
+    "email": "faheyc@merrimack.edu",
+    "phone": "9784355977",
+    "pwd": "Fahey5977"
+  },
+  {
+    "id": "940",
+    "name": "Kayla",
+    "lname": "Anderson",
+    "email": "andersonkay@merrimack.edu",
+    "phone": "5082543752",
+    "pwd": "Anderson3752"
+  },
+  {
+    "id": "1095",
+    "name": "Meredith",
+    "lname": "Lewis",
+    "email": "lewisma@merrimack.edu",
+    "phone": "2074462591",
+    "pwd": "Lewis2591"
+  },
+  {
+    "id": "541",
+    "name": "Bridget",
+    "lname": "Austin",
+    "email": "austinb@merrimack.edu",
+    "phone": "5182565403",
+    "pwd": "Austin5403"
+  },
+  {
+    "id": "788",
+    "name": "Emily",
+    "lname": "Collins",
+    "email": "collinse@merrimack.edu",
+    "phone": "8019491206",
+    "pwd": "Collins1206"
+  },
+  {
+    "id": "688",
+    "name": "Briana",
+    "lname": "Alberghini",
+    "email": "alberghinib@merrimack.edu",
+    "phone": "7742693394",
+    "pwd": "Alberghini3394"
+  },
+  {
+    "id": "873",
+    "name": "Megan",
+    "lname": "Cairns",
+    "email": "cairnsm@merrimack.edu",
+    "phone": "2074000320",
+    "pwd": "Cairns0320"
+  },
+  {
+    "id": "520",
+    "name": "Ehsan",
+    "lname": "Yaqhubi",
+    "email": "yaqhubie@merrimack.edu",
+    "phone": "6178880769",
+    "pwd": "Yaqhubi0769"
+  },
+  {
+    "id": "723",
+    "name": "Matthew",
+    "lname": "Verreault",
+    "email": "verreaultm@merrimack.edu",
+    "phone": "2076532362",
+    "pwd": "Verreault2362"
+  },
+  {
+    "id": "516",
+    "name": "Isabel",
+    "lname": "Garcia",
+    "email": "garciaik@merrimack.edu",
+    "phone": "7742386089",
+    "pwd": "Garcia6089"
+  },
+  {
+    "id": "574",
+    "name": "Lantz",
+    "lname": "Kilburn",
+    "email": "kilburnl@merrimack.edu",
+    "phone": "3157903833",
+    "pwd": "Kilburn3833"
+  },
+  {
+    "id": "690",
+    "name": "Emma",
+    "lname": "Moffatt",
+    "email": "moffatte@merrimack.edu",
+    "phone": "2074492320",
+    "pwd": "Moffatt2320"
+  },
+  {
+    "id": "628",
+    "name": "Elizabeth",
+    "lname": "St.Germain",
+    "email": "Stgermaine@merrimack.edu",
+    "phone": "8609660975",
+    "pwd": "St.Germain0975"
+  },
+  {
+    "id": "1072",
+    "name": "Madison",
+    "lname": "Joannou",
+    "email": "joannoum@merrimack.edu",
+    "phone": "6312644210",
+    "pwd": "Joannou4210"
+  },
+  {
+    "id": "646",
+    "name": "Dani",
+    "lname": "Castino",
+    "email": "castinod@merrimack.edu",
+    "phone": "6309621392",
+    "pwd": "Castino1392"
+  },
+  {
+    "id": "672",
+    "name": "Martha",
+    "lname": "Kourouma",
+    "email": "kouroumaf@merrimack.edu",
+    "phone": "4754224785",
+    "pwd": "Kourouma4785"
+  },
+  {
+    "id": "987",
+    "name": "ryan",
+    "lname": "russo",
+    "email": "russor@merrimack.edu",
+    "phone": "7745349485",
+    "pwd": "russo9485"
+  },
+  {
+    "id": "766",
+    "name": "Vanessa",
+    "lname": "Kaddaras",
+    "email": "kaddarasv@merrimack.edu",
+    "phone": "7813073919",
+    "pwd": "Kaddaras3919"
+  },
+  {
+    "id": "888",
+    "name": "Sydney",
+    "lname": "Austin",
+    "email": "austinse@merrimack.edu",
+    "phone": "7747229889",
+    "pwd": "Austin9889"
+  },
+  {
+    "id": "966",
+    "name": "Erica",
+    "lname": "Crowley",
+    "email": "crowleyel@merrimack.edu",
+    "phone": "5086357059",
+    "pwd": "Crowley7059"
+  },
+  {
+    "id": "988",
+    "name": "Samantha",
+    "lname": "Grenier",
+    "email": "greniers@merrimack.edu",
+    "phone": "9788264535",
+    "pwd": "Grenier4535"
+  },
+  {
+    "id": "1152",
+    "name": "Bretton",
+    "lname": "Loftus",
+    "email": "loftusb@merrimack.edu",
+    "phone": "5082441144",
+    "pwd": "Loftus1144"
+  },
+  {
+    "id": "545",
+    "name": "John",
+    "lname": "Creamer",
+    "email": "creamerj@merrimack.edu",
+    "phone": "2404770520",
+    "pwd": "Creamer0520"
+  },
+  {
+    "id": "897",
+    "name": "Deano",
+    "lname": "Asprogiannis",
+    "email": "asprogiannik@merrimack.edu",
+    "phone": "6038672882",
+    "pwd": "Asprogiannis2882"
+  },
+  {
+    "id": "1161",
+    "name": "Joann",
+    "lname": "Salvucci",
+    "email": "salvuccij@merrimack.edu",
+    "phone": "339-933-1381",
+    "pwd": "Salvucci1381"
+  },
+  {
+    "id": "904",
+    "name": "Patrick",
+    "lname": "Neville",
+    "email": "nevillep@merrimack.edu",
+    "phone": "5089429526",
+    "pwd": "Neville9526"
+  },
+  {
+    "id": "960",
+    "name": "Kaitlyn",
+    "lname": "Svendsen",
+    "email": "svendsenk@merrimack.edu",
+    "phone": "7742757837",
+    "pwd": "Svendsen7837"
+  },
+  {
+    "id": "1113",
+    "name": "Liam",
+    "lname": "OCearuil",
+    "email": "ocearuill@merrimack.edu",
+    "phone": "9785900545",
+    "pwd": "OCearuil0545"
+  },
+  {
+    "id": "1117",
+    "name": "Brianna",
+    "lname": "CoCo",
+    "email": "cocob@merrimack.edu",
+    "phone": "6037142023",
+    "pwd": "CoCo2023"
+  },
+  {
+    "id": "508",
+    "name": "Abigail",
+    "lname": "Lentz",
+    "email": "lentza@merrimack.edu",
+    "phone": "2076071028",
+    "pwd": "Lentz1028"
+  },
+  {
+    "id": "908",
+    "name": "Ben",
+    "lname": "Chase",
+    "email": "chasebd@merrimack.edu",
+    "phone": "4018089086",
+    "pwd": "Chase9086"
+  },
+  {
+    "id": "1048",
+    "name": "Lauren",
+    "lname": "Berteletti",
+    "email": "bertelettil@merrimack.edu",
+    "phone": "7817335987",
+    "pwd": "Berteletti5987"
+  },
+  {
+    "id": "1085",
+    "name": "Ryan",
+    "lname": "Pina",
+    "email": "pinar@merrimack.edu",
+    "phone": "5085664309",
+    "pwd": "Pina4309"
+  },
+  {
+    "id": "1078",
+    "name": "Rivency",
+    "lname": "Jeudy",
+    "email": "jeudyr@merrimack.edu",
+    "phone": "7815262170",
+    "pwd": "Jeudy2170"
+  },
+  {
+    "id": "1138",
+    "name": "Erin",
+    "lname": "Walsh",
+    "email": "walshec@merrimack.edu",
+    "phone": "4047545277",
+    "pwd": "Walsh5277"
+  },
+  {
+    "id": "734",
+    "name": "Ryan",
+    "lname": "Williams",
+    "email": "williamsry@merrimack.edu",
+    "phone": "2034341249",
+    "pwd": "Williams1249"
+  },
+  {
+    "id": "632",
+    "name": "Kathryn Sullivan",
+    "lname": "Sullivan",
+    "email": "sullivankg@merrimack.edu",
+    "phone": "5084939243",
+    "pwd": "Sullivan9243"
+  },
+  {
+    "id": "883",
+    "name": "Mollie",
+    "lname": "Morrison",
+    "email": "morrisonme@merrimack.edu",
+    "phone": "8607514539",
+    "pwd": "Morrison4539"
+  },
+  {
+    "id": "546",
+    "name": "Madison",
+    "lname": "Cerpa",
+    "email": "cerpam@merrimack.edu",
+    "phone": "3108764740",
+    "pwd": "Cerpa4740"
+  },
+  {
+    "id": "658",
+    "name": "Guliana",
+    "lname": "Dupler",
+    "email": "duplerg@merrimack.edu",
+    "phone": "6034658041",
+    "pwd": "Dupler8041"
+  },
+  {
+    "id": "951",
+    "name": "Zachary",
+    "lname": "Uens",
+    "email": "uensz@merrimack.edu",
+    "phone": "9783872507",
+    "pwd": "Uens2507"
+  },
+  {
+    "id": "980",
+    "name": "Bridget",
+    "lname": "Calby",
+    "email": "calbyb@merrimack.edu",
+    "phone": "9149245077",
+    "pwd": "Calby5077"
+  },
+  {
+    "id": "1067",
+    "name": "nina",
+    "lname": "bramante",
+    "email": "bramanten@merrimack.edu",
+    "phone": "7816706956",
+    "pwd": "bramante6956"
+  },
+  {
+    "id": "615",
+    "name": "Hope",
+    "lname": "Salts",
+    "email": "saltsh@merrimack.edu",
+    "phone": "951-225-2192",
+    "pwd": "Salts2192"
+  },
+  {
+    "id": "677",
+    "name": "Zac",
+    "lname": "Bail",
+    "email": "bailz@merrimack.edu",
+    "phone": "4136585521",
+    "pwd": "Bail5521"
+  },
+  {
+    "id": "1108",
+    "name": "Mary",
+    "lname": "Landers",
+    "email": "landersm@merrimack.edu",
+    "phone": "3399278760",
+    "pwd": "Landers8760"
+  },
+  {
+    "id": "1001",
+    "name": "Taylor",
+    "lname": "Sawyer",
+    "email": "sawyert@merrimack.edu",
+    "phone": "6034903762",
+    "pwd": "Sawyer3762"
+  },
+  {
+    "id": "523",
+    "name": "Patrick",
+    "lname": "Jones",
+    "email": "jonespk@merrimack.edu",
+    "phone": "2038488314",
+    "pwd": "Jones8314"
+  },
+  {
+    "id": "642",
+    "name": "Julia",
+    "lname": "MacLean",
+    "email": "macleanj@merrimack.edu",
+    "phone": "5084043840",
+    "pwd": "MacLean3840"
+  },
+  {
+    "id": "486",
+    "name": "Alec",
+    "lname": "Cruz",
+    "email": "cruza@merrimack.edu",
+    "phone": "7812814708",
+    "pwd": "Cruz4708"
+  },
+  {
+    "id": "978",
+    "name": "Kaitlyn",
+    "lname": "Gallagher",
+    "email": "gallagherk@merrimack.edu",
+    "phone": "9787290084",
+    "pwd": "Gallagher0084"
+  },
+  {
+    "id": "905",
+    "name": "Parker",
+    "lname": "Spaulding",
+    "email": "spauldingp@merrimack.edu",
+    "phone": "8024616428",
+    "pwd": "Spaulding6428"
+  },
+  {
+    "id": "895",
+    "name": "Sarah",
+    "lname": "Ward",
+    "email": "wardse@merrimack.edu",
+    "phone": "6039210850",
+    "pwd": "Ward0850"
+  },
+  {
+    "id": "847",
+    "name": "Margaret",
+    "lname": "Frawley",
+    "email": "frawleym@merrimack.edu",
+    "phone": "8608189288",
+    "pwd": "Frawley9288"
+  },
+  {
+    "id": "626",
+    "name": "Bridget",
+    "lname": "Boyle",
+    "email": "boylebc@merrimack.edu",
+    "phone": "6103685455",
+    "pwd": "Boyle5455"
+  },
+  {
+    "id": "913",
+    "name": "Jacob",
+    "lname": "Modry",
+    "email": "modryj@merrimack.edu",
+    "phone": "3107145732",
+    "pwd": "Modry5732"
+  },
+  {
+    "id": "747",
+    "name": "Georgia",
+    "lname": "Parker",
+    "email": "parkerg@merrimack.edu",
+    "phone": "9784400007",
+    "pwd": "Parker0007"
+  },
+  {
+    "id": "917",
+    "name": "claudia",
+    "lname": "beasley",
+    "email": "beasleym@merrimack.edu",
+    "phone": "5084313880",
+    "pwd": "beasley3880"
+  },
+  {
+    "id": "1105",
+    "name": "Tori",
+    "lname": "Belisle",
+    "email": "Belislev@merrimack.edu",
+    "phone": "9784732519",
+    "pwd": "Belisle2519"
+  },
+  {
+    "id": "563",
+    "name": "Bridget",
+    "lname": "Maunsell",
+    "email": "maunsellb@merrimack.edu",
+    "phone": "7742393992",
+    "pwd": "Maunsell3992"
+  },
+  {
+    "id": "805",
+    "name": "Dominic",
+    "lname": "Dockery",
+    "email": "dockeryd@merrimack.edu",
+    "phone": "7164256490",
+    "pwd": "Dockery6490"
+  },
+  {
+    "id": "930",
+    "name": "Stephanie",
+    "lname": "Lloyd",
+    "email": "lloyds@merrimack.edu",
+    "phone": "7813309641",
+    "pwd": "Lloyd9641"
+  },
+  {
+    "id": "1121",
+    "name": "Nichholas",
+    "lname": "Burton",
+    "email": "burtonn@merrimack.edu",
+    "phone": "2072054376",
+    "pwd": "Burton4376"
+  },
+  {
+    "id": "750",
+    "name": "Gabrielle",
+    "lname": "Paulding",
+    "email": "pauldingg@merrimack.edu",
+    "phone": "7812040268",
+    "pwd": "Paulding0268"
+  },
+  {
+    "id": "970",
+    "name": "Trent",
+    "lname": "Flood",
+    "email": "floodtd@merrimack.edu",
+    "phone": "5089182181",
+    "pwd": "Flood2181"
+  },
+  {
+    "id": "557",
+    "name": "Alyssa",
+    "lname": "Gagliardi",
+    "email": "gagliardial@merrimack.edu",
+    "phone": "6035057024",
+    "pwd": "Gagliardi7024"
+  },
+  {
+    "id": "1018",
+    "name": "Daniel",
+    "lname": "Mason",
+    "email": "masond@merrimack.edu",
+    "phone": "5082548986",
+    "pwd": "Mason8986"
+  },
+  {
+    "id": "528",
+    "name": "Leah",
+    "lname": "Bern",
+    "email": "bernl@merrimack.edu",
+    "phone": "5189443228",
+    "pwd": "Bern3228"
+  },
+  {
+    "id": "606",
+    "name": "Julia",
+    "lname": "Dempsey",
+    "email": "dempseyj@merrimack.edu",
+    "phone": "5083690668",
+    "pwd": "Dempsey0668"
+  },
+  {
+    "id": "650",
+    "name": "Kathryn",
+    "lname": "MacLean",
+    "email": "macleank@merrimack.edu",
+    "phone": "7747752658",
+    "pwd": "MacLean2658"
+  },
+  {
+    "id": "842",
+    "name": "Jakobi",
+    "lname": "Holiday",
+    "email": "holidayj@merrimack.edu",
+    "phone": "7742861907",
+    "pwd": "Holiday1907"
+  },
+  {
+    "id": "1044",
+    "name": "Andrew",
+    "lname": "Caron",
+    "email": "carona@merrimack.edu",
+    "phone": "6083340715",
+    "pwd": "Caron0715"
+  },
+  {
+    "id": "689",
+    "name": "Alyson",
+    "lname": "Enneguess",
+    "email": "enneguessa@merrimack.edu",
+    "phone": "9787939433",
+    "pwd": "Enneguess9433"
+  },
+  {
+    "id": "693",
+    "name": "Pat",
+    "lname": "Conroy",
+    "email": "conroyp@merrimack.edu",
+    "phone": "9788800919",
+    "pwd": "Conroy0919"
+  },
+  {
+    "id": "669",
+    "name": "Priscilla",
+    "lname": "Hemway",
+    "email": "hemwayp@merrimack.edu",
+    "phone": "3479075762",
+    "pwd": "Hemway5762"
+  },
+  {
+    "id": "1049",
+    "name": "Abigail",
+    "lname": "O\u0027Keefe",
+    "email": "okeefea@merrimack.edu",
+    "phone": "9787707291",
+    "pwd": "O\u0027Keefe7291"
+  },
+  {
+    "id": "726",
+    "name": "Abigail",
+    "lname": "Genev",
+    "email": "geneva@merrimack.edu",
+    "phone": "4016100029",
+    "pwd": "Genev0029"
+  },
+  {
+    "id": "874",
+    "name": "Olivia",
+    "lname": "Piazza",
+    "email": "piazzao@merrimack.edu",
+    "phone": "5089853488",
+    "pwd": "Piazza3488"
+  },
+  {
+    "id": "521",
+    "name": "Geena",
+    "lname": "Levine",
+    "email": "levineg@merrimack.edu",
+    "phone": "6176108643",
+    "pwd": "Levine8643"
+  },
+  {
+    "id": "513",
+    "name": "Natalie",
+    "lname": "Calkins",
+    "email": "calkinsn@merrimack.edu",
+    "phone": "5082591345",
+    "pwd": "Calkins1345"
+  },
+  {
+    "id": "558",
+    "name": "Gage",
+    "lname": "Johnson",
+    "email": "Johnsong@merrimack.edu",
+    "phone": "7276089966",
+    "pwd": "Johnson9966"
+  },
+  {
+    "id": "890",
+    "name": "Mike",
+    "lname": "Caruso",
+    "email": "carusoma@merrimack.edu",
+    "phone": "7818163227",
+    "pwd": "Caruso3227"
+  },
+  {
+    "id": "944",
+    "name": "Michael",
+    "lname": "Bean",
+    "email": "beanma@merrimack.edu",
+    "phone": "7742324133",
+    "pwd": "Bean4133"
+  },
+  {
+    "id": "1140",
+    "name": "Brian",
+    "lname": "Belmonte",
+    "email": "belmonteb@merrimack.edu",
+    "phone": "7742762559",
+    "pwd": "Belmonte2559"
+  },
+  {
+    "id": "812",
+    "name": "Sam",
+    "lname": "Batchelder",
+    "email": "batchelders@merrimack.edu",
+    "phone": "8604806191",
+    "pwd": "Batchelder6191"
+  },
+  {
+    "id": "502",
+    "name": "Brian",
+    "lname": "Colleoni-Pimenta",
+    "email": "colleonipimb@merrimack.edu",
+    "phone": "9783109362",
+    "pwd": "Colleoni-Pimenta9362"
+  },
+  {
+    "id": "488",
+    "name": "Mackenzie",
+    "lname": "Emery",
+    "email": "emerymi@merrimack.edu",
+    "phone": "3154047546",
+    "pwd": "Emery7546"
+  },
+  {
+    "id": "852",
+    "name": "Jessica",
+    "lname": "Pugatch",
+    "email": "pugatchj@merrimack.edu",
+    "phone": "4017415728",
+    "pwd": "Pugatch5728"
+  },
+  {
+    "id": "526",
+    "name": "Bridget",
+    "lname": "Bradley",
+    "email": "bradleybl@merrimack.edu",
+    "phone": "7818126767",
+    "pwd": "Bradley6767"
+  },
+  {
+    "id": "620",
+    "name": "Gina",
+    "lname": "DiFelice",
+    "email": "difeliceg@merrimack.edu",
+    "phone": "6176109861",
+    "pwd": "DiFelice9861"
+  },
+  {
+    "id": "735",
+    "name": "Mike",
+    "lname": "Kelly",
+    "email": "kellymi@merrimack.edu",
+    "phone": "9783024919",
+    "pwd": "Kelly4919"
+  },
+  {
+    "id": "934",
+    "name": "Austin",
+    "lname": "Wyllie",
+    "email": "wylliea@merrimack.edu",
+    "phone": "7814004525",
+    "pwd": "Wyllie4525"
+  },
+  {
+    "id": "785",
+    "name": "Tom",
+    "lname": "Driggs",
+    "email": "driggst@merrimack.edu",
+    "phone": "6788344088",
+    "pwd": "Driggs4088"
+  },
+  {
+    "id": "892",
+    "name": "Cassie",
+    "lname": "Bullis",
+    "email": "bullisc@merrimack.edu",
+    "phone": "5185692429",
+    "pwd": "Bullis2429"
+  },
+  {
+    "id": "529",
+    "name": "Claire",
+    "lname": "Coretti",
+    "email": "corettic@merrimack.edu",
+    "phone": "6164432069",
+    "pwd": "Coretti2069"
+  },
+  {
+    "id": "882",
+    "name": "Drew",
+    "lname": "Sirmalis",
+    "email": "sirmalisd@merrimack.edu",
+    "phone": "4019991966",
+    "pwd": "Sirmalis1966"
+  },
+  {
+    "id": "806",
+    "name": "Sophie",
+    "lname": "Scearbo",
+    "email": "scearbos@merrimack.edu",
+    "phone": "5088082470",
+    "pwd": "Scearbo2470"
+  },
+  {
+    "id": "877",
+    "name": "Joshua",
+    "lname": "Skalski",
+    "email": "skalskij@merrimack.edu",
+    "phone": "9788763354",
+    "pwd": "Skalski3354"
+  },
+  {
+    "id": "1159",
+    "name": "Ryan",
+    "lname": "Zollo",
+    "email": "zollor@merrimack.edu",
+    "phone": "7819101183",
+    "pwd": "Zollo1183"
+  },
+  {
+    "id": "599",
+    "name": "Dan",
+    "lname": "McGowan",
+    "email": "mcgowand@merrimack.edu",
+    "phone": "2037103993",
+    "pwd": "McGowan3993"
+  },
+  {
+    "id": "764",
+    "name": "Sara",
+    "lname": "Berg",
+    "email": "bergs@merrimack.edu",
+    "phone": "5083411727",
+    "pwd": "Berg1727"
+  },
+  {
+    "id": "1051",
+    "name": "Madison",
+    "lname": "Fornwalt",
+    "email": "fornwaltm@merrimack.edu",
+    "phone": "8022221067",
+    "pwd": "Fornwalt1067"
+  },
+  {
+    "id": "1155",
+    "name": "Holly",
+    "lname": "Paolino",
+    "email": "paolinoh@merrimack.edu",
+    "phone": "9788727841",
+    "pwd": "Paolino7841"
+  },
+  {
+    "id": "547",
+    "name": "Emma",
+    "lname": "Gorski",
+    "email": "gorskie@merrimack.edu",
+    "phone": "2266264891",
+    "pwd": "Gorski4891"
+  },
+  {
+    "id": "1066",
+    "name": "Meghan",
+    "lname": "Harmon",
+    "email": "harmonml@merrimack.edu",
+    "phone": "6036306288",
+    "pwd": "Harmon6288"
+  },
+  {
+    "id": "1026",
+    "name": "Chloe",
+    "lname": "Windle",
+    "email": "windlec@merrimack.edu",
+    "phone": "9789145087",
+    "pwd": "Windle5087"
+  },
+  {
+    "id": "659",
+    "name": "Isabel",
+    "lname": "McDonnell",
+    "email": "mcdonnelli@merrimack.edu",
+    "phone": "7746440680",
+    "pwd": "McDonnell0680"
+  },
+  {
+    "id": "1003",
+    "name": "John",
+    "lname": "Collins",
+    "email": "collinsjp@merrimack.edu",
+    "phone": "7817896841",
+    "pwd": "Collins6841"
+  },
+  {
+    "id": "964",
+    "name": "Liam",
+    "lname": "Walsh",
+    "email": "walshl@merrimack.edu",
+    "phone": "4124209322",
+    "pwd": "Walsh9322"
+  },
+  {
+    "id": "664",
+    "name": "Katelyn",
+    "lname": "Grise",
+    "email": "grisek@merrimack.edu",
+    "phone": "9787329435",
+    "pwd": "Grise9435"
+  },
+  {
+    "id": "779",
+    "name": "Katherine",
+    "lname": "Casanova",
+    "email": "casanovak@merrimack.edu",
+    "phone": "4019994272",
+    "pwd": "Casanova4272"
+  },
+  {
+    "id": "1042",
+    "name": "Ashton",
+    "lname": "Savage",
+    "email": "savagea@merrimack.edu",
+    "phone": "5082508647",
+    "pwd": "Savage8647"
+  },
+  {
+    "id": "756",
+    "name": "Samuel",
+    "lname": "Johnson",
+    "email": "johnsonsg@merrimack.edu",
+    "phone": "7818505762",
+    "pwd": "Johnson5762"
+  },
+  {
+    "id": "798",
+    "name": "Ian",
+    "lname": "Cloonan",
+    "email": "cloonani@merrimack.edu",
+    "phone": "4132506646",
+    "pwd": "Cloonan6646"
+  },
+  {
+    "id": "533",
+    "name": "Abbie",
+    "lname": "Ortyl",
+    "email": "ortyla@merrimack.edu",
+    "phone": "7819994691",
+    "pwd": "Ortyl4691"
+  },
+  {
+    "id": "661",
+    "name": "Haley",
+    "lname": "Norris",
+    "email": "norrish@merrimack.edu",
+    "phone": "9782898827",
+    "pwd": "Norris8827"
+  },
+  {
+    "id": "686",
+    "name": "Amelia",
+    "lname": "Groothuis",
+    "email": "groothuisa@merrimack.edu",
+    "phone": "9788108211",
+    "pwd": "Groothuis8211"
+  },
+  {
+    "id": "996",
+    "name": "Matthew",
+    "lname": "Hottleman",
+    "email": "hottlemanm@merrimack.edu",
+    "phone": "7742668259",
+    "pwd": "Hottleman8259"
+  },
+  {
+    "id": "1057",
+    "name": "Ivy",
+    "lname": "Irwin",
+    "email": "irwini@merrimack.edu",
+    "phone": "9787933814",
+    "pwd": "Irwin3814"
+  },
+  {
+    "id": "485",
+    "name": "Calegh",
+    "lname": "Millett",
+    "email": "Millettc@merrimack.edu",
+    "phone": "9783406968",
+    "pwd": "Millett6968"
+  },
+  {
+    "id": "813",
+    "name": "Megan",
+    "lname": "Parthum",
+    "email": "parthumm@merrimack.edu",
+    "phone": "7817155226",
+    "pwd": "Parthum5226"
+  },
+  {
+    "id": "830",
+    "name": "Douglas",
+    "lname": "Brown",
+    "email": "browndo@merrimack.edu",
+    "phone": "6179391875",
+    "pwd": "Brown1875"
+  },
+  {
+    "id": "796",
+    "name": "Grace",
+    "lname": "Dominov",
+    "email": "dominovg@merrimack.edu",
+    "phone": "8608089574",
+    "pwd": "Dominov9574"
+  },
+  {
+    "id": "505",
+    "name": "Adrien",
+    "lname": "Brehany",
+    "email": "brehanya@merrimack.edu",
+    "phone": "5087365753",
+    "pwd": "Brehany5753"
+  },
+  {
+    "id": "1004",
+    "name": "Skyler",
+    "lname": "Bomba",
+    "email": "bombas@merrimack.edu",
+    "phone": "6034380607",
+    "pwd": "Bomba0607"
+  },
+  {
+    "id": "797",
+    "name": "Jillian",
+    "lname": "Tosi",
+    "email": "tosij@merrimack.edu",
+    "phone": "8022795145",
+    "pwd": "Tosi5145"
+  },
+  {
+    "id": "1023",
+    "name": "Kara",
+    "lname": "Devereaux",
+    "email": "devereauxk@merrimack.edu",
+    "phone": "5085775320",
+    "pwd": "Devereaux5320"
+  },
+  {
+    "id": "843",
+    "name": "Michael Golankiewicz",
+    "lname": "Golankiewicz",
+    "email": "golankiewicm@merrimack.edu",
+    "phone": "9082958550",
+    "pwd": "Golankiewicz8550"
+  },
+  {
+    "id": "848",
+    "name": "Samuel",
+    "lname": "Lafreniere",
+    "email": "lafrenieres@merrimack.edu",
+    "phone": "8603915875",
+    "pwd": "Lafreniere5875"
+  },
+  {
+    "id": "535",
+    "name": "Madalyn",
+    "lname": "Letellier",
+    "email": "letellier.maddy@gmail.com",
+    "phone": "12072895371",
+    "pwd": "Letellier5371"
+  },
+  {
+    "id": "782",
+    "name": "Tristen",
+    "lname": "Novak",
+    "email": "novakt@merrimack.edu",
+    "phone": "9149071777",
+    "pwd": "Novak1777"
+  },
+  {
+    "id": "1084",
+    "name": "Ashley",
+    "lname": "Heaton",
+    "email": "heatona@merrimack.edu",
+    "phone": "8028553217",
+    "pwd": "Heaton3217"
+  },
+  {
+    "id": "572",
+    "name": "Molly",
+    "lname": "Maloney",
+    "email": "maloneym@merrimack.edu",
+    "phone": "7814549251",
+    "pwd": "Maloney9251"
+  },
+  {
+    "id": "819",
+    "name": "Marlene",
+    "lname": "Boulas",
+    "email": "Boulasm@merrimack.edu",
+    "phone": "2033081483",
+    "pwd": "Boulas1483"
+  },
+  {
+    "id": "1107",
+    "name": "Kaden",
+    "lname": "Brunson",
+    "email": "brunsonk@merrimack.edu",
+    "phone": "6085763075",
+    "pwd": "Brunson3075"
+  },
+  {
+    "id": "984",
+    "name": "Kaitlyn",
+    "lname": "Healy",
+    "email": "HealyKA@merrimack.edu",
+    "phone": "5085777670",
+    "pwd": "Healy7670"
+  },
+  {
+    "id": "884",
+    "name": "Samantha",
+    "lname": "Preston",
+    "email": "prestonsk@merrimack.edu",
+    "phone": "4137994455",
+    "pwd": "Preston4455"
+  },
+  {
+    "id": "985",
+    "name": "Tia",
+    "lname": "Taylor",
+    "email": "taylort@merrimack.edu",
+    "phone": "5084406393",
+    "pwd": "Taylor6393"
+  },
+  {
+    "id": "793",
+    "name": "Josh",
+    "lname": "Addo",
+    "email": "Addoj@merrimack.edu",
+    "phone": "763-732-3618",
+    "pwd": "Addo3618"
+  },
+  {
+    "id": "704",
+    "name": "Kyra",
+    "lname": "Clinton",
+    "email": "clintonk@merrimack.edu",
+    "phone": "8456085530",
+    "pwd": "Clinton5530"
+  },
+  {
+    "id": "1123",
+    "name": "Taelyr",
+    "lname": "Czech",
+    "email": "czecht@merrimack.edu",
+    "phone": "6127164522",
+    "pwd": "Czech4522"
+  },
+  {
+    "id": "962",
+    "name": "Kelly",
+    "lname": "Crotty",
+    "email": "crottyk@merrimack.edu",
+    "phone": "9789985847",
+    "pwd": "Crotty5847"
+  },
+  {
+    "id": "1120",
+    "name": "Kailee",
+    "lname": "Stobbe",
+    "email": "stobbek@merrimack.edu",
+    "phone": "7202842573",
+    "pwd": "Stobbe2573"
+  },
+  {
+    "id": "943",
+    "name": "Emily",
+    "lname": "Allen",
+    "email": "allene@merrimack.edu",
+    "phone": "2073330353",
+    "pwd": "Allen0353"
+  },
+  {
+    "id": "1091",
+    "name": "Vincenzo",
+    "lname": "Zappulla",
+    "email": "zappullav@merrimack.edu",
+    "phone": "3475599447",
+    "pwd": "Zappulla9447"
+  },
+  {
+    "id": "1031",
+    "name": "Jonna",
+    "lname": "Martinez",
+    "email": "martinezjj@merrimack.edu",
+    "phone": "7209356719",
+    "pwd": "Martinez6719"
+  },
+  {
+    "id": "1111",
+    "name": "Andrew",
+    "lname": "Varipatis",
+    "email": "varipatisa@merrimack.edu",
+    "phone": "2076715521",
+    "pwd": "Varipatis5521"
+  },
+  {
+    "id": "856",
+    "name": "Melanie",
+    "lname": "Turano",
+    "email": "turanom@merrimack.edu",
+    "phone": "9735670319",
+    "pwd": "Turano0319"
+  },
+  {
+    "id": "979",
+    "name": "Halle",
+    "lname": "Farrell",
+    "email": "farrellhm@merrimack.edu",
+    "phone": "6179391021",
+    "pwd": "Farrell1021"
+  },
+  {
+    "id": "733",
+    "name": "Brooke",
+    "lname": "Waitt",
+    "email": "waittb@merrimack.edu",
+    "phone": "4132142862",
+    "pwd": "Waitt2862"
+  },
+  {
+    "id": "891",
+    "name": "Delaney",
+    "lname": "Tobias",
+    "email": "tobiasd@merrimack.edu",
+    "phone": "4138871100",
+    "pwd": "Tobias1100"
+  },
+  {
+    "id": "1147",
+    "name": "Liam",
+    "lname": "Buckley",
+    "email": "buckleyl@merrimack.edu",
+    "phone": "9788065433",
+    "pwd": "Buckley5433"
+  },
+  {
+    "id": "937",
+    "name": "Morgan",
+    "lname": "Woolard",
+    "email": "woolardm@merrimack.edu",
+    "phone": "5088642858",
+    "pwd": "Woolard2858"
+  },
+  {
+    "id": "725",
+    "name": "patrick",
+    "lname": "devine",
+    "email": "devinepa@merrimack.edu",
+    "phone": "2035052925",
+    "pwd": "devine2925"
+  },
+  {
+    "id": "522",
+    "name": "Morgan",
+    "lname": "Albanesi",
+    "email": "albanesim@merrimack.edu",
+    "phone": "8603720990",
+    "pwd": "Albanesi0990"
+  },
+  {
+    "id": "749",
+    "name": "Darell",
+    "lname": "Dorrah",
+    "email": "dorrahd@merrimack.edu",
+    "phone": "9732807488",
+    "pwd": "Dorrah7488"
+  },
+  {
+    "id": "771",
+    "name": "Megan",
+    "lname": "Rumenapp",
+    "email": "rumenappm@merrimack.edu",
+    "phone": "(518)813-8769",
+    "pwd": "Rumenapp8769"
+  },
+  {
+    "id": "1075",
+    "name": "Sydney",
+    "lname": "Haskin",
+    "email": "haskins@merrimack.edu",
+    "phone": "5185772752",
+    "pwd": "Haskin2752"
+  },
+  {
+    "id": "1005",
+    "name": "Amy",
+    "lname": "DeLeo",
+    "email": "deleoac@merrimack.edu",
+    "phone": "7818794461",
+    "pwd": "DeLeo4461"
+  },
+  {
+    "id": "752",
+    "name": "John",
+    "lname": "DiFilippo",
+    "email": "difilippoj@merrimack.edu",
+    "phone": "6172912989",
+    "pwd": "DiFilippo2989"
+  },
+  {
+    "id": "466",
+    "name": "Aditya",
+    "lname": "Batra",
+    "email": "adityabatratemp@gmail.com",
+    "phone": "9457874578",
+    "pwd": "Batra4578"
+  },
+  {
+    "id": "498",
+    "name": "Kayli",
+    "lname": "Tobin",
+    "email": "tobinkm@merrimack.edu",
+    "phone": "3397887324",
+    "pwd": "Tobin7324"
+  },
+  {
+    "id": "540",
+    "name": "dominika",
+    "lname": "Laskova",
+    "email": "laskovad@merrimack.edu",
+    "phone": "6176103460",
+    "pwd": "Laskova3460"
+  },
+  {
+    "id": "552",
+    "name": "Kathryn",
+    "lname": "ONeil",
+    "email": "oneilkm@merrimack.edu",
+    "phone": "5082097050",
+    "pwd": "ONeil7050"
+  },
+  {
+    "id": "864",
+    "name": "Kelsey",
+    "lname": "Magoveny",
+    "email": "magovenyk@merrimack.edu",
+    "phone": "2039990024",
+    "pwd": "Magoveny0024"
+  },
+  {
+    "id": "1037",
+    "name": "Alicia",
+    "lname": "Collins",
+    "email": "collinsak@merrimack.edu",
+    "phone": "7742453209",
+    "pwd": "Collins3209"
+  },
+  {
+    "id": "938",
+    "name": "Ian",
+    "lname": "Sparks",
+    "email": "sparksi@merrimack.edu",
+    "phone": "9787294356",
+    "pwd": "Sparks4356"
+  },
+  {
+    "id": "1040",
+    "name": "Kyle",
+    "lname": "Silva",
+    "email": "silvakm@merrimack.edu",
+    "phone": "5084251317",
+    "pwd": "Silva1317"
+  },
+  {
+    "id": "975",
+    "name": "Renee",
+    "lname": "Whitelaw",
+    "email": "whitelawr@merrimack.edu",
+    "phone": "5082725752",
+    "pwd": "Whitelaw5752"
+  },
+  {
+    "id": "531",
+    "name": "Ava",
+    "lname": "Mahoney",
+    "email": "mahoneyak@merrimack.edu",
+    "phone": "6782226066",
+    "pwd": "Mahoney6066"
+  },
+  {
+    "id": "575",
+    "name": "Lianna",
+    "lname": "Derr",
+    "email": "derrl@merrimack.edu",
+    "phone": "5082163261",
+    "pwd": "Derr3261"
+  },
+  {
+    "id": "825",
+    "name": "Jaclyn",
+    "lname": "Connelly",
+    "email": "connellyj@merrimack.edu",
+    "phone": "9786757706",
+    "pwd": "Connelly7706"
+  },
+  {
+    "id": "992",
+    "name": "Marino",
+    "lname": "Preziosa",
+    "email": "preziosam@merrimack.edu",
+    "phone": "7815264641",
+    "pwd": "Preziosa4641"
+  },
+  {
+    "id": "868",
+    "name": "Emily",
+    "lname": "Burke",
+    "email": "burkeev@merrimack.edu",
+    "phone": "4134262193",
+    "pwd": "Burke2193"
+  },
+  {
+    "id": "568",
+    "name": "Kelsey",
+    "lname": "Montanez",
+    "email": "montanezk@merrimack.edu",
+    "phone": "7743285298",
+    "pwd": "Montanez5298"
+  },
+  {
+    "id": "898",
+    "name": "Garrett",
+    "lname": "Kelley",
+    "email": "kelleygl@merrimack.edu",
+    "phone": "5084466613",
+    "pwd": "Kelley6613"
+  },
+  {
+    "id": "1063",
+    "name": "Emma",
+    "lname": "Cosgrove",
+    "email": "cosgrovee@merrimack.edu",
+    "phone": "7817389595",
+    "pwd": "Cosgrove9595"
+  },
+  {
+    "id": "619",
+    "name": "Hugo",
+    "lname": "Esselin",
+    "email": "esselinc@merrimack.edu",
+    "phone": "9788091540",
+    "pwd": "Esselin1540"
+  },
+  {
+    "id": "1143",
+    "name": "Elisha",
+    "lname": "Thibodeau",
+    "email": "thibodeaue@merrimack.edu",
+    "phone": "2075763270",
+    "pwd": "Thibodeau3270"
+  },
+  {
+    "id": "1035",
+    "name": "Taylor",
+    "lname": "Vartanian",
+    "email": "vartaniant@merrimack.edu",
+    "phone": "6033279078",
+    "pwd": "Vartanian9078"
+  },
+  {
+    "id": "995",
+    "name": "Taylor",
+    "lname": "Hubert",
+    "email": "hubertt@merrimack.edu",
+    "phone": "8608772541",
+    "pwd": "Hubert2541"
+  },
+  {
+    "id": "1099",
+    "name": "Erin",
+    "lname": "Drew",
+    "email": "drewe@merrimack.edu",
+    "phone": "9786188699",
+    "pwd": "Drew8699"
+  },
+  {
+    "id": "1020",
+    "name": "Allyson",
+    "lname": "Sauter",
+    "email": "sautera@merrimack.edu",
+    "phone": "3155725040",
+    "pwd": "Sauter5040"
+  },
+  {
+    "id": "644",
+    "name": "Raice",
+    "lname": "Szott",
+    "email": "szottr@merrimack.edu",
+    "phone": "7807818119",
+    "pwd": "Szott8119"
+  },
+  {
+    "id": "629",
+    "name": "Tyler",
+    "lname": "Roberge",
+    "email": "roberget@merrimack.edu",
+    "phone": "9788662122",
+    "pwd": "Roberge2122"
+  },
+  {
+    "id": "555",
+    "name": "Juan",
+    "lname": "Perdomo",
+    "email": "perdomoja@merrimack.edu",
+    "phone": "3392259443",
+    "pwd": "Perdomo9443"
+  },
+  {
+    "id": "1011",
+    "name": "Annabelle",
+    "lname": "McSweeney",
+    "email": "mcsweeneya@merrimack.edu",
+    "phone": "6176947401",
+    "pwd": "McSweeney7401"
+  },
+  {
+    "id": "576",
+    "name": "Jayda",
+    "lname": "Bruscoe",
+    "email": "bruscoej@merrimack.edu",
+    "phone": "4137258139",
+    "pwd": "Bruscoe8139"
+  },
+  {
+    "id": "509",
+    "name": "Jillian",
+    "lname": "Nichols",
+    "email": "nicholsj@merrimack.edu",
+    "phone": "2072335418",
+    "pwd": "Nichols5418"
+  },
+  {
+    "id": "982",
+    "name": "Bianca",
+    "lname": "Herbert",
+    "email": "herbertb@merrimack.edu",
+    "phone": "9783945028",
+    "pwd": "Herbert5028"
+  },
+  {
+    "id": "705",
+    "name": "Nickolas",
+    "lname": "Conley",
+    "email": "conleyn@merrimack.edu",
+    "phone": "508-345-5292",
+    "pwd": "Conley5292"
+  },
+  {
+    "id": "657",
+    "name": "Kailyn",
+    "lname": "Stanio",
+    "email": "staniok@merrimack.edu",
+    "phone": "8608164818",
+    "pwd": "Stanio4818"
+  },
+  {
+    "id": "678",
+    "name": "Connor",
+    "lname": "Nickerson",
+    "email": "nickersonc@merrimack.edu",
+    "phone": "9784085359",
+    "pwd": "Nickerson5359"
+  },
+  {
+    "id": "682",
+    "name": "Dylan",
+    "lname": "Dresher",
+    "email": "dresherd@merrimack.edu",
+    "phone": "7817078697",
+    "pwd": "Dresher8697"
+  },
+  {
+    "id": "941",
+    "name": "Kaitlin",
+    "lname": "Jurasek",
+    "email": "Jurasekk@merrimack.edu",
+    "phone": "7742788183",
+    "pwd": "Jurasek8183"
+  },
+  {
+    "id": "870",
+    "name": "Tiana",
+    "lname": "Butler",
+    "email": "butlert@merrimack.edu",
+    "phone": "9784572592",
+    "pwd": "Butler2592"
+  },
+  {
+    "id": "638",
+    "name": "Ritika",
+    "lname": "Tewari",
+    "email": "tewarir@merrimack.edu",
+    "phone": "5716359944",
+    "pwd": "Tewari9944"
+  },
+  {
+    "id": "654",
+    "name": "Kayleigh",
+    "lname": "Manion",
+    "email": "manionk@merrimack.edu",
+    "phone": "8604225998",
+    "pwd": "Manion5998"
+  },
+  {
+    "id": "893",
+    "name": "Joseph",
+    "lname": "Niedermeyer",
+    "email": "niedermeyerj@merrimack.edu",
+    "phone": "8607482948",
+    "pwd": "Niedermeyer2948"
+  },
+  {
+    "id": "1006",
+    "name": "Phillip",
+    "lname": "Tammaro",
+    "email": "tammarop@merrimack.edu",
+    "phone": "9787710773",
+    "pwd": "Tammaro0773"
+  },
+  {
+    "id": "1086",
+    "name": "Olivia",
+    "lname": "Affannato",
+    "email": "affannatoo@merrimack.edu",
+    "phone": "7742223239",
+    "pwd": "Affannato3239"
+  },
+  {
+    "id": "999",
+    "name": "Hannah",
+    "lname": "Marks",
+    "email": "marksh@merrimack.edu",
+    "phone": "7748234921",
+    "pwd": "Marks4921"
+  },
+  {
+    "id": "791",
+    "name": "Sophia",
+    "lname": "Obering",
+    "email": "oberings@merrimack.edu",
+    "phone": "3016600404",
+    "pwd": "Obering0404"
+  },
+  {
+    "id": "491",
+    "name": "Jared",
+    "lname": "Carvalho",
+    "email": "carvalhoj@merrimack.edu",
+    "phone": "9788523157",
+    "pwd": "Carvalho3157"
+  },
+  {
+    "id": "507",
+    "name": "Ty",
+    "lname": "Pollock",
+    "email": "pollockt@merrimack.edu",
+    "phone": "6178937111",
+    "pwd": "Pollock7111"
+  },
+  {
+    "id": "573",
+    "name": "Morgan",
+    "lname": "Grant",
+    "email": "grantm@merrimack.edu",
+    "phone": "6039656290",
+    "pwd": "Grant6290"
+  },
+  {
+    "id": "857",
+    "name": "Sara",
+    "lname": "MacFarland",
+    "email": "MacFarlandS@merrimack.edu",
+    "phone": "7749947241",
+    "pwd": "MacFarland7241"
+  },
+  {
+    "id": "795",
+    "name": "Nolan",
+    "lname": "Stevenson",
+    "email": "stevensonn@merrimack.edu",
+    "phone": "9789922050",
+    "pwd": "Stevenson2050"
+  },
+  {
+    "id": "826",
+    "name": "Kayla",
+    "lname": "Mayo",
+    "email": "mayok@merrimack.edu",
+    "phone": "7817103322",
+    "pwd": "Mayo3322"
+  },
+  {
+    "id": "1154",
+    "name": "Kaitlyn",
+    "lname": "Kaufman",
+    "email": "kaufmank@merrimack.edu",
+    "phone": "6513537432",
+    "pwd": "Kaufman7432"
+  },
+  {
+    "id": "585",
+    "name": "Kurtis",
+    "lname": "Stadnicki",
+    "email": "stadnickik@merrimack.edu",
+    "phone": "6038565071",
+    "pwd": "Stadnicki5071"
+  },
+  {
+    "id": "802",
+    "name": "Julia",
+    "lname": "Mahaney",
+    "email": "mahaneyj@merrimack.edu",
+    "phone": "5085612008",
+    "pwd": "Mahaney2008"
+  },
+  {
+    "id": "587",
+    "name": "Samantha",
+    "lname": "Lessick",
+    "email": "lessicks@merrimack.edu",
+    "phone": "9788098655",
+    "pwd": "Lessick8655"
+  },
+  {
+    "id": "783",
+    "name": "Gabrielle",
+    "lname": "Eckard",
+    "email": "eckardg@merrimack.edu",
+    "phone": "3033458365",
+    "pwd": "Eckard8365"
+  },
+  {
+    "id": "931",
+    "name": "Katelyn",
+    "lname": "Distasio",
+    "email": "distasiok@merrimack.edu",
+    "phone": "9788350713",
+    "pwd": "Distasio0713"
+  },
+  {
+    "id": "589",
+    "name": "Julia",
+    "lname": "Whiting",
+    "email": "whitingj@merrimack.edu",
+    "phone": "5085058596",
+    "pwd": "Whiting8596"
+  },
+  {
+    "id": "532",
+    "name": "Alyssa",
+    "lname": "Ardai",
+    "email": "ardaia@merrimack.edu",
+    "phone": "7815266435",
+    "pwd": "Ardai6435"
+  },
+  {
+    "id": "738",
+    "name": "Lauren",
+    "lname": "Gilmartin",
+    "email": "gilmartinl@merrimack.edu",
+    "phone": "6176534419",
+    "pwd": "Gilmartin4419"
+  },
+  {
+    "id": "492",
+    "name": "Molly",
+    "lname": "McKean",
+    "email": "mckeanm@merrimack.edu",
+    "phone": "7818358595",
+    "pwd": "McKean8595"
+  },
+  {
+    "id": "1109",
+    "name": "Joshua",
+    "lname": "Callahan",
+    "email": "callahajos@merrimack.edu",
+    "phone": "9782101059",
+    "pwd": "Callahan1059"
+  },
+  {
+    "id": "1079",
+    "name": "Kelsey",
+    "lname": "Callahan",
+    "email": "callahankr@merrimack.edu",
+    "phone": "7817102535",
+    "pwd": "Callahan2535"
+  },
+  {
+    "id": "994",
+    "name": "Madysen",
+    "lname": "Wallace",
+    "email": "wallacem@merrimack.edu",
+    "phone": "2076326061",
+    "pwd": "Wallace6061"
+  },
+  {
+    "id": "1047",
+    "name": "Joshua",
+    "lname": "Callahan",
+    "email": "callahanjos@merrimack.edu",
+    "phone": "9782101059",
+    "pwd": "Callahan1059"
+  },
+  {
+    "id": "499",
+    "name": "Jessica",
+    "lname": "McLean",
+    "email": "mcleanj@merrimack.edu",
+    "phone": "9789420312",
+    "pwd": "McLean0312"
+  },
+  {
+    "id": "1033",
+    "name": "Cameron",
+    "lname": "Winters",
+    "email": "wintersc@merrimack.edu",
+    "phone": "4138229939",
+    "pwd": "Winters9939"
+  },
+  {
+    "id": "840",
+    "name": "Danielle",
+    "lname": "Santoro",
+    "email": "santorod@merrimack.edu",
+    "phone": "2039428280",
+    "pwd": "Santoro8280"
+  },
+  {
+    "id": "1136",
+    "name": "Kylie",
+    "lname": "Lopiano",
+    "email": "lopianok@merrimack.edu",
+    "phone": "2033565421",
+    "pwd": "Lopiano5421"
+  },
+  {
+    "id": "674",
+    "name": "Margaret",
+    "lname": "Ford",
+    "email": "fordm@merrimack.edu",
+    "phone": "9785053481",
+    "pwd": "Ford3481"
+  },
+  {
+    "id": "1102",
+    "name": "Grace",
+    "lname": "O\u0027Leary",
+    "email": "olearyg@merrimack.edu",
+    "phone": "5088578881",
+    "pwd": "O\u0027Leary8881"
+  },
+  {
+    "id": "613",
+    "name": "Gabrielle",
+    "lname": "Prodgers",
+    "email": "prodgersg@merrimack.edu",
+    "phone": "7818646339",
+    "pwd": "Prodgers6339"
+  },
+  {
+    "id": "986",
+    "name": "Andrew",
+    "lname": "McDermott",
+    "email": "mcdermotta@merrimack.edu",
+    "phone": "8027300840",
+    "pwd": "McDermott0840"
+  },
+  {
+    "id": "1041",
+    "name": "madelyn",
+    "lname": "smith",
+    "email": "smithmj@merrimack.edu",
+    "phone": "2037458483",
+    "pwd": "smith8483"
+  },
+  {
+    "id": "860",
+    "name": "Maria",
+    "lname": "Buttafuoco",
+    "email": "buttafuocom@merrimack.edu",
+    "phone": "8608089836",
+    "pwd": "Buttafuoco9836"
+  },
+  {
+    "id": "968",
+    "name": "Michaelann",
+    "lname": "White",
+    "email": "whitemi@merrimack.edu",
+    "phone": "5088010331",
+    "pwd": "White0331"
+  },
+  {
+    "id": "1135",
+    "name": "Amanda",
+    "lname": "Carey",
+    "email": "careyam@merrimack.edu",
+    "phone": "9783022877",
+    "pwd": "Carey2877"
+  },
+  {
+    "id": "497",
+    "name": "Ashley",
+    "lname": "Turner",
+    "email": "turneraj@merrimack.edu",
+    "phone": "2078073830",
+    "pwd": "Turner3830"
+  },
+  {
+    "id": "774",
+    "name": "Peter",
+    "lname": "Sanchioni",
+    "email": "sanchionip@merrimack.edu",
+    "phone": "5087828782",
+    "pwd": "Sanchioni8782"
+  },
+  {
+    "id": "956",
+    "name": "James",
+    "lname": "Bull",
+    "email": "bullj@merrimack.edu",
+    "phone": "9257881236",
+    "pwd": "Bull1236"
+  },
+  {
+    "id": "1145",
+    "name": "Giovanni",
+    "lname": "Blue",
+    "email": "blueg@merrimack.edu",
+    "phone": "8605138404",
+    "pwd": "Blue8404"
+  },
+  {
+    "id": "614",
+    "name": "Carly",
+    "lname": "Stabile",
+    "email": "stabilec@merrimack.edu",
+    "phone": "9789356056",
+    "pwd": "Stabile6056"
+  },
+  {
+    "id": "1153",
+    "name": "caroline",
+    "lname": "kelley",
+    "email": "kelleycr@merrimack.edu",
+    "phone": "3392270556",
+    "pwd": "kelley0556"
+  },
+  {
+    "id": "957",
+    "name": "Gabrielle",
+    "lname": "Comeau",
+    "email": "comeaug@merrimack.edu",
+    "phone": "6177979243",
+    "pwd": "Comeau9243"
+  },
+  {
+    "id": "500",
+    "name": "Antonio",
+    "lname": "Smikle Jr",
+    "email": "smiklea@merrimack.edu",
+    "phone": "5167324329",
+    "pwd": "Smikle Jr4329"
+  },
+  {
+    "id": "869",
+    "name": "Viviana",
+    "lname": "Bocanegra",
+    "email": "bocanegrav@merrimack.edu",
+    "phone": "8184880219",
+    "pwd": "Bocanegra0219"
+  },
+  {
+    "id": "713",
+    "name": "Hayleigh",
+    "lname": "Duggan",
+    "email": "dugganh@merrimack.edu",
+    "phone": "8572430222",
+    "pwd": "Duggan0222"
+  },
+  {
+    "id": "983",
+    "name": "Eliza",
+    "lname": "Whitfield",
+    "email": "whitfielde@merrimack.edu",
+    "phone": "5184952310",
+    "pwd": "Whitfield2310"
+  },
+  {
+    "id": "1119",
+    "name": "Julia",
+    "lname": "Ritcey",
+    "email": "ritceyj@merrimack.edu",
+    "phone": "3392369857",
+    "pwd": "Ritcey9857"
+  },
+  {
+    "id": "679",
+    "name": "Jasmine",
+    "lname": "Gonzalez",
+    "email": "gonzalezlj@merrimack.edu",
+    "phone": "978-818-5638",
+    "pwd": "Gonzalez5638"
+  },
+  {
+    "id": "710",
+    "name": "Ella",
+    "lname": "Peris",
+    "email": "perise@merrimack.edu",
+    "phone": "5088686391",
+    "pwd": "Peris6391"
+  },
+  {
+    "id": "554",
+    "name": "Alex",
+    "lname": "Haba",
+    "email": "habaa@merrimack.edu",
+    "phone": "5085056014",
+    "pwd": "Haba6014"
+  },
+  {
+    "id": "621",
+    "name": "Fiona",
+    "lname": "Martin",
+    "email": "martinf@merrimack.edu",
+    "phone": "9789331280",
+    "pwd": "Martin1280"
+  },
+  {
+    "id": "887",
+    "name": "Brendan",
+    "lname": "Hannabury",
+    "email": "hannaburyb@merrimack.edu",
+    "phone": "7814394752",
+    "pwd": "Hannabury4752"
+  },
+  {
+    "id": "562",
+    "name": "Austin",
+    "lname": "Abramek",
+    "email": "abrameka@merrimack.edu",
+    "phone": "4018291352",
+    "pwd": "Abramek1352"
+  },
+  {
+    "id": "832",
+    "name": "Laurel",
+    "lname": "Roust",
+    "email": "roustl@merrimack.edu",
+    "phone": "6513992240",
+    "pwd": "Roust2240"
+  },
+  {
+    "id": "854",
+    "name": "Bailey",
+    "lname": "Clurman",
+    "email": "clurmanb@merrimack.edu",
+    "phone": "3392933062",
+    "pwd": "Clurman3062"
+  },
+  {
+    "id": "1126",
+    "name": "Jordyn",
+    "lname": "Montoya",
+    "email": "montoyaj@merrimack.edu",
+    "phone": "5597869255",
+    "pwd": "Montoya9255"
+  },
+  {
+    "id": "961",
+    "name": "Eric",
+    "lname": "Fournier",
+    "email": "fourniere@merrimack.edu",
+    "phone": "9784171741",
+    "pwd": "Fournier1741"
+  },
+  {
+    "id": "720",
+    "name": "Brandon",
+    "lname": "Lawrence",
+    "email": "LawrenceB@merrimack.edu",
+    "phone": "8454646528",
+    "pwd": "Lawrence6528"
+  },
+  {
+    "id": "821",
+    "name": "meghan",
+    "lname": "richter",
+    "email": "richtermn@merrimack.edu",
+    "phone": "9786042849",
+    "pwd": "richter2849"
+  },
+  {
+    "id": "925",
+    "name": "Ashley",
+    "lname": "Mountain",
+    "email": "mountainas@merrimack.edu",
+    "phone": "8609872906",
+    "pwd": "Mountain2906"
+  },
+  {
+    "id": "906",
+    "name": "Olivia",
+    "lname": "Peluso",
+    "email": "pelusoo@merrimack.edu",
+    "phone": "6179389108",
+    "pwd": "Peluso9108"
+  },
+  {
+    "id": "1097",
+    "name": "Hannah",
+    "lname": "Austin",
+    "email": "austinh@merrimack.edu",
+    "phone": "413-668-7407",
+    "pwd": "Austin7407"
+  },
+  {
+    "id": "833",
+    "name": "Abigail",
+    "lname": "Greeley",
+    "email": "greeleya@merrimack.edu",
+    "phone": "5089187699",
+    "pwd": "Greeley7699"
+  },
+  {
+    "id": "952",
+    "name": "Jessica",
+    "lname": "Flynn",
+    "email": "flynnj@merrimack.edu",
+    "phone": "7819158145",
+    "pwd": "Flynn8145"
+  },
+  {
+    "id": "989",
+    "name": "Paul",
+    "lname": "Papageorgiou",
+    "email": "papageorgiop@merrimack.edu",
+    "phone": "3394402065",
+    "pwd": "Papageorgiou2065"
+  },
+  {
+    "id": "1029",
+    "name": "Claire",
+    "lname": "Kelly",
+    "email": "kellycb@merrimack.edu",
+    "phone": "8609935660",
+    "pwd": "Kelly5660"
+  },
+  {
+    "id": "1115",
+    "name": "Jordan",
+    "lname": "Vaillancourt",
+    "email": "vaillancourjo@merrimack.edu",
+    "phone": "6033915052",
+    "pwd": "Vaillancourt5052"
+  },
+  {
+    "id": "831",
+    "name": "Calogero",
+    "lname": "Lograsso",
+    "email": "lograssoc@merrimack.edu",
+    "phone": "7815725872",
+    "pwd": "Lograsso5872"
+  },
+  {
+    "id": "680",
+    "name": "Mayson",
+    "lname": "Kimball",
+    "email": "kimballm@merrimack.edu",
+    "phone": "6034914888",
+    "pwd": "Kimball4888"
+  },
+  {
+    "id": "518",
+    "name": "Cali",
+    "lname": "Shaw",
+    "email": "shawck@merrimack.edu",
+    "phone": "5085776859",
+    "pwd": "Shaw6859"
+  },
+  {
+    "id": "1025",
+    "name": "Daniel",
+    "lname": "Roussel",
+    "email": "rousseld@merrimack.edu",
+    "phone": "4019521496",
+    "pwd": "Roussel1496"
+  },
+  {
+    "id": "673",
+    "name": "Kayla",
+    "lname": "Pearson",
+    "email": "pearsonkl@merrimack.edu",
+    "phone": "9785306403",
+    "pwd": "Pearson6403"
+  },
+  {
+    "id": "1039",
+    "name": "Ava",
+    "lname": "Blanco",
+    "email": "blancoa@merrimack.edu",
+    "phone": "978-412-2169",
+    "pwd": "Blanco2169"
+  },
+  {
+    "id": "834",
+    "name": "Morgan",
+    "lname": "Hopwood",
+    "email": "hopwoodm@merrimack.edu",
+    "phone": "5083647120",
+    "pwd": "Hopwood7120"
+  },
+  {
+    "id": "757",
+    "name": "Laurel",
+    "lname": "Barbosa",
+    "email": "barbosal@merrimack.edu",
+    "phone": "4012303425",
+    "pwd": "Barbosa3425"
+  },
+  {
+    "id": "1150",
+    "name": "Laura",
+    "lname": "Vilella-Durieux",
+    "email": "vilelladuril@merrimack.edu",
+    "phone": "7875287910",
+    "pwd": "Vilella-Durieux7910"
+  },
+  {
+    "id": "1100",
+    "name": "Michael",
+    "lname": "Lund",
+    "email": "lundm@merrimack.edu",
+    "phone": "5089188900",
+    "pwd": "Lund8900"
+  },
+  {
+    "id": "846",
+    "name": "Olivia",
+    "lname": "Bedard",
+    "email": "bedardo@merrimack.edu",
+    "phone": "8603367088",
+    "pwd": "Bedard7088"
+  },
+  {
+    "id": "998",
+    "name": "Kaitlynn",
+    "lname": "Murphy",
+    "email": "murphykai@merrimack.edu",
+    "phone": "5082212292",
+    "pwd": "Murphy2292"
+  },
+  {
+    "id": "1127",
+    "name": "Robert",
+    "lname": "Noto",
+    "email": "notojrra@merrimack.edu",
+    "phone": "6177978807",
+    "pwd": "Noto8807"
+  },
+  {
+    "id": "910",
+    "name": "Shaka",
+    "lname": "Moales",
+    "email": "moaless@merrimack.edu",
+    "phone": "4754222707",
+    "pwd": "Moales2707"
+  },
+  {
+    "id": "911",
+    "name": "Cecelia",
+    "lname": "Barron",
+    "email": "barronc@merrimack.edu",
+    "phone": "5082451295",
+    "pwd": "Barron1295"
+  },
+  {
+    "id": "676",
+    "name": "Hannah",
+    "lname": "Brisson",
+    "email": "brissonh@merrimack.edu",
+    "phone": "8028256966",
+    "pwd": "Brisson6966"
+  },
+  {
+    "id": "566",
+    "name": "Caitlin",
+    "lname": "Hmiel",
+    "email": "hmielc@merrimack.edu",
+    "phone": "4844020028",
+    "pwd": "Hmiel0028"
+  },
+  {
+    "id": "787",
+    "name": "Jacob",
+    "lname": "Macchi",
+    "email": "macchij@merrimack.edu",
+    "phone": "5085302661",
+    "pwd": "Macchi2661"
+  },
+  {
+    "id": "835",
+    "name": "Erin",
+    "lname": "Flynn",
+    "email": "flynnem@merrimack.edu",
+    "phone": "5856357995",
+    "pwd": "Flynn7995"
+  },
+  {
+    "id": "740",
+    "name": "Andrew",
+    "lname": "Borromeo",
+    "email": "borromeoa@merrimack.edu",
+    "phone": "9146028880",
+    "pwd": "Borromeo8880"
+  },
+  {
+    "id": "1050",
+    "name": "Taegan",
+    "lname": "Salera",
+    "email": "salerat@merrimack.edu",
+    "phone": "4015450370",
+    "pwd": "Salera0370"
+  },
+  {
+    "id": "578",
+    "name": "Cherie",
+    "lname": "Troisi",
+    "email": "Troisica@merrimack.edu",
+    "phone": "7819605317",
+    "pwd": "Troisi5317"
+  },
+  {
+    "id": "1045",
+    "name": "Jack",
+    "lname": "Barron",
+    "email": "barronj@merrimack.edu",
+    "phone": "4137268816",
+    "pwd": "Barron8816"
+  },
+  {
+    "id": "493",
+    "name": "Kelly",
+    "lname": "Carbone",
+    "email": "carbonek@merrimack.edu",
+    "phone": "7816300443",
+    "pwd": "Carbone0443"
+  },
+  {
+    "id": "501",
+    "name": "Brian",
+    "lname": "Dervin",
+    "email": "dervinb@merrimack.edu",
+    "phone": "9145225702",
+    "pwd": "Dervin5702"
+  },
+  {
+    "id": "990",
+    "name": "Sarah",
+    "lname": "Simpson",
+    "email": "simpsons@merrimack.edu",
+    "phone": "7813663945",
+    "pwd": "Simpson3945"
+  },
+  {
+    "id": "544",
+    "name": "Allison",
+    "lname": "Reeb",
+    "email": "reeba@merrimack.edu",
+    "phone": "3605941557",
+    "pwd": "Reeb1557"
+  },
+  {
+    "id": "591",
+    "name": "Amanda",
+    "lname": "Smith",
+    "email": "smithaman@merrimack.edu",
+    "phone": "9782280989",
+    "pwd": "Smith0989"
+  },
+  {
+    "id": "881",
+    "name": "Marc",
+    "lname": "Gonzalez",
+    "email": "gonzalezma@merrimack.edu",
+    "phone": "9087235952",
+    "pwd": "Gonzalez5952"
+  },
+  {
+    "id": "1068",
+    "name": "Mackenzie",
+    "lname": "Collins",
+    "email": "collinsmc@merrimack.edu",
+    "phone": "9783941917",
+    "pwd": "Collins1917"
+  },
+  {
+    "id": "588",
+    "name": "Alex",
+    "lname": "Fischer",
+    "email": "Fischerac@merrimack.edu",
+    "phone": "2037070168",
+    "pwd": "Fischer0168"
+  },
+  {
+    "id": "822",
+    "name": "MaryKate",
+    "lname": "Spendley",
+    "email": "spendleym@merrimack.edu",
+    "phone": "6179594772",
+    "pwd": "Spendley4772"
+  },
+  {
+    "id": "503",
+    "name": "Abigail",
+    "lname": "Laine",
+    "email": "lainea@merrimack.edu",
+    "phone": "9788553552",
+    "pwd": "Laine3552"
+  },
+  {
+    "id": "1112",
+    "name": "Rebecca",
+    "lname": "Nee",
+    "email": "neer@merrimack.edu",
+    "phone": "7814676433",
+    "pwd": "Nee6433"
+  },
+  {
+    "id": "909",
+    "name": "Aman",
+    "lname": "Sultan",
+    "email": "sultana@merrimack.edu",
+    "phone": "8573293505",
+    "pwd": "Sultan3505"
+  },
+  {
+    "id": "929",
+    "name": "Michael",
+    "lname": "Manning",
+    "email": "manningmr@merrimack.edu",
+    "phone": "7814390615",
+    "pwd": "Manning0615"
+  },
+  {
+    "id": "571",
+    "name": "Vicki",
+    "lname": "Bianchini",
+    "email": "bianchiniv@merrimack.edu",
+    "phone": "9788375114",
+    "pwd": "Bianchini5114"
+  },
+  {
+    "id": "784",
+    "name": "Fiona",
+    "lname": "Heffernan",
+    "email": "heffernanf@merrimack.edu",
+    "phone": "9787269383",
+    "pwd": "Heffernan9383"
+  },
+  {
+    "id": "778",
+    "name": "Taylor",
+    "lname": "Nelson",
+    "email": "nelsont@merrimack.edu",
+    "phone": "2032317882",
+    "pwd": "Nelson7882"
+  },
+  {
+    "id": "896",
+    "name": "Patrick",
+    "lname": "Duncan",
+    "email": "duncanp@merrimack.edu",
+    "phone": "2032288229",
+    "pwd": "Duncan8229"
+  },
+  {
+    "id": "514",
+    "name": "Tyler",
+    "lname": "Haines",
+    "email": "hainest@merrimack.edu",
+    "phone": "2075230100",
+    "pwd": "Haines0100"
+  },
+  {
+    "id": "706",
+    "name": "Benjamin",
+    "lname": "Nelson",
+    "email": "nelsonba@merrimack.edu",
+    "phone": "2073328980",
+    "pwd": "Nelson8980"
+  },
+  {
+    "id": "748",
+    "name": "Isabella",
+    "lname": "Tersoni",
+    "email": "tersonii@merrimack.edu",
+    "phone": "5088085768",
+    "pwd": "Tersoni5768"
+  },
+  {
+    "id": "1022",
+    "name": "Lauren",
+    "lname": "Lancey",
+    "email": "lanceyl@merrimack.edu",
+    "phone": "6034893190",
+    "pwd": "Lancey3190"
+  },
+  {
+    "id": "1134",
+    "name": "Maggie",
+    "lname": "McKeon",
+    "email": "mckeonm@merrimack.edu",
+    "phone": "8609335079",
+    "pwd": "McKeon5079"
+  },
+  {
+    "id": "1149",
+    "name": "Sean",
+    "lname": "conway",
+    "email": "conwaysr@merrimack.edu",
+    "phone": "6177125776",
+    "pwd": "conway5776"
+  },
+  {
+    "id": "627",
+    "name": "Madison",
+    "lname": "Lapierre",
+    "email": "lapierrem@merrimack.edu",
+    "phone": "8606705529",
+    "pwd": "Lapierre5529"
+  },
+  {
+    "id": "753",
+    "name": "Patrick",
+    "lname": "Holway",
+    "email": "Holwayp@merrimack.edu",
+    "phone": "7812548043",
+    "pwd": "Holway8043"
+  },
+  {
+    "id": "976",
+    "name": "Connor",
+    "lname": "Beevers",
+    "email": "beeversc@merrimack.edu",
+    "phone": "9789921198",
+    "pwd": "Beevers1198"
+  },
+  {
+    "id": "601",
+    "name": "Cameron",
+    "lname": "McCarthy",
+    "email": "mccarthyca@merrimack.edu",
+    "phone": "8604485689",
+    "pwd": "McCarthy5689"
+  },
+  {
+    "id": "816",
+    "name": "Emery",
+    "lname": "Travers",
+    "email": "Traverse@merrimack.edu",
+    "phone": "6036862311",
+    "pwd": "Travers2311"
+  },
+  {
+    "id": "761",
+    "name": "Dennis",
+    "lname": "Hegarty",
+    "email": "hegartyd@merrimack.edu",
+    "phone": "5085621755",
+    "pwd": "Hegarty1755"
+  },
+  {
+    "id": "769",
+    "name": "Mitchell Root",
+    "lname": "Root",
+    "email": "rootm@merrimack.edu",
+    "phone": "2072482088",
+    "pwd": "Root2088"
+  },
+  {
+    "id": "859",
+    "name": "Michael",
+    "lname": "Ayles",
+    "email": "aylesm@merrimack.edu",
+    "phone": "9788333614",
+    "pwd": "Ayles3614"
+  },
+  {
+    "id": "1106",
+    "name": "Alyssa",
+    "lname": "DiBlasi",
+    "email": "diblasia@merrimack.edu",
+    "phone": "7818160101",
+    "pwd": "DiBlasi0101"
+  },
+  {
+    "id": "653",
+    "name": "Mary",
+    "lname": "Flaherty",
+    "email": "flahertym@merrimack.edu",
+    "phone": "7813510873",
+    "pwd": "Flaherty0873"
+  },
+  {
+    "id": "608",
+    "name": "Evan",
+    "lname": "Guerrera",
+    "email": "guerrerae@merrimack.edu",
+    "phone": "2038228671",
+    "pwd": "Guerrera8671"
+  },
+  {
+    "id": "739",
+    "name": "Bryce",
+    "lname": "Miranda",
+    "email": "mirandabd@merrimack.edu",
+    "phone": "9788751102",
+    "pwd": "Miranda1102"
+  },
+  {
+    "id": "876",
+    "name": "Hayley",
+    "lname": "Yule",
+    "email": "yuleh@merrimack.edu",
+    "phone": "2032322360",
+    "pwd": "Yule2360"
+  },
+  {
+    "id": "1141",
+    "name": "Daniel",
+    "lname": "Tolan",
+    "email": "Toland@merrimack.edu",
+    "phone": "3392033115",
+    "pwd": "Tolan3115"
+  },
+  {
+    "id": "1052",
+    "name": "morgan",
+    "lname": "Thayer",
+    "email": "thayerm@merrimack.edu",
+    "phone": "4134858648",
+    "pwd": "Thayer8648"
+  },
+  {
+    "id": "527",
+    "name": "Kelly",
+    "lname": "Corrigan",
+    "email": "corrigank@merrimack.edu",
+    "phone": "9789941138",
+    "pwd": "Corrigan1138"
+  },
+  {
+    "id": "972",
+    "name": "Noah",
+    "lname": "Nunes",
+    "email": "nunesn@merrimack.edu",
+    "phone": "4135303356",
+    "pwd": "Nunes3356"
+  },
+  {
+    "id": "649",
+    "name": "Angelia",
+    "lname": "Wasi",
+    "email": "wasia@merrimack.edu",
+    "phone": "9783631230",
+    "pwd": "Wasi1230"
+  },
+  {
+    "id": "592",
+    "name": "shannan",
+    "lname": "kennedy",
+    "email": "kennedysr@merrimack.edu",
+    "phone": "6179920106",
+    "pwd": "kennedy0106"
+  },
+  {
+    "id": "920",
+    "name": "Alyssa",
+    "lname": "Gerard",
+    "email": "gerarda@merrimack.edu",
+    "phone": "781-473-4120",
+    "pwd": "Gerard4120"
+  },
+  {
+    "id": "1128",
+    "name": "Elizabeth",
+    "lname": "McFarland",
+    "email": "mcfarlandec@merrimack.edu",
+    "phone": "6037023973",
+    "pwd": "McFarland3973"
+  },
+  {
+    "id": "1061",
+    "name": "Charlotte",
+    "lname": "Bernhardt",
+    "email": "bernhardtc@merrimack.edu",
+    "phone": "9789980730",
+    "pwd": "Bernhardt0730"
+  },
+  {
+    "id": "817",
+    "name": "Kristen",
+    "lname": "Tracy",
+    "email": "tracyke@merrimack.edu",
+    "phone": "6038010540",
+    "pwd": "Tracy0540"
+  },
+  {
+    "id": "926",
+    "name": "Kirsten",
+    "lname": "McIntire",
+    "email": "mcintirek@merrimack.edu",
+    "phone": "6039660399",
+    "pwd": "McIntire0399"
+  },
+  {
+    "id": "800",
+    "name": "Jaiden",
+    "lname": "McEvoy",
+    "email": "mcevoyj@merrimack.edu",
+    "phone": "7813636443",
+    "pwd": "McEvoy6443"
+  },
+  {
+    "id": "850",
+    "name": "Madeline",
+    "lname": "Marcucci",
+    "email": "marcuccim@merrimack.edu",
+    "phone": "5089187754",
+    "pwd": "Marcucci7754"
+  },
+  {
+    "id": "1065",
+    "name": "Jillian",
+    "lname": "Besser",
+    "email": "besserj@merrimack.edu",
+    "phone": "4018296221",
+    "pwd": "Besser6221"
+  },
+  {
+    "id": "772",
+    "name": "Michael",
+    "lname": "Jamele",
+    "email": "Jamelem@merrimack.edu",
+    "phone": "5853519003",
+    "pwd": "Jamele9003"
+  },
+  {
+    "id": "1030",
+    "name": "Cara",
+    "lname": "Fischetti",
+    "email": "fischettic@merrimack.edu",
+    "phone": "9788770236",
+    "pwd": "Fischetti0236"
+  },
+  {
+    "id": "879",
+    "name": "Marissa",
+    "lname": "Broome",
+    "email": "broomem@merrimack.edu",
+    "phone": "3392103081",
+    "pwd": "Broome3081"
+  },
+  {
+    "id": "1056",
+    "name": "Kaia",
+    "lname": "Taylor",
+    "email": "taylorkt@merrimack.edu",
+    "phone": "2674907060",
+    "pwd": "Taylor7060"
+  },
+  {
+    "id": "786",
+    "name": "Lilly",
+    "lname": "Ahl",
+    "email": "ahll@merrimack.edu",
+    "phone": "7819853795",
+    "pwd": "Ahl3795"
+  },
+  {
+    "id": "617",
+    "name": "Kennedy MacAlpine",
+    "lname": "Macalpine",
+    "email": "macalpinekk@merrimack.edu",
+    "phone": "8472872278",
+    "pwd": "Macalpine2278"
+  },
+  {
+    "id": "539",
+    "name": "Jenna",
+    "lname": "Hines",
+    "email": "hinej@merrimack.edu",
+    "phone": "413-579-2231",
+    "pwd": "Hines2231"
+  },
+  {
+    "id": "997",
+    "name": "Kaylese",
+    "lname": "Andrade",
+    "email": "andradek@merrimack.edu",
+    "phone": "6178202069",
+    "pwd": "Andrade2069"
+  },
+  {
+    "id": "697",
+    "name": "Samantha",
+    "lname": "LiPetri",
+    "email": "lipetris@merrimack.edu",
+    "phone": "9789351264",
+    "pwd": "LiPetri1264"
+  },
+  {
+    "id": "858",
+    "name": "Erin",
+    "lname": "McPherson",
+    "email": "mcphersone@merrimack.edu",
+    "phone": "2073200134",
+    "pwd": "McPherson0134"
+  },
+  {
+    "id": "1024",
+    "name": "Ella",
+    "lname": "Charpentier",
+    "email": "charpentiere@merrimack.edu",
+    "phone": "2072898579",
+    "pwd": "Charpentier8579"
+  },
+  {
+    "id": "743",
+    "name": "Samantha",
+    "lname": "Frey",
+    "email": "freysa@merrimack.edu",
+    "phone": "5082989611",
+    "pwd": "Frey9611"
+  },
+  {
+    "id": "630",
+    "name": "Kyle",
+    "lname": "Nehiley",
+    "email": "nehileyk@merrimack.edu",
+    "phone": "7817385522",
+    "pwd": "Nehiley5522"
+  },
+  {
+    "id": "718",
+    "name": "Shamus",
+    "lname": "Malia",
+    "email": "malias@merrimack.edu",
+    "phone": "2077492656",
+    "pwd": "Malia2656"
+  },
+  {
+    "id": "744",
+    "name": "Macy",
+    "lname": "Wilcox",
+    "email": "wilcoxmm@merrimack.edu",
+    "phone": "8608781897",
+    "pwd": "Wilcox1897"
+  },
+  {
+    "id": "945",
+    "name": "William",
+    "lname": "Dennison",
+    "email": "dennisonw@merrimack.edu",
+    "phone": "3154502199",
+    "pwd": "Dennison2199"
+  },
+  {
+    "id": "665",
+    "name": "Lydia",
+    "lname": "Grant",
+    "email": "grantlk@merrimack.edu",
+    "phone": "2072167660",
+    "pwd": "Grant7660"
+  },
+  {
+    "id": "871",
+    "name": "Julia",
+    "lname": "Pendrak",
+    "email": "pendrakj@merrimack.edu",
+    "phone": "7816354595",
+    "pwd": "Pendrak4595"
+  },
+  {
+    "id": "924",
+    "name": "Ashley",
+    "lname": "Bates",
+    "email": "batesa@merrimack.edu",
+    "phone": "8187950820",
+    "pwd": "Bates0820"
+  },
+  {
+    "id": "755",
+    "name": "Christian",
+    "lname": "Simeone",
+    "email": "simeonec@merrimack.edu",
+    "phone": "6179804542",
+    "pwd": "Simeone4542"
+  },
+  {
+    "id": "849",
+    "name": "Steph",
+    "lname": "Werra",
+    "email": "werras@merrimack.edu",
+    "phone": "7742222772",
+    "pwd": "Werra2772"
+  },
+  {
+    "id": "973",
+    "name": "Kylie",
+    "lname": "Soter",
+    "email": "soterk@merrimack.edu",
+    "phone": "5082699216",
+    "pwd": "Soter9216"
+  },
+  {
+    "id": "594",
+    "name": "Lori",
+    "lname": "Manoukian",
+    "email": "manoukianl@merrimack.edu",
+    "phone": "5089815702",
+    "pwd": "Manoukian5702"
+  },
+  {
+    "id": "1007",
+    "name": "Hannah",
+    "lname": "Kolodziey",
+    "email": "kolodzieyh@merrimack.edu",
+    "phone": "4138585811",
+    "pwd": "Kolodziey5811"
+  },
+  {
+    "id": "1139",
+    "name": "Erin",
+    "lname": "Falcone",
+    "email": "falconee@merrimack.edu",
+    "phone": "9143570692",
+    "pwd": "Falcone0692"
+  },
+  {
+    "id": "947",
+    "name": "Declan",
+    "lname": "Carlile",
+    "email": "carliled@merrimack.edu",
+    "phone": "8109550460",
+    "pwd": "Carlile0460"
+  },
+  {
+    "id": "561",
+    "name": "Gabrielle",
+    "lname": "Gervais",
+    "email": "gervaisg@merrimack.edu",
+    "phone": "7743645129",
+    "pwd": "Gervais5129"
+  },
+  {
+    "id": "525",
+    "name": "Amelia",
+    "lname": "Alger",
+    "email": "algera@merrimack.edu",
+    "phone": "5089428744",
+    "pwd": "Alger8744"
+  },
+  {
+    "id": "1009",
+    "name": "Haley",
+    "lname": "Taing",
+    "email": "taingh@merrimack.edu",
+    "phone": "9788569491",
+    "pwd": "Taing9491"
+  },
+  {
+    "id": "582",
+    "name": "Jenna",
+    "lname": "Small",
+    "email": "smallj@merrimack.edu",
+    "phone": "6033197185",
+    "pwd": "Small7185"
+  },
+  {
+    "id": "969",
+    "name": "Nicholas",
+    "lname": "Amico",
+    "email": "amicon@merrimack.edu",
+    "phone": "9789739004",
+    "pwd": "Amico9004"
+  },
+  {
+    "id": "538",
+    "name": "Lizzie",
+    "lname": "Sypek",
+    "email": "sypeke@merrimack.edu",
+    "phone": "6176879712",
+    "pwd": "Sypek9712"
+  },
+  {
+    "id": "828",
+    "name": "Makayla",
+    "lname": "Mansur",
+    "email": "mansurm@merrimack.edu",
+    "phone": "2039859675",
+    "pwd": "Mansur9675"
+  },
+  {
+    "id": "912",
+    "name": "Molly",
+    "lname": "Murnane",
+    "email": "murnanem@merrimack.edu",
+    "phone": "9012087649",
+    "pwd": "Murnane7649"
+  },
+  {
+    "id": "1151",
+    "name": "Emma",
+    "lname": "Reynolds",
+    "email": "reynoldse@merrimack.edu",
+    "phone": "9789064606",
+    "pwd": "Reynolds4606"
+  },
+  {
+    "id": "715",
+    "name": "stephen",
+    "lname": "barthold",
+    "email": "bartholds@merrimack.edu",
+    "phone": "6317075984",
+    "pwd": "barthold5984"
+  },
+  {
+    "id": "684",
+    "name": "Lauren",
+    "lname": "Mullally",
+    "email": "mullallyl@merrimack.edu",
+    "phone": "2039888916",
+    "pwd": "Mullally8916"
+  },
+  {
+    "id": "901",
+    "name": "madison",
+    "lname": "hambrick",
+    "email": "hambrickm@merrimack.edu",
+    "phone": "2074910829",
+    "pwd": "hambrick0829"
+  },
+  {
+    "id": "652",
+    "name": "Khalief",
+    "lname": "Crawford",
+    "email": "crawfordk@merrimack.edu",
+    "phone": "9082966547",
+    "pwd": "Crawford6547"
+  },
+  {
+    "id": "666",
+    "name": "Harris",
+    "lname": "Fortin",
+    "email": "fortinh@merrimack.edu",
+    "phone": "6032475532",
+    "pwd": "Fortin5532"
+  },
+  {
+    "id": "875",
+    "name": "Jillian",
+    "lname": "Rowland",
+    "email": "rowlandj@merrimack.edu",
+    "phone": "2035006880",
+    "pwd": "Rowland6880"
+  },
+  {
+    "id": "1074",
+    "name": "Jessica",
+    "lname": "Wieners",
+    "email": "wienersj@merrimack.edu",
+    "phone": "617-750-4901",
+    "pwd": "Wieners4901"
+  },
+  {
+    "id": "758",
+    "name": "Michael",
+    "lname": "Dyer",
+    "email": "dyerm@merrimack.edu",
+    "phone": "5084461215",
+    "pwd": "Dyer1215"
+  },
+  {
+    "id": "780",
+    "name": "Tom",
+    "lname": "Rezzani",
+    "email": "rezzanit@merrimack.edu",
+    "phone": "4134265875",
+    "pwd": "Rezzani5875"
+  },
+  {
+    "id": "668",
+    "name": "Josh",
+    "lname": "Arruda",
+    "email": "arrudaj@merrimack.edu",
+    "phone": "6035470640",
+    "pwd": "Arruda0640"
+  },
+  {
+    "id": "1028",
+    "name": "Kiley",
+    "lname": "Dallas",
+    "email": "dallask@merrimack.edu",
+    "phone": "7816064732",
+    "pwd": "Dallas4732"
+  },
+  {
+    "id": "815",
+    "name": "Dominique",
+    "lname": "Bailey",
+    "email": "baileydo@merrimack.edu",
+    "phone": "6317660329",
+    "pwd": "Bailey0329"
+  },
+  {
+    "id": "714",
+    "name": "Jayme",
+    "lname": "DeCesare",
+    "email": "decesarej@merrimack.edu",
+    "phone": "4016036583",
+    "pwd": "DeCesare6583"
+  },
+  {
+    "id": "624",
+    "name": "Nicole",
+    "lname": "Langlois",
+    "email": "langloisnm@merrimack.edu",
+    "phone": "9786972114",
+    "pwd": "Langlois2114"
+  },
+  {
+    "id": "700",
+    "name": "Nicholas",
+    "lname": "Lenon",
+    "email": "lenonn@merrimack.edu",
+    "phone": "4102947898",
+    "pwd": "Lenon7898"
+  },
+  {
+    "id": "886",
+    "name": "Cherilyn",
+    "lname": "Chadwick",
+    "email": "chadwickc@merrimack.edu",
+    "phone": "7815200772",
+    "pwd": "Chadwick0772"
+  },
+  {
+    "id": "524",
+    "name": "Jessica",
+    "lname": "Davis",
+    "email": "davisje@merrimack.edu",
+    "phone": "2077121142",
+    "pwd": "Davis1142"
+  },
+  {
+    "id": "823",
+    "name": "Kathryn",
+    "lname": "Martello",
+    "email": "martellok@merrimack.edu",
+    "phone": "9145529531",
+    "pwd": "Martello9531"
+  },
+  {
+    "id": "1087",
+    "name": "Jessica",
+    "lname": "Wargo",
+    "email": "wargoj@merrimack.edu",
+    "phone": "9787649880",
+    "pwd": "Wargo9880"
+  },
+  {
+    "id": "570",
+    "name": "Araya",
+    "lname": "Richard",
+    "email": "richarda@merrimack.edu",
+    "phone": "9785039836",
+    "pwd": "Richard9836"
+  },
+  {
+    "id": "610",
+    "name": "Kaylee",
+    "lname": "Thomas",
+    "email": "thomaska@merrimack.edu",
+    "phone": "9785965966",
+    "pwd": "Thomas5966"
+  },
+  {
+    "id": "495",
+    "name": "Anthony",
+    "lname": "Allain",
+    "email": "allaina@merrimack.edu",
+    "phone": "5084507407",
+    "pwd": "Allain7407"
+  },
+  {
+    "id": "1043",
+    "name": "Jenna",
+    "lname": "Bednarz",
+    "email": "bednarzj@merrimack.edu",
+    "phone": "6037184270",
+    "pwd": "Bednarz4270"
+  },
+  {
+    "id": "737",
+    "name": "Hannah",
+    "lname": "Fitzpatrick",
+    "email": "fitzpatrickh@merrimack.edu",
+    "phone": "2077306015",
+    "pwd": "Fitzpatrick6015"
+  },
+  {
+    "id": "1116",
+    "name": "Ali",
+    "lname": "Reardon",
+    "email": "reardona@merrimack.edu",
+    "phone": "6179016642",
+    "pwd": "Reardon6642"
+  },
+  {
+    "id": "722",
+    "name": "Brian",
+    "lname": "Bixby",
+    "email": "bixbyb@merrimack.edu",
+    "phone": "5089309288",
+    "pwd": "Bixby9288"
+  },
+  {
+    "id": "942",
+    "name": "Lily",
+    "lname": "Williams",
+    "email": "williamslm@merrimack.edu",
+    "phone": "7742733119",
+    "pwd": "Williams3119"
+  },
+  {
+    "id": "948",
+    "name": "olivia",
+    "lname": "romano",
+    "email": "romanoo@merrimack.edu",
+    "phone": "6178754901",
+    "pwd": "romano4901"
+  },
+  {
+    "id": "564",
+    "name": "Fiona",
+    "lname": "Dulude",
+    "email": "duludef@merrimack.edu",
+    "phone": "8023996702",
+    "pwd": "Dulude6702"
+  },
+  {
+    "id": "651",
+    "name": "Aidan",
+    "lname": "Buretta",
+    "email": "burettaa@merrimack.edu",
+    "phone": "9788443981",
+    "pwd": "Buretta3981"
+  },
+  {
+    "id": "878",
+    "name": "Lauren",
+    "lname": "Noonan",
+    "email": "noonanlc@merrimack.edu",
+    "phone": "2034273134",
+    "pwd": "Noonan3134"
+  },
+  {
+    "id": "1077",
+    "name": "Alexandra",
+    "lname": "Batts",
+    "email": "Battsa@merrimack.edu",
+    "phone": "8608765045",
+    "pwd": "Batts5045"
+  },
+  {
+    "id": "662",
+    "name": "Lance",
+    "lname": "de Selm",
+    "email": "deselml@merrimack.edu",
+    "phone": "6179534984",
+    "pwd": "de Selm4984"
+  },
+  {
+    "id": "1060",
+    "name": "Abby",
+    "lname": "Ricciardelli",
+    "email": "ricciardella@merrimack.edu",
+    "phone": "7817076556",
+    "pwd": "Ricciardelli6556"
+  },
+  {
+    "id": "484",
+    "name": "Gavin",
+    "lname": "Croce",
+    "email": "Croceg@merrimack.edu",
+    "phone": "7818014613",
+    "pwd": "Croce4613"
+  },
+  {
+    "id": "950",
+    "name": "Maddie",
+    "lname": "Vaine",
+    "email": "vainem@merrimack.edu",
+    "phone": "6034775100",
+    "pwd": "Vaine5100"
+  },
+  {
+    "id": "1036",
+    "name": "Erik",
+    "lname": "Pocock",
+    "email": "pococke@merrimack.edu",
+    "phone": "5088648984",
+    "pwd": "Pocock8984"
+  },
+  {
+    "id": "696",
+    "name": "Alexis",
+    "lname": "Cournoyer",
+    "email": "cournoyera@merrimack.edu",
+    "phone": "7742307728",
+    "pwd": "Cournoyer7728"
+  },
+  {
+    "id": "1032",
+    "name": "Avery",
+    "lname": "Johnson",
+    "email": "johnsonaf@merrimack.edu",
+    "phone": "7813531165",
+    "pwd": "Johnson1165"
+  },
+  {
+    "id": "1055",
+    "name": "Riley",
+    "lname": "Lambert",
+    "email": "lambertre@merrimack.edu",
+    "phone": "7577596072",
+    "pwd": "Lambert6072"
+  },
+  {
+    "id": "958",
+    "name": "Heather",
+    "lname": "Mileika",
+    "email": "mileikah@merrimack.edu",
+    "phone": "5088181230",
+    "pwd": "Mileika1230"
+  },
+  {
+    "id": "647",
+    "name": "Ryan",
+    "lname": "Rodrigues",
+    "email": "rodriguesr@merrimack.edu",
+    "phone": "8607980690",
+    "pwd": "Rodrigues0690"
+  },
+  {
+    "id": "1070",
+    "name": "Gianluca",
+    "lname": "Alfe",
+    "email": "alfeg@merrimack.edu",
+    "phone": "7818163227",
+    "pwd": "Alfe3227"
+  },
+  {
+    "id": "596",
+    "name": "Emily",
+    "lname": "Hanna",
+    "email": "hannae@merrimack.edu",
+    "phone": "15084147274",
+    "pwd": "Hanna7274"
+  },
+  {
+    "id": "692",
+    "name": "Courtney",
+    "lname": "Dillon",
+    "email": "dillonc@merrimack.edu",
+    "phone": "6172762789",
+    "pwd": "Dillon2789"
+  },
+  {
+    "id": "727",
+    "name": "Michael",
+    "lname": "Calabro",
+    "email": "calabrom@merrimack.edu",
+    "phone": "4014474655",
+    "pwd": "Calabro4655"
+  },
+  {
+    "id": "530",
+    "name": "Courtney",
+    "lname": "Maud",
+    "email": "maudc@merrimack.edu",
+    "phone": "4168060890",
+    "pwd": "Maud0890"
+  },
+  {
+    "id": "1076",
+    "name": "Colleen",
+    "lname": "Mearon",
+    "email": "mearonc@merrimack.edu",
+    "phone": "9738307674",
+    "pwd": "Mearon7674"
+  },
+  {
+    "id": "730",
+    "name": "Aiden",
+    "lname": "Shaw",
+    "email": "shawa@merrimack.edu",
+    "phone": "6037276264",
+    "pwd": "Shaw6264"
+  },
+  {
+    "id": "565",
+    "name": "Charles",
+    "lname": "Golden",
+    "email": "goldenc@merrimack.edu",
+    "phone": "6178208934",
+    "pwd": "Golden8934"
+  },
+  {
+    "id": "918",
+    "name": "Tyler Heidt",
+    "lname": "Heidt",
+    "email": "heidtt@merrimack.edu",
+    "phone": "3063611732",
+    "pwd": "Heidt1732"
+  },
+  {
+    "id": "915",
+    "name": "Logan",
+    "lname": "Wolf",
+    "email": "wolfl@merrimack.edu",
+    "phone": "8025959153",
+    "pwd": "Wolf9153"
+  },
+  {
+    "id": "675",
+    "name": "jake",
+    "lname": "festa",
+    "email": "Festaj@merrimack.edu",
+    "phone": "2036719011",
+    "pwd": "festa9011"
+  },
+  {
+    "id": "899",
+    "name": "Alexis",
+    "lname": "Hutchins",
+    "email": "hutchinsa@merrimack.edu",
+    "phone": "2076690182",
+    "pwd": "Hutchins0182"
+  },
+  {
+    "id": "482",
+    "name": "Nikhilkumar",
+    "lname": "Mirchandani",
+    "email": "tech@grocerspod.com",
+    "phone": "6175300754",
+    "pwd": "Mirchandani0754"
+  },
+  {
+    "id": "671",
+    "name": "Sam",
+    "lname": "O\u0027Hearn",
+    "email": "ohearns@merrimack.edu",
+    "phone": "7814243791",
+    "pwd": "O\u0027Hearn3791"
+  },
+  {
+    "id": "483",
+    "name": "Emma",
+    "lname": "Bagni",
+    "email": "bagnie@merrimack.edu",
+    "phone": "7744546083",
+    "pwd": "Bagni6083"
+  },
+  {
+    "id": "844",
+    "name": "Riley",
+    "lname": "Reed",
+    "email": "reedr@merrimack.edu",
+    "phone": "2077763390",
+    "pwd": "Reed3390"
+  },
+  {
+    "id": "660",
+    "name": "Michael",
+    "lname": "Smolak",
+    "email": "smolakm@merrimack.edu",
+    "phone": "2039790796",
+    "pwd": "Smolak0796"
+  },
+  {
+    "id": "1059",
+    "name": "Magdalini",
+    "lname": "Poulimeni",
+    "email": "poulimenim@merrimack.edu",
+    "phone": "5086498625",
+    "pwd": "Poulimeni8625"
+  },
+  {
+    "id": "636",
+    "name": "Timothy",
+    "lname": "Hodgson",
+    "email": "hodgsont@merrimack.edu",
+    "phone": "6176312067",
+    "pwd": "Hodgson2067"
+  },
+  {
+    "id": "695",
+    "name": "Christina",
+    "lname": "Burns",
+    "email": "burnscl@merrimack.edu",
+    "phone": "9788442536",
+    "pwd": "Burns2536"
+  },
+  {
+    "id": "612",
+    "name": "Ian",
+    "lname": "Cummings",
+    "email": "cummingsi@merrimack.edu",
+    "phone": "6039300042",
+    "pwd": "Cummings0042"
+  },
+  {
+    "id": "496",
+    "name": "Brittany",
+    "lname": "Richard",
+    "email": "richardb@merrimack.edu",
+    "phone": "6034437822",
+    "pwd": "Richard7822"
+  },
+  {
+    "id": "590",
+    "name": "Rachel Rockwell",
+    "lname": "Rockwell",
+    "email": "rockwellr@merrimack.edu",
+    "phone": "4403344733",
+    "pwd": "Rockwell4733"
+  },
+  {
+    "id": "1104",
+    "name": "Kyle",
+    "lname": "Garab",
+    "email": "garabk@merrimack.edu",
+    "phone": "5187271874",
+    "pwd": "Garab1874"
+  },
+  {
+    "id": "506",
+    "name": "Derek",
+    "lname": "Henry",
+    "email": "henryd@merrimack.edu",
+    "phone": "7815101593",
+    "pwd": "Henry1593"
+  },
+  {
+    "id": "517",
+    "name": "testa",
+    "lname": "Kumar",
+    "email": "wbdybedyvyew@merrimack.edu",
+    "phone": "4576643890",
+    "pwd": "Kumar3890"
+  },
+  {
+    "id": "504",
+    "name": "Lauren",
+    "lname": "McKenney",
+    "email": "mckenneyl@merrimack.edu",
+    "phone": "8023800737",
+    "pwd": "McKenney0737"
+  },
+  {
+    "id": "1114",
+    "name": "Madison",
+    "lname": "Dewinkeleer",
+    "email": "dewinkeleerm@merrimack.edu",
+    "phone": "4138966125",
+    "pwd": "Dewinkeleer6125"
+  },
+  {
+    "id": "640",
+    "name": "Kelly",
+    "lname": "Fenerty",
+    "email": "fenertyk@merrimack.edu",
+    "phone": "9788465975",
+    "pwd": "Fenerty5975"
+  },
+  {
+    "id": "1062",
+    "name": "Krista",
+    "lname": "Sbordone",
+    "email": "sbordonek@merrimack.edu",
+    "phone": "2037254209",
+    "pwd": "Sbordone4209"
+  },
+  {
+    "id": "760",
+    "name": "Lavi",
+    "lname": "Selvaraj",
+    "email": "selvarajl@merrimack.edu",
+    "phone": "8023939048",
+    "pwd": "Selvaraj9048"
+  },
+  {
+    "id": "1125",
+    "name": "Benjamin",
+    "lname": "Forest",
+    "email": "forestb@merrimack.edu",
+    "phone": "9783378744",
+    "pwd": "Forest8744"
+  },
+  {
+    "id": "479",
+    "name": "John",
+    "lname": "Smith",
+    "email": "john@merrimack.edu",
+    "phone": "9999999999",
+    "pwd": "Smith9999"
+  },
+  {
+    "id": "1110",
+    "name": "Sophia",
+    "lname": "O\u0027Brien",
+    "email": "obriensa@merrimack.edu",
+    "phone": "6035547383",
+    "pwd": "O\u0027Brien7383"
+  },
+  {
+    "id": "954",
+    "name": "Marc",
+    "lname": "Alperen",
+    "email": "alperenm@merrimack.edu",
+    "phone": "9789799413",
+    "pwd": "Alperen9413"
+  },
+  {
+    "id": "645",
+    "name": "Jacob",
+    "lname": "Cappello",
+    "email": "cappelloj@merrimack.edu",
+    "phone": "9788462290",
+    "pwd": "Cappello2290"
+  },
+  {
+    "id": "1013",
+    "name": "Cedric",
+    "lname": "Gillette",
+    "email": "gillettec@merrimack.edu",
+    "phone": "6172850409",
+    "pwd": "Gillette0409"
+  },
+  {
+    "id": "1162",
+    "name": "Anna",
+    "lname": "Rivkind",
+    "email": "rivkinda@merrimack.edu",
+    "phone": "6174292384",
+    "pwd": "Rivkind2384"
+  },
+  {
+    "id": "765",
+    "name": "David",
+    "lname": "Langlois",
+    "email": "langloisds@merrimack.edu",
+    "phone": "7812679042",
+    "pwd": "Langlois9042"
+  },
+  {
+    "id": "792",
+    "name": "Ryan",
+    "lname": "Miller",
+    "email": "Millerry@merrimack.edu",
+    "phone": "2038248867",
+    "pwd": "Miller8867"
+  },
+  {
+    "id": "777",
+    "name": "David Jarrett",
+    "lname": "Andrighetti",
+    "email": "andrighettid@merrimack.edu",
+    "phone": "8606725096",
+    "pwd": "Andrighetti5096"
+  },
+  {
+    "id": "963",
+    "name": "Alexandra",
+    "lname": "Glinsky",
+    "email": "glinskya@merrimack.edu",
+    "phone": "7177254320",
+    "pwd": "Glinsky4320"
+  },
+  {
+    "id": "586",
+    "name": "Marisa",
+    "lname": "Cronin",
+    "email": "croninml@merrimack.edu",
+    "phone": "6038678665",
+    "pwd": "Cronin8665"
+  },
+  {
+    "id": "1017",
+    "name": "Haleigh",
+    "lname": "Teixeira",
+    "email": "teixeirah@merrimack.edu",
+    "phone": "5089655362",
+    "pwd": "Teixeira5362"
+  },
+  {
+    "id": "866",
+    "name": "Harrison Chase",
+    "lname": "Chase",
+    "email": "chaseh@merrimack.edu",
+    "phone": "9787015063",
+    "pwd": "Chase5063"
+  },
+  {
+    "id": "1053",
+    "name": "Kyra",
+    "lname": "Galonek",
+    "email": "Galonekk@merrimack.edu",
+    "phone": "7742301953",
+    "pwd": "Galonek1953"
+  },
+  {
+    "id": "1058",
+    "name": "Gabrielle",
+    "lname": "Tretton",
+    "email": "trettong@merrimack.edu",
+    "phone": "4016011886",
+    "pwd": "Tretton1886"
+  },
+  {
+    "id": "1093",
+    "name": "Jenna",
+    "lname": "Durgin",
+    "email": "durginj@merrimack.edu",
+    "phone": "5089272515",
+    "pwd": "Durgin2515"
+  },
+  {
+    "id": "1122",
+    "name": "Joseph",
+    "lname": "Coleman",
+    "email": "colemanjr@merrimack.edu",
+    "phone": "9785512786",
+    "pwd": "Coleman2786"
+  },
+  {
+    "id": "839",
+    "name": "Jessica",
+    "lname": "Bonner",
+    "email": "bonnerj@merrimack.edu",
+    "phone": "5086419940",
+    "pwd": "Bonner9940"
+  },
+  {
+    "id": "810",
+    "name": "Prince-Dru",
+    "lname": "Bey",
+    "email": "beyp@merrimack.edu",
+    "phone": "8563413405",
+    "pwd": "Bey3405"
+  },
+  {
+    "id": "845",
+    "name": "Alex",
+    "lname": "Biondo",
+    "email": "biondoa@merrimack.edu",
+    "phone": "2032606511",
+    "pwd": "Biondo6511"
+  },
+  {
+    "id": "691",
+    "name": "Allison",
+    "lname": "Beauchesne",
+    "email": "beauchesnea@merrimack.edu",
+    "phone": "9783872538",
+    "pwd": "Beauchesne2538"
+  },
+  {
+    "id": "729",
+    "name": "Matthew",
+    "lname": "Maio",
+    "email": "maiom@merrimack.edu",
+    "phone": "6174180747",
+    "pwd": "Maio0747"
+  },
+  {
+    "id": "1010",
+    "name": "Justin",
+    "lname": "Connolly",
+    "email": "connollyju@merrimack.edu",
+    "phone": "7813087434",
+    "pwd": "Connolly7434"
+  },
+  {
+    "id": "745",
+    "name": "Eseosa",
+    "lname": "Omuemu",
+    "email": "omuemue@merrimack.edu",
+    "phone": "6309231505",
+    "pwd": "Omuemu1505"
+  },
+  {
+    "id": "1156",
+    "name": "Kim",
+    "lname": "Silverman",
+    "email": "silvermank@merrimack.edu",
+    "phone": "7812412763",
+    "pwd": "Silverman2763"
+  },
+  {
+    "id": "977",
+    "name": "Patrick",
+    "lname": "Madden",
+    "email": "maddenp@merrimack.edu",
+    "phone": "5088012007",
+    "pwd": "Madden2007"
+  },
+  {
+    "id": "609",
+    "name": "Emily",
+    "lname": "Hoar",
+    "email": "hoare@merrimack.edu",
+    "phone": "7744544449",
+    "pwd": "Hoar4449"
+  },
+  {
+    "id": "1073",
+    "name": "Lauren",
+    "lname": "Nixdord",
+    "email": "Nixdorfl@merrimack.edu",
+    "phone": "4138755403",
+    "pwd": "Nixdord5403"
+  },
+  {
+    "id": "639",
+    "name": "Kylie",
+    "lname": "Hern",
+    "email": "hernk@merrimack.edu",
+    "phone": "9789421568",
+    "pwd": "Hern1568"
+  },
+  {
+    "id": "719",
+    "name": "Jessica T Klein",
+    "lname": "Klein",
+    "email": "kleinjt@merrimack.edu",
+    "phone": "9734798492",
+    "pwd": "Klein8492"
+  },
+  {
+    "id": "569",
+    "name": "Annie",
+    "lname": "Rava",
+    "email": "ravaa@merrimack.edu",
+    "phone": "2039424894",
+    "pwd": "Rava4894"
+  },
+  {
+    "id": "827",
+    "name": "Joshua",
+    "lname": "Grant",
+    "email": "grantjo@merrimack.edu",
+    "phone": "7742668024",
+    "pwd": "Grant8024"
+  },
+  {
+    "id": "993",
+    "name": "Sara",
+    "lname": "Connolly",
+    "email": "Connollysm@merrimack.edu",
+    "phone": "7819994630",
+    "pwd": "Connolly4630"
+  },
+  {
+    "id": "616",
+    "name": "Dennis",
+    "lname": "Oconnor",
+    "email": "oconnord@merrimack.edu",
+    "phone": "2036056116",
+    "pwd": "Oconnor6116"
+  },
+  {
+    "id": "880",
+    "name": "evan",
+    "lname": "phillips",
+    "email": "phillipse@merrimack.edu",
+    "phone": "6177106276",
+    "pwd": "phillips6276"
+  },
+  {
+    "id": "622",
+    "name": "Megan",
+    "lname": "Langlois",
+    "email": "langloismo@merrimack.edu",
+    "phone": "9786976371",
+    "pwd": "Langlois6371"
+  },
+  {
+    "id": "1148",
+    "name": "Brendan",
+    "lname": "Fitzgerald",
+    "email": "fitzgeraldb@merrimack.edu",
+    "phone": "8606922885",
+    "pwd": "Fitzgerald2885"
+  },
+  {
+    "id": "789",
+    "name": "Braydon J Dolbashian",
+    "lname": "Dolbashian",
+    "email": "dolbashianb@merrimack.edu",
+    "phone": "4013009796",
+    "pwd": "Dolbashian9796"
+  },
+  {
+    "id": "1137",
+    "name": "Julia",
+    "lname": "McGinn",
+    "email": "mcginnj@merrimack.edu",
+    "phone": "4018249838",
+    "pwd": "McGinn9838"
+  },
+  {
+    "id": "928",
+    "name": "Erin",
+    "lname": "Lincoln",
+    "email": "lincolne@merrimack.edu",
+    "phone": "5089448117",
+    "pwd": "Lincoln8117"
+  },
+  {
+    "id": "818",
+    "name": "Caroline",
+    "lname": "Clark",
+    "email": "clarkcar@merrimack.edu",
+    "phone": "5089425601",
+    "pwd": "Clark5601"
+  },
+  {
+    "id": "851",
+    "name": "Michael",
+    "lname": "Bernard",
+    "email": "bernardm@merrimack.edu",
+    "phone": "9784078804",
+    "pwd": "Bernard8804"
+  },
+  {
+    "id": "637",
+    "name": "Chris",
+    "lname": "Sarno",
+    "email": "sarnoc@merrimack.edu",
+    "phone": "7816647373",
+    "pwd": "Sarno7373"
+  },
+  {
+    "id": "635",
+    "name": "Emma",
+    "lname": "Faivre",
+    "email": "faivree@merrimack.edu",
+    "phone": "6099476520",
+    "pwd": "Faivre6520"
+  },
+  {
+    "id": "623",
+    "name": "Katelyn",
+    "lname": "Richardson",
+    "email": "richardsonk@merrimack.edu",
+    "phone": "8605389866",
+    "pwd": "Richardson9866"
+  },
+  {
+    "id": "698",
+    "name": "Hope",
+    "lname": "Fitch",
+    "email": "fitchh@merrimack.edu",
+    "phone": "7742797258",
+    "pwd": "Fitch7258"
+  },
+  {
+    "id": "567",
+    "name": "Cassidy",
+    "lname": "Koch",
+    "email": "kochc@merrimack.edu",
+    "phone": "5165879571",
+    "pwd": "Koch9571"
+  },
+  {
+    "id": "711",
+    "name": "Kimberly",
+    "lname": "McPhee",
+    "email": "mcpheek@merrimack.edu",
+    "phone": "5088468171",
+    "pwd": "McPhee8171"
+  },
+  {
+    "id": "618",
+    "name": "Holly",
+    "lname": "Schweitzer",
+    "email": "schweitzerh@merrimack.edu",
+    "phone": "6319723360",
+    "pwd": "Schweitzer3360"
+  },
+  {
+    "id": "1082",
+    "name": "Cameron",
+    "lname": "Stober",
+    "email": "stoberc@merrimack.edu",
+    "phone": "2036056042",
+    "pwd": "Stober6042"
+  },
+  {
+    "id": "853",
+    "name": "Alexander",
+    "lname": "Harrison",
+    "email": "harrisona@merrimack.edu",
+    "phone": "5183898527",
+    "pwd": "Harrison8527"
+  },
+  {
+    "id": "1092",
+    "name": "kelly",
+    "lname": "Redford",
+    "email": "redfordk@merrimack.edu",
+    "phone": "9782106447",
+    "pwd": "Redford6447"
+  },
+  {
+    "id": "919",
+    "name": "Alana",
+    "lname": "Fursman",
+    "email": "fursmana@merrimack.edu",
+    "phone": "5858571290",
+    "pwd": "Fursman1290"
+  },
+  {
+    "id": "933",
+    "name": "Zachary",
+    "lname": "Dieujuste",
+    "email": "dieujustez@merrimack.edu",
+    "phone": "6177550418",
+    "pwd": "Dieujuste0418"
+  },
+  {
+    "id": "577",
+    "name": "Grace",
+    "lname": "Soucy",
+    "email": "soucyg@merrimack.edu",
+    "phone": "2072054764",
+    "pwd": "Soucy4764"
+  },
+  {
+    "id": "687",
+    "name": "Olivia",
+    "lname": "Faulkner",
+    "email": "faulknero@merrimack.edu",
+    "phone": "7742146981",
+    "pwd": "Faulkner6981"
+  },
+  {
+    "id": "553",
+    "name": "Jessica",
+    "lname": "Haskin",
+    "email": "haskinj@merrimack.edu",
+    "phone": "5189514479",
+    "pwd": "Haskin4479"
+  },
+  {
+    "id": "536",
+    "name": "Madalyn",
+    "lname": "Letellier",
+    "email": "letellierm@merrimack.edu",
+    "phone": "12072895371",
+    "pwd": "Letellier5371"
+  },
+  {
+    "id": "633",
+    "name": "Caroline",
+    "lname": "Smith",
+    "email": "smithcar@merrimack.edu",
+    "phone": "7743645057",
+    "pwd": "Smith5057"
+  },
+  {
+    "id": "799",
+    "name": "Maria",
+    "lname": "Martinez",
+    "email": "martinezm@merrimack.edu",
+    "phone": "6179559659",
+    "pwd": "Martinez9659"
+  },
+  {
+    "id": "534",
+    "name": "Morgan",
+    "lname": "Barker",
+    "email": "barkerm@merrimack.edu",
+    "phone": "6032130487",
+    "pwd": "Barker0487"
+  },
+  {
+    "id": "801",
+    "name": "Joseph",
+    "lname": "Fleming",
+    "email": "flemingjg@merrimack.edu",
+    "phone": "7746966055",
+    "pwd": "Fleming6055"
+  },
+  {
+    "id": "583",
+    "name": "Megan",
+    "lname": "Fergusson",
+    "email": "fergussonm@merrimack.edu",
+    "phone": "9782890899",
+    "pwd": "Fergusson0899"
+  },
+  {
+    "id": "829",
+    "name": "Seamus",
+    "lname": "McDonough",
+    "email": "mcdonoughse@merrimack.edu",
+    "phone": "6094579032",
+    "pwd": "McDonough9032"
+  },
+  {
+    "id": "728",
+    "name": "Hayleigh",
+    "lname": "Crawford",
+    "email": "Crawfordh@merrimack.edu",
+    "phone": "774-266-8238",
+    "pwd": "Crawford8238"
+  },
+  {
+    "id": "751",
+    "name": "Morgan",
+    "lname": "Murray",
+    "email": "murrayma@merrimack.edu",
+    "phone": "7813542942",
+    "pwd": "Murray2942"
+  },
+  {
+    "id": "773",
+    "name": "Cally",
+    "lname": "Seymour",
+    "email": "seymourc@merrimack.edu",
+    "phone": "2072322972",
+    "pwd": "Seymour2972"
+  },
+  {
+    "id": "548",
+    "name": "Jessica",
+    "lname": "Wehrheim",
+    "email": "wehrheimj@merrimack.edu",
+    "phone": "2036449237",
+    "pwd": "Wehrheim9237"
+  },
+  {
+    "id": "707",
+    "name": "Gabrielle",
+    "lname": "Cacciola",
+    "email": "cacciolag@merrimack.edu",
+    "phone": "6317400547",
+    "pwd": "Cacciola0547"
+  },
+  {
+    "id": "551",
+    "name": "Bianca",
+    "lname": "Gallotto",
+    "email": "gallottob@merrimack.edu",
+    "phone": "6176457158",
+    "pwd": "Gallotto7158"
+  },
+  {
+    "id": "641",
+    "name": "Danielle",
+    "lname": "Laflamme",
+    "email": "laflammed@merrimack.edu",
+    "phone": "6039330296",
+    "pwd": "Laflamme0296"
+  }
+]

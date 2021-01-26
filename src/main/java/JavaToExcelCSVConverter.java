@@ -17,6 +17,43 @@ import java.util.Set;
 
 public class JavaToExcelCSVConverter {
 
+
+
+    public static void writeAllNoImageProducts(Set<ProductGpod> productsSet, String filePath)
+    {
+        // first create file object for file placed at location
+        // specified by filepath
+        File file = new File(filePath);
+        try {
+            // create FileWriter object with file as parameter
+            FileWriter outputfile = new FileWriter(file);
+
+            // create CSVWriter object filewriter object as parameter
+            CSVWriter writer = new CSVWriter(outputfile);
+
+            // adding header to csv
+            String[] header = { "Product Id","Category","Sub Category","Type","Brand","Product Name","UPC Code","Product Description","Price","Tax","Store","Size","UOM","Image","Spice Level","Aisle No." };
+            writer.writeNext(header);
+
+            productsSet.forEach(p -> {
+                String[] row = new String[16];
+                buildCSVRow(p, row);
+                System.out.println("---");
+                writer.writeNext(row);
+            });
+
+
+
+            // closing writer connection
+            writer.close();
+        }
+        catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
+
+
     public static void writeAllProducts(Map<Integer, ProductGpod> productMap, String filePath)
     {
         // first create file object for file placed at location
@@ -107,15 +144,16 @@ public class JavaToExcelCSVConverter {
         row[3]= p.getType().getDesc();
         row[4]= p.getBrands().get(0).getDesc();
         row[5]= p.getDesc();
-        row[6]= p.getDesc();
-        row[7]= p.getPrice().getBasePrice()+"";
-        row[8]= p.getTax()+"";
-        row[9]= "";
-        row[10]= p.getWeight();
+        row[6]= p.getUpcCode();
+        row[7]= p.getShortDesc();
+        row[8]= p.getPrice().getBasePrice()+"";
+        row[9]= p.getTax()+"";
+        row[10]= p.getStore();
         row[11]= p.getWeight();
-        row[12]= p.getDefaultImage();
-        row[13]= p.getSpiceLevel();
-        row[14]= p.getAiselNo();
+        row[12]= p.getWeight();
+        row[13]= p.getImageName();
+        row[14]= p.getSpiceLevel();
+        row[15]= p.getAiselNo();
     }
 
 

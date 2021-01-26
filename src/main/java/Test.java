@@ -9,19 +9,19 @@ public class Test {
 
     public static void main(String[] args) {
 
-        Set<String> items = new HashSet<>();
+        String input = "123456789";     //input string
+        String lastFourDigits = "";     //substring containing last 4 characters
 
-        items.add("20 Quarter Pound");
-        items.add("3 Musketeers");
-        items.add("A Taste Of Thai");
-        items.add("A Taste Of Thai");
-        items.add("A1");
-        items.add("Activia");
-        System.out.println("---FINAL ITEMS");
-        items.forEach(System.out::println);
-        System.out.println("---FINAL ITEMS SIZE "+ items.size());
+        if (input.length() > 4)
+        {
+            lastFourDigits = input.substring(input.length() - 4);
+        }
+        else
+        {
+            lastFourDigits = input;
+        }
 
-
+        System.out.println(lastFourDigits);
 
     }
 }
