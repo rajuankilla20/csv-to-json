@@ -1,9 +1,4 @@
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.opencsv.CSVWriter;
-import model.CategoryModel;
-import model.Product;
-import model.SubCategoryModel;
 import model.gpod.FinalUserOrders;
 import model.gpod.ProductGpod;
 
@@ -16,8 +11,6 @@ import java.util.Map;
 import java.util.Set;
 
 public class JavaToExcelCSVConverter {
-
-
 
     public static void writeAllNoImageProducts(Set<ProductGpod> productsSet, String filePath)
     {

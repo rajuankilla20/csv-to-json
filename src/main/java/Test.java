@@ -9,19 +9,20 @@ public class Test {
 
     public static void main(String[] args) {
 
-        String input = "123456789";     //input string
-        String lastFourDigits = "";     //substring containing last 4 characters
+         List<String> list1 = new ArrayList<>();
+        list1.add("1");
+        list1.add("11");
+        list1.add("12");
+        list1.add("13");
 
-        if (input.length() > 4)
-        {
-            lastFourDigits = input.substring(input.length() - 4);
-        }
-        else
-        {
-            lastFourDigits = input;
-        }
+        List<String> list2 = new ArrayList<>();
 
-        System.out.println(lastFourDigits);
+        list1.forEach(list2::add);
+
+        list2.forEach(System.out::println);
+
+
+
 
     }
 }

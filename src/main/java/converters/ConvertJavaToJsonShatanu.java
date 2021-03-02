@@ -1,3 +1,5 @@
+package converters;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import model.CategoryModel;
@@ -37,7 +39,7 @@ public class ConvertJavaToJsonShatanu {
         Gson gson =  new GsonBuilder().setPrettyPrinting().create();
 //        String jsonString = gson.toJson(printObject);
 //        System.out.println(" File : "+ fileName + " -->\n" + jsonString);
-        try (FileWriter writer = new FileWriter("D:/projects/csv-json-proj/csv-to-json/src/main/resources/shantanu-output/"+fileName+".json")) {
+        try (FileWriter writer = new FileWriter("D:/projects/csv-json-proj/csv-to-json/src/main/resources/weekly-uploaded-products-output/"+fileName+".json")) {
             gson.toJson(printObject, writer);
         } catch (IOException e) {
             e.printStackTrace();

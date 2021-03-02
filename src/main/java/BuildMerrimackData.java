@@ -76,7 +76,7 @@ public class BuildMerrimackData {
 //         ConvertJavaToJson.createJsonFile(subCategoryGpodMap.values(),"sub-categories"); // Done
         System.out.println("-----------Category :"+categoryGpodMap.values().size());
         System.out.println("-----------Sub-Cats :"+subCategoryGpodMap.values().size());
-          BrandsUtil.buildBrands(brandGpodMap); // done
+       BrandsUtil.buildBrands(brandGpodMap); // done
         System.out.println("-----------Brands :"+brandGpodMap.values().size());
 //          ConvertJavaToJson.createJsonFile(brandGpodMap.values(),"brands"); // Done
 //          System.out.println("-----------Brands conversion done---------------");
@@ -101,20 +101,27 @@ public class BuildMerrimackData {
         RolesUserUtil.buildRoleUser(roleUserGpodMap);
 
         System.out.println("-----------Role-User  conversion done---------------");
+        System.out.println("--------------EMAIL START ----------------------");
         UsersUtil.buildUsers(userGpodMap,roleUserGpodMap,rolesGpodMap);
         System.out.println("-----------Users :"+userGpodMap.values().size());
+
+        userGpodMap.entrySet().stream()                // ...
+                .forEach(e -> System.out.println("Email : " + e.getValue().getEmail()));
+        System.out.println("--------------EMAIL END ----------------------");
+
+
 //        ConvertJavaToJson.createJsonFile(userGpodMap.values(),"users"); // Done
 
 
-        System.out.println("-----------wishlist  conversion done---------------");
+       /* System.out.println("-----------wishlist  conversion done---------------");
         OrderStatusUtil.buildOrderStatus(orderStatusGpodMap);
         //ConvertJavaToJson.createJsonFile(orderStatusGpodMap.values(),"order-status"); // Done
 
         System.out.println("-----------orderstatus  conversion done---------------");
         OrderItemsUtil.buildOrderItems(orderItemsGpodMap);
 
-        buildProductData();
-        System.out.println("-----------Products :"+productMap.values().size());
+        buildProductData();*/
+       // System.out.println("-----------Products :"+productMap.values().size());
 //        System.out.println("-----------Product  conversion done---------------"+productMap.size());
 //          productMap.forEach((k,v) -> {
 //            System.out.println(v);
@@ -124,6 +131,7 @@ public class BuildMerrimackData {
         * user favourite orders, so after filtering data from retain orders below orders are missing and getting those products
         * from here
         * */
+/*
         System.out.println("Missing prodcuts size : "+ favMissingProductList.size());
         favMissingProductList.forEach(pid -> {
             if(productMap.containsKey(Integer.parseInt(pid))){
@@ -133,9 +141,10 @@ public class BuildMerrimackData {
             }
 
         });
+*/
 
-        System.out.println("Missing prodcuts after getting size : "+ missFavProductsShantanuList.size());
-        ConvertJavaToJson.createJsonFile(missFavProductsShantanuList,"missing-favourites-shantanu-products");
+//        System.out.println("Missing prodcuts after getting size : "+ missFavProductsShantanuList.size());
+//        ConvertJavaToJson.createJsonFile(missFavProductsShantanuList,"missing-favourites-shantanu-products");
 
 
         // NOTE For ajay confirmation validated below

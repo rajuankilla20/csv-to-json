@@ -1,0 +1,5352 @@
+[
+  {
+    "id": 40008,
+    "code": "Market Basket Harvest Squash Soup",
+    "desc": "Market Basket Harvest Squash Soup",
+    "shortDesc": "Market Basket Harvest Squash Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "20 oz",
+    "UpcCode": "077958662093",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6577.jpg",
+    "defaultImage": "X6577.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40005,
+    "code": "Market Basket Italian-Style Wedding Soup with Meatballs",
+    "desc": "Market Basket Italian-Style Wedding Soup with Meatballs",
+    "shortDesc": "Market Basket Italian-Style Wedding Soup with Meatballs",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "20 oz",
+    "UpcCode": "667978574157",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6574.jpg",
+    "defaultImage": "X6574.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40071,
+    "code": "Farm Fresh Almark Cage Free Hard-Boiled Eggs",
+    "desc": "Farm Fresh Almark Cage Free Hard-Boiled Eggs",
+    "shortDesc": "Farm Fresh Almark Cage Free Hard-Boiled Eggs",
+    "tags": [
+      "Eggs"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Farm Fresh",
+        "desc": "Farm Fresh"
+      }
+    ],
+    "price": {
+      "basePrice": 2.49,
+      "discountPrice": 2.49
+    },
+    "type": {
+      "code": "Eggs",
+      "desc": "Eggs"
+    },
+    "weight": "9 oz",
+    "UpcCode": "044984102466",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "9 oz",
+    "imageName": "X6640.jpg",
+    "defaultImage": "X6640.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40017,
+    "code": "Panera Bread Broccoli Cheddar Soup",
+    "desc": "Panera Bread Broccoli Cheddar Soup",
+    "shortDesc": "Panera Bread Broccoli Cheddar Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690911",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6586.jpg",
+    "defaultImage": "X6586.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40096,
+    "code": "Market Basket California Roll W/Cream Cheese ",
+    "desc": "Market Basket California Roll W/Cream Cheese ",
+    "shortDesc": "Market Basket California Roll W/Cream Cheese ",
+    "tags": [
+      "California Roll"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 7.86,
+      "discountPrice": 7.86
+    },
+    "type": {
+      "code": "California Roll",
+      "desc": "California Roll"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6665.jpg",
+    "defaultImage": "X6665.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40059,
+    "code": "Market Basket Lasagna W/Marinara ",
+    "desc": "Market Basket Lasagna W/Marinara ",
+    "shortDesc": "Market Basket Lasagna W/Marinara ",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.29,
+      "discountPrice": 4.29
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "0.86 lb",
+    "UpcCode": "206619603438",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.86 lb",
+    "imageName": "X6628.jpg",
+    "defaultImage": "X6628.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40083,
+    "code": "Market Basket Shrimp Sumai ",
+    "desc": "Market Basket Shrimp Sumai ",
+    "shortDesc": "Market Basket Shrimp Sumai ",
+    "tags": [
+      "Shrimp Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Shrimp Sushi",
+      "desc": "Shrimp Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6652.jpg",
+    "defaultImage": "X6652.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40097,
+    "code": "Market Basket Spicy Shrimp Roll ",
+    "desc": "Market Basket Spicy Shrimp Roll ",
+    "shortDesc": "Market Basket Spicy Shrimp Roll ",
+    "tags": [
+      "Shrimp Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.49,
+      "discountPrice": 8.49
+    },
+    "type": {
+      "code": "Shrimp Sushi",
+      "desc": "Shrimp Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6666.jpg",
+    "defaultImage": "X6666.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40045,
+    "code": "Market Basket Gemelli And Spinach Pasta Salad",
+    "desc": "Market Basket Gemelli And Spinach Pasta Salad",
+    "shortDesc": "Market Basket Gemelli And Spinach Pasta Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 2.74,
+      "discountPrice": 2.74
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "8 oz",
+    "UpcCode": "036217668900",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6614.jpg",
+    "defaultImage": "X6614.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40098,
+    "code": "Market Basket California Roll ",
+    "desc": "Market Basket California Roll ",
+    "shortDesc": "Market Basket California Roll ",
+    "tags": [
+      "California Roll"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "California Roll",
+      "desc": "California Roll"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6667.jpg",
+    "defaultImage": "X6667.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40006,
+    "code": "Market Basket Hearty Chicken Noodle Soup",
+    "desc": "Market Basket Hearty Chicken Noodle Soup",
+    "shortDesc": "Market Basket Hearty Chicken Noodle Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "20 oz",
+    "UpcCode": "880632007161",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6575.jpg",
+    "defaultImage": "X6575.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40053,
+    "code": "Market Basket Seafood Salad",
+    "desc": "Market Basket Seafood Salad",
+    "shortDesc": "Market Basket Seafood Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.18,
+      "discountPrice": 3.18
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "0.51 lb",
+    "UpcCode": "206677102546",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.51 lb",
+    "imageName": "X6622.jpg",
+    "defaultImage": "X6622.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40063,
+    "code": "Market Basket Meatballs W/Penne & Marinara Sauce ",
+    "desc": "Market Basket Meatballs W/Penne & Marinara Sauce ",
+    "shortDesc": "Market Basket Meatballs W/Penne & Marinara Sauce ",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 10.83,
+      "discountPrice": 10.83
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "2.17 lb",
+    "UpcCode": "206352008668",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "2.17 lb",
+    "imageName": "X6632.jpg",
+    "defaultImage": "X6632.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40106,
+    "code": "Market Basket Salmon Roll ",
+    "desc": "Market Basket Salmon Roll ",
+    "shortDesc": "Market Basket Salmon Roll ",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.49,
+      "discountPrice": 8.49
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6675.jpg",
+    "defaultImage": "X6675.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40019,
+    "code": "Market Basket Vegetable Sesame Lo Mein",
+    "desc": "Market Basket Vegetable Sesame Lo Mein",
+    "shortDesc": "Market Basket Vegetable Sesame Lo Mein",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "8 oz",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6588.jpg",
+    "defaultImage": "X6588.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40069,
+    "code": "Market Basket Ham & Cheese Arancini",
+    "desc": "Market Basket Ham & Cheese Arancini",
+    "shortDesc": "Market Basket Ham & Cheese Arancini",
+    "tags": [
+      "Ready to Eat Food"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.73,
+      "discountPrice": 6.73
+    },
+    "type": {
+      "code": "Ready to Eat Food",
+      "desc": "Ready to Eat Food"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206192205388",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6638.jpg",
+    "defaultImage": "X6638.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40075,
+    "code": "Market Basket Sake Nigiri Salmon 8 pcs",
+    "desc": "Market Basket Sake Nigiri Salmon 8 pcs",
+    "shortDesc": "Market Basket Sake Nigiri Salmon 8 pcs",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 16.24,
+      "discountPrice": 16.24
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6644.jpg",
+    "defaultImage": "X6644.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40070,
+    "code": "Market Basket Spicy Buffalo Wings Cold",
+    "desc": "Market Basket Spicy Buffalo Wings Cold",
+    "shortDesc": "Market Basket Spicy Buffalo Wings Cold",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 9.05,
+      "discountPrice": 9.05
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1.45 lb",
+    "UpcCode": "206769107244",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.45 lb",
+    "imageName": "X6639.jpg",
+    "defaultImage": "X6639.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40016,
+    "code": "Panera Bread Baked Potato Soup",
+    "desc": "Panera Bread Baked Potato Soup",
+    "shortDesc": "Panera Bread Baked Potato Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690140",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6585.jpg",
+    "defaultImage": "X6585.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40105,
+    "code": "Market Basket Spicy Salmon Auo-Kyu Roll BPC ",
+    "desc": "Market Basket Spicy Salmon Auo-Kyu Roll BPC ",
+    "shortDesc": "Market Basket Spicy Salmon Auo-Kyu Roll BPC ",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.74,
+      "discountPrice": 8.74
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6674.jpg",
+    "defaultImage": "X6674.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40025,
+    "code": "Market Basket Sausage, Peppers & Onions",
+    "desc": "Market Basket Sausage, Peppers & Onions",
+    "shortDesc": "Market Basket Sausage, Peppers & Onions",
+    "tags": [
+      "Ready to Eat Food"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 8.24,
+      "discountPrice": 8.24
+    },
+    "type": {
+      "code": "Ready to Eat Food",
+      "desc": "Ready to Eat Food"
+    },
+    "weight": "12 oz",
+    "UpcCode": "036217268841",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6594.jpg",
+    "defaultImage": "X6594.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40039,
+    "code": "Market Basket Salad W/Walnuts Cranberries Blue Cheese",
+    "desc": "Market Basket Salad W/Walnuts Cranberries Blue Cheese",
+    "shortDesc": "Market Basket Salad W/Walnuts Cranberries Blue Cheese",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.11,
+      "discountPrice": 3.11
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206337102497",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6608.jpg",
+    "defaultImage": "X6608.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40035,
+    "code": "Market Basket Breaded Chicken Cutlets",
+    "desc": "Market Basket Breaded Chicken Cutlets",
+    "shortDesc": "Market Basket Breaded Chicken Cutlets",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.48,
+      "discountPrice": 7.48
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206692605985",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6604.jpg",
+    "defaultImage": "X6604.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40002,
+    "code": "Market Basket Haddock Chowder Small",
+    "desc": "Market Basket Haddock Chowder Small",
+    "shortDesc": "Market Basket Haddock Chowder Small",
+    "tags": [
+      "Chowder"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Chowder",
+        "desc": "Chowder"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Chowder",
+      "desc": "Chowder"
+    },
+    "weight": "20 oz",
+    "UpcCode": "667978574621",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6571.jpg",
+    "defaultImage": "X6571.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40023,
+    "code": "Market Basket Meatloaf with Gravy",
+    "desc": "Market Basket Meatloaf with Gravy",
+    "shortDesc": "Market Basket Meatloaf with Gravy",
+    "tags": [
+      "Meatloaf"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 8.24,
+      "discountPrice": 8.24
+    },
+    "type": {
+      "code": "Meatloaf",
+      "desc": "Meatloaf"
+    },
+    "weight": "12 oz",
+    "UpcCode": "036217241646",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6592.jpg",
+    "defaultImage": "X6592.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40033,
+    "code": "Market Basket Sweet Glazed Chicken Drums Cold",
+    "desc": "Market Basket Sweet Glazed Chicken Drums Cold",
+    "shortDesc": "Market Basket Sweet Glazed Chicken Drums Cold",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.39,
+      "discountPrice": 4.39
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "0.88 lb",
+    "UpcCode": "206777803510",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.88 lb",
+    "imageName": "X6602.jpg",
+    "defaultImage": "X6602.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40012,
+    "code": "Panera Bread Autumn Squash Soup",
+    "desc": "Panera Bread Autumn Squash Soup",
+    "shortDesc": "Panera Bread Autumn Squash Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690133",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6581.jpg",
+    "defaultImage": "X6581.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40076,
+    "code": "Market Basket Salmon Sashimi ",
+    "desc": "Market Basket Salmon Sashimi ",
+    "shortDesc": "Market Basket Salmon Sashimi ",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 18.74,
+      "discountPrice": 18.74
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6645.jpg",
+    "defaultImage": "X6645.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40004,
+    "code": "Market Basket Lentil Soup",
+    "desc": "Market Basket Lentil Soup",
+    "shortDesc": "Market Basket Lentil Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "20 oz",
+    "UpcCode": "667978574218",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6573.jpg",
+    "defaultImage": "X6573.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40021,
+    "code": "Market Basket American Chop Suey",
+    "desc": "Market Basket American Chop Suey",
+    "shortDesc": "Market Basket American Chop Suey",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "12 oz",
+    "UpcCode": "036217215845",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6590.jpg",
+    "defaultImage": "X6590.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40043,
+    "code": "Market Basket Medium Greek Salad",
+    "desc": "Market Basket Medium Greek Salad",
+    "shortDesc": "Market Basket Medium Greek Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206238703496",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6612.jpg",
+    "defaultImage": "X6612.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40027,
+    "code": "Market Basket Buffalo Style Tenders",
+    "desc": "Market Basket Buffalo Style Tenders",
+    "shortDesc": "Market Basket Buffalo Style Tenders",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.29,
+      "discountPrice": 6.29
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1.01 lb",
+    "UpcCode": "206123105046",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.01 lb",
+    "imageName": "X6596.jpg",
+    "defaultImage": "X6596.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40077,
+    "code": "Market Basket Chef Special Roll ",
+    "desc": "Market Basket Chef Special Roll ",
+    "shortDesc": "Market Basket Chef Special Roll ",
+    "tags": [
+      "Chef Special Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 18.74,
+      "discountPrice": 18.74
+    },
+    "type": {
+      "code": "Chef Special Sushi",
+      "desc": "Chef Special Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6646.jpg",
+    "defaultImage": "X6646.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40013,
+    "code": "Panera Bread Mac & Cheese",
+    "desc": "Panera Bread Mac & Cheese",
+    "shortDesc": "Panera Bread Mac & Cheese",
+    "tags": [
+      "Mac & Cheese"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Mac & Cheese",
+      "desc": "Mac & Cheese"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690492",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6582.jpg",
+    "defaultImage": "X6582.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40031,
+    "code": "Market Basket Fully Cooked Cold Buffalo Wings",
+    "desc": "Market Basket Fully Cooked Cold Buffalo Wings",
+    "shortDesc": "Market Basket Fully Cooked Cold Buffalo Wings",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 10.19,
+      "discountPrice": 10.19
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1.09 lb",
+    "UpcCode": "207319508160",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.09 lb",
+    "imageName": "X6600.jpg",
+    "defaultImage": "X6600.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40095,
+    "code": "Market Basket Avocado & Cucumber Roll ",
+    "desc": "Market Basket Avocado & Cucumber Roll ",
+    "shortDesc": "Market Basket Avocado & Cucumber Roll ",
+    "tags": [
+      "Vegetable Roll"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 6.86,
+      "discountPrice": 6.86
+    },
+    "type": {
+      "code": "Vegetable Roll",
+      "desc": "Vegetable Roll"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6664.jpg",
+    "defaultImage": "X6664.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40089,
+    "code": "Market Basket Crunchy Onion Spicy Shrimp Tempura Roll ",
+    "desc": "Market Basket Crunchy Onion Spicy Shrimp Tempura Roll ",
+    "shortDesc": "Market Basket Crunchy Onion Spicy Shrimp Tempura Roll ",
+    "tags": [
+      "Shrimp Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 11.24,
+      "discountPrice": 11.24
+    },
+    "type": {
+      "code": "Shrimp Sushi",
+      "desc": "Shrimp Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6658.jpg",
+    "defaultImage": "X6658.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40000,
+    "code": "Market Basket New England Clam Chowder Large",
+    "desc": "Market Basket New England Clam Chowder Large",
+    "shortDesc": "Market Basket New England Clam Chowder Large",
+    "tags": [
+      "Chowder"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Chowder",
+        "desc": "Chowder"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 11.24,
+      "discountPrice": 11.24
+    },
+    "type": {
+      "code": "Chowder",
+      "desc": "Chowder"
+    },
+    "weight": "32 oz",
+    "UpcCode": "667978571941",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "32 oz",
+    "imageName": "X6569.jpg",
+    "defaultImage": "X6569.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40029,
+    "code": "Market Basket Honey Barbecue Tenders Cold",
+    "desc": "Market Basket Honey Barbecue Tenders Cold",
+    "shortDesc": "Market Basket Honey Barbecue Tenders Cold",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 5.29,
+      "discountPrice": 5.29
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "0.85 lb",
+    "UpcCode": "206122604243",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.85 lb",
+    "imageName": "X6598.jpg",
+    "defaultImage": "X6598.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40042,
+    "code": "Market Basket Spinach/Cranberry Walnut/Blue Cheese",
+    "desc": "Market Basket Spinach/Cranberry Walnut/Blue Cheese",
+    "shortDesc": "Market Basket Spinach/Cranberry Walnut/Blue Cheese",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 5.61,
+      "discountPrice": 5.61
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "207489304494",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6611.jpg",
+    "defaultImage": "X6611.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40047,
+    "code": "Market Basket Potato Salad",
+    "desc": "Market Basket Potato Salad",
+    "shortDesc": "Market Basket Potato Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 1.74,
+      "discountPrice": 1.74
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "8 oz",
+    "UpcCode": "036217767405",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6616.jpg",
+    "defaultImage": "X6616.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40050,
+    "code": "Market Basket Shrimp Cocktail",
+    "desc": "Market Basket Shrimp Cocktail",
+    "shortDesc": "Market Basket Shrimp Cocktail",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206365203999",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6619.jpg",
+    "defaultImage": "X6619.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40057,
+    "code": "Market Basket Freshly Made Meatballs In Sauce",
+    "desc": "Market Basket Freshly Made Meatballs In Sauce",
+    "shortDesc": "Market Basket Freshly Made Meatballs In Sauce",
+    "tags": [
+      "Meatballs"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.73,
+      "discountPrice": 6.73
+    },
+    "type": {
+      "code": "Meatballs",
+      "desc": "Meatballs"
+    },
+    "weight": "0.77 lb",
+    "UpcCode": "206448205384",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.77 lb",
+    "imageName": "X6626.jpg",
+    "defaultImage": "X6626.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40054,
+    "code": "Market Basket Cranberry Chicken Salad Bulk",
+    "desc": "Market Basket Cranberry Chicken Salad Bulk",
+    "shortDesc": "Market Basket Cranberry Chicken Salad Bulk",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.86,
+      "discountPrice": 4.86
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "0.65 lb",
+    "UpcCode": "206892303896",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.65 lb",
+    "imageName": "X6623.jpg",
+    "defaultImage": "X6623.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40091,
+    "code": "Market Basket Crunchy Onion Spicy Shrimp Tempura Roll ",
+    "desc": "Market Basket Crunchy Onion Spicy Shrimp Tempura Roll ",
+    "shortDesc": "Market Basket Crunchy Onion Spicy Shrimp Tempura Roll ",
+    "tags": [
+      "Shrimp Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 9.99,
+      "discountPrice": 9.99
+    },
+    "type": {
+      "code": "Shrimp Sushi",
+      "desc": "Shrimp Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6660.jpg",
+    "defaultImage": "X6660.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40055,
+    "code": "Market Basket Deluxe Chicken Salad",
+    "desc": "Market Basket Deluxe Chicken Salad",
+    "shortDesc": "Market Basket Deluxe Chicken Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.53,
+      "discountPrice": 7.53
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "0.67 lb",
+    "UpcCode": "207474006020",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.67 lb",
+    "imageName": "X6624.jpg",
+    "defaultImage": "X6624.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40044,
+    "code": "Market Basket Large Tossed Salad",
+    "desc": "Market Basket Large Tossed Salad",
+    "shortDesc": "Market Basket Large Tossed Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 5.61,
+      "discountPrice": 5.61
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206243304497",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6613.jpg",
+    "defaultImage": "X6613.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40102,
+    "code": "Market Basket Spicy Seafood Roll ",
+    "desc": "Market Basket Spicy Seafood Roll ",
+    "shortDesc": "Market Basket Spicy Seafood Roll ",
+    "tags": [
+      "Seafood Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.11,
+      "discountPrice": 8.11
+    },
+    "type": {
+      "code": "Seafood Sushi",
+      "desc": "Seafood Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6671.jpg",
+    "defaultImage": "X6671.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40030,
+    "code": "Market Basket Fully Cooked BBQ Wings Cold",
+    "desc": "Market Basket Fully Cooked BBQ Wings Cold",
+    "shortDesc": "Market Basket Fully Cooked BBQ Wings Cold",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 14.69,
+      "discountPrice": 14.69
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1.57 lb",
+    "UpcCode": "207321611766",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.57 lb",
+    "imageName": "X6599.jpg",
+    "defaultImage": "X6599.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40028,
+    "code": "Market Basket Fully Cooked Chicken Tenders",
+    "desc": "Market Basket Fully Cooked Chicken Tenders",
+    "shortDesc": "Market Basket Fully Cooked Chicken Tenders",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 5.61,
+      "discountPrice": 5.61
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "0.9 lb",
+    "UpcCode": "206143304498",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.9 lb",
+    "imageName": "X6597.jpg",
+    "defaultImage": "X6597.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40024,
+    "code": "Market Basket Eggplant Parmesan",
+    "desc": "Market Basket Eggplant Parmesan",
+    "shortDesc": "Market Basket Eggplant Parmesan",
+    "tags": [
+      "Eggplant"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.61,
+      "discountPrice": 6.61
+    },
+    "type": {
+      "code": "Eggplant",
+      "desc": "Eggplant"
+    },
+    "weight": "12 oz",
+    "UpcCode": "036217229040",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6593.jpg",
+    "defaultImage": "X6593.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40093,
+    "code": "Market Basket Spicy California Roll ",
+    "desc": "Market Basket Spicy California Roll ",
+    "shortDesc": "Market Basket Spicy California Roll ",
+    "tags": [
+      "California Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 7.86,
+      "discountPrice": 7.86
+    },
+    "type": {
+      "code": "California Sushi",
+      "desc": "California Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6662.jpg",
+    "defaultImage": "X6662.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40020,
+    "code": "Market Basket Beef Shepherd's Pie",
+    "desc": "Market Basket Beef Shepherd's Pie",
+    "shortDesc": "Market Basket Beef Shepherd's Pie",
+    "tags": [
+      "Pie"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.86,
+      "discountPrice": 6.86
+    },
+    "type": {
+      "code": "Pie",
+      "desc": "Pie"
+    },
+    "weight": "16 oz",
+    "UpcCode": "036217269749",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6589.jpg",
+    "defaultImage": "X6589.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40026,
+    "code": "Market Basket Buffalo Style Chicken Mac & Cheese",
+    "desc": "Market Basket Buffalo Style Chicken Mac & Cheese",
+    "shortDesc": "Market Basket Buffalo Style Chicken Mac & Cheese",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.61,
+      "discountPrice": 6.61
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "12 oz",
+    "UpcCode": "036217284940",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6595.jpg",
+    "defaultImage": "X6595.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40082,
+    "code": "Market Basket Spicy Soft Shell Crab W/Masago",
+    "desc": "Market Basket Spicy Soft Shell Crab W/Masago",
+    "shortDesc": "Market Basket Spicy Soft Shell Crab W/Masago",
+    "tags": [
+      "Crab Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 9.36,
+      "discountPrice": 9.36
+    },
+    "type": {
+      "code": "Crab Sushi",
+      "desc": "Crab Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6651.jpg",
+    "defaultImage": "X6651.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40062,
+    "code": "Market Basket Chicken Parm W/Penne & Marinara Sauce",
+    "desc": "Market Basket Chicken Parm W/Penne & Marinara Sauce",
+    "shortDesc": "Market Basket Chicken Parm W/Penne & Marinara Sauce",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 10.43,
+      "discountPrice": 10.43
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "2.09 lb",
+    "UpcCode": "206210608344",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "2.09 lb",
+    "imageName": "X6631.jpg",
+    "defaultImage": "X6631.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40038,
+    "code": "Market Basket Individual Tossed Salad",
+    "desc": "Market Basket Individual Tossed Salad",
+    "shortDesc": "Market Basket Individual Tossed Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 2.99,
+      "discountPrice": 2.99
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206252202395",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6607.jpg",
+    "defaultImage": "X6607.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40052,
+    "code": "Market Basket Bulk Chicken Salad",
+    "desc": "Market Basket Bulk Chicken Salad",
+    "shortDesc": "Market Basket Bulk Chicken Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.78,
+      "discountPrice": 3.78
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "0.57 lb",
+    "UpcCode": "206679503020",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.57 lb",
+    "imageName": "X6621.jpg",
+    "defaultImage": "X6621.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40001,
+    "code": "Market Basket New England Clam Chowder Small",
+    "desc": "Market Basket New England Clam Chowder Small",
+    "shortDesc": "Market Basket New England Clam Chowder Small",
+    "tags": [
+      "Chowder"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Chowder",
+        "desc": "Chowder"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Chowder",
+      "desc": "Chowder"
+    },
+    "weight": "20 oz",
+    "UpcCode": "667978781012",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6570.jpg",
+    "defaultImage": "X6570.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40036,
+    "code": "Market Basket Grilled Chicken Strips",
+    "desc": "Market Basket Grilled Chicken Strips",
+    "shortDesc": "Market Basket Grilled Chicken Strips",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.69,
+      "discountPrice": 3.69
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "0.39 lb",
+    "UpcCode": "206968402966",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.39 lb",
+    "imageName": "X6605.jpg",
+    "defaultImage": "X6605.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40100,
+    "code": "Market Basket Soft Shell Crab Roll ",
+    "desc": "Market Basket Soft Shell Crab Roll ",
+    "shortDesc": "Market Basket Soft Shell Crab Roll ",
+    "tags": [
+      "Crab Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.74,
+      "discountPrice": 8.74
+    },
+    "type": {
+      "code": "Crab Sushi",
+      "desc": "Crab Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6669.jpg",
+    "defaultImage": "X6669.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40046,
+    "code": "Market Basket Broccoli & Cheddar Pasta Salad",
+    "desc": "Market Basket Broccoli & Cheddar Pasta Salad",
+    "shortDesc": "Market Basket Broccoli & Cheddar Pasta Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.11,
+      "discountPrice": 3.11
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "8 oz",
+    "UpcCode": "036217668702",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6615.jpg",
+    "defaultImage": "X6615.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40090,
+    "code": "Market Basket Spicy Grilled Salmon Caterpillar Roll ",
+    "desc": "Market Basket Spicy Grilled Salmon Caterpillar Roll ",
+    "shortDesc": "Market Basket Spicy Grilled Salmon Caterpillar Roll ",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 11.24,
+      "discountPrice": 11.24
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6659.jpg",
+    "defaultImage": "X6659.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40015,
+    "code": "Panera Bread Chicken Noodle Soup",
+    "desc": "Panera Bread Chicken Noodle Soup",
+    "shortDesc": "Panera Bread Chicken Noodle Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690416",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6584.jpg",
+    "defaultImage": "X6584.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40074,
+    "code": "UNO The Hand Crafted One Calzone Chicken Parmesan",
+    "desc": "UNO The Hand Crafted One Calzone Chicken Parmesan",
+    "shortDesc": "UNO The Hand Crafted One Calzone Chicken Parmesan",
+    "tags": [
+      "Calzone"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "UNO",
+        "desc": "UNO"
+      }
+    ],
+    "price": {
+      "basePrice": 11.24,
+      "discountPrice": 11.24
+    },
+    "type": {
+      "code": "Calzone",
+      "desc": "Calzone"
+    },
+    "weight": "20 oz",
+    "UpcCode": "039528620254",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6643.jpg",
+    "defaultImage": "X6643.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40051,
+    "code": "Market Basket Greek Stuffed Grape Leaves",
+    "desc": "Market Basket Greek Stuffed Grape Leaves",
+    "shortDesc": "Market Basket Greek Stuffed Grape Leaves",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 2.5,
+      "discountPrice": 2.5
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "10 pcs",
+    "UpcCode": "206191202005",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10 pcs",
+    "imageName": "X6620.jpg",
+    "defaultImage": "X6620.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40060,
+    "code": "Market Basket Shrimp W/Penne Alfredo Sauce Cold",
+    "desc": "Market Basket Shrimp W/Penne Alfredo Sauce Cold",
+    "shortDesc": "Market Basket Shrimp W/Penne Alfredo Sauce Cold",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 5.69,
+      "discountPrice": 5.69
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "1.14 lb",
+    "UpcCode": "206415804558",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.14 lb",
+    "imageName": "X6629.jpg",
+    "defaultImage": "X6629.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40092,
+    "code": "Market Basket Crunchy Onion California Roll ",
+    "desc": "Market Basket Crunchy Onion California Roll ",
+    "shortDesc": "Market Basket Crunchy Onion California Roll ",
+    "tags": [
+      "California Roll"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 10.61,
+      "discountPrice": 10.61
+    },
+    "type": {
+      "code": "California Roll",
+      "desc": "California Roll"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6661.jpg",
+    "defaultImage": "X6661.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40080,
+    "code": "Market Basket California Roll W/Tobico",
+    "desc": "Market Basket California Roll W/Tobico",
+    "shortDesc": "Market Basket California Roll W/Tobico",
+    "tags": [
+      "Tobioco Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 9.99,
+      "discountPrice": 9.99
+    },
+    "type": {
+      "code": "Tobioco Sushi",
+      "desc": "Tobioco Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6649.jpg",
+    "defaultImage": "X6649.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40072,
+    "code": "Farm Fresh Almark Cage Free Hard-Boiled Eggs",
+    "desc": "Farm Fresh Almark Cage Free Hard-Boiled Eggs",
+    "shortDesc": "Farm Fresh Almark Cage Free Hard-Boiled Eggs",
+    "tags": [
+      "Eggs"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Farm Fresh",
+        "desc": "Farm Fresh"
+      }
+    ],
+    "price": {
+      "basePrice": 1.24,
+      "discountPrice": 1.24
+    },
+    "type": {
+      "code": "Eggs",
+      "desc": "Eggs"
+    },
+    "weight": "3 oz",
+    "UpcCode": "044984102428",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3 oz",
+    "imageName": "X6641.jpg",
+    "defaultImage": "X6641.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40099,
+    "code": "Market Basket Spicy Grilled Salmon Caterpillar Roll ",
+    "desc": "Market Basket Spicy Grilled Salmon Caterpillar Roll ",
+    "shortDesc": "Market Basket Spicy Grilled Salmon Caterpillar Roll ",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.49,
+      "discountPrice": 8.49
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6668.jpg",
+    "defaultImage": "X6668.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40061,
+    "code": "Market Basket Chicken W/Penne In Alfredo Sauce",
+    "desc": "Market Basket Chicken W/Penne In Alfredo Sauce",
+    "shortDesc": "Market Basket Chicken W/Penne In Alfredo Sauce",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 6.09,
+      "discountPrice": 6.09
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "1.22 lb",
+    "UpcCode": "206591204876",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.22 lb",
+    "imageName": "X6630.jpg",
+    "defaultImage": "X6630.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40058,
+    "code": "Market Basket Shells W/Sauce ",
+    "desc": "Market Basket Shells W/Sauce ",
+    "shortDesc": "Market Basket Shells W/Sauce ",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "1.15 lb",
+    "UpcCode": "206610204597",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.15 lb",
+    "imageName": "X6627.jpg",
+    "defaultImage": "X6627.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40104,
+    "code": "Market Basket Tuna Roll",
+    "desc": "Market Basket Tuna Roll",
+    "shortDesc": "Market Basket Tuna Roll",
+    "tags": [
+      "Tuna Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.49,
+      "discountPrice": 8.49
+    },
+    "type": {
+      "code": "Tuna Sushi",
+      "desc": "Tuna Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6673.jpg",
+    "defaultImage": "X6673.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40056,
+    "code": "Market Basket Egg Salad",
+    "desc": "Market Basket Egg Salad",
+    "shortDesc": "Market Basket Egg Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.15,
+      "discountPrice": 3.15
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "0.55 lb",
+    "UpcCode": "206676402524",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.55 lb",
+    "imageName": "X6625.jpg",
+    "defaultImage": "X6625.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40064,
+    "code": "Market Basket Shrimp W/Penne Alfredo Sauce Cold",
+    "desc": "Market Basket Shrimp W/Penne Alfredo Sauce Cold",
+    "shortDesc": "Market Basket Shrimp W/Penne Alfredo Sauce Cold",
+    "tags": [
+      "Pasta"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Pasta",
+        "desc": "Pasta"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 9.43,
+      "discountPrice": 9.43
+    },
+    "type": {
+      "code": "Pasta",
+      "desc": "Pasta"
+    },
+    "weight": "1.89 lb",
+    "UpcCode": "206415807542",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.89 lb",
+    "imageName": "X6633.jpg",
+    "defaultImage": "X6633.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40041,
+    "code": "Market Basket Medium Tossed Salad",
+    "desc": "Market Basket Medium Tossed Salad",
+    "shortDesc": "Market Basket Medium Tossed Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.74,
+      "discountPrice": 3.74
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206236602999",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6610.jpg",
+    "defaultImage": "X6610.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40014,
+    "code": "Panera Bread Greek Style Lemon Chicken Soup",
+    "desc": "Panera Bread Greek Style Lemon Chicken Soup",
+    "shortDesc": "Panera Bread Greek Style Lemon Chicken Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690614",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6583.jpg",
+    "defaultImage": "X6583.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40065,
+    "code": "Market Basket Meat Loaf Dinner Cold",
+    "desc": "Market Basket Meat Loaf Dinner Cold",
+    "shortDesc": "Market Basket Meat Loaf Dinner Cold",
+    "tags": [
+      "Meatloaf"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Meatloaf",
+      "desc": "Meatloaf"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206464105996",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6634.jpg",
+    "defaultImage": "X6634.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40037,
+    "code": "Market Basket Individual Greek Salad",
+    "desc": "Market Basket Individual Greek Salad",
+    "shortDesc": "Market Basket Individual Greek Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.11,
+      "discountPrice": 3.11
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206225102493",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6606.jpg",
+    "defaultImage": "X6606.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40007,
+    "code": "Market Basket Broccoli Cheese Soup",
+    "desc": "Market Basket Broccoli Cheese Soup",
+    "shortDesc": "Market Basket Broccoli Cheese Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "20 oz",
+    "UpcCode": "077958662918",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6576.jpg",
+    "defaultImage": "X6576.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40067,
+    "code": "Market Basket BBQ Ribs Dinner W/Potato & Corn",
+    "desc": "Market Basket BBQ Ribs Dinner W/Potato & Corn",
+    "shortDesc": "Market Basket BBQ Ribs Dinner W/Potato & Corn",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206580105993",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6636.jpg",
+    "defaultImage": "X6636.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40018,
+    "code": "Panera Bread Broccoli Cheddar Soup",
+    "desc": "Panera Bread Broccoli Cheddar Soup",
+    "shortDesc": "Panera Bread Broccoli Cheddar Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 11.11,
+      "discountPrice": 11.11
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "32 oz",
+    "UpcCode": "077958693912",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "32 oz",
+    "imageName": "X6587.jpg",
+    "defaultImage": "X6587.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40034,
+    "code": "Market Basket Hot & Spicy Chicken Drums Cold",
+    "desc": "Market Basket Hot & Spicy Chicken Drums Cold",
+    "shortDesc": "Market Basket Hot & Spicy Chicken Drums Cold",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.64,
+      "discountPrice": 4.64
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "0.93 lb",
+    "UpcCode": "206776603715",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.93 lb",
+    "imageName": "X6603.jpg",
+    "defaultImage": "X6603.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40048,
+    "code": "Market Basket Elbow Macaroni Salad",
+    "desc": "Market Basket Elbow Macaroni Salad",
+    "shortDesc": "Market Basket Elbow Macaroni Salad",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 1.74,
+      "discountPrice": 1.74
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "8 oz",
+    "UpcCode": "036217665701",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6617.jpg",
+    "defaultImage": "X6617.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40068,
+    "code": "Market Basket Turkey Breast Dinner Cold",
+    "desc": "Market Basket Turkey Breast Dinner Cold",
+    "shortDesc": "Market Basket Turkey Breast Dinner Cold",
+    "tags": [
+      "Turkey"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.24,
+      "discountPrice": 7.24
+    },
+    "type": {
+      "code": "Turkey",
+      "desc": "Turkey"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206092305799",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6637.jpg",
+    "defaultImage": "X6637.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40078,
+    "code": "Market Basket Seaweed Salad ",
+    "desc": "Market Basket Seaweed Salad ",
+    "shortDesc": "Market Basket Seaweed Salad ",
+    "tags": [
+      "Seaweed Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.24,
+      "discountPrice": 7.24
+    },
+    "type": {
+      "code": "Seaweed Sushi",
+      "desc": "Seaweed Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6647.jpg",
+    "defaultImage": "X6647.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40081,
+    "code": "Market Basket Spicy Salmon Uolcand Roll ",
+    "desc": "Market Basket Spicy Salmon Uolcand Roll ",
+    "shortDesc": "Market Basket Spicy Salmon Uolcand Roll ",
+    "tags": [
+      "Salmon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 13.74,
+      "discountPrice": 13.74
+    },
+    "type": {
+      "code": "Salmon Sushi",
+      "desc": "Salmon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6650.jpg",
+    "defaultImage": "X6650.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40088,
+    "code": "Market Basket Tucson Roll ",
+    "desc": "Market Basket Tucson Roll ",
+    "shortDesc": "Market Basket Tucson Roll ",
+    "tags": [
+      "Tuscon Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 13.74,
+      "discountPrice": 13.74
+    },
+    "type": {
+      "code": "Tuscon Sushi",
+      "desc": "Tuscon Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6657.jpg",
+    "defaultImage": "X6657.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40009,
+    "code": "Market Basket Chunky Beef Chili with Beans Soup",
+    "desc": "Market Basket Chunky Beef Chili with Beans Soup",
+    "shortDesc": "Market Basket Chunky Beef Chili with Beans Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "20 oz",
+    "UpcCode": "880632007291",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6578.jpg",
+    "defaultImage": "X6578.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40079,
+    "code": "market Basket Ika Sansai Squid Salad ",
+    "desc": "market Basket Ika Sansai Squid Salad ",
+    "shortDesc": "market Basket Ika Sansai Squid Salad ",
+    "tags": [
+      "Squid Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.24,
+      "discountPrice": 7.24
+    },
+    "type": {
+      "code": "Squid Sushi",
+      "desc": "Squid Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6648.jpg",
+    "defaultImage": "X6648.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40101,
+    "code": "Market Basket Egg Roll ",
+    "desc": "Market Basket Egg Roll ",
+    "shortDesc": "Market Basket Egg Roll ",
+    "tags": [
+      "Egg Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.49,
+      "discountPrice": 8.49
+    },
+    "type": {
+      "code": "Egg Sushi",
+      "desc": "Egg Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6670.jpg",
+    "defaultImage": "X6670.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40049,
+    "code": "Market Basket Cole Slaw ",
+    "desc": "Market Basket Cole Slaw ",
+    "shortDesc": "Market Basket Cole Slaw ",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 1.74,
+      "discountPrice": 1.74
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "8 oz",
+    "UpcCode": "036217363201",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6618.jpg",
+    "defaultImage": "X6618.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40011,
+    "code": "Panera Bread Minestrone Soup with Chickpeas & Kale",
+    "desc": "Panera Bread Minestrone Soup with Chickpeas & Kale",
+    "shortDesc": "Panera Bread Minestrone Soup with Chickpeas & Kale",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958690508",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6580.jpg",
+    "defaultImage": "X6580.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40073,
+    "code": "UNO The Hand Crafted One Calzone Italian Meat",
+    "desc": "UNO The Hand Crafted One Calzone Italian Meat",
+    "shortDesc": "UNO The Hand Crafted One Calzone Italian Meat",
+    "tags": [
+      "Calzone"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "UNO",
+        "desc": "UNO"
+      }
+    ],
+    "price": {
+      "basePrice": 11.24,
+      "discountPrice": 11.24
+    },
+    "type": {
+      "code": "Calzone",
+      "desc": "Calzone"
+    },
+    "weight": "20 oz",
+    "UpcCode": "039528700048",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "20 oz",
+    "imageName": "X6642.jpg",
+    "defaultImage": "X6642.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40085,
+    "code": "Market Basket Spicy Tuna & Shrimp Tempuro Volcano Roll ",
+    "desc": "Market Basket Spicy Tuna & Shrimp Tempuro Volcano Roll ",
+    "shortDesc": "Market Basket Spicy Tuna & Shrimp Tempuro Volcano Roll ",
+    "tags": [
+      "Tuna Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 13.74,
+      "discountPrice": 13.74
+    },
+    "type": {
+      "code": "Tuna Sushi",
+      "desc": "Tuna Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6654.jpg",
+    "defaultImage": "X6654.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40094,
+    "code": "Market Basket Vegetable Roll ",
+    "desc": "Market Basket Vegetable Roll ",
+    "shortDesc": "Market Basket Vegetable Roll ",
+    "tags": [
+      "Vegetable Roll"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 6.86,
+      "discountPrice": 6.86
+    },
+    "type": {
+      "code": "Vegetable Roll",
+      "desc": "Vegetable Roll"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6663.jpg",
+    "defaultImage": "X6663.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40084,
+    "code": "Market Basket Rainbow Roll",
+    "desc": "Market Basket Rainbow Roll",
+    "shortDesc": "Market Basket Rainbow Roll",
+    "tags": [
+      "Rainbow Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 12.49,
+      "discountPrice": 12.49
+    },
+    "type": {
+      "code": "Rainbow Sushi",
+      "desc": "Rainbow Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6653.jpg",
+    "defaultImage": "X6653.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40040,
+    "code": "Market Basket Mediterranean Feast Hummus, Taboule, Grape Leaves",
+    "desc": "Market Basket Mediterranean Feast Hummus, Taboule, Grape Leaves",
+    "shortDesc": "Market Basket Mediterranean Feast Hummus, Taboule, Grape Leaves",
+    "tags": [
+      "Salad"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Salads",
+        "desc": "Salads"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Salad",
+      "desc": "Salad"
+    },
+    "weight": "10 oz",
+    "UpcCode": "060349070034",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10 oz",
+    "imageName": "X6609.jpg",
+    "defaultImage": "X6609.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40003,
+    "code": "Market Basket Haddock Chowder Large",
+    "desc": "Market Basket Haddock Chowder Large",
+    "shortDesc": "Market Basket Haddock Chowder Large",
+    "tags": [
+      "Chowder"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Chowder",
+        "desc": "Chowder"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 11.24,
+      "discountPrice": 11.24
+    },
+    "type": {
+      "code": "Chowder",
+      "desc": "Chowder"
+    },
+    "weight": "32 oz",
+    "UpcCode": "667978572573",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "32 oz",
+    "imageName": "X6572.jpg",
+    "defaultImage": "X6572.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40066,
+    "code": "Market Basket Chicken Breast Dinner W/Mashed Potato, Stuffing",
+    "desc": "Market Basket Chicken Breast Dinner W/Mashed Potato, Stuffing",
+    "shortDesc": "Market Basket Chicken Breast Dinner W/Mashed Potato, Stuffing",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1 pack",
+    "UpcCode": "206469105991",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1 pack",
+    "imageName": "X6635.jpg",
+    "defaultImage": "X6635.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40087,
+    "code": "Market Basket Spicy Tuna Volcano Roll ",
+    "desc": "Market Basket Spicy Tuna Volcano Roll ",
+    "shortDesc": "Market Basket Spicy Tuna Volcano Roll ",
+    "tags": [
+      "Tuna Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 13.74,
+      "discountPrice": 13.74
+    },
+    "type": {
+      "code": "Tuna Sushi",
+      "desc": "Tuna Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6656.jpg",
+    "defaultImage": "X6656.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40086,
+    "code": "Market Basket Chef Special Roll ",
+    "desc": "Market Basket Chef Special Roll ",
+    "shortDesc": "Market Basket Chef Special Roll ",
+    "tags": [
+      "Chef Special Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 14.99,
+      "discountPrice": 14.99
+    },
+    "type": {
+      "code": "Chef Special Sushi",
+      "desc": "Chef Special Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6655.jpg",
+    "defaultImage": "X6655.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40103,
+    "code": "Market Basket Spicy Tuna Roll ",
+    "desc": "Market Basket Spicy Tuna Roll ",
+    "shortDesc": "Market Basket Spicy Tuna Roll ",
+    "tags": [
+      "Tuna Sushi"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Sushi Corner",
+        "desc": "Sushi Corner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket ",
+        "desc": "Market Basket "
+      }
+    ],
+    "price": {
+      "basePrice": 8.74,
+      "discountPrice": 8.74
+    },
+    "type": {
+      "code": "Tuna Sushi",
+      "desc": "Tuna Sushi"
+    },
+    "weight": "1 Pack",
+    "UpcCode": "",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "22",
+    "store": "Market Basket",
+    "weightType": "1 Pack",
+    "imageName": "X6672.jpg",
+    "defaultImage": "X6672.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40010,
+    "code": "Panera Bread Turkey Sausage, Kale & Quinoa Soup",
+    "desc": "Panera Bread Turkey Sausage, Kale & Quinoa Soup",
+    "shortDesc": "Panera Bread Turkey Sausage, Kale & Quinoa Soup",
+    "tags": [
+      "Soup"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Soup",
+        "desc": "Soup"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Panera Bread",
+        "desc": "Panera Bread"
+      }
+    ],
+    "price": {
+      "basePrice": 5.74,
+      "discountPrice": 5.74
+    },
+    "type": {
+      "code": "Soup",
+      "desc": "Soup"
+    },
+    "weight": "16 oz",
+    "UpcCode": "077958688017",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6579.jpg",
+    "defaultImage": "X6579.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40022,
+    "code": "Market Basket Roasted Red Bliss Potatoes ",
+    "desc": "Market Basket Roasted Red Bliss Potatoes ",
+    "shortDesc": "Market Basket Roasted Red Bliss Potatoes ",
+    "tags": [
+      "Potatoes"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 3.74,
+      "discountPrice": 3.74
+    },
+    "type": {
+      "code": "Potatoes",
+      "desc": "Potatoes"
+    },
+    "weight": "12 oz",
+    "UpcCode": "036217254943",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6591.jpg",
+    "defaultImage": "X6591.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40032,
+    "code": "Market Basket Fully Cooked Teriyaki Wings Cold",
+    "desc": "Market Basket Fully Cooked Teriyaki Wings Cold",
+    "shortDesc": "Market Basket Fully Cooked Teriyaki Wings Cold",
+    "tags": [
+      "Chicken"
+    ],
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Lunch & Dinner",
+        "desc": "Lunch & Dinner"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Market Basket",
+        "desc": "Market Basket"
+      }
+    ],
+    "price": {
+      "basePrice": 14.41,
+      "discountPrice": 14.41
+    },
+    "type": {
+      "code": "Chicken",
+      "desc": "Chicken"
+    },
+    "weight": "1.54 lb",
+    "UpcCode": "207320911539",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.54 lb",
+    "imageName": "X6601.jpg",
+    "defaultImage": "X6601.jpg",
+    "updatedTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "createdTimestamp": "Mar 1, 2021 6:17:27 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  }
+]

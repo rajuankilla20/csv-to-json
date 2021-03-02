@@ -2,24 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsersJavaToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsersPwdMigrated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/UsersPwdResetDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/UserPwdResetUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/AllPoducts_shantanu.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/NoImagePoducts_shantanu.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/users-output/already-customer-reset-pwd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/users-output/new-customer-reset-pwd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/users-output/valid-customer-reset-pwd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/users/lname-null.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/users/ph-null.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/users/valid-customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/json/BrandsJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/json/CategoryJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/json/SubCategoryJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/ConvertJsonToJavaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weekly/upload/products/ProductsNewCatSubCats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/weekly/upload/products/WeeklyUploadProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/NewProducts 02_17_2021_CSV.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-brands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-sub-categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/weekly-new-products_02_17_2021.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJsonShatanu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/converters/ConvertJavaToJsonShatanu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/AllPoducts_shantanu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/AllPoducts_shantanu.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/NoImagePoducts_shantanu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/NoImagePoducts_shantanu.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,19 +59,21 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="util" />
-      <recent name="model" />
-      <recent name="" />
+      <recent name="weekly.upload.products" />
+      <recent name="model.json" />
       <recent name="model.gpod" />
+      <recent name="" />
+      <recent name="util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources\weekly-uploaded-products-input" />
       <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources" />
       <recent name="D:\projects\csv-json-proj\csv-to-json\src\main\resources\section-products-input" />
       <recent name="D:\projects\csv-to-json\src\main\resources" />
@@ -83,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuildFinalMigratedData">
+  <component name="RunManager" selected="Application.WeeklyUploadProducts">
     <configuration name="BuildFinalMigratedData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuildFinalMigratedData" />
       <module name="csv-to-json" />
@@ -104,15 +113,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilesUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FilesUtil" />
+    <configuration name="ConvertJsonToJavaUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.ConvertJsonToJavaUtil" />
       <module name="csv-to-json" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,20 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsersPwdMigrated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsersPwdMigrated" />
+    <configuration name="WeeklyUploadProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekly.upload.products.WeeklyUploadProducts" />
       <module name="csv-to-json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekly.upload.products.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BuildFinalMigratedData" />
-        <item itemvalue="Application.UsersPwdMigrated" />
+        <item itemvalue="Application.WeeklyUploadProducts" />
+        <item itemvalue="Application.ConvertJsonToJavaUtil" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BuildMerrimackData" />
-        <item itemvalue="Application.FilesUtil" />
+        <item itemvalue="Application.BuildFinalMigratedData" />
       </list>
     </recent_temporary>
   </component>
@@ -178,12 +187,31 @@
           <line>59</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java</url>
+          <line>117</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="row[4]" />
         <watch expression="sectionProductNamesSet.toArray()[1]" />
+        <watch expression="javaList" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

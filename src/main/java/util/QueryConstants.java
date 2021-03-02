@@ -2,7 +2,8 @@ package util;
 
 public class QueryConstants {
 
-    public static final String GET_ALL_CATEGORIES = "SELECT * FROM categories where p_cid=0";
+    public static final String GET_ALL_CATEGORIES = "SELECT * FROM categories w" +
+            "here p_cid=0";
     public static final String GET_ALL_SUB_CATEGORIES = "SELECT * FROM categories where p_cid!=0";
     public static final String GET_ALL_BRANDS = "SELECT * FROM brands";
     public static final String GET_ALL_PRODUCT_CATEGORY = "SELECT * FROM product_category";
@@ -49,6 +50,11 @@ public class QueryConstants {
 
     // Users pwd reset data
     public static final String USERS_PWD_RESET_VALID_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/users/valid-customers.csv";
+
+    // WEEKLY products upload
+    public static final String WEEKLY_NEW_PRODUCTS_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/weekly-uploaded-products-input/NewProducts 02_17_2021_CSV.csv";
+
+
 
 
 

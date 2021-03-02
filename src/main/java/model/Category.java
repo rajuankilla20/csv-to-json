@@ -7,6 +7,9 @@ public class Category {
     private String code;
     private String desc;
 
+    public Category() {
+    }
+
     public Category(String code, String desc) {
         this.code = code;
         this.desc = desc;

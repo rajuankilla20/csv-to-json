@@ -5,8 +5,7 @@ import model.Product;
 import model.SubCategory;
 import model.SubCategoryModel;
 
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.List;
 
 public class ConvertJavaToJson {
@@ -44,4 +43,5 @@ public class ConvertJavaToJson {
             e.printStackTrace();
         }
     }
+
 }
