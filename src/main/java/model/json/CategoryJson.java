@@ -1,6 +1,5 @@
 package model.json;
 
-import java.util.Date;
 import java.util.Objects;
 
 public class CategoryJson {
@@ -8,7 +7,6 @@ public class CategoryJson {
     private String desc;
     private String code;
     private String imageName;
-    private int productCateogryId;
     private String createdTimestamp;
     private String updatedTimestamp;
     private boolean isActive;
@@ -16,6 +14,15 @@ public class CategoryJson {
     public CategoryJson() {
     }
 
+    public CategoryJson(int id, String desc, String code, String imageName, String createdTimestamp, String updatedTimestamp, boolean isActive) {
+        this.id = id;
+        this.desc = desc;
+        this.code = code;
+        this.imageName = imageName;
+        this.createdTimestamp = createdTimestamp;
+        this.updatedTimestamp = updatedTimestamp;
+        this.isActive = isActive;
+    }
 
     public int getId() {
         return id;
@@ -49,14 +56,6 @@ public class CategoryJson {
         this.imageName = imageName;
     }
 
-    public int getProductCateogryId() {
-        return productCateogryId;
-    }
-
-    public void setProductCateogryId(int productCateogryId) {
-        this.productCateogryId = productCateogryId;
-    }
-
     public String getCreatedTimestamp() {
         return createdTimestamp;
     }
@@ -87,7 +86,6 @@ public class CategoryJson {
         if (o == null || getClass() != o.getClass()) return false;
         CategoryJson that = (CategoryJson) o;
         return id == that.id &&
-                productCateogryId == that.productCateogryId &&
                 isActive == that.isActive &&
                 Objects.equals(desc, that.desc) &&
                 Objects.equals(code, that.code) &&
@@ -98,7 +96,7 @@ public class CategoryJson {
 
     @Override
     public int hashCode() {
-        return Objects.hash(id, desc, code, imageName, productCateogryId, createdTimestamp, updatedTimestamp, isActive);
+        return Objects.hash(id, desc, code, imageName, createdTimestamp, updatedTimestamp, isActive);
     }
 
     @Override
@@ -108,7 +106,6 @@ public class CategoryJson {
                 ", desc='" + desc + '\'' +
                 ", code='" + code + '\'' +
                 ", imageName='" + imageName + '\'' +
-                ", productCateogryId=" + productCateogryId +
                 ", createdTimestamp=" + createdTimestamp +
                 ", updatedTimestamp=" + updatedTimestamp +
                 ", isActive=" + isActive +

@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/json/BrandsJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/json/CategoryJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/json/SubCategoryJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ConvertJsonToJavaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/weekly/upload/products/ProductsNewCatSubCats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/weekly/upload/products/WeeklyUploadProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/NewProducts 02_17_2021_CSV.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-brands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-sub-categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/weekly-new-products_02_17_2021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-brands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-sub-categories.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildFinalMigratedData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuildMerrimackData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConvertJavaToJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConvertJavaToJsonShatanu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/converters/ConvertJavaToJsonShatanu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaToExcelCSVConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/AllPoducts_shantanu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/AllPoducts_shantanu.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/NoImagePoducts_shantanu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/NoImagePoducts_shantanu.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shantanu-output/richardsons-form.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/json/CategoryJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/json/CategoryJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weekly/upload/products/ProductsNewCatSubCats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weekly/upload/products/WeeklyUploadProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weekly/upload/products/WeeklyUploadProducts.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,9 +184,14 @@
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/converters/ConvertJavaToJsonShatanu.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="65" />
+          <line>170</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

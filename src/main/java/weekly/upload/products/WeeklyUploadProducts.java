@@ -1,17 +1,14 @@
 package weekly.upload.products;
 
-import converters.ConvertJavaToJsonShatanu;
 import model.SectionProductDto;
 import model.gpod.BrandGpod;
 import model.gpod.ProductGpod;
 import model.gpod.SubCategoryGpod;
-import util.CustomProductsUtil;
 import util.QueryConstants;
 import util.WeeklyProdUploadUtil;
 
 import java.io.IOException;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class WeeklyUploadProducts {
 
@@ -51,13 +48,11 @@ public class WeeklyUploadProducts {
     public static void main(String[] args) throws IOException {
         System.out.println("Section products ");
 
-
         // Weekly new products
         WeeklyProdUploadUtil.buildProducts(QueryConstants.WEEKLY_NEW_PRODUCTS_CSV_FILE,weeklyNewProducts,true, 40000, false);
         System.out.println("----weekly products" + weeklyNewProducts.size());
-//        ConvertJavaToJsonShatanu.createJsonFile(weeklyNewProducts,"weekly-new-products"); // Done
 
-//        JavaToExcelCSVConverter.writeAllNoImageProducts(directProducts,"D:\\projects\\csv-json-proj\\csv-to-json\\src\\main\\resources\\shantanu-output\\AllPoducts_shantanu.csv");
+
      }
 }
 
