@@ -127,5 +127,23 @@
     "createdTimestamp": "Oct 17, 2020 6:16:19 PM",
     "updatedTimestamp": "Oct 17, 2020 6:16:19 PM",
     "isActive": true
+  },
+  {
+    "id": 14,
+    "desc": "Ready To Eat",
+    "code": "Ready To Eat",
+    "imageName": "",
+    "createdTimestamp": "Thu Mar 04 19:56:55 IST 2021",
+    "updatedTimestamp": "Thu Mar 04 19:56:55 IST 2021",
+    "isActive": true
+  },
+  {
+    "id": 15,
+    "desc": "Easter Specials",
+    "code": "Easter Specials",
+    "imageName": "",
+    "createdTimestamp": "Tue Mar 09 21:30:52 IST 2021",
+    "updatedTimestamp": "Tue Mar 09 21:30:52 IST 2021",
+    "isActive": true
   }
 ]

@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ad2f00-5edf-43c4-8893-c75bb0bd63e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-brands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-sub-categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/Products_03_08_2021_CSV.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/brands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/sub-categories.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/json/CategoryJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/json/CategoryJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/QueryConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/weekly/upload/products/ProductsNewCatSubCats.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/weekly/upload/products/WeeklyUploadProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weekly/upload/products/WeeklyUploadProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/NewProducts 02_17_2021_CSV.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-brands.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-brands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-sub-categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-input/production-sub-categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-brands.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/new-sub-categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/weekly-uploaded-products-output/weekly-new-products_02_17_2021.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,8 +199,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java</url>
-          <line>170</line>
-          <option name="timeStamp" value="70" />
+          <line>227</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/WeeklyProdUploadUtil.java</url>
+          <line>224</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

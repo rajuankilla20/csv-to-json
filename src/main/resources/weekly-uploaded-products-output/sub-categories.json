@@ -1,0 +1,17 @@
+[
+  {
+    "id": 78,
+    "code": "Candies",
+    "desc": "Candies",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM"
+  }
+]

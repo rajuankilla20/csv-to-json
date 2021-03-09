@@ -1,5 +1,6 @@
 package weekly.upload.products;
 
+import converters.ConvertJavaToJsonShatanu;
 import model.SectionProductDto;
 import model.gpod.BrandGpod;
 import model.gpod.ProductGpod;
@@ -42,6 +43,7 @@ public class WeeklyUploadProducts {
     public static Set<String> sectionProductNamesOnly = new HashSet<>();
 
 
+    public static  int PROD_SEQ_ID=40160;
 
     public static Set<ProductGpod> weeklyNewProducts = new HashSet<>();
 
@@ -49,8 +51,9 @@ public class WeeklyUploadProducts {
         System.out.println("Section products ");
 
         // Weekly new products
-        WeeklyProdUploadUtil.buildProducts(QueryConstants.WEEKLY_NEW_PRODUCTS_CSV_FILE,weeklyNewProducts,true, 40000, false);
-        System.out.println("----weekly products" + weeklyNewProducts.size());
+        WeeklyProdUploadUtil.buildProducts(QueryConstants.WEEKLY_NEW_PRODUCTS_CSV_FILE,weeklyNewProducts,true, PROD_SEQ_ID, false);
+        System.out.println("----weekly products : " + weeklyNewProducts.size());
+        ConvertJavaToJsonShatanu.createJsonFile(weeklyNewProducts,"new-products"); //
 
 
      }

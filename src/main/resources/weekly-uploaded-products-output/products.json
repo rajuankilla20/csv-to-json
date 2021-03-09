@@ -1,0 +1,2652 @@
+[
+  {
+    "id": 40108,
+    "code": "Brach's Speckled Jelly Bird Eggs Naturally Artificially Flavored ",
+    "desc": "Brach's Speckled Jelly Bird Eggs Naturally Artificially Flavored ",
+    "shortDesc": "Brach's Speckled Jelly Bird Eggs Naturally Artificially Flavored ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Brach's ",
+        "desc": "Brach's "
+      }
+    ],
+    "price": {
+      "basePrice": 1.99,
+      "discountPrice": 1.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "9 oz",
+    "UpcCode": "011300071362",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "9 oz",
+    "imageName": "X6704.jpg",
+    "defaultImage": "X6704.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40107,
+    "code": "Almondjoy Eggs Coconut & Almond Chocolate Candy Bar",
+    "desc": "Almondjoy Eggs Coconut & Almond Chocolate Candy Bar",
+    "shortDesc": "Almondjoy Eggs Coconut & Almond Chocolate Candy Bar",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Almond joy",
+        "desc": "Almond joy"
+      }
+    ],
+    "price": {
+      "basePrice": 6.29,
+      "discountPrice": 6.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "6.6 oz",
+    "UpcCode": "034000290208",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "6.6 oz",
+    "imageName": "X6707.jpg",
+    "defaultImage": "X6707.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40110,
+    "code": "Brach's Black Jelly Bird Eggs Naturally & Artificially Flavored ",
+    "desc": "Brach's Black Jelly Bird Eggs Naturally & Artificially Flavored ",
+    "shortDesc": "Brach's Black Jelly Bird Eggs Naturally & Artificially Flavored ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Brach's ",
+        "desc": "Brach's "
+      }
+    ],
+    "price": {
+      "basePrice": 1.99,
+      "discountPrice": 1.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "9 oz",
+    "UpcCode": "011300071096",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "9 oz",
+    "imageName": "X6706.jpg",
+    "defaultImage": "X6706.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40144,
+    "code": "Little Friends Hollow Milk Chocolate Bunny",
+    "desc": "Little Friends Hollow Milk Chocolate Bunny",
+    "shortDesc": "Little Friends Hollow Milk Chocolate Bunny",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Little Friends ",
+        "desc": "Little Friends "
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "1.5 oz",
+    "UpcCode": "041269406196",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.5 oz",
+    "imageName": "X6686.jpg",
+    "defaultImage": "X6686.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40113,
+    "code": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "desc": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "shortDesc": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Cadbury ",
+        "desc": "Cadbury "
+      }
+    ],
+    "price": {
+      "basePrice": 4.39,
+      "discountPrice": 4.39
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "10 oz",
+    "UpcCode": "034000056316",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10 oz",
+    "imageName": "X6716.jpg",
+    "defaultImage": "X6716.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40147,
+    "code": "M&M's MIlk Chocolate Egg",
+    "desc": "M&M's MIlk Chocolate Egg",
+    "shortDesc": "M&M's MIlk Chocolate Egg",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "M&M's",
+        "desc": "M&M's"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "0.93 oz",
+    "UpcCode": "040000497264",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.93 oz",
+    "imageName": "X6725.jpg",
+    "defaultImage": "X6725.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40151,
+    "code": "Reese's Peanut Butter Milk Chocolate Bunny",
+    "desc": "Reese's Peanut Butter Milk Chocolate Bunny",
+    "shortDesc": "Reese's Peanut Butter Milk Chocolate Bunny",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Reese's ",
+        "desc": "Reese's "
+      }
+    ],
+    "price": {
+      "basePrice": 16.29,
+      "discountPrice": 16.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "16 oz",
+    "UpcCode": "034000666607",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "16 oz",
+    "imageName": "X6685.jpg",
+    "defaultImage": "X6685.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40112,
+    "code": "Cadbury Mini Eggs Dark Chocolate With A Crisp Sugar Shell ",
+    "desc": "Cadbury Mini Eggs Dark Chocolate With A Crisp Sugar Shell ",
+    "shortDesc": "Cadbury Mini Eggs Dark Chocolate With A Crisp Sugar Shell ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Cadbury ",
+        "desc": "Cadbury "
+      }
+    ],
+    "price": {
+      "basePrice": 4.39,
+      "discountPrice": 4.39
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "10 oz",
+    "UpcCode": "034000056545",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10 oz",
+    "imageName": "X6715.jpg",
+    "defaultImage": "X6715.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40121,
+    "code": "Ferrero Rocher Eggs Chocolaty, Crips and Creamy ",
+    "desc": "Ferrero Rocher Eggs Chocolaty, Crips and Creamy ",
+    "shortDesc": "Ferrero Rocher Eggs Chocolaty, Crips and Creamy ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ferrero Rocher ",
+        "desc": "Ferrero Rocher "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.5 oz",
+    "UpcCode": "009800630127",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.5 oz",
+    "imageName": "X6728.jpg",
+    "defaultImage": "X6728.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40137,
+    "code": "Kinder Joy Sweet Cremeam Topped With Cocoa Wafer Bites ",
+    "desc": "Kinder Joy Sweet Cremeam Topped With Cocoa Wafer Bites ",
+    "shortDesc": "Kinder Joy Sweet Cremeam Topped With Cocoa Wafer Bites ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Kinder Joy ",
+        "desc": "Kinder Joy "
+      }
+    ],
+    "price": {
+      "basePrice": 1.89,
+      "discountPrice": 1.89
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "7 oz",
+    "UpcCode": "00985331",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "7 oz",
+    "imageName": "X6701.jpg",
+    "defaultImage": "X6701.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40146,
+    "code": "M&M's Mystery Mix Eggs Chocolate Candies ",
+    "desc": "M&M's Mystery Mix Eggs Chocolate Candies ",
+    "shortDesc": "M&M's Mystery Mix Eggs Chocolate Candies ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "M&M's",
+        "desc": "M&M's"
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "8 oz",
+    "UpcCode": "040000568315",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8 oz",
+    "imageName": "X6721.jpg",
+    "defaultImage": "X6721.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40142,
+    "code": "Lindt Mini Eggs Milk Chocolate Eggs With A Crisp Candy Shell",
+    "desc": "Lindt Mini Eggs Milk Chocolate Eggs With A Crisp Candy Shell",
+    "shortDesc": "Lindt Mini Eggs Milk Chocolate Eggs With A Crisp Candy Shell",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Lindt ",
+        "desc": "Lindt "
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.4 oz",
+    "UpcCode": "009542425685",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.4 oz",
+    "imageName": "X6700.jpg",
+    "defaultImage": "X6700.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40124,
+    "code": "Ghirardelli Milk Chocolate Caramel Bunnies ",
+    "desc": "Ghirardelli Milk Chocolate Caramel Bunnies ",
+    "shortDesc": "Ghirardelli Milk Chocolate Caramel Bunnies ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.14 oz",
+    "UpcCode": "747599322983",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.14 oz",
+    "imageName": "X6693.jpg",
+    "defaultImage": "X6693.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40154,
+    "code": "Robin Eggs Malted Milk Candy In A Crunchy Shell ",
+    "desc": "Robin Eggs Malted Milk Candy In A Crunchy Shell ",
+    "shortDesc": "Robin Eggs Malted Milk Candy In A Crunchy Shell ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Robin Eggs",
+        "desc": "Robin Eggs"
+      }
+    ],
+    "price": {
+      "basePrice": 2.49,
+      "discountPrice": 2.49
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "10 oz",
+    "UpcCode": "010700066114",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10 oz",
+    "imageName": "X6690.jpg",
+    "defaultImage": "X6690.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40131,
+    "code": "Hershey's Solid Milk Chocolate Bunny",
+    "desc": "Hershey's Solid Milk Chocolate Bunny",
+    "shortDesc": "Hershey's Solid Milk Chocolate Bunny",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Hershey's",
+        "desc": "Hershey's"
+      }
+    ],
+    "price": {
+      "basePrice": 12.49,
+      "discountPrice": 12.49
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "14 oz",
+    "UpcCode": "034000666966",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "14 oz",
+    "imageName": "X6684.jpg",
+    "defaultImage": "X6684.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40158,
+    "code": "York Egg Shaped Chocolate Covered Spearmint Patties ",
+    "desc": "York Egg Shaped Chocolate Covered Spearmint Patties ",
+    "shortDesc": "York Egg Shaped Chocolate Covered Spearmint Patties ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "York ",
+        "desc": "York "
+      }
+    ],
+    "price": {
+      "basePrice": 4.39,
+      "discountPrice": 4.39
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "11 oz",
+    "UpcCode": "034000030781",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "11 oz",
+    "imageName": "X6682.jpg",
+    "defaultImage": "X6682.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40136,
+    "code": "Kinder Milk Chocolate Figure With Creamy Milk Layer Inside ",
+    "desc": "Kinder Milk Chocolate Figure With Creamy Milk Layer Inside ",
+    "shortDesc": "Kinder Milk Chocolate Figure With Creamy Milk Layer Inside ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Kinder Joy ",
+        "desc": "Kinder Joy "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.1 oz",
+    "UpcCode": "009800520107",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.1 oz",
+    "imageName": "X6702.jpg",
+    "defaultImage": "X6702.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40153,
+    "code": "Reese's Peanut Butter Eggs ",
+    "desc": "Reese's Peanut Butter Eggs ",
+    "shortDesc": "Reese's Peanut Butter Eggs ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Reese's ",
+        "desc": "Reese's "
+      }
+    ],
+    "price": {
+      "basePrice": 5.89,
+      "discountPrice": 5.89
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "7.2 oz",
+    "UpcCode": "034000476039",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "7.2 oz",
+    "imageName": "X6689.jpg",
+    "defaultImage": "X6689.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40116,
+    "code": "Cadbury Cream Egg Milk Chocolate Eggs With Soft Fondant  Center ",
+    "desc": "Cadbury Cream Egg Milk Chocolate Eggs With Soft Fondant  Center ",
+    "shortDesc": "Cadbury Cream Egg Milk Chocolate Eggs With Soft Fondant  Center ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Cadbury ",
+        "desc": "Cadbury "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.8 oz",
+    "UpcCode": "034000011452",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.8 oz",
+    "imageName": "X6719.jpg",
+    "defaultImage": "X6719.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40145,
+    "code": "M&M's Eggs Chocolate Candies ",
+    "desc": "M&M's Eggs Chocolate Candies ",
+    "shortDesc": "M&M's Eggs Chocolate Candies ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "M&M's",
+        "desc": "M&M's"
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "10.13 oz",
+    "UpcCode": "040000553878",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10.13 oz",
+    "imageName": "X6720.jpg",
+    "defaultImage": "X6720.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40156,
+    "code": "Tic Tac Artificially Flavored Mints, Easter Special",
+    "desc": "Tic Tac Artificially Flavored Mints, Easter Special",
+    "shortDesc": "Tic Tac Artificially Flavored Mints, Easter Special",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Tic Tac ",
+        "desc": "Tic Tac "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "2.9 oz",
+    "UpcCode": "009800005918",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "2.9 oz",
+    "imageName": "X6709.jpg",
+    "defaultImage": "X6709.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40159,
+    "code": "Zachary Chocolate Covered Marsmallow Eggs",
+    "desc": "Zachary Chocolate Covered Marsmallow Eggs",
+    "shortDesc": "Zachary Chocolate Covered Marsmallow Eggs",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Zachary ",
+        "desc": "Zachary "
+      }
+    ],
+    "price": {
+      "basePrice": 1.49,
+      "discountPrice": 1.49
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "5 oz",
+    "UpcCode": "075186157978",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "5 oz",
+    "imageName": "X6711.jpg",
+    "defaultImage": "X6711.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40150,
+    "code": "Reese's Peanut Butter Eggs ",
+    "desc": "Reese's Peanut Butter Eggs ",
+    "shortDesc": "Reese's Peanut Butter Eggs ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Reese's ",
+        "desc": "Reese's "
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "10.8 oz",
+    "UpcCode": "034000475814",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10.8 oz",
+    "imageName": "X6678.jpg",
+    "defaultImage": "X6678.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40155,
+    "code": "Russell Stover Milk Chocolate Bunny",
+    "desc": "Russell Stover Milk Chocolate Bunny",
+    "shortDesc": "Russell Stover Milk Chocolate Bunny",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Russell Stover ",
+        "desc": "Russell Stover "
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "1.5 oz",
+    "UpcCode": "077260008428",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.5 oz",
+    "imageName": "X6726.jpg",
+    "defaultImage": "X6726.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40141,
+    "code": "Lindt Gold Bunny Milk Chocolate ",
+    "desc": "Lindt Gold Bunny Milk Chocolate ",
+    "shortDesc": "Lindt Gold Bunny Milk Chocolate ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Lindt ",
+        "desc": "Lindt "
+      }
+    ],
+    "price": {
+      "basePrice": 8.19,
+      "discountPrice": 8.19
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "7 oz",
+    "UpcCode": "037466017297",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "7 oz",
+    "imageName": "X6681.jpg",
+    "defaultImage": "X6681.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40157,
+    "code": "Assorted Candies Twix, 3 Musketeers, Milky Way, Snicker's & m&m's Great For Eggs Hunts",
+    "desc": "Assorted Candies Twix, 3 Musketeers, Milky Way, Snicker's & m&m's Great For Eggs Hunts",
+    "shortDesc": "Assorted Candies Twix, 3 Musketeers, Milky Way, Snicker's & m&m's Great For Eggs Hunts",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Twix ",
+        "desc": "Twix "
+      }
+    ],
+    "price": {
+      "basePrice": 13.79,
+      "discountPrice": 13.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "100 pc bag",
+    "UpcCode": "040000555698",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "100 pc bag",
+    "imageName": "X6712.jpg",
+    "defaultImage": "X6712.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40140,
+    "code": "Lindt Gold Bunny Dark Chocolate ",
+    "desc": "Lindt Gold Bunny Dark Chocolate ",
+    "shortDesc": "Lindt Gold Bunny Dark Chocolate ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Lindt ",
+        "desc": "Lindt "
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.5 oz",
+    "UpcCode": "037466014685",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.5 oz",
+    "imageName": "X6680.jpg",
+    "defaultImage": "X6680.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40127,
+    "code": "Ghirardelli Dark Chocolate Sea Salt Caramel Eggs",
+    "desc": "Ghirardelli Dark Chocolate Sea Salt Caramel Eggs",
+    "shortDesc": "Ghirardelli Dark Chocolate Sea Salt Caramel Eggs",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.1 oz",
+    "UpcCode": "747599410284",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.1 oz",
+    "imageName": "X6696.jpg",
+    "defaultImage": "X6696.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40132,
+    "code": "Hershey's Milk Chocolate Egg",
+    "desc": "Hershey's Milk Chocolate Egg",
+    "shortDesc": "Hershey's Milk Chocolate Egg",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Hershey's",
+        "desc": "Hershey's"
+      }
+    ],
+    "price": {
+      "basePrice": 4.39,
+      "discountPrice": 4.39
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "10 oz",
+    "UpcCode": "034000189946",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "10 oz",
+    "imageName": "X6691.jpg",
+    "defaultImage": "X6691.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40134,
+    "code": "Junior Mints Eggs Creamy Egg-Shaped Mints in Dark Chocolate ",
+    "desc": "Junior Mints Eggs Creamy Egg-Shaped Mints in Dark Chocolate ",
+    "shortDesc": "Junior Mints Eggs Creamy Egg-Shaped Mints in Dark Chocolate ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Junior Mints",
+        "desc": "Junior Mints"
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.5 oz",
+    "UpcCode": "071720539774",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.5 oz",
+    "imageName": "X6713.jpg",
+    "defaultImage": "X6713.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40135,
+    "code": "Kinder Chocolate Mini Eggs Creamy Milk Filling",
+    "desc": "Kinder Chocolate Mini Eggs Creamy Milk Filling",
+    "shortDesc": "Kinder Chocolate Mini Eggs Creamy Milk Filling",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Kinder Joy ",
+        "desc": "Kinder Joy "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.5 oz",
+    "UpcCode": "009800520091",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.5 oz",
+    "imageName": "X6703.jpg",
+    "defaultImage": "X6703.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40138,
+    "code": "Lindt Lindor Irresistibly Smooth Assorted Chocolate Truffle Eggs",
+    "desc": "Lindt Lindor Irresistibly Smooth Assorted Chocolate Truffle Eggs",
+    "shortDesc": "Lindt Lindor Irresistibly Smooth Assorted Chocolate Truffle Eggs",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Lindt",
+        "desc": "Lindt"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.4 oz",
+    "UpcCode": "009542030407",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.4 oz",
+    "imageName": "X6699.jpg",
+    "defaultImage": "X6699.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40114,
+    "code": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "desc": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "shortDesc": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Cadbury ",
+        "desc": "Cadbury "
+      }
+    ],
+    "price": {
+      "basePrice": 7.49,
+      "discountPrice": 7.49
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "18 oz",
+    "UpcCode": "034000067138",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "18 oz",
+    "imageName": "X6717.jpg",
+    "defaultImage": "X6717.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40122,
+    "code": "Ghirardelli Milk Chocolate Caramel Bunnies ",
+    "desc": "Ghirardelli Milk Chocolate Caramel Bunnies ",
+    "shortDesc": "Ghirardelli Milk Chocolate Caramel Bunnies ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "0.6 oz",
+    "UpcCode": "747599401251",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "0.6 oz",
+    "imageName": "X6687.jpg",
+    "defaultImage": "X6687.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40120,
+    "code": "Ferrero Rocher Hollow Milk Chocolate And Hazelnut Squirrel",
+    "desc": "Ferrero Rocher Hollow Milk Chocolate And Hazelnut Squirrel",
+    "shortDesc": "Ferrero Rocher Hollow Milk Chocolate And Hazelnut Squirrel",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ferrero Rocher ",
+        "desc": "Ferrero Rocher "
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.1 oz",
+    "UpcCode": "009800120116",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.1 oz",
+    "imageName": "X6723.jpg",
+    "defaultImage": "X6723.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40148,
+    "code": "Pops Tootsie Filled With Chewy Tootsie Roll Assorted Gluten Free Peanut Free",
+    "desc": "Pops Tootsie Filled With Chewy Tootsie Roll Assorted Gluten Free Peanut Free",
+    "shortDesc": "Pops Tootsie Filled With Chewy Tootsie Roll Assorted Gluten Free Peanut Free",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Tootsie",
+        "desc": "Tootsie"
+      }
+    ],
+    "price": {
+      "basePrice": 5.39,
+      "discountPrice": 5.39
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "8.1 oz",
+    "UpcCode": "071720037393",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "8.1 oz",
+    "imageName": "X6722.jpg",
+    "defaultImage": "X6722.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40123,
+    "code": "Ghirardelli Milk Chocolate Bunny ",
+    "desc": "Ghirardelli Milk Chocolate Bunny ",
+    "shortDesc": "Ghirardelli Milk Chocolate Bunny ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.5 oz",
+    "UpcCode": "747599323652",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.5 oz",
+    "imageName": "X6692.jpg",
+    "defaultImage": "X6692.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40149,
+    "code": "Reese's Peanut Butter Bunny ",
+    "desc": "Reese's Peanut Butter Bunny ",
+    "shortDesc": "Reese's Peanut Butter Bunny ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Reese's ",
+        "desc": "Reese's "
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.25 oz",
+    "UpcCode": "034000215669",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.25 oz",
+    "imageName": "X6676.jpg",
+    "defaultImage": "X6676.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40129,
+    "code": "Ghirardelli Dark Chocolate Sea Salt Caramel Eggs",
+    "desc": "Ghirardelli Dark Chocolate Sea Salt Caramel Eggs",
+    "shortDesc": "Ghirardelli Dark Chocolate Sea Salt Caramel Eggs",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "747599410321",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "X6698.jpg",
+    "defaultImage": "X6698.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40125,
+    "code": "Ghirardelli Dark Chocolate Sea Salt Caramel Bunnies ",
+    "desc": "Ghirardelli Dark Chocolate Sea Salt Caramel Bunnies ",
+    "shortDesc": "Ghirardelli Dark Chocolate Sea Salt Caramel Bunnies ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.1 oz",
+    "UpcCode": "747599400476",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.1 oz",
+    "imageName": "X6694.jpg",
+    "defaultImage": "X6694.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40117,
+    "code": "Crunch Creamy Chocolate Solid Bunny With Crisped Rice",
+    "desc": "Crunch Creamy Chocolate Solid Bunny With Crisped Rice",
+    "shortDesc": "Crunch Creamy Chocolate Solid Bunny With Crisped Rice",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Crunch ",
+        "desc": "Crunch "
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.5 oz",
+    "UpcCode": "099900721269",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.5 oz",
+    "imageName": "X6677.jpg",
+    "defaultImage": "X6677.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40130,
+    "code": "Ghirardelli Milk Chocolate Bunny And Eggs ",
+    "desc": "Ghirardelli Milk Chocolate Bunny And Eggs ",
+    "shortDesc": "Ghirardelli Milk Chocolate Bunny And Eggs ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 11.29,
+      "discountPrice": 11.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "13.8 oz",
+    "UpcCode": "747599404788",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "13.8 oz",
+    "imageName": "X6724.jpg",
+    "defaultImage": "X6724.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40139,
+    "code": "Lindt Milk Chocolate Chick",
+    "desc": "Lindt Milk Chocolate Chick",
+    "shortDesc": "Lindt Milk Chocolate Chick",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Lindt ",
+        "desc": "Lindt "
+      }
+    ],
+    "price": {
+      "basePrice": 4.36,
+      "discountPrice": 4.36
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.5 oz",
+    "UpcCode": "009542016739",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.5 oz",
+    "imageName": "X6679.jpg",
+    "defaultImage": "X6679.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40152,
+    "code": "Reese's Peanut Butter Creme Egg",
+    "desc": "Reese's Peanut Butter Creme Egg",
+    "shortDesc": "Reese's Peanut Butter Creme Egg",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Reese's ",
+        "desc": "Reese's "
+      }
+    ],
+    "price": {
+      "basePrice": 4.39,
+      "discountPrice": 4.39
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4 x 1.2 oz",
+    "UpcCode": "034000012633",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4 x 1.2 oz",
+    "imageName": "X6688.jpg",
+    "defaultImage": "X6688.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40128,
+    "code": "Ghirardelli Chocolate Caramel Bunnies ",
+    "desc": "Ghirardelli Chocolate Caramel Bunnies ",
+    "shortDesc": "Ghirardelli Chocolate Caramel Bunnies ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "1.7 oz",
+    "UpcCode": "747599323676",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "1.7 oz",
+    "imageName": "X6697.jpg",
+    "defaultImage": "X6697.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40143,
+    "code": "Lindt Lindor Irresistibly Smooth Milk Chockolate Truffle Eggs ",
+    "desc": "Lindt Lindor Irresistibly Smooth Milk Chockolate Truffle Eggs ",
+    "shortDesc": "Lindt Lindor Irresistibly Smooth Milk Chockolate Truffle Eggs ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Lindt",
+        "desc": "Lindt"
+      }
+    ],
+    "price": {
+      "basePrice": 5.69,
+      "discountPrice": 5.69
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "5.9 oz",
+    "UpcCode": "009542023782",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "5.9 oz",
+    "imageName": "X6683.jpg",
+    "defaultImage": "X6683.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40111,
+    "code": "Brach's Milk Chocolate Covered Marshmallow Bunny ",
+    "desc": "Brach's Milk Chocolate Covered Marshmallow Bunny ",
+    "shortDesc": "Brach's Milk Chocolate Covered Marshmallow Bunny ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Brach's ",
+        "desc": "Brach's "
+      }
+    ],
+    "price": {
+      "basePrice": 3.19,
+      "discountPrice": 3.19
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "3.1 oz",
+    "UpcCode": "011300078163",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "3.1 oz",
+    "imageName": "X6708.jpg",
+    "defaultImage": "X6708.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40118,
+    "code": "Dots Easter Assorted Fruit Flavored Gumdrops ",
+    "desc": "Dots Easter Assorted Fruit Flavored Gumdrops ",
+    "shortDesc": "Dots Easter Assorted Fruit Flavored Gumdrops ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Dots ",
+        "desc": "Dots "
+      }
+    ],
+    "price": {
+      "basePrice": 1.29,
+      "discountPrice": 1.29
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "6 oz",
+    "UpcCode": "071720085035",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "6 oz",
+    "imageName": "X6714.jpg",
+    "defaultImage": "X6714.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40109,
+    "code": "Brach's Classic Jelly Bird Eggs Naturally Artificially Flavored ",
+    "desc": "Brach's Classic Jelly Bird Eggs Naturally Artificially Flavored ",
+    "shortDesc": "Brach's Classic Jelly Bird Eggs Naturally Artificially Flavored ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Brach's ",
+        "desc": "Brach's "
+      }
+    ],
+    "price": {
+      "basePrice": 1.99,
+      "discountPrice": 1.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "9 oz",
+    "UpcCode": "011300071447",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "9 oz",
+    "imageName": "X6705.jpg",
+    "defaultImage": "X6705.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40126,
+    "code": "Ghirardelli Milk Chocolate Caramel Eggs",
+    "desc": "Ghirardelli Milk Chocolate Caramel Eggs",
+    "shortDesc": "Ghirardelli Milk Chocolate Caramel Eggs",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Ghirardelli ",
+        "desc": "Ghirardelli "
+      }
+    ],
+    "price": {
+      "basePrice": 3.79,
+      "discountPrice": 3.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.1 oz",
+    "UpcCode": "747599403590",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.1 oz",
+    "imageName": "X6695.jpg",
+    "defaultImage": "X6695.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40119,
+    "code": "Dove Solid Milk Chocolate Bunny ",
+    "desc": "Dove Solid Milk Chocolate Bunny ",
+    "shortDesc": "Dove Solid Milk Chocolate Bunny ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Dove",
+        "desc": "Dove"
+      }
+    ],
+    "price": {
+      "basePrice": 12.49,
+      "discountPrice": 12.49
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "12 oz",
+    "UpcCode": "040000505662",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "12 oz",
+    "imageName": "X6710.jpg",
+    "defaultImage": "X6710.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40115,
+    "code": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "desc": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "shortDesc": "Cadbury Mini Eggs Milk Chocolate With A Crisp Sugar Shell ",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Cadbury ",
+        "desc": "Cadbury "
+      }
+    ],
+    "price": {
+      "basePrice": 13.79,
+      "discountPrice": 13.79
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "31 oz",
+    "UpcCode": "034000056644",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "31 oz",
+    "imageName": "X6718.jpg",
+    "defaultImage": "X6718.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  },
+  {
+    "id": 40133,
+    "code": "Hershey's Solid Milk Chocolate Bunny",
+    "desc": "Hershey's Solid Milk Chocolate Bunny",
+    "shortDesc": "Hershey's Solid Milk Chocolate Bunny",
+    "tags": [
+      "Easter Specials"
+    ],
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "subCategories": [
+      {
+        "code": "Candies",
+        "desc": "Candies"
+      }
+    ],
+    "brands": [
+      {
+        "code": "Hershey's",
+        "desc": "Hershey's"
+      }
+    ],
+    "price": {
+      "basePrice": 4.99,
+      "discountPrice": 4.99
+    },
+    "type": {
+      "code": "Easter Specials",
+      "desc": "Easter Specials"
+    },
+    "weight": "4.25 oz",
+    "UpcCode": "034000215676",
+    "tax": 0.0,
+    "spiceLevel": "",
+    "aiselNo": "0",
+    "store": "Market Basket",
+    "weightType": "4.25 oz",
+    "imageName": "X6727.jpg",
+    "defaultImage": "X6727.jpg",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "isNewlyAdded": false,
+    "isActive": true,
+    "isDealsEnabled": false,
+    "quantity": 0
+  }
+]

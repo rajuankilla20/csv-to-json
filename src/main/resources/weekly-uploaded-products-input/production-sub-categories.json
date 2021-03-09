@@ -1078,5 +1078,110 @@
     "isActive": true,
     "createdTimestamp": "Jan 23, 2021 3:47:37 PM",
     "updatedTimestamp": "Jan 23, 2021 3:47:37 PM"
+  },
+  {
+    "id": 73,
+    "code": "Chowder",
+    "desc": "Chowder",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 4, 2021 7:56:55 PM",
+    "updatedTimestamp": "Mar 4, 2021 7:56:55 PM"
+  },
+  {
+    "id": 75,
+    "code": "Lunch & Dinner",
+    "desc": "Lunch & Dinner",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 4, 2021 7:56:55 PM",
+    "updatedTimestamp": "Mar 4, 2021 7:56:55 PM"
+  },
+  {
+    "id": 76,
+    "code": "Salads",
+    "desc": "Salads",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 4, 2021 7:56:55 PM",
+    "updatedTimestamp": "Mar 4, 2021 7:56:55 PM"
+  },
+  {
+    "id": 78,
+    "code": "Sushi Corner",
+    "desc": "Sushi Corner",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 4, 2021 7:56:55 PM",
+    "updatedTimestamp": "Mar 4, 2021 7:56:55 PM"
+  },
+  {
+    "id": 74,
+    "code": "Soup",
+    "desc": "Soup",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 4, 2021 7:56:55 PM",
+    "updatedTimestamp": "Mar 4, 2021 7:56:55 PM"
+  },
+  {
+    "id": 77,
+    "code": "Pasta",
+    "desc": "Pasta",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Ready To Eat",
+        "desc": "Ready To Eat"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 4, 2021 7:56:55 PM",
+    "updatedTimestamp": "Mar 4, 2021 7:56:55 PM"
+  },
+  {
+    "id": 78,
+    "code": "Candies",
+    "desc": "Candies",
+    "imageName": "",
+    "categories": [
+      {
+        "code": "Easter Specials",
+        "desc": "Easter Specials"
+      }
+    ],
+    "isActive": true,
+    "createdTimestamp": "Mar 9, 2021 9:30:52 PM",
+    "updatedTimestamp": "Mar 9, 2021 9:30:52 PM"
   }
 ]

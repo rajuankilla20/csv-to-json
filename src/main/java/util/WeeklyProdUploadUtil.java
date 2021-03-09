@@ -36,9 +36,9 @@ public class WeeklyProdUploadUtil {
     public static Set<SubCategoryGpod> newSubCategoriesSet = new HashSet<>();
     public static Set<BrandGpod> newBrandsSet = new HashSet<>();
 
-    public static int categorySeqId = 13;
-    public static int subCategorySeqId = 72;
-    public static int brandsSeqId = 3848;
+    public static int categorySeqId = 15;
+    public static int subCategorySeqId = 78;
+    public static int brandsSeqId = 3856;
 
 
     //    public static Set<String> categoriesMasterList = new HashSet<>(Arrays.asList("Chips, Cookies & Snacks","Beverages & Juices","Pasta & Sauces","Condiments & Dressings","Cooking Needs","Frozen Food","Fresh Produce","Breakfast & Dairy","Laundry & Paper Goods","Kitchen & Cleaning","Meat & Seafood","Personal Care","Richardson's Farm Ice Cream"));
@@ -59,14 +59,14 @@ public class WeeklyProdUploadUtil {
                 Reader reader = Files.newBufferedReader(Paths.get(fileName), StandardCharsets.ISO_8859_1);
                 CSVReader csvReader = new CSVReader(reader);
         ) {
-            Set<String> existingImages = null;//getExistingImages();
+            Set<String> existingImages = null;
 
             // Reading Records One by One in a String array
             // to avoid header
             csvReader.readNext();
             String[] row;
             while ((row = csvReader.readNext()) != null) {
-                productsSet.add(prepareProduct(row, sizeMixed, productIdSeq++, productIdExist));
+                productsSet.add(prepareProduct(row, sizeMixed, ++productIdSeq, productIdExist));
             }
         }
 
@@ -83,15 +83,15 @@ public class WeeklyProdUploadUtil {
 
     private static void printNewCatSubCatAndBrands() {
         if(newCategoriesSet.size()>0){
-            System.out.println("---found new categorires");
+            System.out.println("---found new categories: " + newCategoriesSet.size());
         }
 
         if(newSubCategoriesSet.size()>0){
-            System.out.println("---found new sub categories");
+            System.out.println("---found new sub-categories: " +newSubCategoriesSet.size() );
         }
 
         if(newBrandsSet.size()>0){
-            System.out.println("---found new brands");
+            System.out.println("---found new brands: " + newBrandsSet.size());
         }
 
         ConvertJavaToJsonShatanu.createJsonFile(newCategoriesSet,"new-categories"); // Done
@@ -112,7 +112,7 @@ public class WeeklyProdUploadUtil {
         categoriesSet.forEach(categoryJson -> prodCatList.add(categoryJson.getDesc()));
         // SubCategory(subCategory, category)
 
-        subCategoriesSet.forEach(subCategoryJson -> prodSubCatList.add(new SubCategory(subCategoryJson.getDesc(), subCategoryJson.getCategories().get(0).getDesc())));
+        subCategoriesSet.forEach(subCategoryJson -> prodSubCatList.add(new SubCategory(subCategoryJson.getCategories().get(0).getDesc(),subCategoryJson.getDesc())));
         brandsSet.forEach(brandsJson -> prodBrandsList.add(brandsJson.getDesc()));
 
         System.out.println("------");
@@ -156,8 +156,9 @@ public class WeeklyProdUploadUtil {
         SubCategory subCategory = new SubCategory(row[1],row[2]);
 
         if (!prodSubCatList.contains(subCategory)) {
-            if(!isSubCategoryFound(row[1],row[2]))
-                    newSubCategoriesSet.add(buildSubCategory(row[1], row[2]));
+            if(!isSubCategoryFound(row[1],row[2])){
+                newSubCategoriesSet.add(buildSubCategory(row[1], row[2]));
+            }
         }
 
         p.getSubCategories().add(new SubCategory(row[2], row[2])); // 2- sub-category
@@ -169,7 +170,7 @@ public class WeeklyProdUploadUtil {
          String brand = row[4].trim();
         if(!prodBrandsList.contains(brand)) {
             if(!isBrandsFound(brand)){
-                int brandId = brandsSeqId + 1;
+                int brandId = ++brandsSeqId;
                 //weeklyProductInventory.setBrandsSeqId(brandId);
                newBrandsSet.add(new BrandGpod(brandId,brand,brand,"NULL",true,new Date(),new Date()));
             }
@@ -209,7 +210,7 @@ public class WeeklyProdUploadUtil {
     }
 
     public static CategoryJson buildCategoryGop(String categoryName) {
-        int categoryId = categorySeqId + 1;
+        int categoryId = ++categorySeqId;
 //        categorySeqId(categoryId);
         //int id, String desc, String code, String imageName, String createdTimestamp, String updatedTimestamp, boolean isActive
 
@@ -221,7 +222,7 @@ public class WeeklyProdUploadUtil {
 
         SubCategoryGpod subCategoryGpod = new SubCategoryGpod();
 
-        int subCategoryId = subCategorySeqId + 1;
+        int subCategoryId = ++subCategorySeqId;
 //        subCategorySeqId(subCategoryId);
 
         subCategoryGpod.setId(subCategoryId);
@@ -239,7 +240,7 @@ public class WeeklyProdUploadUtil {
     public static boolean isSubCategoryFound(String category,String subCategory){
         boolean found=false;
         for(SubCategoryGpod subCategoryGpod  : newSubCategoriesSet) {
-            if(subCategoryGpod.getCode().equalsIgnoreCase(category) && subCategoryGpod.getDesc().equalsIgnoreCase(subCategory)){
+            if(subCategoryGpod.getCategories().get(0).getCode().equalsIgnoreCase(category) && subCategoryGpod.getDesc().equalsIgnoreCase(subCategory)){
                 found=true;
                 break;
             }
@@ -261,7 +262,7 @@ public class WeeklyProdUploadUtil {
     public static boolean isBrandsFound(String brand){
         boolean found=false;
         for(BrandGpod brandGpod  : newBrandsSet) {
-            if(brandGpod.getCode().equalsIgnoreCase(brand) && brandGpod.getDesc().equalsIgnoreCase(brand)){
+            if(brandGpod.getDesc().equalsIgnoreCase(brand)){
                 found=true;
                 break;
             }

@@ -52,7 +52,7 @@ public class QueryConstants {
     public static final String USERS_PWD_RESET_VALID_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/users/valid-customers.csv";
 
     // WEEKLY products upload
-    public static final String WEEKLY_NEW_PRODUCTS_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/weekly-uploaded-products-input/NewProducts 02_17_2021_CSV.csv";
+    public static final String WEEKLY_NEW_PRODUCTS_CSV_FILE =  "D:/projects/csv-json-proj/csv-to-json/src/main/resources/weekly-uploaded-products-input/Products_03_08_2021_CSV.csv";
 
 
 
